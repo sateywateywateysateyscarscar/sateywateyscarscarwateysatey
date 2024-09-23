@@ -1,0 +1,58 @@
+[
+  {
+    "sUrl": "https://www.twitch.tv/",
+    "sUsername": "aaaaaaaaaaaaaaatyg",
+    "sPassword": "01302013Harry!",
+    "Target": null,
+    "type": "Chrome"
+  },
+  {
+    "sUrl": "https://www.facebook.com/login/web/",
+    "sUsername": "6023676756",
+    "sPassword": "01302013Harry",
+    "Target": null,
+    "type": "Chrome"
+  },
+  {
+    "sUrl": "https://www.nicehash.com/my/register",
+    "sUsername": "harrysmithlin@iclod.com",
+    "sPassword": "01302013Harry $",
+    "Target": null,
+    "type": "Chrome"
+  },
+  {
+    "sUrl": "https://www.roblox.com/login",
+    "sUsername": "ghcvfdg",
+    "sPassword": "Cheese01302013",
+    "Target": null,
+    "type": "Chrome"
+  },
+  {
+    "sUrl": "https://www.facebook.com/recover/password/",
+    "sUsername": "6023676756",
+    "sPassword": "01302013Harry",
+    "Target": null,
+    "type": "Chrome"
+  },
+  {
+    "sUrl": "https://www.roblox.com/login",
+    "sUsername": "hambergerbbb",
+    "sPassword": "01302013",
+    "Target": null,
+    "type": "Chrome"
+  },
+  {
+    "sUrl": "https://www.facebook.com/reg/",
+    "sUsername": "harrysmithlin@outlook.com",
+    "sPassword": "01302013Harry",
+    "Target": null,
+    "type": "Chrome"
+  },
+  {
+    "sUrl": "https://www.facebook.com/",
+    "sUsername": "6023676756",
+    "sPassword": "01302013Harry",
+    "Target": null,
+    "type": "Chrome"
+  }
+]
