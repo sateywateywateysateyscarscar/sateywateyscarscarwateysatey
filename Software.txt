@@ -1,0 +1,40 @@
+Driver Booster 11
+Google Chrome
+Kaspersky
+Kaspersky VPN
+Kaspersky Password Manager
+Microsoft Edge
+Microsoft Edge Update
+Microsoft Edge WebView2 Runtime
+MTA:SA v1.6.0
+Native Instruments Kontakt 7
+Native Instruments NTKDaemon
+OpenAL
+Rainmeter
+Steam
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+Microsoft .NET Runtime - 6.0.26 (x86)
+Microsoft Windows Desktop Runtime - 6.0.26 (x86)
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+Microsoft Windows Desktop Runtime - 6.0.26 (x86)
+Kaspersky
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532
+Kaspersky VPN
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.40.33810
+Microsoft Visual C++ 2005 Redistributable
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Microsoft .NET Host FX Resolver - 6.0.26 (x86)
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532
+Microsoft .NET Host - 6.0.26 (x86)
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+Microsoft XNA Framework Redistributable 4.0 Refresh
+Kaspersky Password Manager
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Intel(R) Processor Graphics

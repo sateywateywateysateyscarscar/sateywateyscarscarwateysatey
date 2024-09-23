@@ -1,0 +1,40 @@
+# Buy now: TG @lummanowork
+- LummaC2 Build: Jul 16 2024
+@SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+- Configuration: 
+- Path: C:\Windows\Microsoft.NET\Framework\v4.0.30319\AddInProcess32.exe
+
+- OS Version: Windows 10 Home (10.0.19045) x64
+- Local Date: 18.07.2024 18:36:58
+- Time Zone: UTC-3
+- Install Date: 12.07.2024 14:48:37
+- Computer: DESKTOP-HDBEEIR
+- User: CQP_Adm
+- Domain: 
+- Hostname: DESKTOP-HDBEEIR
+- NetBIOS: DESKTOP-HDBEEIR
+- Language: pt-BR
+- Anti Virus:
+	- Windows Defender [ON]
+- HWID: 3574E16666365A915A60CB282FDB0BDB
+- RAM Size: 8192MB
+- CPU Vendor: GenuineIntel
+- CPU Name: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+- CPU Threads: 4
+- CPU Cores: 4
+- GPU: Intel(R) HD Graphics
+- Display resolution: 1280x720
+
+- IP Address: 170.84.54.201
+- Time: 19.07.2024 00:36:59 (sig:1721338619.009d9e37f5afd07f9c714b2409dcfdcc)
+- Country: BR
+
+------------------------------------
+Подбор паролей и отработка кошельков >> t.me/Cashoutmeta
+
+Подбор паролей к Phantom / Metamask / Electrum / Atomic / Wallet.dat / Exodus
+Минимальная сумма подбора от 3.000$
+Беру после любых других брутеров
+Процент: 70/30 на любые балансы (70% вам)
+Депозит: ~3.2 BTC
+Telegram: @cashoutmeta
