@@ -1,0 +1,29 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: username
+Value: yoylasfeministas
+===============
+Name: identifier
+Value: ceballosgiovanni066
+===============
+Name: signup-username
+Value: giovanni_acc
+===============
+Name: phone-input
+Value: 3131265073
+===============
+Name: username
+Value: Silverf4ngg
+===============
+Name: global_name
+Value: gio
+===============
+Name: s
+Value: muscule legends

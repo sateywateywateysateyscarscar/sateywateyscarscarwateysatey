@@ -1,0 +1,74 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: nombre
+Value: gio
+===============
+Name: query
+Value: codigos
+===============
+Name: primerApellido
+Value: Ceballos
+===============
+Name: username
+Value: JUANITOPICHACORTAAA
+===============
+Name: global_name
+Value: gio
+===============
+Name: apellidos
+Value: marquez
+===============
+Name: CURP
+Value: CECG080521HCMBRVA1
+===============
+Name: segundoApellido
+Value: Cristerna
+===============
+Name: username
+Value: yoylasfeministas
+===============
+Name: selectedYear
+Value: 2008
+===============
+Name: codigo_postal
+Value: 28984
+===============
+Name: email
+Value: ceballosgiovanni066@gmail.com
+===============
+Name: nombres
+Value: Giovanni Andre
+===============
+Name: username
+Value: SIlverF4ngg
+===============
+Name: username
+Value: yoylospanass
+===============
+Name: email
+Value: 3122147863
+===============
+Name: telefono
+Value: 3122147863
+===============
+Name: query
+Value: espadas
+===============
+Name: global_name
+Value: pp
+===============
+Name: identifier
+Value: ceballosgiovanni88@gmail.com
+===============
+Name: loginfmt
+Value: ceballosgiovanni066@gmail.com
+===============
+Name: otc
+Value: 921758

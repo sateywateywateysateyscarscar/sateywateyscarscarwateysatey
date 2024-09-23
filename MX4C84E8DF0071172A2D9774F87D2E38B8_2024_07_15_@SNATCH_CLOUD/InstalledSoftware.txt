@@ -1,0 +1,38 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+1) Adobe Refresh Manager [1.8.0]
+2) AnyDesk [ad 8.0.10]
+3) Epic Games Launcher [1.3.93.0]
+4) Epic Online Services [2.0.44.0]
+5) GOG GALAXY [2.0.74.352]
+6) Launcher Prerequisites (x64) [1.0.0.0]
+7) Microsoft Edge [126.0.2592.102]
+8) Microsoft Edge Update [1.3.193.5]
+9) Microsoft Visual C++ 2005 Redistributable [8.0.50727.42]
+10) Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 [10.0.40219]
+11) Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 [11.0.61030.0]
+12) Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 [11.0.61030.0]
+13) Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 [11.0.61030]
+14) Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 [11.0.61030]
+15) Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 [12.0.30501.0]
+16) Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 [12.0.30501.0]
+17) Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005 [12.0.21005]
+18) Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 [12.0.21005]
+19) Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.40.33810 [14.40.33810.0]
+20) Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.40.33810 [14.40.33810.0]
+21) Microsoft Visual C++ 2022 X86 Additional Runtime - 14.40.33810 [14.40.33810]
+22) Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.40.33810 [14.40.33810]
+23) Microsoft Windows Desktop Runtime - 6.0.31 (x64) [6.0.31.33720]
+24) OBS Studio [30.1.2]
+25) Razer Synapse [3.9.0630.062714]
+26) Rockstar Games Launcher [1.0.90.1977]
+27) Rockstar Games Social Club [2.3.2.5]
+28) Steam [2.10.91.91]
+29) WebView2 Runtime de Microsoft Edge [126.0.2592.102]

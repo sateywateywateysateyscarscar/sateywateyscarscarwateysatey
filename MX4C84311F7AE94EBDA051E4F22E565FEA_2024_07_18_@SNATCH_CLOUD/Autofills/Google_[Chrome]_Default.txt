@@ -1,0 +1,257 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: identifier
+Value: culoable.com@gmail.com
+===============
+Name: s
+Value: dictadura
+===============
+Name: global_name
+Value: lAlo
+===============
+Name: identifier
+Value: cristernagiovanni48
+===============
+Name: rfr.surname
+Value: Ceballos
+===============
+Name: emailOrPhone
+Value: cristernagiovanni48@gmsil.com
+===============
+Name: s
+Value: civilizacion
+===============
+Name: s
+Value: monarquia
+===============
+Name: s
+Value: AculturaciГіn colonia
+===============
+Name: rfr.smsCode
+Value: 709506
+===============
+Name: signup-username
+Value: NikolaTesla903
+===============
+Name: rfr.name
+Value: Giovanni
+===============
+Name: identifier
+Value: ceballosgiovanni066@gmail.com
+===============
+Name: s
+Value: CivilizaciГіn
+===============
+Name: identifier
+Value: cristernagiovanni48@gmail.com
+===============
+Name: rfr.smsCode
+Value: 709505
+===============
+Name: s
+Value: Spider-Man: a travГ©s del Spider-Verso
+===============
+Name: s
+Value: Sistema polГ­tico
+===============
+Name: username
+Value: nikola teslaa
+===============
+Name: s
+Value: hostil
+===============
+Name: q
+Value: 4 +2 * (1 +8 * (3 2 )) -7 +12 Г·4=
+===============
+Name: login-username
+Value: NikolaTesla903
+===============
+Name: s
+Value: Spiderman
+===============
+Name: username
+Value: carlosquintero3233
+===============
+Name: tw-b1657dec40927b18ba644937202e933a
+Value: anaban
+===============
+Name: fullName
+Value: carlos quintero
+===============
+Name: s
+Value: clasismo
+===============
+Name: CURP
+Value: CECG080521HCMBRVA1
+===============
+Name: username
+Value: yoylasfeministas
+===============
+Name: dpiconf
+Value: 20
+===============
+Name: global_name
+Value: giovanni
+===============
+Name: username
+Value: JUANITOPICHACORTAAA
+===============
+Name: username
+Value: SIlverF4ngg
+===============
+Name: s
+Value: disolvente
+===============
+Name: username
+Value: eltumbaabuelas20
+===============
+Name: s
+Value: algoritmo
+===============
+Name: c
+Value: MzEzNjMzr6mpsTTWMzQ01TM20jMHAA
+===============
+Name: mes1
+Value: 0
+===============
+Name: mes2
+Value: 0
+===============
+Name: mes3
+Value: 0
+===============
+Name: mes4
+Value: 0
+===============
+Name: mes5
+Value: 0
+===============
+Name: mes6
+Value: 0
+===============
+Name: mes7
+Value: 0
+===============
+Name: mes8
+Value: 0
+===============
+Name: mes9
+Value: 0
+===============
+Name: mes10
+Value: 0
+===============
+Name: mes11
+Value: 0
+===============
+Name: mes12
+Value: 0
+===============
+Name: mes13
+Value: 5
+===============
+Name: mes14
+Value: 0
+===============
+Name: mes15
+Value: 0
+===============
+Name: mes16
+Value: 0
+===============
+Name: mes17
+Value: 0
+===============
+Name: mes18
+Value: 0
+===============
+Name: mes19
+Value: 0
+===============
+Name: reenter_email
+Value: ceballosgiovanni066@gmail.com
+===============
+Name: reenter_email
+Value: cristernagiovanni48@gmail.com
+===============
+Name: email
+Value: ceballosgiovanni066@gmail.com
+===============
+Name: email
+Value: cristernagiovanni48@gmail.com
+===============
+Name: username
+Value: yoylospanass
+===============
+Name: global_name
+Value: gio
+===============
+Name: global_name
+Value: juan
+===============
+Name: identifier
+Value: ceballos.cristerna.g@cbtis19.edu.mx
+===============
+Name: global_name
+Value: ll
+===============
+Name: loginfmt
+Value: ceballosgiovanni066@gmail.com
+===============
+Name: otc
+Value: 765761
+===============
+Name: q
+Value: Boku no kokoro
+===============
+Name: email
+Value: 3122147863
+===============
+Name: q
+Value: cinemarmota
+===============
+Name: q
+Value: Solo leveling
+===============
+Name: q
+Value: Fate
+===============
+Name: q
+Value: Yamada
+===============
+Name: q
+Value: Jugandorcriticon
+===============
+Name: global_name
+Value: jj
+===============
+Name: global_name
+Value: pp
+===============
+Name: username_auth
+Value: giovanni_21
+===============
+Name: tw-b93df16e8d60c44d125837c1cba1782e
+Value: gui
+===============
+Name: email
+Value: 3121687171
+===============
+Name: Ingrese_correo_electrГіnico
+Value: cristernagiovanni48@gmail.com
+===============
+Name: loginfmt
+Value: cristernagiovanni48@gmail.com
+===============
+Name: otc
+Value: 606014
+===============
+Name: private-server-name-text-box
+Value: hola =)

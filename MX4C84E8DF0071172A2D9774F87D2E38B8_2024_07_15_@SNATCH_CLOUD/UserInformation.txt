@@ -1,0 +1,37 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+@SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+IP: 187.189.50.223
+FileLocation: C:\Users\josht\AppData\Local\Temp\512551\RegAsm.exe
+UserName: josht
+MachineName: DESKTOP-C82J00S
+Country: MX
+Zip Code: 77529
+Location: Cancun, Quintana Roo
+HWID: 4C84E8DF0071172A2D9774F87D2E38B8
+Current Language: Spanish (Mexico)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC-05:00) Chetumal
+Operation System: Windows 11 Pro x64
+Log date: 7/15/2024 9:49:37 PM
+
+Available KeyboardLayouts: 
+Spanish (Mexico)
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 16328.3 Mb or 17121468416 bytes
+Name: AMD Ryzen 5 5600X 6-Core Processor             , 6 Cores
+Name: NVIDIA GeForce RTX 3060, 4293918720 bytes
+
+
+Anti-Viruses: 
+Windows Defender

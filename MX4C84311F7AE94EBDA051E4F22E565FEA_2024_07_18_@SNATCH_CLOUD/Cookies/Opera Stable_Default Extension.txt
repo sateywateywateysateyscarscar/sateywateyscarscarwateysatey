@@ -1,0 +1,5 @@
+.mchdgimobfnilobnllpdnompfjkkfdmi	TRUE	/	FALSE	1755050141	__utma	241244702.2040946037.1720487714.1720487714.1720487714.1
+.mchdgimobfnilobnllpdnompfjkkfdmi	TRUE	/	FALSE	1720491941	__utmb	241244702.12.10.1720487714
+.mchdgimobfnilobnllpdnompfjkkfdmi	TRUE	/	FALSE	17528756084886296	__utmc	241244702
+.mchdgimobfnilobnllpdnompfjkkfdmi	TRUE	/	FALSE	1720490741	__utmt	1
+.mchdgimobfnilobnllpdnompfjkkfdmi	TRUE	/	FALSE	1736258141	__utmz	241244702.1720487714.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)

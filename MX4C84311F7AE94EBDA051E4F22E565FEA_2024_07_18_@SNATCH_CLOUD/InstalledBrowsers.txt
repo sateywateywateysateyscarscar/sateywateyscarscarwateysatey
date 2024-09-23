@@ -1,0 +1,10 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+1) Name: Google Chrome, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Version: 126.0.6478.128

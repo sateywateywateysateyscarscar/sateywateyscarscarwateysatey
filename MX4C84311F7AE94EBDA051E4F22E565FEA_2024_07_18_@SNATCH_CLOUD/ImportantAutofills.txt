@@ -1,0 +1,17 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+emailOrPhone: cristernagiovanni48@gmsil.com
+reenter_email: ceballosgiovanni066@gmail.com
+email: ceballosgiovanni066@gmail.com
+firstNameInput: Giovanni
+lastNameInput: Ceballos
+SignupForm[email]: ceballosgiovanni066@gmail.com
+reg_email__: culoable.com@gmail.com
+reg_email_confirmation__: culoable.com@gmail.com

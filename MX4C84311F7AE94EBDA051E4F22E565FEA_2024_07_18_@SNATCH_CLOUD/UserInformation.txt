@@ -1,0 +1,37 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+@SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+IP: 177.242.218.244
+FileLocation: C:\Users\Giovanni Ceballos\AppData\Local\Temp\473804\RegAsm.exe
+UserName: Giovanni Ceballos
+MachineName: DESKTOP-DVKKV1T
+Country: MX
+Zip Code: 31699
+Location: Colima, Colima
+HWID: 4C84311F7AE94EBDA051E4F22E565FEA
+Current Language: Spanish (Mexico)
+ScreenSize: {Width=1280, Height=1024}
+TimeZone: (UTC-06:00) Guadalajara, Ciudad de México, Monterrey
+Operation System: Windows 10 Enterprise x64
+Log date: 7/18/2024 8:55:01 PM
+
+Available KeyboardLayouts: 
+Spanish (Mexico)
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 8078.55 Mb or 8470970368 bytes
+Name: Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz, 2 Cores
+Name: Intel(R) HD Graphics, 2214592512 bytes
+
+
+Anti-Viruses: 
+Windows Defender

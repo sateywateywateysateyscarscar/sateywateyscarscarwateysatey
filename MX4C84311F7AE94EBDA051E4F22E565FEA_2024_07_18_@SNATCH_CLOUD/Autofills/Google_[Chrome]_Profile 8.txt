@@ -1,0 +1,47 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: idFirstName
+Value: giovanni
+===============
+Name: identifier
+Value: ceballos.cristerna.g
+===============
+Name: idLastName
+Value: ceballos
+===============
+Name: username
+Value: yoylasfeministas
+===============
+Name: loginfmt
+Value: ceballosgiovanni077@gmail.com
+===============
+Name: iVerifyText
+Value: 618587
+===============
+Name: s
+Value: sing
+===============
+Name: identifier
+Value: ceballos.cristerna.g@cbtis19.edu.mx
+===============
+Name: email
+Value: ceballos.cristerna.g@cbtis19.edu.mx
+===============
+Name: FirstName
+Value: Giovanni
+===============
+Name: LastName
+Value: Andre
+===============
+Name: email
+Value: ceballosgiovanni066@gmail.com
+===============
+Name: global_name
+Value: Giovanni

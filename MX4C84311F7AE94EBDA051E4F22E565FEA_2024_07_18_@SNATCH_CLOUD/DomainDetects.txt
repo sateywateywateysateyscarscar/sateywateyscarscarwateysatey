@@ -1,0 +1,4 @@
+PDD: 
+[PayPal] paypal.com (1), [Amazon] amazon.com (3)
+CDD: 
+[BANKS] ally.com (14), [MONEY] gate.io (19), [MONEY] coinbase.com (1), [PayPal] paypal.com (12), [Amazon] amazon.com (6), [GAMES] epicgames.com (2)

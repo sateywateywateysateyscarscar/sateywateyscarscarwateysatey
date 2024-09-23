@@ -1,0 +1,71 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: q
+Value: Kangoku Gakuen
+===============
+Name: s
+Value: Kangoku
+===============
+Name: s
+Value: prision
+===============
+Name: global_name
+Value: pp
+===============
+Name: new-username
+Value: giovanniceballos37
+===============
+Name: username
+Value: eltumbaabuelas20
+===============
+Name: text
+Value: lllllllllllllllll
+===============
+Name: text
+Value: llllllllll
+===============
+Name: text
+Value: llll
+===============
+Name: text
+Value: progra
+===============
+Name: email
+Value: 3121687171
+===============
+Name: loginfmt
+Value: ceballosgiovanni077@gmail.com
+===============
+Name: iVerifyText
+Value: 618587
+===============
+Name: iOttText
+Value: 092640
+===============
+Name: FirstName
+Value: Giovanni
+===============
+Name: LastName
+Value: ceballos
+===============
+Name: PostalCode
+Value: 28984
+===============
+Name: identifier
+Value: culoable.com@gmail.com
+===============
+Name: loginfmt
+Value: culoable.com@gmail.com
+===============
+Name: firstNameInput
+Value: Giovanni
+===============
+Name: lastNameInput
+Value: Ceballos

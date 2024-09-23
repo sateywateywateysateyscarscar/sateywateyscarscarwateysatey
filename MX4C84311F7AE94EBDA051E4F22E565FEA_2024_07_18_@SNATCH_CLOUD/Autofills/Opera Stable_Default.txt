@@ -1,0 +1,83 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: global_name
+Value: giovanni
+===============
+Name: username
+Value: yoylasfeministas
+===============
+Name: identifier
+Value: ceballos.cristerna.g@cbtis19.edu.mx
+===============
+Name: identifier
+Value: ceballosgiovanni066
+===============
+Name: identifier
+Value: cristernagiovanni48
+===============
+Name: SignupForm[username]
+Value: silverFang
+===============
+Name: SignupForm[username]
+Value: silverFanggn
+===============
+Name: SignupForm[email]
+Value: ceballosgiovanni066@gmail.com
+===============
+Name: SignupForm[email]
+Value: ceballosgiovanni077@gmail.com
+===============
+Name: SignupForm[verifyCode]
+Value: RBPRRQ
+===============
+Name: SignupForm[username]
+Value: silverFanngf
+===============
+Name: SignupForm[verifyCode]
+Value: ET32TY
+===============
+Name: SignupForm[verifyCode]
+Value: GxDCRZ
+===============
+Name: tw-a9c44d3cb3f52ef6b8a0081cc67d6447
+Value: juga
+===============
+Name: tw-a9c44d3cb3f52ef6b8a0081cc67d6447
+Value: jugandorcriticonoficial
+===============
+Name: username
+Value: eltumbaabuelas20
+===============
+Name: s
+Value: sistema
+===============
+Name: email
+Value: 3122147863
+===============
+Name: email
+Value: 3121687171
+===============
+Name: firstname
+Value: Anonimo
+===============
+Name: lastname
+Value: ceo
+===============
+Name: reg_email__
+Value: culoable.com@gmail.com
+===============
+Name: reg_email_confirmation__
+Value: culoable.com@gmail.com
+===============
+Name: identifier
+Value: culoable.com@gmail.com
+===============
+Name: username
+Value: SilverF4ngg

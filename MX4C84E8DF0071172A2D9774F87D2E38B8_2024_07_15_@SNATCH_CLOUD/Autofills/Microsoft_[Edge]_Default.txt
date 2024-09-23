@@ -1,0 +1,74 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: __a11yId82
+Value: 734991
+===============
+Name: email
+Value: joshtofue@gmail.com
+===============
+Name: email
+Value: a_fuentes_calleja@hotmail.com
+===============
+Name: user_id
+Value: joshtofue@gmail.com
+===============
+Name: cardholder_name
+Value: joshua torres
+===============
+Name: ForgotEmail
+Value: joshtofue@gmail.com
+===============
+Name: first_name
+Value: joshua
+===============
+Name: identifier
+Value: diegogonu2@gmail.com
+===============
+Name: customer[email]
+Value: joshtofu@ooutlook.com
+===============
+Name: username
+Value: diego_gf15
+===============
+Name: userEmail
+Value: joshtofue@gmail.com
+===============
+Name: firstname
+Value: joshua
+===============
+Name: last_name
+Value: torres
+===============
+Name: address.street.number
+Value: 824
+===============
+Name: customer[last_name]
+Value: joshua
+===============
+Name: customer[first_name]
+Value: Torres
+===============
+Name: username
+Value: Jostofu
+===============
+Name: address.contact
+Value: joshua Torres
+===============
+Name: address.zipcode
+Value: 77517
+===============
+Name: username
+Value: joshtofue@gmail.com
+===============
+Name: expiration_date
+Value: 10 / 27
+===============
+Name: identifier
+Value: joshtofue@gmail.com
