@@ -1,0 +1,36 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+@SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+IP: 41.250.125.240
+FileLocation: C:\Users\houssam\AppData\Local\Temp\473804\RegAsm.exe
+UserName: houssam
+MachineName: DESKTOP-KCFUOVQ
+Country: MA
+Zip Code: 28830
+Location: UNKNOWN
+HWID: 8B856DFFC2677AFDFD29613D06B9D7D8
+Current Language: English (United States)
+ScreenSize: {Width=1366, Height=768}
+TimeZone: (UTC-08:00) Pacific Time (US & Canada)
+Operation System: Windows 10 Home x64
+Log date: 7/18/2024 6:38:40 PM
+
+Available KeyboardLayouts: 
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 4017.44 Mb or 4212588544 bytes
+Name: Intel(R) Core(TM) i3-4005U CPU @ 1.70GHz, 2 Cores
+Name: Intel(R) HD Graphics Family, 1073741824 bytes
+
+
+Anti-Viruses: 
+Windows Defender

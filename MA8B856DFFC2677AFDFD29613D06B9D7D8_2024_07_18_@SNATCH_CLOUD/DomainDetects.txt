@@ -1,0 +1,4 @@
+PDD: 
+[Amazon] amazon.com (1)
+CDD: 
+[PayPal] paypal.com (7), [Amazon] amazon.com (9), [GAMES] store.steampowered.com (5), [GAMES] epicgames.com (2)

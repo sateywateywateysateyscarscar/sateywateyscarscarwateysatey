@@ -1,0 +1,27 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+address.state: Maarif
+address.fullName: Houssam
+firstName: Diogo
+login_email: ranil.kumar@hotmail.com
+emailAddress: sbaih4116@gmail.com
+address.city: Casablanca
+address.addressLine1: Casablanca
+address: Maroc TГ©lГ©com
+email: hind.loudiyi11@gmail.com
+address.postalCode: 20000
+lastName: Sbai
+emailConfirm: Sbaih4116@gmail.com
+reenter_email: sbaih4116@gmail.com
+dob_day: 10
+dob_year: 2000
+form_fields[email]: sbaih4116@gmail.com
+reg_first_name: houssam
+reg_last_name: sbai

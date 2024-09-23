@@ -1,0 +1,128 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+ID: 688, Name: csrss.exe,  CommandLine: 
+===============
+ID: 780, Name: winlogon.exe,  CommandLine: 
+===============
+ID: 988, Name: fontdrvhost.exe,  CommandLine: 
+===============
+ID: 1156, Name: dwm.exe,  CommandLine: 
+===============
+ID: 2772, Name: RAVBg64.exe,  CommandLine: 
+===============
+ID: 2792, Name: RAVBg64.exe,  CommandLine: 
+===============
+ID: 5840, Name: unsecapp.exe,  CommandLine: 
+===============
+ID: 5052, Name: sihost.exe,  CommandLine: sihost.exe
+===============
+ID: 1340, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 4180, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 5084, Name: taskhostw.exe,  CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 1816, Name: igfxHK.exe,  CommandLine: igfxHK.exe 
+===============
+ID: 1940, Name: igfxTray.exe,  CommandLine: igfxTray.exe 
+===============
+ID: 6100, Name: ctfmon.exe,  CommandLine: 
+===============
+ID: 720, Name: explorer.exe,  CommandLine: C:\WINDOWS\Explorer.EXE
+===============
+ID: 5940, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 2444, Name: RAVBg64.exe,  CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe" /IM
+===============
+ID: 5252, Name: StartMenuExperienceHost.exe,  CommandLine: "C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 580, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 1844, Name: SearchApp.exe,  CommandLine: "C:\WINDOWS\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+===============
+ID: 5960, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 3900, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 2536, Name: SecurityHealthSystray.exe,  CommandLine: "C:\Windows\System32\SecurityHealthSystray.exe" 
+===============
+ID: 6604, Name: RtkNGUI64.exe,  CommandLine: "C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe" /s
+===============
+ID: 5632, Name: RAVBg64.exe,  CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe" /MAXX4P1
+===============
+ID: 7304, Name: browser_assistant.exe,  CommandLine: "C:\Users\houssam\AppData\Local\Programs\Opera GX\assistant\browser_assistant.exe" 
+===============
+ID: 7456, Name: browser_assistant.exe,  CommandLine: "C:\Users\houssam\AppData\Local\Programs\Opera GX\assistant\browser_assistant.exe" --type=crashpad-handler /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\houssam\AppData\Roaming\Opera Software\Opera GX Stable\Crash Reports" "--crash-count-file=C:\Users\houssam\AppData\Roaming\Opera Software\Opera GX Stable\crash_count.txt" --url=https://crashstats-collector.opera.com/collector/submit --annotation=channel=Stable --annotation=plat=Win32 --annotation=prod=OperaDesktopGX --annotation=ver=73.0.3856.382 --initial-client-data=0x2a8,0x2ac,0x2b0,0x2a4,0x280,0xe357a0,0xe357b0,0xe357bc
+===============
+ID: 7552, Name: svchost.exe,  CommandLine: "C:\Users\houssam\AppData\Local\svchost.exe" 
+===============
+ID: 7976, Name: unsecapp.exe,  CommandLine: C:\WINDOWS\system32\wbem\unsecapp.exe -Embedding
+===============
+ID: 7328, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 4492, Name: UserOOBEBroker.exe,  CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 6260, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" 
+===============
+ID: 4528, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\houssam\AppData\Local\Google\Chrome\User Data" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\houssam\AppData\Local\Google\Chrome\User Data\Crashpad" "--metrics-dir=C:\Users\houssam\AppData\Local\Google\Chrome\User Data" --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=126.0.6478.182 --initial-client-data=0x218,0x21c,0x220,0x1f4,0x224,0x7ffe2ab11c70,0x7ffe2ab11c7c,0x7ffe2ab11c88
+===============
+ID: 928, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=gpu-process --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=2044,i,6223280990642882685,15772358405132036126,262144 --variations-seed-version=20240716-180143.517000 --mojo-platform-channel-handle=1972 /prefetch:2
+===============
+ID: 7756, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --field-trial-handle=2144,i,6223280990642882685,15772358405132036126,262144 --variations-seed-version=20240716-180143.517000 --mojo-platform-channel-handle=2236 /prefetch:3
+===============
+ID: 7788, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --field-trial-handle=2436,i,6223280990642882685,15772358405132036126,262144 --variations-seed-version=20240716-180143.517000 --mojo-platform-channel-handle=2404 /prefetch:8
+===============
+ID: 6084, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1721231634041105 --launch-time-ticks=2427264944 --field-trial-handle=4512,i,6223280990642882685,15772358405132036126,262144 --variations-seed-version=20240716-180143.517000 --mojo-platform-channel-handle=4532 /prefetch:2
+===============
+ID: 3780, Name: TextInputHost.exe,  CommandLine: "C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca
+===============
+ID: 7628, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --video-capture-use-gpu-memory-buffer --field-trial-handle=6704,i,6223280990642882685,15772358405132036126,262144 --variations-seed-version=20240716-180143.517000 --mojo-platform-channel-handle=8360 /prefetch:8
+===============
+ID: 3596, Name: CompPkgSrv.exe,  CommandLine: C:\Windows\System32\CompPkgSrv.exe -Embedding
+===============
+ID: 7100, Name: rundll32.exe,  CommandLine: "C:\WINDOWS\system32\rundll32.exe" -localserver 22d8c27b-47a1-48d1-ad08-7da7abd79617
+===============
+ID: 8068, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k LocalService -p -s CaptureService
+===============
+ID: 5508, Name: ShellExperienceHost.exe,  CommandLine: "C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 3840, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 2356, Name: ApplicationFrameHost.exe,  CommandLine: C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 4572, Name: dllhost.exe,  CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 7408, Name: SearchApp.exe,  CommandLine: "C:\WINDOWS\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:ShellFeedsUI.AppX88fpyyrd21w8wqe62wzsjh5agex7tf1e.mca
+===============
+ID: 2460, Name: taskhostw.exe,  CommandLine: taskhostw.exe
+===============
+ID: 1336, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1314 --time-ticks-at-unix-epoch=-1721231634041105 --launch-time-ticks=80304147095 --field-trial-handle=16628,i,6223280990642882685,15772358405132036126,262144 --variations-seed-version=20240716-180143.517000 --mojo-platform-channel-handle=14108 /prefetch:1
+===============
+ID: 4828, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1924 --time-ticks-at-unix-epoch=-1721231634041105 --launch-time-ticks=120329412565 --field-trial-handle=17024,i,6223280990642882685,15772358405132036126,262144 --variations-seed-version=20240716-180143.517000 --mojo-platform-channel-handle=16720 /prefetch:1
+===============
+ID: 6680, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1928 --time-ticks-at-unix-epoch=-1721231634041105 --launch-time-ticks=120331189314 --field-trial-handle=20048,i,6223280990642882685,15772358405132036126,262144 --variations-seed-version=20240716-180143.517000 --mojo-platform-channel-handle=17300 /prefetch:1
+===============
+ID: 8272, Name: notepad.exe,  CommandLine: "C:\WINDOWS\system32\NOTEPAD.EXE" C:\Users\houssam\AppData\Local\Temp\Rar$DIa8896.41979\READme.txt
+===============
+ID: 4956, Name: smartscreen.exe,  CommandLine: C:\Windows\System32\smartscreen.exe -Embedding
+===============
+ID: 10144, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1959 --time-ticks-at-unix-epoch=-1721231634041105 --launch-time-ticks=121201687222 --field-trial-handle=19328,i,6223280990642882685,15772358405132036126,262144 --variations-seed-version=20240716-180143.517000 --mojo-platform-channel-handle=18900 /prefetch:1
+===============
+ID: 9692, Name: RegAsm.exe,  CommandLine: C:\Users\houssam\AppData\Local\Temp\473804\RegAsm.exe  
+===============
+ID: 8636, Name: svchost.exe,  CommandLine: 
+===============
+ID: 368, Name: conhost.exe,  CommandLine: \??\C:\WINDOWS\system32\conhost.exe 0x4
+===============
+ID: 9580, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=1960 --time-ticks-at-unix-epoch=-1721231634041105 --launch-time-ticks=121281905678 --field-trial-handle=12564,i,6223280990642882685,15772358405132036126,262144 --variations-seed-version=20240716-180143.517000 --mojo-platform-channel-handle=18972 /prefetch:2
+===============
+ID: 5880, Name: RegAsm.exe,  CommandLine: C:\Users\houssam\AppData\Local\Temp\473804\RegAsm.exe  
+===============
+ID: 2424, Name: conhost.exe,  CommandLine: \??\C:\WINDOWS\system32\conhost.exe 0x4
