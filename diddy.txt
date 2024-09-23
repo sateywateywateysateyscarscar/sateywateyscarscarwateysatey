@@ -1,0 +1,5 @@
+SOFT: Mozilla Firefox
+URL: https://accounts.google.com
+USER: mladensurlan88@gmail.com
+PASS: lubenica
+
