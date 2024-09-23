@@ -1,0 +1,39 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*  Telegram: https://t.me/redline_market_bot  *
+***********************************************
+
+@SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+IP: 103.217.156.129
+FileLocation: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+UserName: RN
+Country: MM
+Zip Code: 11181
+Location: Yangon, Yangon
+HWID: 42822646FA18D76588FB683E52DEC887
+Current Language: English (United States)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC+06:30) Yangon (Rangoon)
+Operation System: Windows 10 Enterprise x64
+UAC: AllowAll
+Process Elevation: False
+Log date: 7/19/2024 6:37:11 AM
+
+Available KeyboardLayouts: 
+English (United States)
+
+
+Hardwares: 
+Name: Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz, 6 Cores
+Name: NVIDIA GeForce GTX 1660 SUPER, 4293918720 bytes
+Name: Total of RAM, 8130.14 MB or 8525070336 bytes
+
+
+Anti-Viruses: 
+Windows Defender

@@ -1,0 +1,116 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*  Telegram: https://t.me/redline_market_bot  *
+***********************************************
+
+ID: 692, Name: csrss.exe, CommandLine: 
+===============
+ID: 792, Name: winlogon.exe, CommandLine: winlogon.exe
+===============
+ID: 1012, Name: fontdrvhost.exe, CommandLine: "fontdrvhost.exe"
+===============
+ID: 1200, Name: dwm.exe, CommandLine: "dwm.exe"
+===============
+ID: 2112, Name: atieclxx.exe, CommandLine: atieclxx
+===============
+ID: 2712, Name: NVDisplay.Container.exe, CommandLine: "C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_7e5fd280efaa5445\Display.NvContainer\NVDisplay.Container.exe" -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_7e5fd280efaa5445\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session -c
+===============
+ID: 2352, Name: sihost.exe, CommandLine: sihost.exe
+===============
+ID: 6560, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 6600, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 6700, Name: taskhostw.exe, CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 7028, Name: ctfmon.exe, CommandLine: "ctfmon.exe"
+===============
+ID: 1972, Name: explorer.exe, CommandLine: C:\Windows\Explorer.EXE
+===============
+ID: 7344, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 7872, Name: StartMenuExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 8156, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8376, Name: SearchApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+===============
+ID: 8696, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 9384, Name: UserOOBEBroker.exe, CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 9556, Name: ShellExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 10212, Name: SecurityHealthSystray.exe, CommandLine: "C:\Windows\System32\SecurityHealthSystray.exe" 
+===============
+ID: 9252, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6188, Name: RtkAudUService64.exe, CommandLine: "C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_550508a90a3c9a47\RtkAudUService64.exe" -background
+===============
+ID: 10744, Name: pncclient.exe, CommandLine: "C:\Program Files (x86)\Pan Group\PanCafe Pro Client\pncclient.exe" 
+===============
+ID: 10848, Name: pncclient.exe, CommandLine: "C:\Program Files (x86)\Pan Group\PanCafe Pro Client\pncclient.exe" --type=gpu-process --field-trial-handle=1756,8305789773968073293,2576718389903948586,131072 --disable-features=CalculateNativeWinOcclusion,WinUseBrowserSpellChecker --no-sandbox --locales-dir-path="C:\Program Files (x86)\Pan Group\PanCafe Pro Client\Core\cef\locales" --log-severity=disable --resources-dir-path="C:\Program Files (x86)\Pan Group\PanCafe Pro Client\Core\cef" --user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" --lang=en-US --user-data-dir="C:\Users\RN\AppData\Local\CEF\User Data" --gpu-preferences=UAAAAAAAAADgACAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAANAAAAEAAAAAAAAAABAAAADQAAAAgAAAAAAAAACAAAAAAAAAA= --log-file="C:\Program Files (x86)\Pan Group\PanCafe Pro Client\debug.log" --mojo-platform-channel-handle=1776 /prefetch:2
+===============
+ID: 11048, Name: pncclient.exe, CommandLine: "C:\Program Files (x86)\Pan Group\PanCafe Pro Client\pncclient.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1756,8305789773968073293,2576718389903948586,131072 --disable-features=CalculateNativeWinOcclusion,WinUseBrowserSpellChecker --lang=en-US --service-sandbox-type=none --no-sandbox --ignore-certificate-errors --mute-audio --ignore-certificate-errors --locales-dir-path="C:\Program Files (x86)\Pan Group\PanCafe Pro Client\Core\cef\locales" --log-severity=disable --resources-dir-path="C:\Program Files (x86)\Pan Group\PanCafe Pro Client\Core\cef" --user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" --lang=en-US --user-data-dir="C:\Users\RN\AppData\Local\CEF\User Data" --log-file="C:\Program Files (x86)\Pan Group\PanCafe Pro Client\debug.log" --mojo-platform-channel-handle=2640 /prefetch:8
+===============
+ID: 10484, Name: TextInputHost.exe, CommandLine: "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca
+===============
+ID: 10608, Name: dllhost.exe, CommandLine: C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 11352, Name: pncclient.exe, CommandLine: "C:\Program Files (x86)\Pan Group\PanCafe Pro Client\pncclient.exe" --type=renderer --locales-dir-path="C:\Program Files (x86)\Pan Group\PanCafe Pro Client\Core\cef\locales" --log-severity=disable --resources-dir-path="C:\Program Files (x86)\Pan Group\PanCafe Pro Client\Core\cef" --user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" --disable-extensions --disable-pdf-extension --user-data-dir="C:\Users\RN\AppData\Local\CEF\User Data" --no-sandbox --log-file="C:\Program Files (x86)\Pan Group\PanCafe Pro Client\debug.log" --field-trial-handle=1756,8305789773968073293,2576718389903948586,131072 --disable-features=CalculateNativeWinOcclusion,WinUseBrowserSpellChecker --lang=en-US --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=5 --mojo-platform-channel-handle=3688 /prefetch:1
+===============
+ID: 12116, Name: RadeonSoftware.exe, CommandLine: "C:\Program Files\AMD\CNext\CNext\Radeonsoftware.exe" atlogon
+===============
+ID: 7144, Name: cncmd.exe, CommandLine: "C:\Program Files\AMD\CNext\CNext\cncmd.exe" watch 12116
+===============
+ID: 11744, Name: AMDRSServ.exe, CommandLine: "C:\Program Files\AMD\CNext\CNext\AMDRSServ.exe"
+===============
+ID: 8684, Name: amdow.exe, CommandLine: "C:\Program Files\AMD\CNext\CNext\amdow.exe" 11744
+===============
+ID: 13100, Name: CompPkgSrv.exe, CommandLine: C:\Windows\System32\CompPkgSrv.exe -Embedding
+===============
+ID: 9156, Name: pncclient.exe, CommandLine: "C:\Program Files (x86)\Pan Group\PanCafe Pro Client\pncclient.exe" --type=renderer --locales-dir-path="C:\Program Files (x86)\Pan Group\PanCafe Pro Client\Core\cef\locales" --log-severity=disable --resources-dir-path="C:\Program Files (x86)\Pan Group\PanCafe Pro Client\Core\cef" --user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" --disable-extensions --disable-pdf-extension --user-data-dir="C:\Users\RN\AppData\Local\CEF\User Data" --no-sandbox --log-file="C:\Program Files (x86)\Pan Group\PanCafe Pro Client\debug.log" --field-trial-handle=1756,8305789773968073293,2576718389903948586,131072 --disable-features=CalculateNativeWinOcclusion,WinUseBrowserSpellChecker --lang=en-US --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=6 --mojo-platform-channel-handle=3748 /prefetch:1
+===============
+ID: 11820, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 9732, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 13000, Name: node.exe, CommandLine: node "C:\Users\RN\AppData\Local\Temp\Solara.Dir\Monaco\fileaccess\index.js"
+===============
+ID: 848, Name: dllhost.exe, CommandLine: "C:\ProgramData\Dllhost\dllhost.exe"
+===============
+ID: 10432, Name: winlogson.exe, CommandLine: C:\ProgramData\Dllhost\winlogson.exe  --config msi.bin --log off
+===============
+ID: 11444, Name: AMDRSSrcExt.exe, CommandLine: "C:\Program Files\AMD\CNext\CNext\AMDRSSrcExt.exe" fb28e830-7c29-4591-b2df-4e16275fa0d9 SOFTWARE\AMD\DVR\Overlays
+===============
+ID: 5332, Name: AdobeCollabSync.exe, CommandLine: "C:\Program Files\Adobe\Acrobat DC\Acrobat\AdobeCollabSync.exe"
+===============
+ID: 6608, Name: AdobeCollabSync.exe, CommandLine: "C:\Program Files\Adobe\Acrobat DC\Acrobat\AdobeCollabSync.exe" --type=collab-renderer --proc=5332
+===============
+ID: 6240, Name: Bloxstrap.exe, CommandLine: "C:\Users\RN\AppData\Local\Bloxstrap\Bloxstrap.exe" 
+===============
+ID: 7696, Name: RobloxPlayerBeta.exe, CommandLine: "C:\Users\RN\AppData\Local\Bloxstrap\Versions\version-0148e7f69b394963\RobloxPlayerBeta.exe" --app -channel production
+===============
+ID: 8548, Name: RobloxCrashHandler.exe, CommandLine: C:\Users\RN\AppData\Local\Bloxstrap\Versions\version-0148e7f69b394963\\RobloxCrashHandler.exe --no-rate-limit --crashCounter Win-ROBLOXPlayer-Crash --baseUrl http://www.roblox.com/ --attachment=attachment_0.634.0.6340420_20240719T132726Z_Player_0EAAA_last.log=C:\Users\RN\AppData\Local\Roblox\logs\0.634.0.6340420_20240719T132726Z_Player_0EAAA_last.log --database=C:\Users\RN\AppData\Local\Roblox\logs\crashes --metrics-dir=C:\Users\RN\AppData\Local\Roblox\logs\crashes --url=https://upload.crashes.rbxinfra.com/post?format=minidump --annotation=AppVersion=0.634.0.6340420 --annotation=BaseUrl=http://www.roblox.com/ "--annotation=CPUMake=Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz" --annotation=Format=minidump --annotation=OSPlatform=Win32 "--annotation=OSVersion=Windows 10 - PlatformId 2, Version 10.0, Build 19045" --annotation=PlatformId=2 --annotation=RobloxChannel=production --annotation=RobloxGitHash=405ebb9ccd75ff3bd48e6724415f06b240aa4718 --annotation=RobloxProduct=RobloxPlayer --annotation=TotalMemory=8525070336 --annotation=UniqueId=5663474440725520992 --annotation=UploadAttachmentKiloByteLimit=1000 --annotation=UseCrashpad=True --initial-client-data=0x748,0x668,0x824,0x6c4,0x634,0x7ff7d9dc8708,0x7ff7d9dc8720,0x7ff7d9dc8738
+===============
+ID: 10740, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k BcastDVRUserService -s BcastDVRUserService
+===============
+ID: 5696, Name: smartscreen.exe, CommandLine: C:\Windows\System32\smartscreen.exe -Embedding
+===============
+ID: 7908, Name: backgroundTaskHost.exe, CommandLine: "C:\Windows\system32\backgroundTaskHost.exe" -ServerName:Microsoft.MicrosoftOfficeHub.AppX54h2e8jwdm50fj5ha8987vz1etpx7czd.mca
+===============
+ID: 3396, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8488, Name: conhost.exe, CommandLine: \??\C:\Windows\system32\conhost.exe 0x4
+===============
+ID: 5968, Name: MSBuild.exe, CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"
+===============
+ID: 11556, Name: conhost.exe, CommandLine: \??\C:\Windows\system32\conhost.exe 0x4
+===============
+ID: 2952, Name: MSBuild.exe, CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"

@@ -1,0 +1,18 @@
+profile_reticulesize -10 - removes in-game reticle
+
+profile_reticulesize 0 - adds back in-game reticle
+
+
+-pure_1
+
+bind keyboard 0 quit : للتلفيت
+
+**bind keyboard 0 emotemenu** : اختصار قائمة الرقصة
+
+**bind keyboard 0 quit** : للتلفيت
+
+**unbind keyboard 0**: لحذف اي اختصار
+
+profile_gamma 35 - changes brightness
+
+Bind keyboard (key you want it) (command of choosing)
