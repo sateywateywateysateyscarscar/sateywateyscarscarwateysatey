@@ -1,0 +1,378 @@
+
+ ______     ______   ______     ______     __         ______
+/\  ___\   /\__  _\ /\  ___\   /\  __ \   /\ \       /\  ___\
+\ \___  \  \/_/\ \/ \ \  __\   \ \  __ \  \ \ \____  \ \ \____
+ \/\_____\    \ \_\  \ \_____\  \ \_\ \_\  \ \_____\  \ \_____\
+  \/_____/     \/_/   \/_____/   \/_/\/_/   \/_____/   \/_____/
+
+                       stealc stealer
+
+powerful native stealer based on C lang
+
+forum topics:
+	- https://forum.exploit.in/topic/220340/
+	- https://xss.is/threads/79592/
+	- https://bhf.im/threads/666154/
+
+buy:
+	- telegram: t.me/plym0uth
+
+----------------------------------------------------------------
+Подбор паролей к кошелькам Metamask | Ronin | Exodus | Atomic | Phantom | Electrum
+
+Беру логи с балансом от 500$
+Возьму логи после других брутеров.
+По вашему желанию выплачу сразу чистой валютой.
+Приветствуется любая собранная вами информация о логе.
+
+Задействую все методы атак: правила (более 50кк кандидатов на 1 пароль), приватные словари, маски, принц.
+
+
+Отработка криптокошельков (wallets)
+
+Выведу скрытые токены, пулы, стейки, продам нфт
+Возьму любое количество логов в работу
+Отрабатываю все виды десктопных и браузерных кошельков.
+
+Контакты:
+Telegram: @blockchain_brute
+Jabber: bruter@exploit.im
+
+Наши темы:
+https://zelenka.guru/threads/4491419 | Депозит 100к руб.
+https://forum.exploit.in/topic/232013 | Депозит 2 BTC
+
+----------------------------------------------------------------
+
+Network Info:
+	- IP: 95.249.155.168
+	- Country: IT
+
+System Summary:
+	- HWID: ACEB134307901942779736
+	- OS: Windows 10 Home
+	- Architecture: x64
+	- UserName: livef
+	- Computer Name: DESKTOP-AQET18A
+	- Local Time: 2024/6/30 20:50:11
+	- UTC: 1
+	- Language: it-IT
+	- Keyboards: Italiano (Italia)
+	- Laptop: FALSE
+	- Running Path: C:\Users\livef\AppData\Local\Temp\TraceFmt.exe
+	- CPU: AMD Ryzen 5 2600X Six-Core Processor           
+	- Cores: 6
+	- Threads: 12
+	- RAM: 16332 MB
+	- Display Resolution: 1280x1024
+	- GPU:
+		-Radeon RX 580 Series
+		-Radeon RX 580 Series
+		-Radeon RX 580 Series
+		-Radeon RX 580 Series
+		-Radeon RX 580 Series
+		-Radeon RX 580 Series
+		-Radeon RX 580 Series
+
+User Agents:
+	Google Chrome - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+
+Installed Apps:
+All Users:
+	AMD Chipset Software - 6.01.25.342
+	Brave - 126.1.67.123
+	Google Chrome - 126.0.6478.127
+	Microsoft Edge - 126.0.2592.81
+	Microsoft Edge Update - 1.3.187.41
+	Microsoft Edge WebView2 Runtime - 126.0.2592.81
+	Nielsen Online - 9.9.0.7016
+	Palworld (M4CKD0GE Repack) version v0.1.2.0 - v0.1.2.0
+	Steam - 2.10.91.91
+	TLauncher - 2.919
+	Ubisoft Connect - 147.0.10965
+	Microsoft GameInput - 10.1.22621.3036
+	Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.31.31103 - 14.31.31103.0
+	Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.31.31103 - 14.31.31103.0
+	AMD_Chipset_Drivers - 6.01.25.342
+	Launcher Prerequisites (x64) - 1.0.0.0
+	Java Auto Updater - 2.8.411.9
+	Microsoft Visual C++ 2022 X86 Additional Runtime - 14.31.31103 - 14.31.31103
+	Epic Online Services - 2.0.44.0
+	Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.31.31103 - 14.31.31103
+	AMD PCI Driver - 1.0.0.90
+	AMD PSP Driver - 5.26.0.0
+	TP-Link UB500 Bluetooth Driver - 1015.1016.1016.210427
+	AMD Ryzen Balanced Driver - 8.0.0.13
+	UE Prerequisites (x64) - 1.0.16.0
+	AMD SBxxx SMBus Driver - 5.12.0.38
+	Adobe Refresh Manager - 1.8.0
+	Promontory_GPIO Driver - 3.0.0.0
+	Epic Games Launcher - 1.3.93.0
+	Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23026 - 14.0.23026.0
+	AMD GPIO2 Driver - 2.2.0.130
+	Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 - 10.0.40219
+Current User:
+	YouTube - 1.0
+	Blitz - 2.1.184
+	Fogli - 1.0
+	Documenti - 1.0
+	Gmail - 1.0
+	CurseForge 1.253.0-17952 - 1.253.0-17952
+	Discord - 1.0.9020
+	Google Drive - 1.0
+	Presentazioni - 1.0
+	Opera Stable 111.0.5168.43 - 111.0.5168.43
+	Palia - 0.167.2
+	League of Legends
+	Riot Client 
+	Microsoft Teams classic - 1.6.00.29964
+	Vivaldi - 6.8.3381.46
+	Telegram Desktop - 5.1.7
+
+Process List:
+	System
+	Registry
+	smss.exe
+	csrss.exe
+	wininit.exe
+	csrss.exe
+	services.exe
+	lsass.exe
+	svchost.exe
+	fontdrvhost.exe
+	svchost.exe
+	svchost.exe
+	winlogon.exe
+	fontdrvhost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	dwm.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	dasHost.exe
+	amdfendrsr.exe
+	atiesrxx.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	atieclxx.exe
+	svchost.exe
+	Memory Compression
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	spoolsv.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	NielsenUpdate.exe
+	svchost.exe
+	armsvc.exe
+	RtkAudUService64.exe
+	MpDefenderCoreService.exe
+	MsMpEng.exe
+	svchost.exe
+	TeamViewer_Service.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	dllhost.exe
+	gamingservicesnet.exe
+	gamingservices.exe
+	AggregatorHost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	NisSrv.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	sihost.exe
+	svchost.exe
+	svchost.exe
+	svchost.exe
+	taskhostw.exe
+	svchost.exe
+	explorer.exe
+	svchost.exe
+	ctfmon.exe
+	svchost.exe
+	StartMenuExperienceHost.exe
+	RuntimeBroker.exe
+	SearchApp.exe
+	RuntimeBroker.exe
+	svchost.exe
+	RuntimeBroker.exe
+	PhoneExperienceHost.exe
+	RuntimeBroker.exe
+	SecurityHealthSystray.exe
+	SecurityHealthService.exe
+	RtkAudUService64.exe
+	vgtray.exe
+	RadeonSoftware.exe
+	CPUMetricsServer.exe
+	RiotClientServices.exe
+	Blitz.exe
+	Blitz.exe
+	Blitz.exe
+	Blitz.exe
+	RiotClientCrashHandler.exe
+	EpicGamesLauncher.exe
+	EpicWebHelper.exe
+	EpicWebHelper.exe
+	svchost.exe
+	unsecapp.exe
+	cncmd.exe
+	cmd.exe
+	conhost.exe
+	svchost.exe
+	AMDRSServ.exe
+	svchost.exe
+	NielsenOnline.exe
+	NielsenOnline.exe
+	jusched.exe
+	NielsenOnline64.exe
+	amdow.exe
+	SgrmBroker.exe
+	svchost.exe
+	ShellExperienceHost.exe
+	RuntimeBroker.exe
+	TextInputHost.exe
+	OfficeC2RClient.exe
+	MoUsoCoreWorker.exe
+	AdobeCollabSync.exe
+	AdobeCollabSync.exe
+	CompPkgSrv.exe
+	Microsoft.SharePoint.exe
+	AMDRSSrcExt.exe
+	OfficeClickToRun.exe
+	AppVShNotify.exe
+	SearchIndexer.exe
+	UserOOBEBroker.exe
+	svchost.exe
+	Telegram.exe
+	svchost.exe
+	svchost.exe
+	Acrobat.exe
+	Acrobat.exe
+	AcroCEF.exe
+	AcroCEF.exe
+	AcroCEF.exe
+	AcroCEF.exe
+	AcroCEF.exe
+	AcroCEF.exe
+	AcroCEF.exe
+	svchost.exe
+	msedge.exe
+	msedge.exe
+	msedge.exe
+	msedge.exe
+	msedge.exe
+	msedge.exe
+	msedge.exe
+	msedge.exe
+	msedge.exe
+	msedge.exe
+	LeagueClient.exe
+	svchost.exe
+	LeagueCrashHandler64.exe
+	LeagueClientUx.exe
+	LeagueClientUxRender.exe
+	msedge.exe
+	LeagueClientUxRender.exe
+	vgc.exe
+	LeagueClientUxRender.exe
+	LeagueClientUxRender.exe
+	audiodg.exe
+	LeagueClientUxRender.exe
+	msedge.exe
+	Blitz.exe
+	taskhostw.exe
+	Spotify.exe
+	Spotify.exe
+	Spotify.exe
+	Spotify.exe
+	Spotify.exe
+	backgroundTaskHost.exe
+	RuntimeBroker.exe
+	Spotify.exe
+	svchost.exe
+	Blitz.exe
+	LeagueClientUxRender.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	chrome.exe
+	svchost.exe
+	SearchProtocolHost.exe
+	SearchFilterHost.exe
+	svchost.exe
+	chrome.exe
+	WinRAR.exe
+	SearchProtocolHost.exe
+	WinRAR.exe
+	netsh.exe
+	conhost.exe
+	netsh.exe
+	conhost.exe
+	TraceFmt.exe
+	TraceFmt.exe
+	msedge.exe

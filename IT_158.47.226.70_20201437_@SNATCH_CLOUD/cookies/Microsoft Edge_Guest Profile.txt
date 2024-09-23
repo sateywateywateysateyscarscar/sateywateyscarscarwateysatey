@@ -1,0 +1,9 @@
+.www.tiktok.com	TRUE	/	TRUE	1688301279	__tea_cache_tokens_1988	{%22_type_%22:%22default%22%2C%22user_unique_id%22:%227248632055549855258%22%2C%22timestamp%22:1687703679677}
+.adobe.com	TRUE	/	TRUE	1687698273	gpv	express.adobe.com:it-IT:sp
+.tiktok.com	TRUE	/	FALSE	1688560484	msToken	TVUeodu7T216wkNjI1jrqZq_55gLY0n5eoUqtyN9nvhGkMebBG91B0xoUa6He4FDAhI_glnjh0sqIU5X8bJVvDFmJd-_wq38Df6fBoH2sVc=
+.tiktok.com	TRUE	/	FALSE	1692880483	passport_csrf_token	237454d06105a1856103ded592e6dc7e
+.tiktok.com	TRUE	/	TRUE	1692880483	passport_csrf_token_default	237454d06105a1856103ded592e6dc7e
+.adobe.com	TRUE	/	TRUE	1719232473	s_nr	1687703673567-New
+.adobe.com	TRUE	/	TRUE	0	s_ppv	[%22express.adobe.com/it-IT/sp/%22%2C100%2C0%2C2620%2C1%2C2620%2C1920%2C1080%2C1%2C%22L%22]
+.tiktok.com	FALSE	/	FALSE	0	tt_csrf_token	108Ubvbp-AMWi6VDMrpo7RXv12I4Hc4eta8M
+.tiktok.com	FALSE	/	FALSE	1719232480	ttwid	1%7CWlgpp2gEsj8aNqWFkfzIMJTc-Z6e1KANoDwL6gYZfp8%7C1687703679%7Cdcfcab13d9aa3e2c2ed7df79e4b004bf9dd5d1da62b778f24fcf8071392a87ea

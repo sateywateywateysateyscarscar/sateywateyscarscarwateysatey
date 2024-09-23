@@ -1,0 +1,25 @@
+www.tombola.it	FALSE	/	FALSE	1733746165	TombolaGuid	e56d73fe-33ae-47a4-b4c2-f3d7351aad3d
+www.tombola.it	FALSE	/	FALSE	1733746165	TombolaVisited	2023-11-05 14:09:26
+www.tombola.it	FALSE	/	FALSE	0	ASP.NET_SessionId	jrdx1muhihrtikczrqyxchkv
+www.tombola.it	FALSE	/	FALSE	0	__RequestVerificationToken	TgzHPUoNpygEApcBjAoy5-3R9Xtv_gfB882s0VGaJb2C3pgQkguZ3_AEKntjG5BpeUutNVuFYLykdHLRU9rOFnNsTqU1
+.vimeo.com	FALSE	/	FALSE	1702586095	__cf_bm	RhaxL6ZRtBOgvlKAkgM29yIfSwQBPMPvSMRyEpMcBBI-1702591496-1-AQ9tukx0j7EWPtO90U2wqOiwC8v3gDC0Fuo0kNqbavXyDzPqJ97VJZ0Dj1iJAlF7nYjRnWaxKVEPNm0xDdQNVY8=
+vivaldi.com	TRUE	/	FALSE	1736539496	_pk_id.4.d431	1efbe4ad026cbc55.1702591496.
+vivaldi.com	TRUE	/	FALSE	1702586095	_pk_ses.4.d431	1
+vivaldi.com	TRUE	/	TRUE	0	redirected	1
+.tombola.it	TRUE	/	TRUE	1739991494	OptanonAlertBoxClosed	2024-02-20T20:58:14.116Z
+www.tombola.it	FALSE	/	FALSE	0	TombolaUserSession	78e76bac-5def-4951-bf43-26190f116da4
+www.tombola.it	FALSE	/	FALSE	1708542281	bingosession	id=484112723&crosscheck=1344261727&lastacc=20/02/2024 20:59:10&extendedLogin=False
+proxy.tombola.it	TRUE	/	TRUE	1709064216	AWSALB	QBRPefu4SRd6iDtrpBS8BudUvcQ8jg1SHY5Cw4TCv1VLuZJvcOiuLmtQi6j2sVRH3/Fd0WBkCT6CVc0WRdoT5UP4f0ltuO07PM6awriY3JM3tTby4jcXvheuqz7h
+proxy.tombola.it	TRUE	/	FALSE	1709064216	AWSALBCORS	QBRPefu4SRd6iDtrpBS8BudUvcQ8jg1SHY5Cw4TCv1VLuZJvcOiuLmtQi6j2sVRH3/Fd0WBkCT6CVc0WRdoT5UP4f0ltuO07PM6awriY3JM3tTby4jcXvheuqz7h
+www.tombola.it	TRUE	/	TRUE	1709064349	AWSALB	zivG7E5GmUF4cxPTxnrea8ItDgffpZF6bwN12PMPktxWxLb9sHrwmu/7CclCBzCkr9Dj1TexqrVKdug4Rv/tEdK6GUHm3/UBzZzWs/1E3XHKFUPcJHsQt8vpOuGM
+www.tombola.it	TRUE	/	FALSE	1709064349	AWSALBCORS	zivG7E5GmUF4cxPTxnrea8ItDgffpZF6bwN12PMPktxWxLb9sHrwmu/7CclCBzCkr9Dj1TexqrVKdug4Rv/tEdK6GUHm3/UBzZzWs/1E3XHKFUPcJHsQt8vpOuGM
+.nr-data.net	TRUE	/	FALSE	0	JSESSIONID	880195ac1ab06bcd
+.tombola.it	TRUE	/	TRUE	1739995550	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+20+2024+23%3A05%3A50+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3b743df0-fb40-48b7-814b-ca4230908ad8&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1&geolocation=IT%3B72&AwaitingReconsent=false
+.tombola.it	TRUE	/	TRUE	1743019550	__utma	154422077.1170318999.1699193366.1708461877.1708465251.4
+.tombola.it	TRUE	/	TRUE	1708461350	__utmb	154422077.4.10.1708465251
+.tombola.it	TRUE	/	TRUE	0	__utmc	154422077
+.tombola.it	TRUE	/	TRUE	1708460150	__utmt	1
+.tombola.it	TRUE	/	TRUE	1724227550	__utmz	154422077.1699193366.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.tombola.it	TRUE	/	TRUE	1743019550	_ga	GA1.1.1170318999.1699193366
+.tombola.it	TRUE	/	TRUE	1743019553	_ga_GCXR5WVDLG	GS1.1.1708461877.4.1.1708466753.0.0.0
+.tombola.it	TRUE	/	TRUE	1724011550	optimizelyEndUserId	oeu1702591497789r0.6143332783042741

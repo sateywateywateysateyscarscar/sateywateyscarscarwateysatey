@@ -1,0 +1,24 @@
+0.17.21.1.3.5.3.3 EDOARDO.BERTON@GMAIL.COM
+code 56072
+computerKey Y2VU-F7BE-U2DO-YA2Y
+computerName EDDYPC
+date_of_birth-day 09
+date_of_birth-month 09
+date_of_birth-year 1999
+email Edoardo.berton@gmail.com
+expiry 08 / 27
+firstname Edoardo
+identifier edoardo.berton@gmail.com
+jform[username] edoardo.berton@gmail.com
+lastname Berton
+name Edoard
+name Edoardo Berton Capuano
+productkey NENL-AHDR-ZHPS-HEIW-2ZSS-EO2I-2A45
+productkey iqs6-o3hz-5nyx-butt-ninb-tbks-2a45
+reg_email__ edoardo.berton@gmail.com
+reg_email_confirmation__ edoardo.berton@gmail.com
+user[email] eddyciffer@gmail.com
+user[email] edoardo.berton@gmail.com
+user[login] Edoardo.berton@gmail.com
+username Edoardo.berton@gmail.com
+username edoardo.berton@gmail.com

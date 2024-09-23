@@ -1,0 +1,121 @@
+0.17.21.1.3.5.3.1.0.0.3.1 F77N-39EH-65N5-4259-E3FE
+0.17.21.1.3.5.3.1.0.0.3.1 F77N-39EH-65N5-4259-E3fE
+0.17.21.1.3.5.3.1.0.0.3.1 F77N39EH65N54259E3FE
+0.17.21.1.3.5.3.1.0.0.3.1 F77N39EH65N54259E3fE
+0.17.21.1.3.5.3.1.0.0.3.1 f77n-39eh-65n5-4259-e3fe
+0.17.21.1.3.5.3.3 EDOARDO.BERTON@GMAIL.COM
+0.31.23.5.5.1.5.4 EDOARDO.BERTON@GMAIL.COM
+0.31.23.5.5.1.5.4 Edoardo.berton@gmail.com
+0.31.23.5.5.1.5.4 edoardo.berton@gmail.com
+0.31.23.5.5.1.5.4 edoardoberton@gmail.com
+:r4: 3472908692
+Data di scadenza 08/27
+Input[odta:orderdata/odta:order_2/odta:invoice/CustCont:adress/adress:Nachname] Berton Capuano
+Input[odta:orderdata/odta:order_2/odta:invoice/CustCont:adress/adress:Ort/adress:ort] Montegrotto Terme
+Input[odta:orderdata/odta:order_2/odta:invoice/CustCont:adress/adress:Ort/adress:plz] 35036
+Input[odta:orderdata/odta:order_2/odta:invoice/CustCont:adress/adress:Strasse/adress:strasse] Via plinia 6
+Input[odta:orderdata/odta:order_2/odta:invoice/CustCont:contact/CustCont:Email] edoardo.berton@gmail.com
+Input[odta:orderdata/odta:order_2/odta:invoice/CustCont:contact/CustCont:Telefon] 3472908692
+Profile[firstname] Edoardo
+Profile[lastname] Berton Capuano
+RegistrationForm[email] 3asystudi0@gmail.com
+RegistrationForm[email] Eddyciffer@gmail.com
+RegistrationForm[email] Edoardo.berton@gmail.com
+RegistrationForm[email] eddyciffer@gmail.com
+address edoardo.berton@gmail.com
+address1 Via Plinia
+bname Resell
+cemail edoardo.berton@gmail.com
+checkout[billing_address][address1] Plinia, 6
+checkout[billing_address][city] Montegrotto Terme
+checkout[billing_address][country] IT
+checkout[billing_address][last_name] Capuano
+checkout[billing_address][province] PD
+checkout[billing_address][zip] 35036
+city Montegrotto Terme
+codVerCellPart2 033435
+codVerEmailPart2 434655
+code 7617
+code 9678
+computerKey Y2VU-F7BE-U2DO-YA2Y
+computerName EddyPC
+confirmemail edoardo.berton@gmail.com
+customer[email] edoardo.berton@gmail.com
+customer[first_name] Edoardo
+customer[last_name] Berton Capuano
+date_of_birth-day 09
+date_of_birth-month 09
+date_of_birth-year 1999
+email edoardo.berton@gmail.com
+email edoardoberton@gmail.com
+email_address edoardo.berton@gmail.com
+f_name Edoardo
+firstname edoardo
+fname Edoardo
+gtitle Mix & Master 🎛️🎚️
+gtitle Mixing & Master 🎛️🎚️
+gtitle Mixing (under 25 stems/traks) 🎛️
+hvcode 626dde
+input-email edoardo.berton@gmail.com
+jform[email] Edoardo.berton@gmail.com
+keyword https://www.youtube.com/watch?v=01StyzDeFIs
+keyword https://www.youtube.com/watch?v=7kWeK3ANSMw
+keyword https://www.youtube.com/watch?v=BfF4QLO-L_4
+keyword https://www.youtube.com/watch?v=Ddn4MGaS3N4
+keyword https://www.youtube.com/watch?v=EyBzlfAZ_58
+keyword https://www.youtube.com/watch?v=OBM1UVnsQQo
+keyword https://www.youtube.com/watch?v=VACeup7kEZU
+keyword https://www.youtube.com/watch?v=aeDUPlXk8vg
+keyword https://www.youtube.com/watch?v=vBy7FaapGRo
+keywords Transient
+l_name Berton Capuano
+lastName Berton Capuano
+lastname Berton
+lname Berton Capuano
+login_email 3asystudi0@gmail.com
+n add
+name Edoardo Berton Capuano
+name_2 Edoardo Berton Capuano
+nickname EddyRogue
+otp1 1
+otp2 7
+otp3 8
+otp4 5
+otp5 4
+otp6 5
+page_username Easystudio
+paypal 3asystudi0@gmail.com
+phone +393472908692
+phone 3472908692
+postal 35036
+postalCode 35036
+postalcode 35036
+q fabfilter
+q fabfiltrer
+q quanta
+q traks
+query Resell e custom
+s Jst
+s Ssl
+s alliance
+s clipper
+s fabfilter
+s fet compressor
+s jst
+s padshop
+s plug ins alliance
+s quanta
+s slate digital
+s slate trigger
+s softube
+s ssl
+s ssl drumstrip
+s trigger
+state Padova
+state_code Montegrotto Terme
+subject Offerta di lavoro Indeed
+telefono 3472908692
+username edoardo.berton@gmail.com
+username edoardoberton@gmail.com
+zip 35036
+zip_code 35036

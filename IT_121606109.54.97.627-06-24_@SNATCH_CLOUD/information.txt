@@ -1,0 +1,402 @@
+-- VIDAR STEALER - ЛУЧШИЙ STEALER НА РЫНКЕ!!!!
+-- Контакты для связи Telegram: @SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+-- ПОМНИТЕ ОПЛАТА ТОЛЬКО НА САЙТЕ ПРОЕКТА В АВТОМАТИЧЕСКОМ РЕЖИМЕ! 
+
+Chat Public: https://t.me/vidarchatopen
+Channel: https://t.me/vidarnews
+
+
+Ip: 109.54.97.63
+Country: IT
+Version: 10.2
+
+Date: 27/6/2024 15:46:36
+MachineID: d512944f-7e20-42e3-9fdd-d54f95a334fd
+GUID: {d667ac14-39fb-11ed-a5eb-806e6f6e6963}
+HWID: F281320C55332632427659-d667ac14-39fb-11ed-a5eb-806e6f6e6963
+
+Path: C:\Users\Eddy\AppData\Local\Temp\Launcher32.exe
+Work Dir: In memory
+
+Windows: Windows 11
+Install Date: 21/9/2022 23:26:49
+AV: Windows Defender
+Computer Name: EDDYPC
+User Name: Eddy
+Display Resolution: 1920x1080
+Keyboard Languages: Italiano (Italia)
+Local Time: 27/6/2024 15:46:36
+TimeZone: 1
+
+[Hardware]
+Processor: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+Cores: 6
+Threads: 6
+RAM: 16309 MB
+VideoCard: NVIDIA GeForce GTX 1050 Ti
+
+[Processes]
+System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+csrss.exe
+services.exe
+lsass.exe
+svchost.exe
+fontdrvhost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+winlogon.exe
+fontdrvhost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+dwm.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+NVDisplay.Container.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+Memory Compression
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+dasHost.exe
+NVDisplay.Container.exe
+svchost.exe
+dasHost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+spoolsv.exe
+svchost.exe
+audiodg.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+mDNSResponder.exe
+PreSonusHardwareAccessService.exe
+svchost.exe
+InstallerService.exe
+RtkAudUService64.exe
+MOTUProAudioHTTPServer.exe
+armsvc.exe
+WMIRegistrationService.exe
+RazerCentralService.exe
+GameManagerService.exe
+LDSvc.exe
+nvcontainer.exe
+motuDNSResponder.exe
+HPPrintScanDoctorService.exe
+jhi_service.exe
+CortexLauncherService.exe
+RzChromaStreamServer.exe
+MsMpEng.exe
+MpDefenderCoreService.exe
+OfficeClickToRun.exe
+svchost.exe
+svchost.exe
+LMS.exe
+wlanext.exe
+conhost.exe
+svchost.exe
+svchost.exe
+rundll32.exe
+AggregatorHost.exe
+svchost.exe
+Razer Synapse Service.exe
+NisSrv.exe
+SecurityHealthService.exe
+svchost.exe
+Razer Synapse Service Process.exe
+nvcontainer.exe
+sihost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+taskhostw.exe
+svchost.exe
+explorer.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+StartMenuExperienceHost.exe
+SearchHost.exe
+RuntimeBroker.exe
+Widgets.exe
+svchost.exe
+RuntimeBroker.exe
+NVIDIA Web Helper.exe
+conhost.exe
+dllhost.exe
+ctfmon.exe
+PhoneExperienceHost.exe
+SearchIndexer.exe
+svchost.exe
+WidgetService.exe
+RuntimeBroker.exe
+Spotify.exe
+Spotify.exe
+Spotify.exe
+Spotify.exe
+Spotify.exe
+backgroundTaskHost.exe
+RuntimeBroker.exe
+TextInputHost.exe
+Spotify.exe
+svchost.exe
+SecurityHealthSystray.exe
+RtkAudUService64.exe
+MOTUProAudio.exe
+OneDrive.exe
+ShellExperienceHost.exe
+RuntimeBroker.exe
+SystemSettingsBroker.exe
+svchost.exe
+svchost.exe
+Razer Synapse 3.exe
+MOTUDiscoveryMenu.exe
+MOTUDiscoveryMenu.exe
+Razer Central.exe
+CefSharp.BrowserSubprocess.exe
+CefSharp.BrowserSubprocess.exe
+CefSharp.BrowserSubprocess.exe
+CefSharp.BrowserSubprocess.exe
+CefSharp.BrowserSubprocess.exe
+Universal Control.exe
+RzSDKServer.exe
+RzSDKService.exe
+RzAppManager
+RzBTLEManager
+conhost.exe
+conhost.exe
+RzDeviceManager
+RzDiagnostic
+conhost.exe
+conhost.exe
+RzIoTDeviceManager
+RzSmartlightingDeviceManager
+conhost.exe
+conhost.exe
+svchost.exe
+msteams.exe
+RuntimeBroker.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+svchost.exe
+svchost.exe
+Mackie_CplApp.exe
+WavesLocalServer.exe
+RazerCortex.exe
+GameManagerService3.exe
+conhost.exe
+svchost.exe
+MoUsoCoreWorker.exe
+svchost.exe
+svchost.exe
+SystemSettings.exe
+ApplicationFrameHost.exe
+UserOOBEBroker.exe
+backgroundTaskHost.exe
+WhatsApp.exe
+backgroundTaskHost.exe
+RuntimeBroker.exe
+svchost.exe
+svchost.exe
+AdobeCollabSync.exe
+AdobeCollabSync.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+svchost.exe
+WmiPrvSE.exe
+svchost.exe
+Splice.exe
+Splice.exe
+Splice.exe
+Splice.exe
+Splice.Helper.exe
+conhost.exe
+Splice.exe
+Splice.exe
+MOTUDiscovery.exe
+MOTUDiscovery.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+chrome.exe
+RuntimeBroker.exe
+backgroundTaskHost.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+svchost.exe
+chrome.exe
+chrome.exe
+smartscreen.exe
+WinRAR.exe
+svchost.exe
+Launcher32.exe
+Setup.exe
+more.com
+conhost.exe
+Setup.exe
+WerFault.exe
+
+[Software]
+Adobe AIR - 32.0.0.125
+Adobe Shockwave Player 12.3 - 12.3.4.204
+Arturia Software Center 2.7.1 - 2.7.1
+ASIO4ALL - 2.15
+Camel Audio CamelCrusher64 - 1.01.0
+FL Studio 20
+FL Studio ASIO
+Google Chrome - 126.0.6478.127
+PACE License Support Win64 - 5.7.1.4270
+Jun-6 V 1.6.0 - 1.6.0
+LFOTool by Xfer Records
+Microsoft Edge - 126.0.2592.68
+Microsoft Edge Update - 1.3.187.41
+Microsoft Edge WebView2 Runtime - 126.0.2592.68
+Native Instruments Abbey Road 50s Drummer - 1.2.0.11
+Native Instruments Abbey Road 60s Drummer - 1.3.0.12
+Native Instruments Abbey Road 70s Drummer - 1.3.0.8
+Native Instruments Abbey Road 80s Drummer - 1.3.0.5
+Native Instruments Abbey Road Modern Drummer - 1.3.0.3
+Native Instruments Abbey Road Vintage Drummer - 1.3.0.11
+Native Instruments Absynth 5 - 5.3.1.1628
+Native Instruments Battery 4 - 4.1.6.27
+Native Instruments Battery 4 Factory Library - 1.1.0.2
+Native Instruments Driver - 1.4.0.73
+Native Instruments Drum Lab - 1.2.0.6
+Native Instruments Form - 1.1.2.1
+Native Instruments Guitar Rig 5 - 5.2.2.8
+Native Instruments India - 1.1.1.2
+Native Instruments Kontakt - 6.6.1.139
+Native Instruments Kontakt 5 - 5.8.1.43
+Native Instruments Kontakt Factory Library - 1.3.0.2
+Native Instruments Massive - 1.5.8.64
+Native Instruments Native Access - 1.14.1.156
+Native Instruments Reaktor 6 - 6.4.2.4
+Native Instruments Scarbee Vintage Keys - 1.3.0.6
+Native Instruments Session Guitarist - Strummed Acoustic - 1.1.0.1
+Native Instruments Session Horns Pro - 1.4.0.2
+Native Instruments Session Strings - 1.3.0.3
+Native Instruments Solid Bus Comp FX - 1.4.0.73
+Native Instruments Solid Dynamics FX - 1.4.0.73
+Native Instruments Solid EQ FX - 1.4.0.73
+Native Instruments Studio Drummer - 1.4.0.13
+Native Instruments Supercharger - 1.4.0.73
+Native Instruments The Gentleman - 1.2.0.3
+Native Instruments The Maverick - 1.2.0.5
+Native Instruments Transient Master FX - 1.4.0.73
+Native Instruments Una Corda - 1.0.0.13
+Native Instruments Vintage Organs - 1.5.0.3
+Native Instruments West Africa - 1.4.1.4
+OBS Studio - 30.0.2
+Pancz - Spectral Plugins s.c. - 1.0.4
+Plugin Alliance Installation Manager 1.2.4
+Razer Cortex - 10.13.12.0
+Razer Synapse - 3.9.0516.051517
+Xfer Records Serum - 1.368
+Mackie USB Driver v4.47.0 - 4.47.0
+UVI Portal 2.1.2 - 2.1.2
+Voicemeeter, The Virtual Mixing Console
+WinRAR 4.01 (32-bit) - 4.01.0
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 - 12.0.30501.0
+Adobe AIR - 32.0.0.125
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 - 12.0.21005
+Melodyne 5 - 5.03.01018
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.38.33130 - 14.38.33130.0
+digiCamControl - 2.1.2.0
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 - 11.0.61030.0
+Launcher Prerequisites (x64) - 1.0.0.0
+Supporto applicazioni Apple - 2.3.6
+swMSM - 12.0.0.1
+Ample Bass U version 3.4.0 - 3.4.0
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.34.31931 - 14.34.31931.0
+Microsoft Visual C++ 2005 Redistributable - 8.0.61001
+Microsoft Visual C++ 2005 Redistributable - 8.0.56336
+Apple Software Update - 2.1.3.127
+IZArc 4.5 - 4.5
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 - 9.0.30729
+Intel(R) C++ Redistributables for Windows* on Intel(R) 64 - 11.1.072
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 - 9.0.30729.6161
+Microsoft Visual C++ 2005 Redistributable - KB2467175 - 8.0.51011
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.34.31931 - 14.34.31931
+Adobe Refresh Manager - 1.8.0
+Adobe Acrobat Reader - Italiano - 24.002.20857
+loopMIDIBlockLegacy - 9.9.9.9
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 - 11.0.61030
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 - 11.0.61030
+teVirtualMIDI for Presonus - 1.3.0.43
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.34.31931 - 14.34.31931
+Launcher Prerequisites (x64) - 1.0.0.0
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 - 11.0.61030.0
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 - 10.0.40219
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 - 12.0.30501.0
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005 - 12.0.21005
+rtpMIDIBlockLegacy - 9.9.9.9
+QuickTime 7 - 7.79.80.95
+Steven Slate Audio Center 3.1.1 - 3.1.1
+Google Drive - 1.0
+YouTube - 1.0
+Fogli - 1.0
+Documenti - 1.0
+Gmail - 1.0
+Presentazioni - 1.0
+Microsoft OneDrive - 24.111.0602.0003
+Splice - 4.3.18047
+WhatsApp (Outdated) - 2.2326.10
+Zoom - 5.16.10 (26186)
+

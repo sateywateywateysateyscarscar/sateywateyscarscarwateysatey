@@ -1,0 +1,3098 @@
+/WS/DataSet[@LocalEntityName='ANAPER_DOC_IDENTITA']/Row[@Num='1']/ente_rilascio MC-KR
+/WS/DataSet[@LocalEntityName='ANAPER_DOC_IDENTITA']/Row[@Num='1']/num KR5143964P
+1 Docente
+108:_input Italy
+11:_input 0 - 100%
+15:_input Sì
+16 4
+17 28/08/2024
+18 31/08/2024
+19 Italiano
+19:_input No
+2 Indeterminato
+28 0
+29 Via dei Francesi n.28, Petilia Policastro 
+29yf4d628c821e3fd66da705c5f36680986b2f624084a3 costanzosilvio_92@hotmail.it
+3 103
+3 3285810496
+358aade9462f09 3285810496
+4 32
+4 36
+4c591db526113b Fiorella Curcio
+5 20/07/2024
+582c461d-bf89-40af-a86f-7f4bb54b8669-mopPresenter-billingAddressContainer-addressPresenterline1 Via dei Francesi 28
+6 27/08/2024
+6 31/08/2024
+6 Università della Calabria (Unical)
+741320f276779d 1698252577303
+7:_input Other
+885d8368a7eeee 3285810496
+ASF_acquisto_anno 2002
+ASF_acquisto_anno 2006
+ASF_acquisto_anno 2019
+ASF_civico 28
+ASF_civico 41
+ASF_cognome Camigliano
+ASF_cognome Costanzo
+ASF_decorrenza_giorno 09
+ASF_decorrenza_giorno 10
+ASF_decorrenza_giorno 25
+ASF_email costanzosilvio_92@hotmail.it
+ASF_immatricolazione_anno 2006
+ASF_immatricolazione_mese 08
+ASF_indirizzo Via Bachelet 
+ASF_km 2.000
+ASF_km 5.000
+ASF_km 8.000
+ASF_nascita_data 18 / 07 / 1964
+ASF_nascita_data 18 / 10 / 1947
+ASF_nome Luigi
+ASF_nome Rosa
+ASF_patente 1982
+ASF_ricerca_indirizzo Via dei Francesi, 28, Petilia policastro, KR
+ASF_targa BW403AP
+ASF_targa DC66OKM
+ASF_targa FX163BN
+ASF_telefono 3393525529
+CD 08457047952096
+CDFISC CSTSFN92D26C352R
+CDPOLO ecampus
+DRIV Categoria A1,A,B
+DTNASC 26/04/1992
+FNAM Serafino
+FirstName Serafino
+Keywords car
+LOGINID costanzosilvio_92@hotmail.it
+LOGINID fiorellacurcio@libero.it
+SearchBox3055 s
+TextField31 055553
+_username am1pjar856
+_username costanzosilvio_92@hotmail.it
+_username f.curcio
+a Fidenza
+address-autocomplete Via Nazionale 6
+adultsNumber 2
+anno 2012
+anno 2023
+azienda IPIA Cesare Pesenti
+azienda Margherita Hack Cotronei
+b7fead8331090a80 3285810496
+bdc341d950d409 fiorellacurcio@libero.it
+biglietti_tot 2
+birthDate 26/04/1992
+bsmart_activation_form[code] BHQHNVYG
+bsmart_activation_form[code] HOE22-BHQHNVYG
+bsmart_activation_form[code] HOE22-HWDLEQHM
+bsmart_activation_form[code] HOE22-TFLPKEZJ
+bsmart_activation_form[code] HOE22-WFVZWFAB
+cap 43045
+cap 92100
+cardnumber **** **** **** 5016
+cart-redeem-coupon-input 22SINGLESDAY
+cerca 24
+cerca 337
+cerca 456
+cerca 530
+cerca AIOLFI
+cerca ALESSIA GRUZZA
+cerca AYAD
+cerca BARALLA
+cerca BARATELLA
+cerca BARBIERI
+cerca BASTONE
+cerca BIGLIARDI
+cerca Barbieri
+cerca Barbieri 
+cerca Barbieri Mirko
+cerca Barbieri mirko
+cerca Borrelli Ottavia
+cerca CARPANINI
+cerca CASTR
+cerca CASTRO
+cerca CHIHAI
+cerca EL HABIB
+cerca EZZAKI
+cerca FAGGIANI
+cerca Faggiani
+cerca GAD
+cerca GNG
+cerca ILLUMINATO
+cerca Illuminato
+cerca Illuminatoù
+cerca LAMNAOUAR
+cerca LAMNAOUR
+cerca LAMNOUAR
+cerca Mirko Barbieri
+cerca NAOUA
+cerca OLIVA
+cerca ORFANELLO
+cerca Orfanello
+cerca PASQUALINO
+cerca RABBAS
+cerca RABONI
+cerca aioanei
+cerca aiolfi
+cerca anelli
+cerca assenza
+cerca avallone
+cerca ayad
+cerca baralla
+cerca baratella
+cerca barbieri
+cerca barbieri mirko
+cerca bastone
+cerca bertocchi
+cerca biglia
+cerca bigliardi
+cerca carpanini
+cerca cerma
+cerca di napoli
+cerca faggiani
+cerca ferie
+cerca gariboldi
+cerca illuminato
+cerca malatti
+cerca malattia
+cerca mbengue
+cerca orfanello
+cerca pasqualino pietro
+cerca permesso retribuito
+cerca pizza
+cerca questionario
+cerca raboni
+cerca rangoni
+cerca rimbor
+cerca rimborso
+cerca rinxhi
+cerca rinxi
+cerca scrutini
+cerca vinno
+cerca virtosu
+cerca zambrano
+cerca_sito DIRIGENTE
+cerca_sito MODELLI
+cerca_sito MODELLO
+cerca_sito PFI
+cerca_sito RELAZION
+cerca_sito RELAZIONE
+cerca_sito autocad
+cerca_sito autodesk
+cerca_sito download
+cerca_sito finale
+cerca_sito fusion
+cerca_sito gite
+cerca_sito libri
+cerca_sito licenza
+cerca_sito recupero
+cerca_sito relazione
+cerca_sito rendicontazione
+cerca_sito ufficio 
+cerca_sito ufficio alunni
+cerca_sito uscita didattica
+cerca_sito uscite
+certificazione Preliminary English Test - Council of Europe Level B1
+cf CSTSFN92D26C352R
+citta Fornovo di Taro
+city_name Fornovo Di Taro
+civico 6
+cognome Costanzo
+collection-view-desktop-filter-prices-maximum 12
+collection-view-desktop-filter-prices-maximum 14
+collection-view-desktop-filter-prices-maximum 15
+common_ticket_email antoniocostanzo405@gmail.com
+conoscenza_altro SolidWorks
+conpresenza_login PRIT0007.6235519
+contact-info-pres-emailItem-0confirmedEmail costanzoluigi_64@hotmail.it
+contact-info-pres-emailItem-0email costanzoluigi_64@hotmail.it
+contact-info-pres-phoneItem-0phone 3809071036
+contactDetails_addressLine1 Viale dei Giardini, 15
+contactDetails_city Rende
+contactDetails_phone +39 3393525529
+contactDetails_state CS
+contactDetails_zipCode 87036
+costo_totale 1220
+costo_unitario_effettivo 1220
+da Petilia Policastro
+data 26/01/2024
+dataConseguimento 11/07/2011
+dataConseguimento 19/12/2022
+dataDecGiuridica 01/01/2023
+dataDecGiuridica 01/09/2023
+dataDecGiuridica 08/10/2023
+dataDecGiuridica 09/01/2023
+dataDecGiuridica 09/10/2023
+dataDecGiuridica 10/01/2023
+dataDecGiuridica 25/10/2022
+dataDecGiuridica 31/10/2023
+dataInizio 09/01/2023
+dataScadenza 18/11/2023
+dataScadenza 30/11/2023
+dataScadenza 31/05/2024
+dataScadenza 31/08/2024
+dataScadenza 31/10/2023
+dataScadenza 31/12/2023
+date 10-02-2024
+date_end 01-06-2024
+date_end 01-12-2023
+date_end 02-03-2024
+date_end 02-12-2023
+date_end 04-05-2024
+date_end 04-12-2023
+date_end 05-12-2023
+date_end 08-02-2024
+date_end 09-04-2024
+date_end 09-12-2023
+date_end 10-05-2024
+date_end 11-04-2024
+date_end 12-04-2024
+date_end 12-12-2023
+date_end 13-04-2024
+date_end 15-04-2024
+date_end 15-12-2023
+date_end 16-02-2024
+date_end 16-04-2024
+date_end 16-12-2023
+date_end 18-04-2024
+date_end 18-05-2024
+date_end 18-12-2023
+date_end 19-03-2024
+date_end 19-04-2024
+date_end 20-04-2024
+date_end 20-11-2023
+date_end 21-11-2023
+date_end 21-12-2023
+date_end 22-03-2024
+date_end 22-04-2024
+date_end 22-12-2023
+date_end 23-04-2024
+date_end 23-05-2024
+date_end 23-11-2023
+date_end 24-02-2024
+date_end 24-05-2024
+date_end 24-11-2023
+date_end 25-04-2024
+date_end 25-05-2024
+date_end 25-11-2023
+date_end 26-03-2024
+date_end 26-04-2024
+date_end 27-02-2024
+date_end 27-04-2024
+date_end 28-11-2023
+date_end 29-04-2024
+date_end 30-04-2024
+date_end 30-05-2024
+date_end 30-11-2023
+date_end 31-05-2024
+date_start 01-06-2024
+date_start 01-12-2023
+date_start 02-03-2024
+date_start 02-12-2023
+date_start 04-05-2024
+date_start 04-12-2023
+date_start 05-12-2023
+date_start 08-02-2024
+date_start 09-04-2024
+date_start 09-12-2023
+date_start 10-05-2024
+date_start 11-04-2024
+date_start 12-04-2024
+date_start 12-12-2023
+date_start 13-04-2024
+date_start 15-04-2024
+date_start 15-12-2023
+date_start 16-02-2024
+date_start 16-04-2024
+date_start 16-12-2023
+date_start 18-04-2024
+date_start 18-05-2024
+date_start 18-12-2023
+date_start 19-03-2024
+date_start 19-04-2024
+date_start 20-04-2024
+date_start 20-11-2023
+date_start 21-11-2023
+date_start 21-12-2023
+date_start 22-03-2024
+date_start 22-04-2024
+date_start 22-12-2023
+date_start 23-04-2024
+date_start 23-05-2024
+date_start 23-11-2023
+date_start 24-02-2024
+date_start 24-05-2024
+date_start 24-11-2023
+date_start 25-04-2024
+date_start 25-05-2024
+date_start 25-11-2023
+date_start 26-03-2024
+date_start 26-04-2024
+date_start 27-02-2024
+date_start 27-04-2024
+date_start 28-11-2023
+date_start 29-04-2024
+date_start 30-04-2024
+date_start 30-05-2024
+date_start 30-11-2023
+date_start 31-05-2024
+departureDateVISIBLE 13 Mag 2024
+departureDateVISIBLE 17 Mag 2024
+descr_breve BILANCIO PERSONALE INIZIALE 
+descr_breve PFI PRIMO ANNO
+descr_breve PFI PRIMO ANNO PRIMO PERIODO
+descr_breve PFI PRIMO ANNO SECONDO PERIODO
+descr_breve PFI SECONDO ANNO
+descr_breve PFI SECONDO ANNO PRIMO PERIODO
+descr_breve PFI SECONDO ANNO SECONDO PERIODO
+descr_breve PFI TERZO ANNO
+descr_breve PFI TERZO ANNO PRIMO PERIODO
+descr_breve PROGETTO FORMATIVO INDIVIDUALE
+descrizione_contenuto_1 Dispositivi meccanici
+descrizione_contenuto_1 TMA 
+descrizione_contenuto_1 TMA argomenti verifica scritta 25 marzo
+dicX.desComLisElt Petilia Policastro
+dicX.desComLisElt Rende
+e74b0022b618806b 1698252577303
+edge_empty_label Giuseppe
+edge_empty_label Giuseppe 
+editor_page 1
+educ-train-city Catanzaro
+educ-train-city MILANO (MI)
+educ-train-city Novedrate (CO)
+educ-train-city Petilia Policastro (KR)
+educ-train-organisation ESEM CPT 
+educ-train-organisation ESEM CPT MILANO
+educ-train-organisation ITIS "E.Scalfaro"
+educ-train-organisation Istituto tecnico professionale 
+educ-train-organisation Università della Calabria (Unical)
+educ-train-organisation Università eCampus
+educ-train-postal-code 88837
+educ-train-qualification 2. Laurea triennale in ingegneria meccanica
+educ-train-qualification 2.Diploma di perito industriale capotecnico specializzazione meccanica
+educ-train-qualification 3. Laurea magistrale in ingegneria meccanica
+educ-train-qualification 3. Laurea triennale in ingegneria meccanica
+educ-train-qualification 4. Laurea magistrale in ingegneria meccanica
+educ-train-qualification Attestato di abilitazione PLE/carrelli elevatori verticali
+educ-train-qualification Attestato di abilitazione app. sollevamento (gru)
+educ-train-qualification Certificazioni informatiche e linguistiche 
+educ-train-qualification Diploma di perito industriale capotecnico specializzazione meccanica
+educ-train-qualification Master Universitario di I livello
+educ-train-qualification Qualifica di operatore del mobile e dell'arredamento
+educ-train-street-address-type1 Piazza Giacomo Matteotti, 15
+educ-train-street-address-type1 Via P. Bucci, Rende (CS), Italia 
+email costanzoluigi_64@hotmail.it
+email costanzosilvio_92@hotmail.it
+email cpaolin@libero.it
+email dinapolis@libero.it
+email enrico.cinzia@tim.it
+email fiorellacurcio@libero.it
+email gbilot@libero.it
+email gsingh@libero.it
+email nringh@libero.it
+email vinsfila@libero.it
+email2 costanzosilvio_92@hotmail.it
+exp-date 10/26
+expDate 10/26
+fbclc_emailConf costanzosilvio_92@hotmail.it
+fbclc_fName Serafino
+fbclc_lName Costanzo
+fbclc_userName costanzosilvio_92@hotmail.it
+ff_al 04-04-2024
+ff_al 05-04-2024
+ff_al 14-03-2024
+ff_al 17-05-2024
+ff_al 24-08-2024
+ff_al 27-11-2023
+ff_al0 24-07-2024
+ff_al1 06-04-2024
+ff_ambito Uscita didattica
+ff_ambito Uscita didattica orientamento a Torino, Oval Lingotto Fiere – “A&T fiera delle tecnologie 4.0 – 5.0
+ff_annoscol 2023-2024
+ff_arrivoa1 Parma
+ff_arrivoa1 Torino, Oval Lingotto Fiere – “A&T fiera delle tecnologie 4.0 – 5.0
+ff_arrivoa2 Milano Centrale
+ff_arrivoa3 Rho Fiera
+ff_dal 04-04-2024
+ff_dal 05-04-2024
+ff_dal 14-03-2024
+ff_dal 16-05-2024
+ff_dal 25-07-2024
+ff_dal 27-11-2023
+ff_dal0 20-07-2024
+ff_dal1 06-04-2024
+ff_datamissione1 09-11-2023
+ff_datamissione1 16-02-2024
+ff_datamissione2 09-11-2023
+ff_datamissione3 09-11-2023
+ff_duratamissione1 Circa 12 ore 
+ff_ggferieutilizzati 0
+ff_ggferieutilizzati 1
+ff_ggferieutilizzati 2
+ff_ggferieutilizzati 4
+ff_ggferieutilizzati 6
+ff_ggfestivitasoppresse 0
+ff_importobiglietti1 28.24
+ff_luogomissione EICMA MILANO RHO-FIERA
+ff_luogomissione Torino
+ff_n1 1
+ff_ngiorni 1
+ff_nomeistituto Fornovo 
+ff_nomeistituto Fornovo di Taro 
+ff_notrec scostanzo@iissgadda.it
+ff_numgglavorativiferie 1
+ff_numgglavorativiferie 2
+ff_numgglavorativiferie 26
+ff_numgglavorativiferie1 1
+ff_numgglavorativifestivita 4
+ff_partenzada1 Fornovo 
+ff_partenzada1 Fornovo ( piazzale antistante la scuola)
+ff_partenzada2 Parma
+ff_partenzada3 Milano Centrale
+ff_partenzaore1 7:20
+ff_partenzaore1 7:30
+ff_partenzaore2 8:18
+ff_partenzaore3 10:00
+ff_residenza Petilia Policastro - via dei Francesi - 28
+ff_rientroore1 18:58
+ff_rientroore1 19:00
+ff_totgiorniferie 1
+ff_totgiorniferie 2
+ff_totgiorniferie 26
+ff_totgiornifestivita 1
+ff_totgiornifestivita 4
+filename PROGRAMMAZIONE CLASSI SECONDE (6).doc
+firstName Fiorella
+firstName Serafino
+firstName Vincenzo
+firstName carmine
+firstName giacomo
+firstName giuseppina
+firstName nicolas
+firstName salvatore
+firstName silvio
+fname silvio
+formCompilazioneTo.cfParteContratto CSTSFN92D26C352R
+formCompilazioneTo.inp.frontestpizioTo.numeroRegistrazione 1291
+form[address_data][address] Viale dei Giardini 15
+form[address_data][city] Rende
+form[basic_personal_data][email] costanzosilvio_92@hotmail.it
+form[basic_personal_data][name] Serafino
+form[basic_personal_data][surname] Costanzo
+form[mobile_number][mobileNumber] 3393525529
+form_fields[field_74a8ad8] 3393525529
+form_fields[field_add0f6e] costanzosilvio_92@hotmail.it
+form_fields[field_ed571b6] silvio costanzo
+hd_oggetto Problematiche relative alla chiusura del progetto nella parte relativa allineamento quota forniture e servizi
+holder Serafino Costanzo
+iOttText 361987
+iSigninName 3393525529
+iSigninName costanzoluigi_64@hotmail.it
+iVerifyText 062103
+iban IT23X0760104400001064384439
+identifier costanzoserafino@outlook.it
+identifier costanzosilvio_92@hotmail.it
+importo_aut_cor_4 6490,40
+importo_aut_cor_5 0
+importo_aut_cor_5 1220
+importo_aut_cor_5 1220,00
+indirizzo Via Nazionale 
+input_34b15cb7-a4e4-4638-865b-a48918e9dfc2 339 352 5529
+input_468bb9af-ad80-4ea6-bb2c-0a627998594e Costanzo
+input_aa676fe3-86c9-4bf5-a9d8-d7d1385dd9ca costanzosilvio_92@hotmail.it
+input_acc5d0c4-c0a9-4427-95a9-b66c592f062d 88837
+input_b016ea6b-74bb-4fde-85c7-84d2b1f29c15 costanzosilvio_92@hotmail.it
+input_c01c888f-b63c-4cb1-8904-6cebda183c7d CSTSFN92D26C352R
+input_ca77adae-a9c0-473b-afd8-595fdb718bcf 339 352 5529
+input_d75c3160-793b-4014-a4a3-80b6d7a24fe9 Via dei Francesi 
+input_e03dbfd0-e809-491a-90d3-c5a12da1dde4 28
+input_f44e6db9-649f-4974-9662-d770e5105d36 Serafino
+input_f48a2435-f1c2-4de1-a67f-708e5e68313a Casa Fiorella Cu
+institutionSelector-autocomplete Gadda Fornovo Professionale (Langhirano)
+items.0.name Acutil Fosforo Advance 50 Compresse
+items.0.quantity 1
+items.1.name Spazzolino White Sensation Setole Medie
+items.1.quantity 1
+items.2.expected_refund 6.63
+items.2.name Sanavita Omega 3 Bluefish Integratore Per Funzione Cardiaca 60 Capsule
+items.2.quantity 1
+j_username  s.costanzo14
+j_username costanzosilvio_92@hotmail.it
+j_username s.costanzo14
+keyword https://www.youtube.com/watch?v=MIglkoVxz5E
+keyword https://www.youtube.com/watch?v=ZLokapCJvfA
+keyword https://www.youtube.com/watch?v=cD7pMbzhG8Y
+lastName Barbieri
+lastName Costanzo
+lastName Curcio
+lastName bilotti
+lastName costanzo
+lastName dinapoli
+lastName paolini
+lastName rinxhi
+lastName singh
+listaDichiarazioni[3].dichUtente.desTesLibCnd Rende
+listaLIC1[0].desCerLin Certificazione linguistica
+listaLIC1[0].desEntLuoCns LRN (Learning Resource Network), PIGRECO SRLS, Angri (SA)
+listaLIC1[0].desLinStr Inglese
+listaMAST[0].annAccCnsFE 2022/23
+listaMAST[0].desIstLuoCns Università Telematica eCampus
+listaMAST[0].desMas Master di Primo Livello in L'INSEGNAMENTO DI SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE  NELLE SCUOLE SECONDARIE DI I E II GRADO
+listaServizi[0].annScoFE 2022/23
+listaServizi[0].annScoFE 2023/24
+listaServizi[0].desScuPstSer ISTITUTO COMPRENSIVO G.MARCONI PETILIA POLICASTRO
+listaServizi[0].desScuPstSer Istituto Istruzione Superiore "Carlo Emilio Gadda"
+listaServizi[0].desScuPstSer Istituto Professionale per l'Industria e l'Artigianato "Cesare Pesenti "
+listaServizi[0].numGioCpsSerStr 235
+listaServizi[0].numGioCpsSerStr 246
+listaServizi[0].numGioCpsSerStr 260
+listaServizi[0].numGioCpsSerStr 284
+listaServizi[0].numGioCpsSerStr 298
+listaServizi[0].numGioCpsSerStr 328
+listaServizi[0].numGioCpsSerStr 365
+listaTitoliAccesso[0].titoloStudio.decimali 00
+listaTitoliAccesso[0].titoloStudio.desLuoCnsCfu Università della Calabria (Unical)
+listaTitoliAccesso[0].titoloStudio.desLuoCnsTit Università della Calabria (Unical)
+listaTitoliAccesso[0].titoloStudio.numBasVotTit 110
+listaTitoliAccesso[0].titoloStudio.numVotCenTit 94
+listaTitoliAccesso[0].titoloStudio.voto 103
+listaTitoliAccesso[1].titoloStudio.decimali 00
+listaTitoliAccesso[1].titoloStudio.desLuoCnsCfu Università della Calabria (Unical)
+listaTitoliAccesso[1].titoloStudio.desLuoCnsTit Università della Calabria (Unical)
+listaTitoliAccesso[1].titoloStudio.numBasVotTit 110
+listaTitoliAccesso[1].titoloStudio.numVotCenTit 94
+listaTitoliAccesso[1].titoloStudio.voto 103
+lista[0].annoAccademico 2022/2023
+lista[0].conseguimento.luogo AICA (Associazione Italiana per l'Informatica ed il Calcolo Automatico)
+lista[0].conseguimento.luogo Learning Resource Network
+lista[0].conseguimento.luogo UNIVERSITÀ eCAMPUS 
+lista[0].titolo Certificato ECDL
+lista[0].titolo DIDATTICA DELL’INSEGNAMENTO CON LA METODOLOGIA CLIL
+lista[0].titolo ESOL International CEFR C2 (Reading, Use of English, Writing, Listening, Speaking and Interaction)
+lista[0].titolo INGLESE - DIDATTICA DELL'INSEGNAMENTO CON LA METODOLOGIA CLIL [CPDC011]
+lista[0].titolo L'INSEGNAMENTO DI SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE NELLE SCUOLE SECONDARIE DI I E II GRADO
+lista[1].annoAccademico 2022/2023
+lista[1].annoAccademico 2023/2024
+lista[1].conseguimento.luogo MEDIAFORM E.Q.I.A. (Educational Qualifications and International Assessments)
+lista[1].conseguimento.luogo UNIVERSITÀ eCAMPUS 
+lista[1].titolo L'INSEGNAMENTO DELLE MATERIE SCIENTIFICHE NEGLI ISTITUTI SECONDARI DI II GRADO: MATEMATICA E FISICA
+lista[1].titolo L'INSEGNAMENTO DI SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE NELLE SCUOLE SECONDARIE DI I E II GRADO
+lista[1].titolo USO DIDATTICO DEL TABLET (TAB)
+lista[2].annoAccademico 2023/2024
+lista[2].conseguimento.luogo CERTIPASS
+lista[2].conseguimento.luogo UNIVERSITÀ eCAMPUS 
+lista[2].titolo EIPASS LIM - AVANZATO
+lista[2].titolo L'INSEGNAMENTO DELLE MATERIE SCIENTIFICHE NEGLI ISTITUTI SECONDARI DI II GRADO: MATEMATICA E FISICA
+lista[3].conseguimento.luogo MEDIAFORM E.Q.I.A. (Educational Qualifications and International Assessments)
+lista[3].titolo CODING, PENSIERO COMPUTAZIONALE E ROBOTICA EDUCATIVA NEL CONTESTO SCOLASTICO
+lista[4].conseguimento.luogo MEDIAFORM E.Q.I.A. (Educational Qualifications and International Assessments)
+lista[4].titolo LA LAVAGNA INTERATTIVA MULTIMEDIALE NELLA DIDATTICA SPECIALE (LIM) AVANZATO
+lname costanzo
+login BGII0023.5922083
+login PRIT0007.5247130
+login PRIT0007.6235519
+login.email fiorellacurcio@libero.it
+login_email costanzosilvio_92@hotmail.it
+login_type[email] costanzosilvio_92@hotmail.it
+loginfmt costanzoluigi_64@hotmail.it
+loginfmt costanzosilvio_92@hotmail.it
+loginfmt s
+loginfmt scostanzo@iissgadda.it
+luogoConseguimento Istituto Tecnico Industriale Statale "E. Scalfaro" di Catanzaro
+luogoConseguimento ​Università della CALABRIA - RENDE (CS)
+mail costanzosilvio_92@hotmail.it
+mail1 costanzosilvio_92@hotmail.it
+mail2 costanzosilvio_92@hotmail.it
+module_name Applicazione dei metodi di manutenzione - Telemanutenzione e teleassistenza
+module_name Argomenti verifica scritta 21 maggio
+module_name Argomenti verifica scritta 26 aprile
+module_name Livelli di manutenzione. Interventi manutentivi
+module_name Proprietà dei materiali
+module_name Sicurezza nella manutenzione
+module_name TMA 
+module_name TMA argomenti verifica orale, verifica scritta 25 marzo 
+module_name TMA argomenti verifica scritta 25 marzo
+module_name TMA argomenti verifica scritta 25 marzo, verifica orale mese di aprile
+module_name Unità B1 Sicurezza nella manutenzione
+module_name Unità B1 e B2
+module_name Unità B2 Tutela ambientale
+module_name Unità C1
+module_name Unità R1 TMA
+module_name Unità R2 prima parte TMA
+module_name Unità R2 seconda parte TMA
+module_name Velocità di taglio
+nickname SilvioCurcio
+nome Fiorella 
+nome Fiorella Curcio
+nome Serafino
+nome silvio
+num_elementi_effettivi 1
+ora_fin_mod 12:00
+ora_fin_mod 14:00
+ora_fin_new 11:00
+ora_fin_new 12:00
+ora_ini_mod 10:00
+ora_ini_mod 11:00
+ora_ini_new 10:00
+ora_ini_new 11:00
+param-10 Luigi
+param-10 Serafino
+param-11 Costanzo
+param-11 Costanzo 
+param-17 3393525529
+param-17 3809071036
+param-20 costanzosilvio_92@hotmail.it
+passengerInput-ticket 1 Adulto, 0 Ragazzi
+perso-info-addressLine1-0 Via Pio La Torre n.06 Pagliarelle (Kr)
+perso-info-addressLine1-0 Via dei Francesi 28
+perso-info-city-0 Crotone
+perso-info-city-0 Petilia Policastro
+perso-info-city-0 Rende
+perso-info-city-0 Rende (CS)
+perso-info-email-input-0 fontana85@alice.it
+perso-info-firstName Luigi
+perso-info-firstName Serafino
+perso-info-firstName Vincenzo
+perso-info-lastName Fontana
+perso-info-phone-form-0-number 3393525529
+perso-info-phone-form-0-number 3771514643
+perso-info-postal-code-0 88837
+phone 3393525529
+phoneNumber 339 352 5529
+phonenumber 3393525529
+phonenumber-confirm 3393525529
+popup_evento_ora 08:03
+popup_evento_ora 08:05
+popup_evento_ora 08:06
+popup_evento_ora 08:07
+popup_evento_ora 08:08
+popup_evento_ora 08:09
+popup_evento_ora 08:10
+popup_evento_ora 08:11
+popup_evento_ora 08:12
+popup_evento_ora 08:13
+popup_evento_ora 08:15
+popup_evento_ora 08:16
+popup_evento_ora 08:18
+popup_evento_ora 08:20
+popup_evento_ora 08:22
+popup_evento_ora 08:25
+popup_evento_ora 08:30
+popup_evento_ora 08:35
+popup_evento_ora 08:37
+popup_evento_ora 08:51
+popup_evento_ora 09:00
+popup_evento_ora 09:01
+popup_evento_ora 09:05
+popup_evento_ora 09:06
+popup_evento_ora 09:09
+popup_evento_ora 09:12
+popup_evento_ora 09:35
+popup_evento_ora 09:38
+popup_evento_ora 10:00
+popup_evento_ora 10:04
+popup_evento_ora 10:14
+popup_evento_ora 10:39
+popup_evento_ora 11:37
+popup_evento_ora 12:14
+popup_evento_ora 12:25
+popup_evento_ora 12:37
+popup_evento_ora 12:49
+popup_evento_ora 13:06
+popup_evento_ora 13:13
+popup_evento_ora 13:43
+popup_evento_ora_u 08:03
+popup_evento_ora_u 08:05
+popup_evento_ora_u 08:06
+popup_evento_ora_u 08:07
+popup_evento_ora_u 08:08
+popup_evento_ora_u 08:09
+popup_evento_ora_u 08:10
+popup_evento_ora_u 08:11
+popup_evento_ora_u 08:12
+popup_evento_ora_u 08:13
+popup_evento_ora_u 08:16
+popup_evento_ora_u 08:21
+popup_evento_ora_u 09:01
+popup_evento_ora_u 09:05
+popup_evento_ora_u 09:06
+popup_evento_ora_u 09:35
+popup_evento_ora_u 09:38
+popup_evento_ora_u 10:00
+popup_evento_ora_u 10:04
+popup_evento_ora_u 10:14
+popup_evento_ora_u 10:39
+popup_evento_ora_u 11:00
+popup_evento_ora_u 11:09
+popup_evento_ora_u 11:10
+popup_evento_ora_u 11:30
+popup_evento_ora_u 11:39
+popup_evento_ora_u 11:43
+popup_evento_ora_u 12:00
+popup_evento_ora_u 12:06
+popup_evento_ora_u 12:12
+popup_evento_ora_u 12:14
+popup_evento_ora_u 12:20
+popup_evento_ora_u 12:30
+popup_evento_ora_u 12:37
+popup_evento_ora_u 12:46
+popup_evento_ora_u 12:49
+popup_evento_ora_u 13:00
+popup_evento_ora_u 13:06
+popup_evento_ora_u 13:13
+popup_evento_ora_u 13:43
+popup_evento_ora_u 18:07
+posizione Docente
+postcode 88837
+proceduraConseguimento Diploma di Perito Industriale Capotecnico Specializzazione Meccanica
+proceduraConseguimento Laurea Magistrale in Ingegneria Meccanica
+proceduraConseguimento Laurea Magistrale in ingegneria meccanica
+profile.lastName costanzo
+progressive_susi_email costanzosilvio_92@hotmail.it
+q 10/24
+q D.M 10/24
+q DM10
+q https://www.youtube.com/watch?v=2Ta2VIkxZPI
+q https://www.youtube.com/watch?v=6f6OL-w9B7A
+q https://www.youtube.com/watch?v=Fqey8LxQxFU
+q https://www.youtube.com/watch?v=G-D80U_u3sk
+q https://www.youtube.com/watch?v=Gsq_dIQMeng
+q https://www.youtube.com/watch?v=HcxbASmfiGk
+q https://www.youtube.com/watch?v=NJVxa_bpVrk
+q https://www.youtube.com/watch?v=RXZk1OWeZo0
+q https://www.youtube.com/watch?v=URUWLd6utSk
+q https://www.youtube.com/watch?v=Z-KZxITD77s
+q https://www.youtube.com/watch?v=ZLokapCJvfA
+q https://www.youtube.com/watch?v=cD7pMbzhG8Y
+q https://www.youtube.com/watch?v=e5GR_e3ZdxU
+q https://www.youtube.com/watch?v=eO1CPitXoJw
+q https://www.youtube.com/watch?v=hBAvM50QEPI
+q https://www.youtube.com/watch?v=iawgB2CDCrw
+q https://www.youtube.com/watch?v=jZXtzIPG3TM
+q https://www.youtube.com/watch?v=m0B3T02IZXQ
+q https://www.youtube.com/watch?v=sNAkJUtn8WA
+q https://www.youtube.com/watch?v=ydXC5bidYWE
+quote_driver_cityOfBirth Petilia Policastro (KR)
+quote_driver_residentialAddress_city Petilia Policastro (KR)
+request[anonymous_requester_email] costanzoluigi_64@hotmail.it
+request[custom_fields][360005001072] Luigi Costanzo
+s oleodinamico
+s_1_1_0_0 INPS.2203.02/06/2023.0085226
+search CONTRATTI
+search-engine-input pargamena
+search-input griffi
+signName Serafino
+singin-email costanzosilvio_92@hotmail.it
+step_2[tutorInfo][descriptionTitle] Laureato in ingegneria meccanica offre ripetizioni di matematica, fisica e meccanica 
+step_2[tutorInfo][descriptionTitle] Laureato in ingegneria offre ripetizioni di matematica, fisica e meccanica
+step_3[tutorInfo][firstEducationLevel] Diploma di perito capotecnico industriale specializzazione meccanica
+step_3[tutorInfo][secondEducationLevel] Laurea triennale in ingegneria meccanica
+step_3[tutorInfo][thirdEducationLevel] Laurea magistrale in ingegneria meccanica
+step_5[skype] costanzoserafino_92@outlook.it
+step_5[tutorInfo][city] Salsomaggiore Terme 
+step_5[tutorInfo][countryCode] 43039
+step_5[tutorInfo][number] 20
+step_5[tutorInfo][street] via giardini
+step_6[tutorPricesPercorsi][1] 12
+step_6[tutorPricesPercorsi][2] 15
+step_6[tutorPricesPercorsi][3] 18
+step_6[tutorPrices][1] 15
+step_6[tutorPrices][2] 18
+step_6[tutorPrices][3] 20
+step_7[fiscalCode] CSTSFN92D26C352R
+targa DC660KM
+taxCode CRCFLL67H52G508E
+totale_6 14.290,40
+totale_6 15.510,40
+tx_fesearchintable_pi1[sword] assistenza
+tx_fesearchintable_pi1[sword] laurea
+txtCerca fisic
+txtCerca fisica
+txtUsr s.costanzo14
+undefined KI2CUY
+undefinedcode MONDO
+user costanzosilvio_92@hotmail.it
+user ecampus
+userIdentifier antoniocostanzo405@gmail.com
+userLoginId enrico.cinzia@tim.it
+user[email] costanzosilvio_92@hotmail.it
+username SIlvioCost
+username angela.audia
+username costanzosilvio_92@hotmail.it
+username fiorella.curcio
+username s.costanzo14
+utente SilvioCurcio
+ux-form-control-232619 SolidWorks
+ux-form-control-406099 SolidWorks
+ux-form-control-751363 LA LAVAGNA INTERATTIVA MULTIMEDIALE NELLA DIDATTICA SPECIALE (LIM) AVANZATO
+ux-form-control-758443 6. LA LAVAGNA INTERATTIVA MULTIMEDIALE NELLA DIDATTICA SPECIALE (LIM) AVANZATO
+ux-form-control-786658 Certificazioni linguistiche
+votazioneBase 100
+votazioneBase 110
+votazioneOriginale 103
+votazioneOriginale 93
+votazioneRapportata 102
+votazioneRapportata 103
+work-expe-city Bergamo (BG)
+work-expe-city Bergamo (KR)
+work-expe-city Cefalù
+work-expe-city Cefalù (PA)
+work-expe-city Cotronei (KR)
+work-expe-city Crotone
+work-expe-city Crotone 
+work-expe-city Crotone (KR)
+work-expe-city Milano
+work-expe-city Milano (MI)
+work-expe-city Modena (MO)
+work-expe-city Novara di Sicilia
+work-expe-employer Ada Fontana impresa edile generale di costruzioni
+work-expe-employer Buscemi Paola lavori impianti elettrici
+work-expe-employer CONSORZIO SBT STRABAG AUSTRIA settore edile
+work-expe-employer Fronter impresa generale di costruzioni
+work-expe-employer ISTRUZIONE SECONDARIA SUPERIORE - MARGHERITA HACK Cotronei (KR)
+work-expe-employer Istituto Professionale per l'Industria e l'Artigianato "Cesare Pesenti"
+work-expe-employer MARGHERITA HACK COTRONEI (KR)
+work-expe-employer Margherita Hack Cotronei 
+work-expe-employer Metro Blu S.C.A.R.L 
+work-expe-employer PAVIMENTAL SPA
+work-expe-employer TOTO S.P.A. COSTRUZIONI GENERALI
+work-expe-employer V.G.M. di Venturino Marcello impresa edile costruzioni
+work-expe-employer Voema impresa edile costruzioni 
+/WS/DataSet[@LocalEntityName='ANAPER_DOC_IDENTITA']/Row[@Num='1']/ente_rilascio MC-KR
+/WS/DataSet[@LocalEntityName='ANAPER_DOC_IDENTITA']/Row[@Num='1']/num KR5143964P
+108:_input Italy
+11:_input 0 - 100%
+15:_input Sì
+19 Italiano
+19:_input No
+3 103
+358aade9462f09 3285810496
+4c591db526113b Fiorella Curcio
+6 Università della Calabria (Unical)
+741320f276779d 1698252577303
+7:_input Other
+885d8368a7eeee 3285810496
+ASF_acquisto_anno 2002
+ASF_acquisto_anno 2006
+ASF_acquisto_anno 2019
+ASF_civico 28
+ASF_civico 41
+ASF_cognome Camigliano
+ASF_cognome Costanzo
+ASF_decorrenza_giorno 09
+ASF_decorrenza_giorno 10
+ASF_decorrenza_giorno 25
+ASF_email costanzosilvio_92@hotmail.it
+ASF_immatricolazione_anno 2006
+ASF_immatricolazione_mese 08
+ASF_indirizzo Via Bachelet 
+ASF_km 2.000
+ASF_km 5.000
+ASF_km 8.000
+ASF_nascita_data 18 / 07 / 1964
+ASF_nascita_data 18 / 10 / 1947
+ASF_nome Luigi
+ASF_nome Rosa
+ASF_patente 1982
+ASF_ricerca_indirizzo Via dei Francesi, 28, Petilia policastro, KR
+ASF_targa BW403AP
+ASF_targa DC66OKM
+ASF_targa FX163BN
+ASF_telefono 3393525529
+CD 08457047952096
+CDFISC CSTSFN92D26C352R
+CDPOLO ecampus
+DRIV Categoria A1,A,B
+DTNASC 26/04/1992
+FNAM Serafino
+FirstName Serafino
+Keywords car
+LOGINID costanzosilvio_92@hotmail.it
+LOGINID fiorellacurcio@libero.it
+TextField31 055553
+_username am1pjar856
+_username costanzosilvio_92@hotmail.it
+_username f.curcio
+a Fidenza
+address-autocomplete Via Nazionale 6
+anno 2012
+azienda IPIA Cesare Pesenti
+azienda Margherita Hack Cotronei
+b7fead8331090a80 3285810496
+bdc341d950d409 fiorellacurcio@libero.it
+bsmart_activation_form[code] BHQHNVYG
+bsmart_activation_form[code] HOE22-BHQHNVYG
+bsmart_activation_form[code] HOE22-HWDLEQHM
+bsmart_activation_form[code] HOE22-TFLPKEZJ
+bsmart_activation_form[code] HOE22-WFVZWFAB
+cap 87036
+cap 92100
+cardnumber **** **** **** 5016
+cart-redeem-coupon-input 22SINGLESDAY
+cerca 337
+cerca 456
+cerca AIOLFI
+cerca AYAD
+cerca BARALLA
+cerca BARATELLA
+cerca BARBIERI
+cerca BASTONE
+cerca BIGLIARDI
+cerca Barbieri
+cerca Barbieri 
+cerca Barbieri Mirko
+cerca Borrelli Ottavia
+cerca CARPANINI
+cerca CASTR
+cerca CASTRO
+cerca CHIHAI
+cerca EL HABIB
+cerca EZZAKI
+cerca FAGGIANI
+cerca Faggiani
+cerca GAD
+cerca ILLUMINATO
+cerca Illuminato
+cerca Illuminatoù
+cerca LAMNAOUAR
+cerca LAMNAOUR
+cerca LAMNOUAR
+cerca Mirko Barbieri
+cerca NAOUA
+cerca OLIVA
+cerca ORFANELLO
+cerca Orfanello
+cerca PASQUALINO
+cerca RABBAS
+cerca RABONI
+cerca aioanei
+cerca aiolfi
+cerca anelli
+cerca assenza
+cerca avallone
+cerca baratella
+cerca barbieri
+cerca barbieri mirko
+cerca bastone
+cerca biglia
+cerca bigliardi
+cerca carpanini
+cerca faggiani
+cerca ferie
+cerca gariboldi
+cerca illuminato
+cerca malatti
+cerca malattia
+cerca mbengue
+cerca orfanello
+cerca permesso retribuito
+cerca raboni
+cerca rimbor
+cerca rimborso
+cerca rinxhi
+cerca rinxi
+cerca virtosu
+cerca zambrano
+cerca_sito MODELLI
+cerca_sito MODELLO
+cerca_sito PFI
+cerca_sito autocad
+cerca_sito autodesk
+cerca_sito download
+cerca_sito fusion
+cerca_sito libri
+cerca_sito licenza
+cerca_sito ufficio 
+cerca_sito ufficio alunni
+certificazione Preliminary English Test - Council of Europe Level B1
+cf CSTSFN92D26C352R
+city_name Fornovo Di Taro
+code 76637779
+collection-view-desktop-filter-prices-maximum 12
+collection-view-desktop-filter-prices-maximum 14
+collection-view-desktop-filter-prices-maximum 15
+common_ticket_email antoniocostanzo405@gmail.com
+conoscenza_altro SolidWorks
+contactDetails_addressLine1 Viale dei Giardini, 15
+contactDetails_city Rende
+contactDetails_phone +39 3393525529
+contactDetails_state CS
+contactDetails_zipCode 87036
+costo_totale 1220
+costo_unitario_effettivo 1220
+da Petilia Policastro
+data 26/01/2024
+dataDecGiuridica 01/01/2023
+dataDecGiuridica 01/09/2023
+dataDecGiuridica 09/01/2023
+dataDecGiuridica 09/10/2023
+dataDecGiuridica 10/01/2023
+dataDecGiuridica 31/10/2023
+dataInizio 09/01/2023
+dataScadenza 18/11/2023
+dataScadenza 30/11/2023
+dataScadenza 31/10/2023
+date 10-02-2024
+date_end 01-12-2023
+date_end 02-03-2024
+date_end 02-12-2023
+date_end 04-12-2023
+date_end 05-12-2023
+date_end 08-02-2024
+date_end 09-04-2024
+date_end 09-12-2023
+date_end 11-04-2024
+date_end 12-04-2024
+date_end 12-12-2023
+date_end 13-04-2024
+date_end 15-04-2024
+date_end 15-12-2023
+date_end 16-02-2024
+date_end 16-04-2024
+date_end 16-12-2023
+date_end 18-04-2024
+date_end 18-12-2023
+date_end 19-03-2024
+date_end 19-04-2024
+date_end 20-04-2024
+date_end 20-11-2023
+date_end 21-11-2023
+date_end 21-12-2023
+date_end 22-03-2024
+date_end 22-04-2024
+date_end 22-12-2023
+date_end 23-04-2024
+date_end 23-11-2023
+date_end 24-02-2024
+date_end 24-11-2023
+date_end 25-04-2024
+date_end 25-11-2023
+date_end 26-03-2024
+date_end 26-04-2024
+date_end 27-02-2024
+date_end 27-04-2024
+date_end 28-11-2023
+date_end 30-11-2023
+date_start 01-12-2023
+date_start 02-03-2024
+date_start 02-12-2023
+date_start 04-12-2023
+date_start 05-12-2023
+date_start 08-02-2024
+date_start 09-04-2024
+date_start 09-12-2023
+date_start 11-04-2024
+date_start 12-04-2024
+date_start 12-12-2023
+date_start 13-04-2024
+date_start 15-04-2024
+date_start 15-12-2023
+date_start 16-02-2024
+date_start 16-04-2024
+date_start 16-12-2023
+date_start 18-04-2024
+date_start 18-12-2023
+date_start 19-03-2024
+date_start 19-04-2024
+date_start 20-04-2024
+date_start 20-11-2023
+date_start 21-11-2023
+date_start 21-12-2023
+date_start 22-03-2024
+date_start 22-04-2024
+date_start 22-12-2023
+date_start 23-04-2024
+date_start 23-11-2023
+date_start 24-02-2024
+date_start 24-11-2023
+date_start 25-04-2024
+date_start 25-11-2023
+date_start 26-03-2024
+date_start 26-04-2024
+date_start 27-02-2024
+date_start 27-04-2024
+date_start 28-11-2023
+date_start 30-11-2023
+descr_breve BILANCIO PERSONALE INIZIALE 
+descr_breve PFI PRIMO ANNO
+descr_breve PFI PRIMO ANNO PRIMO PERIODO
+descr_breve PFI SECONDO ANNO
+descr_breve PFI SECONDO ANNO PRIMO PERIODO
+descr_breve PFI TERZO ANNO
+descr_breve PFI TERZO ANNO PRIMO PERIODO
+descr_breve PROGETTO FORMATIVO INDIVIDUALE
+descrizione_contenuto_1 Dispositivi meccanici
+descrizione_contenuto_1 TMA 
+descrizione_contenuto_1 TMA argomenti verifica scritta 25 marzo
+e74b0022b618806b 1698252577303
+edge_empty Costanzo Serafino
+edge_empty_label Giuseppe
+edge_empty_label Giuseppe 
+editor_page 1
+educ-train-city Catanzaro
+educ-train-city MILANO (MI)
+educ-train-city Novedrate (CO)
+educ-train-city Petilia Policastro (KR)
+educ-train-organisation ESEM CPT 
+educ-train-organisation ESEM CPT MILANO
+educ-train-organisation ITIS "E.Scalfaro"
+educ-train-organisation Istituto tecnico professionale 
+educ-train-organisation Università della Calabria (Unical)
+educ-train-organisation Università eCampus
+educ-train-postal-code 88837
+educ-train-qualification 2. Laurea triennale in ingegneria meccanica
+educ-train-qualification 2.Diploma di perito industriale capotecnico specializzazione meccanica
+educ-train-qualification 3. Laurea magistrale in ingegneria meccanica
+educ-train-qualification 3. Laurea triennale in ingegneria meccanica
+educ-train-qualification 4. Laurea magistrale in ingegneria meccanica
+educ-train-qualification Attestato di abilitazione PLE/carrelli elevatori verticali
+educ-train-qualification Attestato di abilitazione app. sollevamento (gru)
+educ-train-qualification Certificazioni informatiche e linguistiche 
+educ-train-qualification Diploma di perito industriale capotecnico specializzazione meccanica
+educ-train-qualification Master Universitario di I livello
+educ-train-qualification Qualifica di operatore del mobile e dell'arredamento
+educ-train-street-address-type1 Piazza Giacomo Matteotti, 15
+educ-train-street-address-type1 Via P. Bucci, Rende (CS), Italia 
+email costanzosilvio_92@hotmail.it
+email cpaolin@libero.it
+email dinapolis@libero.it
+email enrico.cinzia@tim.it
+email fiorellacurcio@libero.it
+email gbilot@libero.it
+email gsingh@libero.it
+email nringh@libero.it
+email vinsfila@libero.it
+emailAddress costanzo.docente@istitutopesenti.it
+emailaddr costanzosilvio_92@hotmail.it
+exp-date 10/26
+expDate 10/26
+fbclc_emailConf costanzosilvio_92@hotmail.it
+fbclc_fName Serafino
+fbclc_lName Costanzo
+fbclc_userName costanzosilvio_92@hotmail.it
+ff_al 04-04-2024
+ff_al 05-04-2024
+ff_al 14-03-2024
+ff_al 27-11-2023
+ff_al1 06-04-2024
+ff_ambito Uscita didattica
+ff_ambito Uscita didattica orientamento a Torino, Oval Lingotto Fiere – “A&T fiera delle tecnologie 4.0 – 5.0
+ff_annoscol 2023-2024
+ff_arrivoa1 Parma
+ff_arrivoa1 Torino, Oval Lingotto Fiere – “A&T fiera delle tecnologie 4.0 – 5.0
+ff_arrivoa2 Milano Centrale
+ff_arrivoa3 Rho Fiera
+ff_dal 04-04-2024
+ff_dal 05-04-2024
+ff_dal 14-03-2024
+ff_dal 27-11-2023
+ff_dal1 06-04-2024
+ff_datamissione1 09-11-2023
+ff_datamissione1 16-02-2024
+ff_datamissione2 09-11-2023
+ff_datamissione3 09-11-2023
+ff_duratamissione1 Circa 12 ore 
+ff_ggferieutilizzati 0
+ff_ggferieutilizzati 1
+ff_ggferieutilizzati 2
+ff_ggfestivitasoppresse 0
+ff_importobiglietti1 28.24
+ff_luogomissione EICMA MILANO RHO-FIERA
+ff_luogomissione Torino
+ff_n1 1
+ff_ngiorni 1
+ff_nomeistituto Fornovo 
+ff_nomeistituto Fornovo di Taro 
+ff_notrec scostanzo@iissgadda.it
+ff_numgglavorativiferie 1
+ff_numgglavorativiferie1 1
+ff_partenzada1 Fornovo 
+ff_partenzada1 Fornovo ( piazzale antistante la scuola)
+ff_partenzada2 Parma
+ff_partenzada3 Milano Centrale
+ff_partenzaore1 7:20
+ff_partenzaore1 7:30
+ff_partenzaore2 8:18
+ff_partenzaore3 10:00
+ff_residenza Petilia Policastro - via dei Francesi - 28
+ff_rientroore1 18:58
+ff_rientroore1 19:00
+ff_totgiorniferie 1
+ff_totgiorniferie 2
+ff_totgiornifestivita 1
+field-:r2c: Serafino
+field-:r2d: costanzo.docente@istitutopesenti.it
+filename PROGRAMMAZIONE CLASSI SECONDE (6).doc
+firstName Fiorella
+firstName Serafino
+firstName Vincenzo
+firstName carmine
+firstName giacomo
+firstName giuseppina
+firstName nicolas
+firstName salvatore
+fld:0:1:52:fv Bonifico
+fld:1:1:52:fv 1
+fname silvio
+formCompilazioneTo.cfParteContratto CSTSFN92D26C352R
+formCompilazioneTo.inp.frontestpizioTo.numeroRegistrazione 1291
+form[address_data][address] Viale dei Giardini 15
+form[address_data][city] Rende
+form[basic_personal_data][email] costanzosilvio_92@hotmail.it
+form[basic_personal_data][name] Serafino
+form[basic_personal_data][surname] Costanzo
+form[mobile_number][mobileNumber] 3393525529
+hd_oggetto Problematiche relative alla chiusura del progetto nella parte relativa allineamento quota forniture e servizi
+holder Serafino Costanzo
+iOttText 361987
+iSigninName 3393525529
+iSigninName costanzoluigi_64@hotmail.it
+iVerifyText 062103
+iban IT23X0760104400001064384439
+identifier costanzo.docente@istitutopesenti.it
+identifier costanzoserafino@outlook.it
+identifier costanzosilvio_92@hotmail.it
+importo_aut_cor_4 6490,40
+importo_aut_cor_5 0
+importo_aut_cor_5 1220
+importo_aut_cor_5 1220,00
+indirizzo Viale dei Giardini, 15
+input_34b15cb7-a4e4-4638-865b-a48918e9dfc2 339 352 5529
+input_468bb9af-ad80-4ea6-bb2c-0a627998594e Costanzo
+input_aa676fe3-86c9-4bf5-a9d8-d7d1385dd9ca costanzosilvio_92@hotmail.it
+input_acc5d0c4-c0a9-4427-95a9-b66c592f062d 88837
+input_b016ea6b-74bb-4fde-85c7-84d2b1f29c15 costanzosilvio_92@hotmail.it
+input_c01c888f-b63c-4cb1-8904-6cebda183c7d CSTSFN92D26C352R
+input_ca77adae-a9c0-473b-afd8-595fdb718bcf 339 352 5529
+input_d75c3160-793b-4014-a4a3-80b6d7a24fe9 Via dei Francesi 
+input_e03dbfd0-e809-491a-90d3-c5a12da1dde4 28
+input_f44e6db9-649f-4974-9662-d770e5105d36 Serafino
+input_f48a2435-f1c2-4de1-a67f-708e5e68313a Casa Fiorella Cu
+institutionSelector-autocomplete Gadda Fornovo Professionale (Langhirano)
+j_username  s.costanzo14
+j_username s.costanzo14
+keyword https://www.youtube.com/watch?v=MIglkoVxz5E
+keyword https://www.youtube.com/watch?v=ZLokapCJvfA
+keyword https://www.youtube.com/watch?v=cD7pMbzhG8Y
+lastName Barbieri
+lastName Costanzo
+lastName Curcio
+lastName bilotti
+lastName dinapoli
+lastName paolini
+lastName rinxhi
+lastName singh
+listaDichiarazioni[3].dichUtente.desTesLibCnd Rende
+listaLIC1[0].desCerLin Certificazione linguistica
+listaLIC1[0].desEntLuoCns LRN (Learning Resource Network), PIGRECO SRLS, Angri (SA)
+listaLIC1[0].desLinStr Inglese
+listaMAST[0].annAccCnsFE 2022/23
+listaMAST[0].desIstLuoCns Università Telematica eCampus
+listaMAST[0].desMas Master di Primo Livello in L'INSEGNAMENTO DI SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE  NELLE SCUOLE SECONDARIE DI I E II GRADO
+listaTitoliAccesso[0].titoloStudio.decimali 00
+listaTitoliAccesso[0].titoloStudio.desLuoCnsCfu Università della Calabria (Unical)
+listaTitoliAccesso[0].titoloStudio.desLuoCnsTit Università della Calabria (Unical)
+listaTitoliAccesso[0].titoloStudio.numBasVotTit 110
+listaTitoliAccesso[0].titoloStudio.numVotCenTit 94
+listaTitoliAccesso[0].titoloStudio.voto 103
+listaTitoliAccesso[1].titoloStudio.decimali 00
+listaTitoliAccesso[1].titoloStudio.desLuoCnsCfu Università della Calabria (Unical)
+listaTitoliAccesso[1].titoloStudio.desLuoCnsTit Università della Calabria (Unical)
+listaTitoliAccesso[1].titoloStudio.numBasVotTit 110
+listaTitoliAccesso[1].titoloStudio.numVotCenTit 94
+listaTitoliAccesso[1].titoloStudio.voto 103
+lname costanzo
+login BGII0023.5922083
+login PRIT0007.5247130
+login PRIT0007.6235519
+login.email fiorellacurcio@libero.it
+login_email costanzosilvio_92@hotmail.it
+login_type[email] costanzosilvio_92@hotmail.it
+loginfmt costanzoluigi_64@hotmail.it
+loginfmt costanzosilvio_92@hotmail.it
+loginfmt s
+loginfmt scostanzo@iissgadda.it
+mail costanzosilvio_92@hotmail.it
+mail1 costanzosilvio_92@hotmail.it
+mail2 costanzosilvio_92@hotmail.it
+module_name Applicazione dei metodi di manutenzione - Telemanutenzione e teleassistenza
+module_name Livelli di manutenzione. Interventi manutentivi
+module_name Proprietà dei materiali
+module_name Sicurezza nella manutenzione
+module_name TMA 
+module_name TMA argomenti verifica orale, verifica scritta 25 marzo 
+module_name TMA argomenti verifica scritta 25 marzo
+module_name TMA argomenti verifica scritta 25 marzo, verifica orale mese di aprile
+module_name Unità B1 Sicurezza nella manutenzione
+module_name Unità B1 e B2
+module_name Unità B2 Tutela ambientale
+module_name Unità C1
+module_name Unità R1 TMA
+module_name Unità R2 prima parte TMA
+module_name Unità R2 seconda parte TMA
+module_name Velocità di taglio
+nickname SilvioCurcio
+nome Fiorella 
+nome Fiorella Curcio
+nome silvio
+num_elementi_effettivi 1
+ora_fin_mod 12:00
+ora_fin_mod 14:00
+ora_fin_new 11:00
+ora_ini_mod 10:00
+ora_ini_mod 11:00
+ora_ini_new 10:00
+perso-info-addressLine1-0 Via Pio La Torre n.06 Pagliarelle (Kr)
+perso-info-addressLine1-0 Via dei Francesi 28
+perso-info-city-0 Crotone
+perso-info-city-0 Petilia Policastro
+perso-info-city-0 Rende
+perso-info-city-0 Rende (CS)
+perso-info-email-input-0 fontana85@alice.it
+perso-info-firstName Luigi
+perso-info-firstName Serafino
+perso-info-firstName Vincenzo
+perso-info-lastName Fontana
+perso-info-phone-form-0-number 3393525529
+perso-info-phone-form-0-number 3771514643
+perso-info-postal-code-0 88837
+phone 3393525529
+phonenumber 3393525529
+phonenumber-confirm 3393525529
+popup_evento_ora 08:05
+popup_evento_ora 08:06
+popup_evento_ora 08:07
+popup_evento_ora 08:08
+popup_evento_ora 08:09
+popup_evento_ora 08:10
+popup_evento_ora 08:11
+popup_evento_ora 08:12
+popup_evento_ora 08:13
+popup_evento_ora 08:15
+popup_evento_ora 08:16
+popup_evento_ora 08:18
+popup_evento_ora 08:20
+popup_evento_ora 08:25
+popup_evento_ora 08:30
+popup_evento_ora 08:35
+popup_evento_ora 08:37
+popup_evento_ora 09:01
+popup_evento_ora 09:05
+popup_evento_ora 09:06
+popup_evento_ora 09:09
+popup_evento_ora 09:35
+popup_evento_ora 09:38
+popup_evento_ora 10:00
+popup_evento_ora 10:04
+popup_evento_ora 10:39
+popup_evento_ora 12:14
+popup_evento_ora 12:25
+popup_evento_ora 12:37
+popup_evento_ora 12:49
+popup_evento_ora_u 08:05
+popup_evento_ora_u 08:06
+popup_evento_ora_u 08:07
+popup_evento_ora_u 08:08
+popup_evento_ora_u 08:09
+popup_evento_ora_u 08:10
+popup_evento_ora_u 08:11
+popup_evento_ora_u 08:12
+popup_evento_ora_u 08:13
+popup_evento_ora_u 08:21
+popup_evento_ora_u 09:01
+popup_evento_ora_u 09:05
+popup_evento_ora_u 09:06
+popup_evento_ora_u 09:35
+popup_evento_ora_u 09:38
+popup_evento_ora_u 10:00
+popup_evento_ora_u 10:04
+popup_evento_ora_u 10:39
+popup_evento_ora_u 11:00
+popup_evento_ora_u 11:09
+popup_evento_ora_u 11:30
+popup_evento_ora_u 11:43
+popup_evento_ora_u 12:00
+popup_evento_ora_u 12:06
+popup_evento_ora_u 12:12
+popup_evento_ora_u 12:14
+popup_evento_ora_u 12:37
+popup_evento_ora_u 12:46
+popup_evento_ora_u 12:49
+popup_evento_ora_u 13:00
+posizione Docente
+progressive_susi_email costanzosilvio_92@hotmail.it
+q 10/24
+q D.M 10/24
+q DM10
+q https://www.youtube.com/watch?v=2Ta2VIkxZPI
+q https://www.youtube.com/watch?v=6f6OL-w9B7A
+q https://www.youtube.com/watch?v=Fqey8LxQxFU
+q https://www.youtube.com/watch?v=G-D80U_u3sk
+q https://www.youtube.com/watch?v=Gsq_dIQMeng
+q https://www.youtube.com/watch?v=HcxbASmfiGk
+q https://www.youtube.com/watch?v=NJVxa_bpVrk
+q https://www.youtube.com/watch?v=RXZk1OWeZo0
+q https://www.youtube.com/watch?v=URUWLd6utSk
+q https://www.youtube.com/watch?v=Z-KZxITD77s
+q https://www.youtube.com/watch?v=ZLokapCJvfA
+q https://www.youtube.com/watch?v=cD7pMbzhG8Y
+q https://www.youtube.com/watch?v=e5GR_e3ZdxU
+q https://www.youtube.com/watch?v=eO1CPitXoJw
+q https://www.youtube.com/watch?v=hBAvM50QEPI
+q https://www.youtube.com/watch?v=iawgB2CDCrw
+q https://www.youtube.com/watch?v=jZXtzIPG3TM
+q https://www.youtube.com/watch?v=m0B3T02IZXQ
+q https://www.youtube.com/watch?v=sNAkJUtn8WA
+q https://www.youtube.com/watch?v=ydXC5bidYWE
+q tecniche e tecnologie negli impianti termoidraulici 
+q tecniche e tecnologie negli impianti termoidraulici gullace
+q tecniche tecnologie negli impianti termoidraulici 
+quote_driver_cityOfBirth Petilia Policastro (KR)
+quote_driver_residentialAddress_city Petilia Policastro (KR)
+s_1_1_0_0 INPS.2203.02/06/2023.0085226
+search CONTRATTI
+search tecniche e tecnologie negli impianti termoidraulici gullace
+search-input griffi
+signName Serafino
+singin-email costanzosilvio_92@hotmail.it
+step_2[tutorInfo][descriptionTitle] Laureato in ingegneria meccanica offre ripetizioni di matematica, fisica e meccanica 
+step_2[tutorInfo][descriptionTitle] Laureato in ingegneria offre ripetizioni di matematica, fisica e meccanica
+step_3[tutorInfo][firstEducationLevel] Diploma di perito capotecnico industriale specializzazione meccanica
+step_3[tutorInfo][secondEducationLevel] Laurea triennale in ingegneria meccanica
+step_3[tutorInfo][thirdEducationLevel] Laurea magistrale in ingegneria meccanica
+step_5[skype] costanzoserafino_92@outlook.it
+step_5[tutorInfo][city] Salsomaggiore Terme 
+step_5[tutorInfo][countryCode] 43039
+step_5[tutorInfo][number] 20
+step_5[tutorInfo][street] via giardini
+step_6[tutorPricesPercorsi][1] 12
+step_6[tutorPricesPercorsi][2] 15
+step_6[tutorPricesPercorsi][3] 18
+step_6[tutorPrices][1] 15
+step_6[tutorPrices][2] 18
+step_6[tutorPrices][3] 20
+step_7[fiscalCode] CSTSFN92D26C352R
+targa DC660KM
+telefono 3393525529
+totale_6 14.290,40
+totale_6 15.510,40
+tx_fesearchintable_pi1[sword] assistenza
+tx_fesearchintable_pi1[sword] laurea
+tx_fesearchintable_pi1[sword] master a40
+txtCerca fisic
+txtCerca fisica
+txtUsr  s.costanzo14
+txtUsr s.costanzo14
+user costanzosilvio_92@hotmail.it
+user ecampus
+userIdentifier antoniocostanzo405@gmail.com
+userLoginId enrico.cinzia@tim.it
+user[email] costanzosilvio_92@hotmail.it
+username SIlvioCost
+username angela.audia
+username costanzosilvio_92@hotmail.it
+username s.costanzo14
+utente SilvioCurcio
+ux-form-control-232619 SolidWorks
+ux-form-control-406099 SolidWorks
+ux-form-control-751363 LA LAVAGNA INTERATTIVA MULTIMEDIALE NELLA DIDATTICA SPECIALE (LIM) AVANZATO
+ux-form-control-758443 6. LA LAVAGNA INTERATTIVA MULTIMEDIALE NELLA DIDATTICA SPECIALE (LIM) AVANZATO
+ux-form-control-786658 Certificazioni linguistiche
+work-expe-city Bergamo (BG)
+work-expe-city Bergamo (KR)
+work-expe-city Cefalù
+work-expe-city Cefalù (PA)
+work-expe-city Cotronei (KR)
+work-expe-city Crotone
+work-expe-city Crotone 
+work-expe-city Crotone (KR)
+work-expe-city Milano
+work-expe-city Milano (MI)
+work-expe-city Modena (MO)
+work-expe-city Novara di Sicilia
+work-expe-employer Ada Fontana impresa edile generale di costruzioni
+work-expe-employer Buscemi Paola lavori impianti elettrici
+work-expe-employer CONSORZIO SBT STRABAG AUSTRIA settore edile
+work-expe-employer Fronter impresa generale di costruzioni
+work-expe-employer ISTRUZIONE SECONDARIA SUPERIORE - MARGHERITA HACK Cotronei (KR)
+work-expe-employer Istituto Professionale per l'Industria e l'Artigianato "Cesare Pesenti"
+work-expe-employer MARGHERITA HACK COTRONEI (KR)
+work-expe-employer Margherita Hack Cotronei 
+work-expe-employer Metro Blu S.C.A.R.L 
+work-expe-employer PAVIMENTAL SPA
+work-expe-employer TOTO S.P.A. COSTRUZIONI GENERALI
+work-expe-employer V.G.M. di Venturino Marcello impresa edile costruzioni
+work-expe-employer Voema impresa edile costruzioni 
+/WS/DataSet[@LocalEntityName='ANAPER_DOC_IDENTITA']/Row[@Num='1']/ente_rilascio MC-KR
+/WS/DataSet[@LocalEntityName='ANAPER_DOC_IDENTITA']/Row[@Num='1']/num KR5143964P
+108:_input Italy
+11:_input 0 - 100%
+15:_input Sì
+19 Italiano
+19:_input No
+29yf4d628c821e3fd66da705c5f36680986b2f624084a3 costanzosilvio_92@hotmail.it
+3 103
+358aade9462f09 3285810496
+4c591db526113b Fiorella Curcio
+6 Università della Calabria (Unical)
+741320f276779d 1698252577303
+7:_input Other
+885d8368a7eeee 3285810496
+ASF_acquisto_anno 2002
+ASF_acquisto_anno 2006
+ASF_acquisto_anno 2019
+ASF_civico 28
+ASF_civico 41
+ASF_cognome Camigliano
+ASF_cognome Costanzo
+ASF_decorrenza_giorno 09
+ASF_decorrenza_giorno 10
+ASF_decorrenza_giorno 25
+ASF_email costanzosilvio_92@hotmail.it
+ASF_immatricolazione_anno 2006
+ASF_immatricolazione_mese 08
+ASF_indirizzo Via Bachelet 
+ASF_km 2.000
+ASF_km 5.000
+ASF_km 8.000
+ASF_nascita_data 18 / 07 / 1964
+ASF_nascita_data 18 / 10 / 1947
+ASF_nome Luigi
+ASF_nome Rosa
+ASF_patente 1982
+ASF_ricerca_indirizzo Via dei Francesi, 28, Petilia policastro, KR
+ASF_targa BW403AP
+ASF_targa DC66OKM
+ASF_targa FX163BN
+ASF_telefono 3393525529
+CD 08457047952096
+CDFISC CSTSFN92D26C352R
+CDPOLO ecampus
+DRIV Categoria A1,A,B
+DTNASC 26/04/1992
+FNAM Serafino
+FirstName Serafino
+Keywords car
+LOGINID costanzosilvio_92@hotmail.it
+LOGINID fiorellacurcio@libero.it
+SearchBox3055 s
+TextField31 055553
+_username am1pjar856
+_username costanzosilvio_92@hotmail.it
+_username f.curcio
+a Fidenza
+address-autocomplete Via Nazionale 6
+adultsNumber 2
+anno 2012
+azienda IPIA Cesare Pesenti
+azienda Margherita Hack Cotronei
+b7fead8331090a80 3285810496
+bdc341d950d409 fiorellacurcio@libero.it
+biglietti_tot 2
+bsmart_activation_form[code] BHQHNVYG
+bsmart_activation_form[code] HOE22-BHQHNVYG
+bsmart_activation_form[code] HOE22-HWDLEQHM
+bsmart_activation_form[code] HOE22-TFLPKEZJ
+bsmart_activation_form[code] HOE22-WFVZWFAB
+cap 87036
+cap 92100
+cardnumber **** **** **** 5016
+cart-redeem-coupon-input 22SINGLESDAY
+cerca 337
+cerca 456
+cerca 530
+cerca AIOLFI
+cerca AYAD
+cerca BARALLA
+cerca BARATELLA
+cerca BARBIERI
+cerca BASTONE
+cerca BIGLIARDI
+cerca Barbieri
+cerca Barbieri 
+cerca Barbieri Mirko
+cerca Borrelli Ottavia
+cerca CARPANINI
+cerca CASTR
+cerca CASTRO
+cerca CHIHAI
+cerca EL HABIB
+cerca EZZAKI
+cerca FAGGIANI
+cerca Faggiani
+cerca GAD
+cerca GNG
+cerca ILLUMINATO
+cerca Illuminato
+cerca Illuminatoù
+cerca LAMNAOUAR
+cerca LAMNAOUR
+cerca LAMNOUAR
+cerca Mirko Barbieri
+cerca NAOUA
+cerca OLIVA
+cerca ORFANELLO
+cerca Orfanello
+cerca PASQUALINO
+cerca RABBAS
+cerca RABONI
+cerca aioanei
+cerca aiolfi
+cerca anelli
+cerca assenza
+cerca avallone
+cerca baratella
+cerca barbieri
+cerca barbieri mirko
+cerca bastone
+cerca biglia
+cerca bigliardi
+cerca carpanini
+cerca faggiani
+cerca ferie
+cerca gariboldi
+cerca illuminato
+cerca malatti
+cerca malattia
+cerca mbengue
+cerca orfanello
+cerca permesso retribuito
+cerca raboni
+cerca rimbor
+cerca rimborso
+cerca rinxhi
+cerca rinxi
+cerca virtosu
+cerca zambrano
+cerca_sito MODELLI
+cerca_sito MODELLO
+cerca_sito PFI
+cerca_sito autocad
+cerca_sito autodesk
+cerca_sito download
+cerca_sito fusion
+cerca_sito gite
+cerca_sito libri
+cerca_sito licenza
+cerca_sito ufficio 
+cerca_sito ufficio alunni
+cerca_sito uscita didattica
+cerca_sito uscite
+certificazione Preliminary English Test - Council of Europe Level B1
+cf CSTSFN92D26C352R
+city_name Fornovo Di Taro
+code 76637779
+collection-view-desktop-filter-prices-maximum 12
+collection-view-desktop-filter-prices-maximum 14
+collection-view-desktop-filter-prices-maximum 15
+common_ticket_email antoniocostanzo405@gmail.com
+conoscenza_altro SolidWorks
+conpresenza_login PRIT0007.6235519
+contactDetails_addressLine1 Viale dei Giardini, 15
+contactDetails_city Rende
+contactDetails_phone +39 3393525529
+contactDetails_state CS
+contactDetails_zipCode 87036
+costo_totale 1220
+costo_unitario_effettivo 1220
+da Petilia Policastro
+data 26/01/2024
+dataDecGiuridica 01/01/2023
+dataDecGiuridica 01/09/2023
+dataDecGiuridica 09/01/2023
+dataDecGiuridica 09/10/2023
+dataDecGiuridica 10/01/2023
+dataDecGiuridica 31/10/2023
+dataInizio 09/01/2023
+dataScadenza 18/11/2023
+dataScadenza 30/11/2023
+dataScadenza 31/10/2023
+date 10-02-2024
+date_end 01-12-2023
+date_end 02-03-2024
+date_end 02-12-2023
+date_end 04-05-2024
+date_end 04-12-2023
+date_end 05-12-2023
+date_end 08-02-2024
+date_end 09-04-2024
+date_end 09-12-2023
+date_end 10-05-2024
+date_end 11-04-2024
+date_end 12-04-2024
+date_end 12-12-2023
+date_end 13-04-2024
+date_end 15-04-2024
+date_end 15-12-2023
+date_end 16-02-2024
+date_end 16-04-2024
+date_end 16-12-2023
+date_end 18-04-2024
+date_end 18-05-2024
+date_end 18-12-2023
+date_end 19-03-2024
+date_end 19-04-2024
+date_end 20-04-2024
+date_end 20-11-2023
+date_end 21-11-2023
+date_end 21-12-2023
+date_end 22-03-2024
+date_end 22-04-2024
+date_end 22-12-2023
+date_end 23-04-2024
+date_end 23-05-2024
+date_end 23-11-2023
+date_end 24-02-2024
+date_end 24-05-2024
+date_end 24-11-2023
+date_end 25-04-2024
+date_end 25-05-2024
+date_end 25-11-2023
+date_end 26-03-2024
+date_end 26-04-2024
+date_end 27-02-2024
+date_end 27-04-2024
+date_end 28-11-2023
+date_end 29-04-2024
+date_end 30-04-2024
+date_end 30-11-2023
+date_end 31-05-2024
+date_start 01-12-2023
+date_start 02-03-2024
+date_start 02-12-2023
+date_start 04-05-2024
+date_start 04-12-2023
+date_start 05-12-2023
+date_start 08-02-2024
+date_start 09-04-2024
+date_start 09-12-2023
+date_start 10-05-2024
+date_start 11-04-2024
+date_start 12-04-2024
+date_start 12-12-2023
+date_start 13-04-2024
+date_start 15-04-2024
+date_start 15-12-2023
+date_start 16-02-2024
+date_start 16-04-2024
+date_start 16-12-2023
+date_start 18-04-2024
+date_start 18-05-2024
+date_start 18-12-2023
+date_start 19-03-2024
+date_start 19-04-2024
+date_start 20-04-2024
+date_start 20-11-2023
+date_start 21-11-2023
+date_start 21-12-2023
+date_start 22-03-2024
+date_start 22-04-2024
+date_start 22-12-2023
+date_start 23-04-2024
+date_start 23-05-2024
+date_start 23-11-2023
+date_start 24-02-2024
+date_start 24-05-2024
+date_start 24-11-2023
+date_start 25-04-2024
+date_start 25-05-2024
+date_start 25-11-2023
+date_start 26-03-2024
+date_start 26-04-2024
+date_start 27-02-2024
+date_start 27-04-2024
+date_start 28-11-2023
+date_start 29-04-2024
+date_start 30-04-2024
+date_start 30-11-2023
+date_start 31-05-2024
+departureDateVISIBLE 13 Mag 2024
+departureDateVISIBLE 17 Mag 2024
+descr_breve BILANCIO PERSONALE INIZIALE 
+descr_breve PFI PRIMO ANNO
+descr_breve PFI PRIMO ANNO PRIMO PERIODO
+descr_breve PFI SECONDO ANNO
+descr_breve PFI SECONDO ANNO PRIMO PERIODO
+descr_breve PFI TERZO ANNO
+descr_breve PFI TERZO ANNO PRIMO PERIODO
+descr_breve PROGETTO FORMATIVO INDIVIDUALE
+descrizione_contenuto_1 Dispositivi meccanici
+descrizione_contenuto_1 TMA 
+descrizione_contenuto_1 TMA argomenti verifica scritta 25 marzo
+e74b0022b618806b 1698252577303
+edge_empty Costanzo Serafino
+edge_empty_label Giuseppe
+edge_empty_label Giuseppe 
+editor_page 1
+educ-train-city Catanzaro
+educ-train-city MILANO (MI)
+educ-train-city Novedrate (CO)
+educ-train-city Petilia Policastro (KR)
+educ-train-organisation ESEM CPT 
+educ-train-organisation ESEM CPT MILANO
+educ-train-organisation ITIS "E.Scalfaro"
+educ-train-organisation Istituto tecnico professionale 
+educ-train-organisation Università della Calabria (Unical)
+educ-train-organisation Università eCampus
+educ-train-postal-code 88837
+educ-train-qualification 2. Laurea triennale in ingegneria meccanica
+educ-train-qualification 2.Diploma di perito industriale capotecnico specializzazione meccanica
+educ-train-qualification 3. Laurea magistrale in ingegneria meccanica
+educ-train-qualification 3. Laurea triennale in ingegneria meccanica
+educ-train-qualification 4. Laurea magistrale in ingegneria meccanica
+educ-train-qualification Attestato di abilitazione PLE/carrelli elevatori verticali
+educ-train-qualification Attestato di abilitazione app. sollevamento (gru)
+educ-train-qualification Certificazioni informatiche e linguistiche 
+educ-train-qualification Diploma di perito industriale capotecnico specializzazione meccanica
+educ-train-qualification Master Universitario di I livello
+educ-train-qualification Qualifica di operatore del mobile e dell'arredamento
+educ-train-street-address-type1 Piazza Giacomo Matteotti, 15
+educ-train-street-address-type1 Via P. Bucci, Rende (CS), Italia 
+email costanzosilvio_92@hotmail.it
+email cpaolin@libero.it
+email dinapolis@libero.it
+email enrico.cinzia@tim.it
+email fiorellacurcio@libero.it
+email gbilot@libero.it
+email gsingh@libero.it
+email nringh@libero.it
+email vinsfila@libero.it
+emailAddress costanzo.docente@istitutopesenti.it
+exp-date 10/26
+expDate 10/26
+fbclc_emailConf costanzosilvio_92@hotmail.it
+fbclc_fName Serafino
+fbclc_lName Costanzo
+fbclc_userName costanzosilvio_92@hotmail.it
+ff_al 04-04-2024
+ff_al 05-04-2024
+ff_al 14-03-2024
+ff_al 17-05-2024
+ff_al 27-11-2023
+ff_al1 06-04-2024
+ff_ambito Uscita didattica
+ff_ambito Uscita didattica orientamento a Torino, Oval Lingotto Fiere – “A&T fiera delle tecnologie 4.0 – 5.0
+ff_annoscol 2023-2024
+ff_arrivoa1 Parma
+ff_arrivoa1 Torino, Oval Lingotto Fiere – “A&T fiera delle tecnologie 4.0 – 5.0
+ff_arrivoa2 Milano Centrale
+ff_arrivoa3 Rho Fiera
+ff_dal 04-04-2024
+ff_dal 05-04-2024
+ff_dal 14-03-2024
+ff_dal 16-05-2024
+ff_dal 27-11-2023
+ff_dal1 06-04-2024
+ff_datamissione1 09-11-2023
+ff_datamissione1 16-02-2024
+ff_datamissione2 09-11-2023
+ff_datamissione3 09-11-2023
+ff_duratamissione1 Circa 12 ore 
+ff_ggferieutilizzati 0
+ff_ggferieutilizzati 1
+ff_ggferieutilizzati 2
+ff_ggferieutilizzati 4
+ff_ggfestivitasoppresse 0
+ff_importobiglietti1 28.24
+ff_luogomissione EICMA MILANO RHO-FIERA
+ff_luogomissione Torino
+ff_n1 1
+ff_ngiorni 1
+ff_nomeistituto Fornovo 
+ff_nomeistituto Fornovo di Taro 
+ff_notrec scostanzo@iissgadda.it
+ff_numgglavorativiferie 1
+ff_numgglavorativiferie 2
+ff_numgglavorativiferie1 1
+ff_partenzada1 Fornovo 
+ff_partenzada1 Fornovo ( piazzale antistante la scuola)
+ff_partenzada2 Parma
+ff_partenzada3 Milano Centrale
+ff_partenzaore1 7:20
+ff_partenzaore1 7:30
+ff_partenzaore2 8:18
+ff_partenzaore3 10:00
+ff_residenza Petilia Policastro - via dei Francesi - 28
+ff_rientroore1 18:58
+ff_rientroore1 19:00
+ff_totgiorniferie 1
+ff_totgiorniferie 2
+ff_totgiornifestivita 1
+field-:r2c: Serafino
+field-:r2d: costanzo.docente@istitutopesenti.it
+filename PROGRAMMAZIONE CLASSI SECONDE (6).doc
+firstName Fiorella
+firstName Serafino
+firstName Vincenzo
+firstName carmine
+firstName giacomo
+firstName giuseppina
+firstName nicolas
+firstName salvatore
+fname silvio
+formCompilazioneTo.cfParteContratto CSTSFN92D26C352R
+formCompilazioneTo.inp.frontestpizioTo.numeroRegistrazione 1291
+form[address_data][address] Viale dei Giardini 15
+form[address_data][city] Rende
+form[basic_personal_data][email] costanzosilvio_92@hotmail.it
+form[basic_personal_data][name] Serafino
+form[basic_personal_data][surname] Costanzo
+form[mobile_number][mobileNumber] 3393525529
+form_fields[field_74a8ad8] 3393525529
+form_fields[field_add0f6e] costanzosilvio_92@hotmail.it
+form_fields[field_ed571b6] silvio costanzo
+hd_oggetto Problematiche relative alla chiusura del progetto nella parte relativa allineamento quota forniture e servizi
+holder Serafino Costanzo
+iOttText 361987
+iSigninName 3393525529
+iSigninName costanzoluigi_64@hotmail.it
+iVerifyText 062103
+iban IT23X0760104400001064384439
+identifier costanzoserafino@outlook.it
+identifier costanzosilvio_92@hotmail.it
+importo_aut_cor_4 6490,40
+importo_aut_cor_5 0
+importo_aut_cor_5 1220
+importo_aut_cor_5 1220,00
+indirizzo Viale dei Giardini, 15
+input_34b15cb7-a4e4-4638-865b-a48918e9dfc2 339 352 5529
+input_468bb9af-ad80-4ea6-bb2c-0a627998594e Costanzo
+input_aa676fe3-86c9-4bf5-a9d8-d7d1385dd9ca costanzosilvio_92@hotmail.it
+input_acc5d0c4-c0a9-4427-95a9-b66c592f062d 88837
+input_b016ea6b-74bb-4fde-85c7-84d2b1f29c15 costanzosilvio_92@hotmail.it
+input_c01c888f-b63c-4cb1-8904-6cebda183c7d CSTSFN92D26C352R
+input_ca77adae-a9c0-473b-afd8-595fdb718bcf 339 352 5529
+input_d75c3160-793b-4014-a4a3-80b6d7a24fe9 Via dei Francesi 
+input_e03dbfd0-e809-491a-90d3-c5a12da1dde4 28
+input_f44e6db9-649f-4974-9662-d770e5105d36 Serafino
+input_f48a2435-f1c2-4de1-a67f-708e5e68313a Casa Fiorella Cu
+institutionSelector-autocomplete Gadda Fornovo Professionale (Langhirano)
+j_username  s.costanzo14
+j_username s.costanzo14
+keyword https://www.youtube.com/watch?v=MIglkoVxz5E
+keyword https://www.youtube.com/watch?v=ZLokapCJvfA
+keyword https://www.youtube.com/watch?v=cD7pMbzhG8Y
+lastName Barbieri
+lastName Costanzo
+lastName Curcio
+lastName bilotti
+lastName dinapoli
+lastName paolini
+lastName rinxhi
+lastName singh
+listaDichiarazioni[3].dichUtente.desTesLibCnd Rende
+listaLIC1[0].desCerLin Certificazione linguistica
+listaLIC1[0].desEntLuoCns LRN (Learning Resource Network), PIGRECO SRLS, Angri (SA)
+listaLIC1[0].desLinStr Inglese
+listaMAST[0].annAccCnsFE 2022/23
+listaMAST[0].desIstLuoCns Università Telematica eCampus
+listaMAST[0].desMas Master di Primo Livello in L'INSEGNAMENTO DI SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE  NELLE SCUOLE SECONDARIE DI I E II GRADO
+listaTitoliAccesso[0].titoloStudio.decimali 00
+listaTitoliAccesso[0].titoloStudio.desLuoCnsCfu Università della Calabria (Unical)
+listaTitoliAccesso[0].titoloStudio.desLuoCnsTit Università della Calabria (Unical)
+listaTitoliAccesso[0].titoloStudio.numBasVotTit 110
+listaTitoliAccesso[0].titoloStudio.numVotCenTit 94
+listaTitoliAccesso[0].titoloStudio.voto 103
+listaTitoliAccesso[1].titoloStudio.decimali 00
+listaTitoliAccesso[1].titoloStudio.desLuoCnsCfu Università della Calabria (Unical)
+listaTitoliAccesso[1].titoloStudio.desLuoCnsTit Università della Calabria (Unical)
+listaTitoliAccesso[1].titoloStudio.numBasVotTit 110
+listaTitoliAccesso[1].titoloStudio.numVotCenTit 94
+listaTitoliAccesso[1].titoloStudio.voto 103
+lname costanzo
+login BGII0023.5922083
+login PRIT0007.5247130
+login PRIT0007.6235519
+login.email fiorellacurcio@libero.it
+login_email costanzosilvio_92@hotmail.it
+login_type[email] costanzosilvio_92@hotmail.it
+loginfmt costanzoluigi_64@hotmail.it
+loginfmt costanzosilvio_92@hotmail.it
+loginfmt s
+loginfmt scostanzo@iissgadda.it
+mail costanzosilvio_92@hotmail.it
+mail1 costanzosilvio_92@hotmail.it
+mail2 costanzosilvio_92@hotmail.it
+module_name Applicazione dei metodi di manutenzione - Telemanutenzione e teleassistenza
+module_name Argomenti verifica scritta 21 maggio
+module_name Argomenti verifica scritta 26 aprile
+module_name Livelli di manutenzione. Interventi manutentivi
+module_name Proprietà dei materiali
+module_name Sicurezza nella manutenzione
+module_name TMA 
+module_name TMA argomenti verifica orale, verifica scritta 25 marzo 
+module_name TMA argomenti verifica scritta 25 marzo
+module_name TMA argomenti verifica scritta 25 marzo, verifica orale mese di aprile
+module_name Unità B1 Sicurezza nella manutenzione
+module_name Unità B1 e B2
+module_name Unità B2 Tutela ambientale
+module_name Unità C1
+module_name Unità R1 TMA
+module_name Unità R2 prima parte TMA
+module_name Unità R2 seconda parte TMA
+module_name Velocità di taglio
+nickname SilvioCurcio
+nome Fiorella 
+nome Fiorella Curcio
+nome silvio
+num_elementi_effettivi 1
+ora_fin_mod 12:00
+ora_fin_mod 14:00
+ora_fin_new 11:00
+ora_fin_new 12:00
+ora_ini_mod 10:00
+ora_ini_mod 11:00
+ora_ini_new 10:00
+ora_ini_new 11:00
+param-10 Luigi
+param-10 Serafino
+param-11 Costanzo
+param-11 Costanzo 
+param-17 3393525529
+param-17 3809071036
+param-20 costanzosilvio_92@hotmail.it
+passengerInput-ticket 1 Adulto, 0 Ragazzi
+perso-info-addressLine1-0 Via Pio La Torre n.06 Pagliarelle (Kr)
+perso-info-addressLine1-0 Via dei Francesi 28
+perso-info-city-0 Crotone
+perso-info-city-0 Petilia Policastro
+perso-info-city-0 Rende
+perso-info-city-0 Rende (CS)
+perso-info-email-input-0 fontana85@alice.it
+perso-info-firstName Luigi
+perso-info-firstName Serafino
+perso-info-firstName Vincenzo
+perso-info-lastName Fontana
+perso-info-phone-form-0-number 3393525529
+perso-info-phone-form-0-number 3771514643
+perso-info-postal-code-0 88837
+phone 3393525529
+phonenumber 3393525529
+phonenumber-confirm 3393525529
+popup_evento_ora 08:03
+popup_evento_ora 08:05
+popup_evento_ora 08:06
+popup_evento_ora 08:07
+popup_evento_ora 08:08
+popup_evento_ora 08:09
+popup_evento_ora 08:10
+popup_evento_ora 08:11
+popup_evento_ora 08:12
+popup_evento_ora 08:13
+popup_evento_ora 08:15
+popup_evento_ora 08:16
+popup_evento_ora 08:18
+popup_evento_ora 08:20
+popup_evento_ora 08:25
+popup_evento_ora 08:30
+popup_evento_ora 08:35
+popup_evento_ora 08:37
+popup_evento_ora 08:51
+popup_evento_ora 09:01
+popup_evento_ora 09:05
+popup_evento_ora 09:06
+popup_evento_ora 09:09
+popup_evento_ora 09:12
+popup_evento_ora 09:35
+popup_evento_ora 09:38
+popup_evento_ora 10:00
+popup_evento_ora 10:04
+popup_evento_ora 10:14
+popup_evento_ora 10:39
+popup_evento_ora 12:14
+popup_evento_ora 12:25
+popup_evento_ora 12:37
+popup_evento_ora 12:49
+popup_evento_ora 13:06
+popup_evento_ora 13:13
+popup_evento_ora_u 08:03
+popup_evento_ora_u 08:05
+popup_evento_ora_u 08:06
+popup_evento_ora_u 08:07
+popup_evento_ora_u 08:08
+popup_evento_ora_u 08:09
+popup_evento_ora_u 08:10
+popup_evento_ora_u 08:11
+popup_evento_ora_u 08:12
+popup_evento_ora_u 08:13
+popup_evento_ora_u 08:16
+popup_evento_ora_u 08:21
+popup_evento_ora_u 09:01
+popup_evento_ora_u 09:05
+popup_evento_ora_u 09:06
+popup_evento_ora_u 09:35
+popup_evento_ora_u 09:38
+popup_evento_ora_u 10:00
+popup_evento_ora_u 10:04
+popup_evento_ora_u 10:14
+popup_evento_ora_u 10:39
+popup_evento_ora_u 11:00
+popup_evento_ora_u 11:09
+popup_evento_ora_u 11:10
+popup_evento_ora_u 11:30
+popup_evento_ora_u 11:43
+popup_evento_ora_u 12:00
+popup_evento_ora_u 12:06
+popup_evento_ora_u 12:12
+popup_evento_ora_u 12:14
+popup_evento_ora_u 12:30
+popup_evento_ora_u 12:37
+popup_evento_ora_u 12:46
+popup_evento_ora_u 12:49
+popup_evento_ora_u 13:00
+popup_evento_ora_u 13:06
+popup_evento_ora_u 13:13
+popup_evento_ora_u 18:07
+posizione Docente
+progressive_susi_email costanzosilvio_92@hotmail.it
+q 10/24
+q D.M 10/24
+q DM10
+q https://www.youtube.com/watch?v=2Ta2VIkxZPI
+q https://www.youtube.com/watch?v=6f6OL-w9B7A
+q https://www.youtube.com/watch?v=Fqey8LxQxFU
+q https://www.youtube.com/watch?v=G-D80U_u3sk
+q https://www.youtube.com/watch?v=Gsq_dIQMeng
+q https://www.youtube.com/watch?v=HcxbASmfiGk
+q https://www.youtube.com/watch?v=NJVxa_bpVrk
+q https://www.youtube.com/watch?v=RXZk1OWeZo0
+q https://www.youtube.com/watch?v=URUWLd6utSk
+q https://www.youtube.com/watch?v=Z-KZxITD77s
+q https://www.youtube.com/watch?v=ZLokapCJvfA
+q https://www.youtube.com/watch?v=cD7pMbzhG8Y
+q https://www.youtube.com/watch?v=e5GR_e3ZdxU
+q https://www.youtube.com/watch?v=eO1CPitXoJw
+q https://www.youtube.com/watch?v=hBAvM50QEPI
+q https://www.youtube.com/watch?v=iawgB2CDCrw
+q https://www.youtube.com/watch?v=jZXtzIPG3TM
+q https://www.youtube.com/watch?v=m0B3T02IZXQ
+q https://www.youtube.com/watch?v=sNAkJUtn8WA
+q https://www.youtube.com/watch?v=ydXC5bidYWE
+q tecniche e tecnologie negli impianti termoidraulici 
+q tecniche e tecnologie negli impianti termoidraulici gullace
+q tecniche tecnologie negli impianti termoidraulici 
+quote_driver_cityOfBirth Petilia Policastro (KR)
+quote_driver_residentialAddress_city Petilia Policastro (KR)
+s oleodinamico
+s_1_1_0_0 INPS.2203.02/06/2023.0085226
+search CONTRATTI
+search tecniche e tecnologie negli impianti termoidraulici gullace
+search-input griffi
+signName Serafino
+singin-email costanzosilvio_92@hotmail.it
+step_2[tutorInfo][descriptionTitle] Laureato in ingegneria meccanica offre ripetizioni di matematica, fisica e meccanica 
+step_2[tutorInfo][descriptionTitle] Laureato in ingegneria offre ripetizioni di matematica, fisica e meccanica
+step_3[tutorInfo][firstEducationLevel] Diploma di perito capotecnico industriale specializzazione meccanica
+step_3[tutorInfo][secondEducationLevel] Laurea triennale in ingegneria meccanica
+step_3[tutorInfo][thirdEducationLevel] Laurea magistrale in ingegneria meccanica
+step_5[skype] costanzoserafino_92@outlook.it
+step_5[tutorInfo][city] Salsomaggiore Terme 
+step_5[tutorInfo][countryCode] 43039
+step_5[tutorInfo][number] 20
+step_5[tutorInfo][street] via giardini
+step_6[tutorPricesPercorsi][1] 12
+step_6[tutorPricesPercorsi][2] 15
+step_6[tutorPricesPercorsi][3] 18
+step_6[tutorPrices][1] 15
+step_6[tutorPrices][2] 18
+step_6[tutorPrices][3] 20
+step_7[fiscalCode] CSTSFN92D26C352R
+targa DC660KM
+telefono 3393525529
+totale_6 14.290,40
+totale_6 15.510,40
+tx_fesearchintable_pi1[sword] assistenza
+tx_fesearchintable_pi1[sword] laurea
+tx_fesearchintable_pi1[sword] master a40
+txtCerca fisic
+txtCerca fisica
+txtUsr  s.costanzo14
+txtUsr s.costanzo14
+user costanzosilvio_92@hotmail.it
+user ecampus
+userIdentifier antoniocostanzo405@gmail.com
+userLoginId enrico.cinzia@tim.it
+user[email] costanzosilvio_92@hotmail.it
+username SIlvioCost
+username angela.audia
+username costanzosilvio_92@hotmail.it
+username s.costanzo14
+utente SilvioCurcio
+ux-form-control-232619 SolidWorks
+ux-form-control-406099 SolidWorks
+ux-form-control-751363 LA LAVAGNA INTERATTIVA MULTIMEDIALE NELLA DIDATTICA SPECIALE (LIM) AVANZATO
+ux-form-control-758443 6. LA LAVAGNA INTERATTIVA MULTIMEDIALE NELLA DIDATTICA SPECIALE (LIM) AVANZATO
+ux-form-control-786658 Certificazioni linguistiche
+work-expe-city Bergamo (BG)
+work-expe-city Bergamo (KR)
+work-expe-city Cefalù
+work-expe-city Cefalù (PA)
+work-expe-city Cotronei (KR)
+work-expe-city Crotone
+work-expe-city Crotone 
+work-expe-city Crotone (KR)
+work-expe-city Milano
+work-expe-city Milano (MI)
+work-expe-city Modena (MO)
+work-expe-city Novara di Sicilia
+work-expe-employer Ada Fontana impresa edile generale di costruzioni
+work-expe-employer Buscemi Paola lavori impianti elettrici
+work-expe-employer CONSORZIO SBT STRABAG AUSTRIA settore edile
+work-expe-employer Fronter impresa generale di costruzioni
+work-expe-employer ISTRUZIONE SECONDARIA SUPERIORE - MARGHERITA HACK Cotronei (KR)
+work-expe-employer Istituto Professionale per l'Industria e l'Artigianato "Cesare Pesenti"
+work-expe-employer MARGHERITA HACK COTRONEI (KR)
+work-expe-employer Margherita Hack Cotronei 
+work-expe-employer Metro Blu S.C.A.R.L 
+work-expe-employer PAVIMENTAL SPA
+work-expe-employer TOTO S.P.A. COSTRUZIONI GENERALI
+work-expe-employer V.G.M. di Venturino Marcello impresa edile costruzioni
+work-expe-employer Voema impresa edile costruzioni 
+/WS/DataSet[@LocalEntityName='ANAPER_DOC_IDENTITA']/Row[@Num='1']/ente_rilascio MC-KR
+/WS/DataSet[@LocalEntityName='ANAPER_DOC_IDENTITA']/Row[@Num='1']/num KR5143964P
+1 Docente
+108:_input Italy
+11:_input 0 - 100%
+15:_input Sì
+16 4
+17 28/08/2024
+18 31/08/2024
+19 Italiano
+19:_input No
+2 Indeterminato
+28 0
+29 Via dei Francesi n.28, Petilia Policastro 
+29yf4d628c821e3fd66da705c5f36680986b2f624084a3 costanzosilvio_92@hotmail.it
+3 103
+3 3285810496
+358aade9462f09 3285810496
+4 32
+4 36
+4c591db526113b Fiorella Curcio
+5 20/07/2024
+582c461d-bf89-40af-a86f-7f4bb54b8669-mopPresenter-billingAddressContainer-addressPresenterline1 Via dei Francesi 28
+6 27/08/2024
+6 31/08/2024
+6 Università della Calabria (Unical)
+741320f276779d 1698252577303
+7:_input Other
+885d8368a7eeee 3285810496
+ASF_acquisto_anno 2002
+ASF_acquisto_anno 2006
+ASF_acquisto_anno 2019
+ASF_civico 28
+ASF_civico 41
+ASF_cognome Camigliano
+ASF_cognome Costanzo
+ASF_decorrenza_giorno 09
+ASF_decorrenza_giorno 10
+ASF_decorrenza_giorno 25
+ASF_email costanzosilvio_92@hotmail.it
+ASF_immatricolazione_anno 2006
+ASF_immatricolazione_mese 08
+ASF_indirizzo Via Bachelet 
+ASF_km 2.000
+ASF_km 5.000
+ASF_km 8.000
+ASF_nascita_data 18 / 07 / 1964
+ASF_nascita_data 18 / 10 / 1947
+ASF_nome Luigi
+ASF_nome Rosa
+ASF_patente 1982
+ASF_ricerca_indirizzo Via dei Francesi, 28, Petilia policastro, KR
+ASF_targa BW403AP
+ASF_targa DC66OKM
+ASF_targa FX163BN
+ASF_telefono 3393525529
+CD 08457047952096
+CDFISC CSTSFN92D26C352R
+CDPOLO ecampus
+DRIV Categoria A1,A,B
+DTNASC 26/04/1992
+FNAM Serafino
+FirstName Serafino
+Keywords car
+LOGINID costanzosilvio_92@hotmail.it
+LOGINID fiorellacurcio@libero.it
+SearchBox3055 s
+TextField31 055553
+_username am1pjar856
+_username costanzosilvio_92@hotmail.it
+_username f.curcio
+a Fidenza
+address-autocomplete Via Nazionale 6
+adultsNumber 2
+anno 2012
+anno 2023
+azienda IPIA Cesare Pesenti
+azienda Margherita Hack Cotronei
+b7fead8331090a80 3285810496
+bdc341d950d409 fiorellacurcio@libero.it
+biglietti_tot 2
+birthDate 26/04/1992
+bsmart_activation_form[code] BHQHNVYG
+bsmart_activation_form[code] HOE22-BHQHNVYG
+bsmart_activation_form[code] HOE22-HWDLEQHM
+bsmart_activation_form[code] HOE22-TFLPKEZJ
+bsmart_activation_form[code] HOE22-WFVZWFAB
+cap 43045
+cap 87036
+cap 92100
+cardnumber **** **** **** 5016
+cart-redeem-coupon-input 22SINGLESDAY
+cerca 24
+cerca 337
+cerca 456
+cerca 530
+cerca AIOLFI
+cerca ALESSIA GRUZZA
+cerca AYAD
+cerca BARALLA
+cerca BARATELLA
+cerca BARBIERI
+cerca BASTONE
+cerca BIGLIARDI
+cerca Barbieri
+cerca Barbieri 
+cerca Barbieri Mirko
+cerca Borrelli Ottavia
+cerca CARPANINI
+cerca CASTR
+cerca CASTRO
+cerca CHIHAI
+cerca EL HABIB
+cerca EZZAKI
+cerca FAGGIANI
+cerca Faggiani
+cerca GAD
+cerca GNG
+cerca ILLUMINATO
+cerca Illuminato
+cerca Illuminatoù
+cerca LAMNAOUAR
+cerca LAMNAOUR
+cerca LAMNOUAR
+cerca Mirko Barbieri
+cerca NAOUA
+cerca OLIVA
+cerca ORFANELLO
+cerca Orfanello
+cerca PASQUALINO
+cerca RABBAS
+cerca RABONI
+cerca aioanei
+cerca aiolfi
+cerca anelli
+cerca assenza
+cerca avallone
+cerca baratella
+cerca barbieri
+cerca barbieri mirko
+cerca bastone
+cerca biglia
+cerca bigliardi
+cerca carpanini
+cerca faggiani
+cerca ferie
+cerca gariboldi
+cerca illuminato
+cerca malatti
+cerca malattia
+cerca mbengue
+cerca orfanello
+cerca permesso retribuito
+cerca questionario
+cerca raboni
+cerca rimbor
+cerca rimborso
+cerca rinxhi
+cerca rinxi
+cerca scrutini
+cerca virtosu
+cerca zambrano
+cerca_sito DIRIGENTE
+cerca_sito MODELLI
+cerca_sito MODELLO
+cerca_sito PFI
+cerca_sito RELAZION
+cerca_sito RELAZIONE
+cerca_sito autocad
+cerca_sito autodesk
+cerca_sito download
+cerca_sito finale
+cerca_sito fusion
+cerca_sito gite
+cerca_sito libri
+cerca_sito licenza
+cerca_sito recupero
+cerca_sito relazione
+cerca_sito rendicontazione
+cerca_sito ufficio 
+cerca_sito ufficio alunni
+cerca_sito uscita didattica
+cerca_sito uscite
+certificazione Preliminary English Test - Council of Europe Level B1
+cf CSTSFN92D26C352R
+citta Fornovo di Taro
+city_name Fornovo Di Taro
+civico 6
+code 76637779
+cognome Costanzo
+collection-view-desktop-filter-prices-maximum 12
+collection-view-desktop-filter-prices-maximum 14
+collection-view-desktop-filter-prices-maximum 15
+common_ticket_email antoniocostanzo405@gmail.com
+conoscenza_altro SolidWorks
+conpresenza_login PRIT0007.6235519
+contact-info-pres-emailItem-0confirmedEmail costanzoluigi_64@hotmail.it
+contact-info-pres-emailItem-0email costanzoluigi_64@hotmail.it
+contact-info-pres-phoneItem-0phone 3809071036
+contactDetails_addressLine1 Viale dei Giardini, 15
+contactDetails_city Rende
+contactDetails_phone +39 3393525529
+contactDetails_state CS
+contactDetails_zipCode 87036
+costo_totale 1220
+costo_unitario_effettivo 1220
+da Petilia Policastro
+data 26/01/2024
+dataConseguimento 11/07/2011
+dataConseguimento 19/12/2022
+dataDecGiuridica 01/01/2023
+dataDecGiuridica 01/09/2023
+dataDecGiuridica 08/10/2023
+dataDecGiuridica 09/01/2023
+dataDecGiuridica 09/10/2023
+dataDecGiuridica 10/01/2023
+dataDecGiuridica 25/10/2022
+dataDecGiuridica 31/10/2023
+dataInizio 09/01/2023
+dataScadenza 18/11/2023
+dataScadenza 30/11/2023
+dataScadenza 31/05/2024
+dataScadenza 31/08/2024
+dataScadenza 31/10/2023
+dataScadenza 31/12/2023
+date 10-02-2024
+date_end 01-06-2024
+date_end 01-12-2023
+date_end 02-03-2024
+date_end 02-12-2023
+date_end 04-05-2024
+date_end 04-12-2023
+date_end 05-12-2023
+date_end 08-02-2024
+date_end 09-04-2024
+date_end 09-12-2023
+date_end 10-05-2024
+date_end 11-04-2024
+date_end 12-04-2024
+date_end 12-12-2023
+date_end 13-04-2024
+date_end 15-04-2024
+date_end 15-12-2023
+date_end 16-02-2024
+date_end 16-04-2024
+date_end 16-12-2023
+date_end 18-04-2024
+date_end 18-05-2024
+date_end 18-12-2023
+date_end 19-03-2024
+date_end 19-04-2024
+date_end 20-04-2024
+date_end 20-11-2023
+date_end 21-11-2023
+date_end 21-12-2023
+date_end 22-03-2024
+date_end 22-04-2024
+date_end 22-12-2023
+date_end 23-04-2024
+date_end 23-05-2024
+date_end 23-11-2023
+date_end 24-02-2024
+date_end 24-05-2024
+date_end 24-11-2023
+date_end 25-04-2024
+date_end 25-05-2024
+date_end 25-11-2023
+date_end 26-03-2024
+date_end 26-04-2024
+date_end 27-02-2024
+date_end 27-04-2024
+date_end 28-11-2023
+date_end 29-04-2024
+date_end 30-04-2024
+date_end 30-05-2024
+date_end 30-11-2023
+date_end 31-05-2024
+date_start 01-06-2024
+date_start 01-12-2023
+date_start 02-03-2024
+date_start 02-12-2023
+date_start 04-05-2024
+date_start 04-12-2023
+date_start 05-12-2023
+date_start 08-02-2024
+date_start 09-04-2024
+date_start 09-12-2023
+date_start 10-05-2024
+date_start 11-04-2024
+date_start 12-04-2024
+date_start 12-12-2023
+date_start 13-04-2024
+date_start 15-04-2024
+date_start 15-12-2023
+date_start 16-02-2024
+date_start 16-04-2024
+date_start 16-12-2023
+date_start 18-04-2024
+date_start 18-05-2024
+date_start 18-12-2023
+date_start 19-03-2024
+date_start 19-04-2024
+date_start 20-04-2024
+date_start 20-11-2023
+date_start 21-11-2023
+date_start 21-12-2023
+date_start 22-03-2024
+date_start 22-04-2024
+date_start 22-12-2023
+date_start 23-04-2024
+date_start 23-05-2024
+date_start 23-11-2023
+date_start 24-02-2024
+date_start 24-05-2024
+date_start 24-11-2023
+date_start 25-04-2024
+date_start 25-05-2024
+date_start 25-11-2023
+date_start 26-03-2024
+date_start 26-04-2024
+date_start 27-02-2024
+date_start 27-04-2024
+date_start 28-11-2023
+date_start 29-04-2024
+date_start 30-04-2024
+date_start 30-05-2024
+date_start 30-11-2023
+date_start 31-05-2024
+departureDateVISIBLE 13 Mag 2024
+departureDateVISIBLE 17 Mag 2024
+descr_breve BILANCIO PERSONALE INIZIALE 
+descr_breve PFI PRIMO ANNO
+descr_breve PFI PRIMO ANNO PRIMO PERIODO
+descr_breve PFI SECONDO ANNO
+descr_breve PFI SECONDO ANNO PRIMO PERIODO
+descr_breve PFI TERZO ANNO
+descr_breve PFI TERZO ANNO PRIMO PERIODO
+descr_breve PROGETTO FORMATIVO INDIVIDUALE
+descrizione_contenuto_1 Dispositivi meccanici
+descrizione_contenuto_1 TMA 
+descrizione_contenuto_1 TMA argomenti verifica scritta 25 marzo
+dicX.desComLisElt Petilia Policastro
+dicX.desComLisElt Rende
+e74b0022b618806b 1698252577303
+edge_empty Costanzo Serafino
+edge_empty_label Giuseppe
+edge_empty_label Giuseppe 
+editor_page 1
+educ-train-city Catanzaro
+educ-train-city MILANO (MI)
+educ-train-city Novedrate (CO)
+educ-train-city Petilia Policastro (KR)
+educ-train-organisation ESEM CPT 
+educ-train-organisation ESEM CPT MILANO
+educ-train-organisation ITIS "E.Scalfaro"
+educ-train-organisation Istituto tecnico professionale 
+educ-train-organisation Università della Calabria (Unical)
+educ-train-organisation Università eCampus
+educ-train-postal-code 88837
+educ-train-qualification 2. Laurea triennale in ingegneria meccanica
+educ-train-qualification 2.Diploma di perito industriale capotecnico specializzazione meccanica
+educ-train-qualification 3. Laurea magistrale in ingegneria meccanica
+educ-train-qualification 3. Laurea triennale in ingegneria meccanica
+educ-train-qualification 4. Laurea magistrale in ingegneria meccanica
+educ-train-qualification Attestato di abilitazione PLE/carrelli elevatori verticali
+educ-train-qualification Attestato di abilitazione app. sollevamento (gru)
+educ-train-qualification Certificazioni informatiche e linguistiche 
+educ-train-qualification Diploma di perito industriale capotecnico specializzazione meccanica
+educ-train-qualification Master Universitario di I livello
+educ-train-qualification Qualifica di operatore del mobile e dell'arredamento
+educ-train-street-address-type1 Piazza Giacomo Matteotti, 15
+educ-train-street-address-type1 Via P. Bucci, Rende (CS), Italia 
+email costanzosilvio_92@hotmail.it
+email cpaolin@libero.it
+email dinapolis@libero.it
+email enrico.cinzia@tim.it
+email fiorellacurcio@libero.it
+email gbilot@libero.it
+email gsingh@libero.it
+email nringh@libero.it
+email vinsfila@libero.it
+email2 costanzosilvio_92@hotmail.it
+emailAddress costanzo.docente@istitutopesenti.it
+exp-date 10/26
+expDate 10/26
+fbclc_emailConf costanzosilvio_92@hotmail.it
+fbclc_fName Serafino
+fbclc_lName Costanzo
+fbclc_userName costanzosilvio_92@hotmail.it
+ff_al 04-04-2024
+ff_al 05-04-2024
+ff_al 14-03-2024
+ff_al 17-05-2024
+ff_al 24-08-2024
+ff_al 27-11-2023
+ff_al0 24-07-2024
+ff_al1 06-04-2024
+ff_ambito Uscita didattica
+ff_ambito Uscita didattica orientamento a Torino, Oval Lingotto Fiere – “A&T fiera delle tecnologie 4.0 – 5.0
+ff_annoscol 2023-2024
+ff_arrivoa1 Parma
+ff_arrivoa1 Torino, Oval Lingotto Fiere – “A&T fiera delle tecnologie 4.0 – 5.0
+ff_arrivoa2 Milano Centrale
+ff_arrivoa3 Rho Fiera
+ff_dal 04-04-2024
+ff_dal 05-04-2024
+ff_dal 14-03-2024
+ff_dal 16-05-2024
+ff_dal 25-07-2024
+ff_dal 27-11-2023
+ff_dal0 20-07-2024
+ff_dal1 06-04-2024
+ff_datamissione1 09-11-2023
+ff_datamissione1 16-02-2024
+ff_datamissione2 09-11-2023
+ff_datamissione3 09-11-2023
+ff_duratamissione1 Circa 12 ore 
+ff_ggferieutilizzati 0
+ff_ggferieutilizzati 1
+ff_ggferieutilizzati 2
+ff_ggferieutilizzati 4
+ff_ggferieutilizzati 6
+ff_ggfestivitasoppresse 0
+ff_importobiglietti1 28.24
+ff_luogomissione EICMA MILANO RHO-FIERA
+ff_luogomissione Torino
+ff_n1 1
+ff_ngiorni 1
+ff_nomeistituto Fornovo 
+ff_nomeistituto Fornovo di Taro 
+ff_notrec scostanzo@iissgadda.it
+ff_numgglavorativiferie 1
+ff_numgglavorativiferie 2
+ff_numgglavorativiferie 26
+ff_numgglavorativiferie1 1
+ff_numgglavorativifestivita 4
+ff_partenzada1 Fornovo 
+ff_partenzada1 Fornovo ( piazzale antistante la scuola)
+ff_partenzada2 Parma
+ff_partenzada3 Milano Centrale
+ff_partenzaore1 7:20
+ff_partenzaore1 7:30
+ff_partenzaore2 8:18
+ff_partenzaore3 10:00
+ff_residenza Petilia Policastro - via dei Francesi - 28
+ff_rientroore1 18:58
+ff_rientroore1 19:00
+ff_totgiorniferie 1
+ff_totgiorniferie 2
+ff_totgiorniferie 26
+ff_totgiornifestivita 1
+ff_totgiornifestivita 4
+field-:r2c: Serafino
+field-:r2d: costanzo.docente@istitutopesenti.it
+filename PROGRAMMAZIONE CLASSI SECONDE (6).doc
+firstName Fiorella
+firstName Serafino
+firstName Vincenzo
+firstName carmine
+firstName giacomo
+firstName giuseppina
+firstName nicolas
+firstName salvatore
+firstName silvio
+fname silvio
+formCompilazioneTo.cfParteContratto CSTSFN92D26C352R
+formCompilazioneTo.inp.frontestpizioTo.numeroRegistrazione 1291
+form[address_data][address] Viale dei Giardini 15
+form[address_data][city] Rende
+form[basic_personal_data][email] costanzosilvio_92@hotmail.it
+form[basic_personal_data][name] Serafino
+form[basic_personal_data][surname] Costanzo
+form[mobile_number][mobileNumber] 3393525529
+form_fields[field_74a8ad8] 3393525529
+form_fields[field_add0f6e] costanzosilvio_92@hotmail.it
+form_fields[field_ed571b6] silvio costanzo
+hd_oggetto Problematiche relative alla chiusura del progetto nella parte relativa allineamento quota forniture e servizi
+holder Serafino Costanzo
+iOttText 361987
+iSigninName 3393525529
+iSigninName costanzoluigi_64@hotmail.it
+iVerifyText 062103
+iban IT23X0760104400001064384439
+identifier costanzoserafino@outlook.it
+identifier costanzosilvio_92@hotmail.it
+importo_aut_cor_4 6490,40
+importo_aut_cor_5 0
+importo_aut_cor_5 1220
+importo_aut_cor_5 1220,00
+indirizzo Via Nazionale 
+indirizzo Viale dei Giardini, 15
+input_34b15cb7-a4e4-4638-865b-a48918e9dfc2 339 352 5529
+input_468bb9af-ad80-4ea6-bb2c-0a627998594e Costanzo
+input_aa676fe3-86c9-4bf5-a9d8-d7d1385dd9ca costanzosilvio_92@hotmail.it
+input_acc5d0c4-c0a9-4427-95a9-b66c592f062d 88837
+input_b016ea6b-74bb-4fde-85c7-84d2b1f29c15 costanzosilvio_92@hotmail.it
+input_c01c888f-b63c-4cb1-8904-6cebda183c7d CSTSFN92D26C352R
+input_ca77adae-a9c0-473b-afd8-595fdb718bcf 339 352 5529
+input_d75c3160-793b-4014-a4a3-80b6d7a24fe9 Via dei Francesi 
+input_e03dbfd0-e809-491a-90d3-c5a12da1dde4 28
+input_f44e6db9-649f-4974-9662-d770e5105d36 Serafino
+input_f48a2435-f1c2-4de1-a67f-708e5e68313a Casa Fiorella Cu
+institutionSelector-autocomplete Gadda Fornovo Professionale (Langhirano)
+items.0.name Acutil Fosforo Advance 50 Compresse
+items.0.quantity 1
+items.1.name Spazzolino White Sensation Setole Medie
+items.1.quantity 1
+items.2.expected_refund 6.63
+items.2.name Sanavita Omega 3 Bluefish Integratore Per Funzione Cardiaca 60 Capsule
+items.2.quantity 1
+j_username  s.costanzo14
+j_username costanzosilvio_92@hotmail.it
+j_username s.costanzo14
+keyword https://www.youtube.com/watch?v=MIglkoVxz5E
+keyword https://www.youtube.com/watch?v=ZLokapCJvfA
+keyword https://www.youtube.com/watch?v=cD7pMbzhG8Y
+lastName Barbieri
+lastName Costanzo
+lastName Curcio
+lastName bilotti
+lastName costanzo
+lastName dinapoli
+lastName paolini
+lastName rinxhi
+lastName singh
+listaDichiarazioni[3].dichUtente.desTesLibCnd Rende
+listaLIC1[0].desCerLin Certificazione linguistica
+listaLIC1[0].desEntLuoCns LRN (Learning Resource Network), PIGRECO SRLS, Angri (SA)
+listaLIC1[0].desLinStr Inglese
+listaMAST[0].annAccCnsFE 2022/23
+listaMAST[0].desIstLuoCns Università Telematica eCampus
+listaMAST[0].desMas Master di Primo Livello in L'INSEGNAMENTO DI SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE  NELLE SCUOLE SECONDARIE DI I E II GRADO
+listaServizi[0].annScoFE 2022/23
+listaServizi[0].annScoFE 2023/24
+listaServizi[0].desScuPstSer ISTITUTO COMPRENSIVO G.MARCONI PETILIA POLICASTRO
+listaServizi[0].desScuPstSer Istituto Istruzione Superiore "Carlo Emilio Gadda"
+listaServizi[0].desScuPstSer Istituto Professionale per l'Industria e l'Artigianato "Cesare Pesenti "
+listaServizi[0].numGioCpsSerStr 235
+listaServizi[0].numGioCpsSerStr 246
+listaServizi[0].numGioCpsSerStr 260
+listaServizi[0].numGioCpsSerStr 284
+listaServizi[0].numGioCpsSerStr 298
+listaServizi[0].numGioCpsSerStr 328
+listaServizi[0].numGioCpsSerStr 365
+listaTitoliAccesso[0].titoloStudio.decimali 00
+listaTitoliAccesso[0].titoloStudio.desLuoCnsCfu Università della Calabria (Unical)
+listaTitoliAccesso[0].titoloStudio.desLuoCnsTit Università della Calabria (Unical)
+listaTitoliAccesso[0].titoloStudio.numBasVotTit 110
+listaTitoliAccesso[0].titoloStudio.numVotCenTit 94
+listaTitoliAccesso[0].titoloStudio.voto 103
+listaTitoliAccesso[1].titoloStudio.decimali 00
+listaTitoliAccesso[1].titoloStudio.desLuoCnsCfu Università della Calabria (Unical)
+listaTitoliAccesso[1].titoloStudio.desLuoCnsTit Università della Calabria (Unical)
+listaTitoliAccesso[1].titoloStudio.numBasVotTit 110
+listaTitoliAccesso[1].titoloStudio.numVotCenTit 94
+listaTitoliAccesso[1].titoloStudio.voto 103
+lista[0].annoAccademico 2022/2023
+lista[0].conseguimento.luogo AICA (Associazione Italiana per l'Informatica ed il Calcolo Automatico)
+lista[0].conseguimento.luogo Learning Resource Network
+lista[0].conseguimento.luogo UNIVERSITÀ eCAMPUS 
+lista[0].titolo Certificato ECDL
+lista[0].titolo DIDATTICA DELL’INSEGNAMENTO CON LA METODOLOGIA CLIL
+lista[0].titolo ESOL International CEFR C2 (Reading, Use of English, Writing, Listening, Speaking and Interaction)
+lista[0].titolo INGLESE - DIDATTICA DELL'INSEGNAMENTO CON LA METODOLOGIA CLIL [CPDC011]
+lista[0].titolo L'INSEGNAMENTO DI SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE NELLE SCUOLE SECONDARIE DI I E II GRADO
+lista[1].annoAccademico 2022/2023
+lista[1].annoAccademico 2023/2024
+lista[1].conseguimento.luogo MEDIAFORM E.Q.I.A. (Educational Qualifications and International Assessments)
+lista[1].conseguimento.luogo UNIVERSITÀ eCAMPUS 
+lista[1].titolo L'INSEGNAMENTO DELLE MATERIE SCIENTIFICHE NEGLI ISTITUTI SECONDARI DI II GRADO: MATEMATICA E FISICA
+lista[1].titolo L'INSEGNAMENTO DI SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE NELLE SCUOLE SECONDARIE DI I E II GRADO
+lista[1].titolo USO DIDATTICO DEL TABLET (TAB)
+lista[2].annoAccademico 2023/2024
+lista[2].conseguimento.luogo CERTIPASS
+lista[2].conseguimento.luogo UNIVERSITÀ eCAMPUS 
+lista[2].titolo EIPASS LIM - AVANZATO
+lista[2].titolo L'INSEGNAMENTO DELLE MATERIE SCIENTIFICHE NEGLI ISTITUTI SECONDARI DI II GRADO: MATEMATICA E FISICA
+lista[3].conseguimento.luogo MEDIAFORM E.Q.I.A. (Educational Qualifications and International Assessments)
+lista[3].titolo CODING, PENSIERO COMPUTAZIONALE E ROBOTICA EDUCATIVA NEL CONTESTO SCOLASTICO
+lista[4].conseguimento.luogo MEDIAFORM E.Q.I.A. (Educational Qualifications and International Assessments)
+lista[4].titolo LA LAVAGNA INTERATTIVA MULTIMEDIALE NELLA DIDATTICA SPECIALE (LIM) AVANZATO
+lname costanzo
+login BGII0023.5922083
+login PRIT0007.5247130
+login PRIT0007.6235519
+login.email fiorellacurcio@libero.it
+login_email costanzosilvio_92@hotmail.it
+login_type[email] costanzosilvio_92@hotmail.it
+loginfmt costanzoluigi_64@hotmail.it
+loginfmt costanzosilvio_92@hotmail.it
+loginfmt s
+loginfmt scostanzo@iissgadda.it
+luogoConseguimento Istituto Tecnico Industriale Statale "E. Scalfaro" di Catanzaro
+luogoConseguimento ​Università della CALABRIA - RENDE (CS)
+mail costanzosilvio_92@hotmail.it
+mail1 costanzosilvio_92@hotmail.it
+mail2 costanzosilvio_92@hotmail.it
+module_name Applicazione dei metodi di manutenzione - Telemanutenzione e teleassistenza
+module_name Argomenti verifica scritta 21 maggio
+module_name Argomenti verifica scritta 26 aprile
+module_name Livelli di manutenzione. Interventi manutentivi
+module_name Proprietà dei materiali
+module_name Sicurezza nella manutenzione
+module_name TMA 
+module_name TMA argomenti verifica orale, verifica scritta 25 marzo 
+module_name TMA argomenti verifica scritta 25 marzo
+module_name TMA argomenti verifica scritta 25 marzo, verifica orale mese di aprile
+module_name Unità B1 Sicurezza nella manutenzione
+module_name Unità B1 e B2
+module_name Unità B2 Tutela ambientale
+module_name Unità C1
+module_name Unità R1 TMA
+module_name Unità R2 prima parte TMA
+module_name Unità R2 seconda parte TMA
+module_name Velocità di taglio
+nickname SilvioCurcio
+nome Fiorella 
+nome Fiorella Curcio
+nome Serafino
+nome silvio
+num_elementi_effettivi 1
+ora_fin_mod 12:00
+ora_fin_mod 14:00
+ora_fin_new 11:00
+ora_fin_new 12:00
+ora_ini_mod 10:00
+ora_ini_mod 11:00
+ora_ini_new 10:00
+ora_ini_new 11:00
+param-10 Luigi
+param-10 Serafino
+param-11 Costanzo
+param-11 Costanzo 
+param-17 3393525529
+param-17 3809071036
+param-20 costanzosilvio_92@hotmail.it
+passengerInput-ticket 1 Adulto, 0 Ragazzi
+perso-info-addressLine1-0 Via Pio La Torre n.06 Pagliarelle (Kr)
+perso-info-addressLine1-0 Via dei Francesi 28
+perso-info-city-0 Crotone
+perso-info-city-0 Petilia Policastro
+perso-info-city-0 Rende
+perso-info-city-0 Rende (CS)
+perso-info-email-input-0 fontana85@alice.it
+perso-info-firstName Luigi
+perso-info-firstName Serafino
+perso-info-firstName Vincenzo
+perso-info-lastName Fontana
+perso-info-phone-form-0-number 3393525529
+perso-info-phone-form-0-number 3771514643
+perso-info-postal-code-0 88837
+phone 3393525529
+phoneNumber 339 352 5529
+phonenumber 3393525529
+phonenumber-confirm 3393525529
+popup_evento_ora 08:03
+popup_evento_ora 08:05
+popup_evento_ora 08:06
+popup_evento_ora 08:07
+popup_evento_ora 08:08
+popup_evento_ora 08:09
+popup_evento_ora 08:10
+popup_evento_ora 08:11
+popup_evento_ora 08:12
+popup_evento_ora 08:13
+popup_evento_ora 08:15
+popup_evento_ora 08:16
+popup_evento_ora 08:18
+popup_evento_ora 08:20
+popup_evento_ora 08:22
+popup_evento_ora 08:25
+popup_evento_ora 08:30
+popup_evento_ora 08:35
+popup_evento_ora 08:37
+popup_evento_ora 08:51
+popup_evento_ora 09:00
+popup_evento_ora 09:01
+popup_evento_ora 09:05
+popup_evento_ora 09:06
+popup_evento_ora 09:09
+popup_evento_ora 09:12
+popup_evento_ora 09:35
+popup_evento_ora 09:38
+popup_evento_ora 10:00
+popup_evento_ora 10:04
+popup_evento_ora 10:14
+popup_evento_ora 10:39
+popup_evento_ora 11:37
+popup_evento_ora 12:14
+popup_evento_ora 12:25
+popup_evento_ora 12:37
+popup_evento_ora 12:49
+popup_evento_ora 13:06
+popup_evento_ora 13:13
+popup_evento_ora 13:43
+popup_evento_ora_u 08:03
+popup_evento_ora_u 08:05
+popup_evento_ora_u 08:06
+popup_evento_ora_u 08:07
+popup_evento_ora_u 08:08
+popup_evento_ora_u 08:09
+popup_evento_ora_u 08:10
+popup_evento_ora_u 08:11
+popup_evento_ora_u 08:12
+popup_evento_ora_u 08:13
+popup_evento_ora_u 08:16
+popup_evento_ora_u 08:21
+popup_evento_ora_u 09:01
+popup_evento_ora_u 09:05
+popup_evento_ora_u 09:06
+popup_evento_ora_u 09:35
+popup_evento_ora_u 09:38
+popup_evento_ora_u 10:00
+popup_evento_ora_u 10:04
+popup_evento_ora_u 10:14
+popup_evento_ora_u 10:39
+popup_evento_ora_u 11:00
+popup_evento_ora_u 11:09
+popup_evento_ora_u 11:10
+popup_evento_ora_u 11:30
+popup_evento_ora_u 11:39
+popup_evento_ora_u 11:43
+popup_evento_ora_u 12:00
+popup_evento_ora_u 12:06
+popup_evento_ora_u 12:12
+popup_evento_ora_u 12:14
+popup_evento_ora_u 12:20
+popup_evento_ora_u 12:30
+popup_evento_ora_u 12:37
+popup_evento_ora_u 12:46
+popup_evento_ora_u 12:49
+popup_evento_ora_u 13:00
+popup_evento_ora_u 13:06
+popup_evento_ora_u 13:13
+popup_evento_ora_u 13:43
+popup_evento_ora_u 18:07
+posizione Docente
+postcode 88837
+proceduraConseguimento Diploma di Perito Industriale Capotecnico Specializzazione Meccanica
+proceduraConseguimento Laurea Magistrale in Ingegneria Meccanica
+proceduraConseguimento Laurea Magistrale in ingegneria meccanica
+profile.lastName costanzo
+progressive_susi_email costanzosilvio_92@hotmail.it
+q 10/24
+q D.M 10/24
+q DM10
+q https://www.youtube.com/watch?v=2Ta2VIkxZPI
+q https://www.youtube.com/watch?v=6f6OL-w9B7A
+q https://www.youtube.com/watch?v=Fqey8LxQxFU
+q https://www.youtube.com/watch?v=G-D80U_u3sk
+q https://www.youtube.com/watch?v=Gsq_dIQMeng
+q https://www.youtube.com/watch?v=HcxbASmfiGk
+q https://www.youtube.com/watch?v=NJVxa_bpVrk
+q https://www.youtube.com/watch?v=RXZk1OWeZo0
+q https://www.youtube.com/watch?v=URUWLd6utSk
+q https://www.youtube.com/watch?v=Z-KZxITD77s
+q https://www.youtube.com/watch?v=ZLokapCJvfA
+q https://www.youtube.com/watch?v=cD7pMbzhG8Y
+q https://www.youtube.com/watch?v=e5GR_e3ZdxU
+q https://www.youtube.com/watch?v=eO1CPitXoJw
+q https://www.youtube.com/watch?v=hBAvM50QEPI
+q https://www.youtube.com/watch?v=iawgB2CDCrw
+q https://www.youtube.com/watch?v=jZXtzIPG3TM
+q https://www.youtube.com/watch?v=m0B3T02IZXQ
+q https://www.youtube.com/watch?v=sNAkJUtn8WA
+q https://www.youtube.com/watch?v=ydXC5bidYWE
+quote_driver_cityOfBirth Petilia Policastro (KR)
+quote_driver_residentialAddress_city Petilia Policastro (KR)
+s oleodinamico
+s_1_1_0_0 INPS.2203.02/06/2023.0085226
+search CONTRATTI
+search-engine-input pargamena
+search-input griffi
+signName Serafino
+singin-email costanzosilvio_92@hotmail.it
+step_2[tutorInfo][descriptionTitle] Laureato in ingegneria meccanica offre ripetizioni di matematica, fisica e meccanica 
+step_2[tutorInfo][descriptionTitle] Laureato in ingegneria offre ripetizioni di matematica, fisica e meccanica
+step_3[tutorInfo][firstEducationLevel] Diploma di perito capotecnico industriale specializzazione meccanica
+step_3[tutorInfo][secondEducationLevel] Laurea triennale in ingegneria meccanica
+step_3[tutorInfo][thirdEducationLevel] Laurea magistrale in ingegneria meccanica
+step_5[skype] costanzoserafino_92@outlook.it
+step_5[tutorInfo][city] Salsomaggiore Terme 
+step_5[tutorInfo][countryCode] 43039
+step_5[tutorInfo][number] 20
+step_5[tutorInfo][street] via giardini
+step_6[tutorPricesPercorsi][1] 12
+step_6[tutorPricesPercorsi][2] 15
+step_6[tutorPricesPercorsi][3] 18
+step_6[tutorPrices][1] 15
+step_6[tutorPrices][2] 18
+step_6[tutorPrices][3] 20
+step_7[fiscalCode] CSTSFN92D26C352R
+targa DC660KM
+taxCode CRCFLL67H52G508E
+telefono 3393525529
+totale_6 14.290,40
+totale_6 15.510,40
+tx_fesearchintable_pi1[sword] assistenza
+tx_fesearchintable_pi1[sword] laurea
+txtCerca fisic
+txtCerca fisica
+txtUsr s.costanzo14
+undefinedcode MONDO
+user costanzosilvio_92@hotmail.it
+user ecampus
+userIdentifier antoniocostanzo405@gmail.com
+userLoginId enrico.cinzia@tim.it
+user[email] costanzosilvio_92@hotmail.it
+username SIlvioCost
+username angela.audia
+username costanzosilvio_92@hotmail.it
+username fiorella.curcio
+username s.costanzo14
+utente SilvioCurcio
+ux-form-control-232619 SolidWorks
+ux-form-control-406099 SolidWorks
+ux-form-control-751363 LA LAVAGNA INTERATTIVA MULTIMEDIALE NELLA DIDATTICA SPECIALE (LIM) AVANZATO
+ux-form-control-758443 6. LA LAVAGNA INTERATTIVA MULTIMEDIALE NELLA DIDATTICA SPECIALE (LIM) AVANZATO
+ux-form-control-786658 Certificazioni linguistiche
+votazioneBase 100
+votazioneBase 110
+votazioneOriginale 103
+votazioneOriginale 93
+votazioneRapportata 102
+votazioneRapportata 103
+work-expe-city Bergamo (BG)
+work-expe-city Bergamo (KR)
+work-expe-city Cefalù
+work-expe-city Cefalù (PA)
+work-expe-city Cotronei (KR)
+work-expe-city Crotone
+work-expe-city Crotone 
+work-expe-city Crotone (KR)
+work-expe-city Milano
+work-expe-city Milano (MI)
+work-expe-city Modena (MO)
+work-expe-city Novara di Sicilia
+work-expe-employer Ada Fontana impresa edile generale di costruzioni
+work-expe-employer Buscemi Paola lavori impianti elettrici
+work-expe-employer CONSORZIO SBT STRABAG AUSTRIA settore edile
+work-expe-employer Fronter impresa generale di costruzioni
+work-expe-employer ISTRUZIONE SECONDARIA SUPERIORE - MARGHERITA HACK Cotronei (KR)
+work-expe-employer Istituto Professionale per l'Industria e l'Artigianato "Cesare Pesenti"
+work-expe-employer MARGHERITA HACK COTRONEI (KR)
+work-expe-employer Margherita Hack Cotronei 
+work-expe-employer Metro Blu S.C.A.R.L 
+work-expe-employer PAVIMENTAL SPA
+work-expe-employer TOTO S.P.A. COSTRUZIONI GENERALI
+work-expe-employer V.G.M. di Venturino Marcello impresa edile costruzioni
+work-expe-employer Voema impresa edile costruzioni 

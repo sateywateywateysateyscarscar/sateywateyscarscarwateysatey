@@ -1,0 +1,11 @@
+www.tombola.it	FALSE	/	FALSE	1714323579	TombolaGuid	c5e934ba-018e-42ef-b621-bfda80e6628c
+www.tombola.it	FALSE	/	FALSE	1714323579	TombolaVisited	2023-10-31 18:59:38
+www.tombola.it	FALSE	/	FALSE	0	ASP.NET_SessionId	vhc1kfhpcbdlyrksbmbn1q1k
+www.tombola.it	FALSE	/	FALSE	0	TombolaUserSession	50f0e4fa-cfef-4fb2-93ea-1c835ebc419f
+www.tombola.it	FALSE	/	FALSE	0	__RequestVerificationToken	MZZ0UQdoalI54EUMbo08Z0HddihDoU9umLOAzDgltxajYeO6Bsj5eHvMLzheGp4pjXWirCX0I8Y-0alaNltXtAkasaU1
+www.tombola.it	FALSE	/	FALSE	1708541973	bingosession	id=780876703&crosscheck=1985390532&lastacc=18/02/2024 19:20:19&extendedLogin=False
+proxy.tombola.it	TRUE	/	TRUE	1709064561	AWSALB	woAKyDjsPT1sOu6srKIhiV2euCvpoDj/FihpoPPT/89pK4Kpxn0g3CV0D6/Im0u+KEP62wG88Lh4SxcYZ4xAt5voOvjYVK4eNMD+7NC1PijqI4t8dxbTDPvECCgh
+www.tombola.it	TRUE	/	TRUE	1709064563	AWSALB	cNh/Mm9Z+UzMKuMx3Db6cRg0xQbhC0ew2nqDS70K3dQOJqEWOuxq1wSxjPxSYP7aS7oVHthRRfmxHCd4btBcjJAhjr/37xfMzRnXLdHFLvQbOG4PZDFlPbYT6Gdh
+proxy.tombola.it	TRUE	/	FALSE	1709064561	AWSALBCORS	woAKyDjsPT1sOu6srKIhiV2euCvpoDj/FihpoPPT/89pK4Kpxn0g3CV0D6/Im0u+KEP62wG88Lh4SxcYZ4xAt5voOvjYVK4eNMD+7NC1PijqI4t8dxbTDPvECCgh
+www.tombola.it	TRUE	/	FALSE	1709064563	AWSALBCORS	cNh/Mm9Z+UzMKuMx3Db6cRg0xQbhC0ew2nqDS70K3dQOJqEWOuxq1wSxjPxSYP7aS7oVHthRRfmxHCd4btBcjJAhjr/37xfMzRnXLdHFLvQbOG4PZDFlPbYT6Gdh
+.tombola.it	TRUE	/	TRUE	1709064564	optimizelyEndUserId	oeu1708462760332r0.36932646915308887

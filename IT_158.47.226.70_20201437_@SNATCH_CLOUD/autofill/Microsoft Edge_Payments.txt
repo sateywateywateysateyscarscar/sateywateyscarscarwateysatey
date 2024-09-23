@@ -1,0 +1,405 @@
+/paypalAccountData/email gte361@gmail.com
+/paypalAccountData/phoneNumber 3481374308
+:r2a: cdh2JynY
+Address.City FRATTAMINORE
+Address.Lines.Line1 Via traversa 1 Giovanni XXIII, Terzo piano
+Address.Lines.Line2 3
+Address.Lines.Line3 Salvatore Liguori 
+Address.Postcode 80020
+AuthEmail salvatoreliguori1991@gmail.com
+DisplayPhoneNumber 3481374308
+Email salvatoreliguori1991@gmail.com
+FirstName Antonio 
+ForgotEmail salvatoreliguori1991@gmail.com
+GOVT_ISSUED_ID_VALUE LGRSVT02A28D789J
+LastName Liguori 
+PHONE 3472841759
+PHONE 3481374308
+Phone 3481374308
+PostBottomBarPageNumberInput 1
+PostalCode 80020
+PostalCode 80027
+SignUpForm[cus_email] Gte361@gmail.com
+T33205031511384772686028_j_id_id0:EnterBillingObjectIdForm:j_id_id11 3472841759
+T33205031511384772686028_j_id_id0:EnterBillingObjectIdForm:j_id_id11 3481374308
+_com_liferay_portal_search_web_portlet_SearchPortlet_keywords 02
+_username Salviopo 
+abo_unlockCode 524977
+addressLine1 Via traversa Giovanni XXIII
+addressLine2 Terzo piano
+algolia-search Controller 
+algolia-search Controller ps5
+algolia-search Microfono 
+algolia-search Xbox controller
+auth salvatoreliguori1991@gmail.com
+autoDeclineAmount 65,00
+bhvmsg 108a120a57a40a60a60a38a56a61a55a121a34a34a42a113a39a
+billingCity FRATTAMINORE
+billingLine1 Via traversa 1 Giovanni XXIII, Terzo piano
+billingLine2 Via traversa 1 Giovanni XXIII, Terzo piano
+billingPostalCode 80020
+billing_address_1 Via traversa Giovanni XXIII
+billing_address_2 Terzo piano
+billing_cf LGRSVT02A28D789J
+billing_city Frattaminore
+billing_email alessandrasilvestre1967@gmail.com
+billing_first_name Salvatore
+billing_last_name Liguori
+billing_phone 3481374308
+billing_postcode 80020
+cap 80020
+cdmsg 102a127a44a56a32a46a58a121a44a97a48a102a97a104a101a49a58a50a56a40a96a58a39a43a101a121a38a35a43a36a33a115a96a46a35a47a124a101a39a62a61a46a58a116a113a120a127a123a121a104a97a120a109a96a126a123a104a127a125a100a98a125a98a
+cellulare 3481374308
+cf LGRSVT02A28D789J
+chat-fc-indirizzoemail Salvatoreliguori1991@gmail.com
+chat-fc-nome Salvatore 
+chat_main_input Via papa Giovanni XXIII della prima traversa numero 3. Al terzo piano. Possibilmente contattatemi al telefono perché il citofono non funziona.
+checkout[attributes][Codice Fiscale] LGRSVT02A28D789J
+checkout[shipping_address][address1] Via traversa Giovanni XXIII,3
+checkout[shipping_address][address2] Terzo piano
+checkout[shipping_address][company] Liguori Salvatore
+checkout[shipping_address][phone] 3481374308
+chiaveRegistrazione DAMA1062
+cittaRilascio Frattamaggiore
+city Frattaminore
+codVerCellPart2 851736
+codVerEmailPart2 681314
+code 819257
+code1 3
+code2 1
+code3 6
+code4 3
+codeInput SRC871997AECA46863
+codiceFiscale LGRSVT02A28D789J
+codiceNumerico 780343
+cognome Liguori
+cognome Liguori 
+comment Super rapido thanks 
+company Liguori Salvatore
+comunedinascita FRATTAMAGGIORE
+conf_email salvatoreliguori1991@gmail.com
+confermaCellulare 3481374308
+confermaEmail salvatoreliguori1991@gmail.com
+confermaemailaddress salvatoreliguori1991@gmail.com
+confermamobilenumber 3481374308
+confirm-email salvatoreliguori1991@gmail.com
+create_fontstruction_form[name] amnesia
+customerName Salvatore Liguori
+customerPhone 3481374308
+data 06-02-2024
+dataRilascio 06/02/2020
+dataScadenza 28/01/2031
+datadinascita 28/01/2002
+dateOfBirth 28/01/2002
+dob 28/01/2002
+dob 28/05/2002
+domicilioCap 80020
+domicilioIndirizzo Via traversa 1 Giovanni XXIII, Terzo piano
+dwfrm_billing_billingAddress_addressFields_firstName Salvatore
+dwfrm_profile_customer_homePhone 3481374308
+dwfrm_profile_customer_mobilePhone 3481374308
+email 3481374308
+email Ale
+email Gt
+email alessandrasilvestre1967@gmail.com
+email gte361@gmail.com
+email salvatoreliguori1991@gmail.com
+email-input gte361@gmail.com
+emailAddress gte361@gmail.com
+emailAddress salvatoreliguori1991@gmail.com
+emailConfirm salvatoreliguori1991@gmail.com
+email_address salvatoreliguori1991@gmail.com 
+emailaddress salvatoreliguori1991@gmail.com
+exp-date 07 / 29
+femsg 1
+firstName Carslos
+firstName Salvatore
+first_name Salvatore
+firstname Salvatore
+fiscal-code LGRSVT02A28D789J
+fiscalCode LGRSVT02A28D789J
+fm_company Liguori Salvatore
+fm_email salvatoreliguori1991@gmail.com
+fm_mobile 3481374308
+fm_street Via traversa Giovanni XXIII, Terzo piano
+fname Salvatore 
+form:inputSignInId gte361@gmail.com
+glv 101a114a103a119a121a126a105a102a120a127a108a
+gprid pt
+houseNumber 3
+i6 Nollosò
+iPasswordText Whatremainsofedithfinch
+iSigninName Endsofworld666@outlook.it
+iVerifyText 371017
+identifier Alessandrasilvestre1967@gmail.com
+identifier Ruleofrose4@gmail.com
+identifier SalvatoreLiguori666
+identifier Salvatoreliguori1991@gmail.com
+identifier salvatoreliguori666@gmail.com
+imagesize 100
+imagesize 160
+imagesize 200
+indirizzoEmail alessandrasilvestre1967@gmail.com
+indirizzoPEC Via traversa 1 Giovanni XXIII, Terzo piano
+inputDocNumber CA78936GA
+inputOtp1 0
+inputOtp2 1
+inputOtp3 3
+inputOtp4 6
+inputOtp5 1
+inputOtp6 2
+inputTransactionCodeToken 4255
+inputTransactionCodeToken 6701
+inputotp 730687
+istruzioni Chiama al numero 3481374308
+j_username salvatoreliguori1991@gmail.com
+jsdk TKUYhhQHiq
+lastName Falco
+lastName Liguori
+last_name Liguori
+lastname Liguori
+lext 15a123a121a105a21a
+lname Liguori
+login.email salvatoreliguori1991@gmail.com
+loginForm[loginName] salvatoreliguori1991@gmail.com
+login[email] salvatoreliguori1991@gmail.com
+login[username] Salvatoreliguori1991@gmail.com
+login_email salvatoreliguori1991@gmail.com
+loginfmt salvatoreliguori1991@gmail.com
+luogo Frattamaggiore 
+luogo Mugnano di Napoli 
+m_cognome Liguori 
+m_email salvatoreliguori1991@gmail.com
+m_nome Salvatore 
+m_tel 3481374308
+mobilenumber 3481374308
+name 15
+name Alza
+name Baby 
+name Baratto 
+name Bottle
+name Burattino 
+name Cardma
+name Cavalieri fantasma 
+name Cesare 
+name Cipher
+name Croce dei livelli 
+name Cypher 
+name Dono
+name Dono eroico
+name Draghetto squalo 
+name Fotonico 
+name Galattico 
+name Galaxy
+name Galaxy 
+name Giga
+name Giga brillante 
+name Level 
+name Level cross
+name Luce della regina
+name Maga
+name Maga del danno
+name Messagges
+name Messaggio in bottiglia 
+name Nollòso
+name Photon 
+name Puppet
+name Puppet 
+name Queen
+name Queen light 
+name Ragna zero
+name Regalo 
+name Ritorno xyz
+name SALVATORE
+name Salvatore 
+name Salvatore Liguori
+name Satellite 
+name Scambio 
+name Scambio illuminato 
+name Sfera Dyson
+name Sollevatore 
+name Space
+name Spedizione galattica 
+name Tachionico 
+name Tesoro 
+name Tesoro xyz
+name Tiaracrimalamenti 
+name Trade
+name Trasmigrazione 
+name Utopia 
+name Viverna
+name Wall power
+name Xyz
+name Xyz 
+name Xyz return
+nome Luigi 
+nome Salvatore
+nome Salvatore 
+numero-telefono 3481374308
+numero-telefonoP 3481374308
+numeroCellulare 3481374308
+numeroDocumento CA78936GA
+payment_email salvatoreliguori1991@gmail.com
+phone 3481374308
+pincode 533922
+postalCode 80020
+postcode 80020
+postcode Frattaminore 
+price 120,00
+price 130,00
+price 140,00
+price 160,00
+price 25,00
+prov NA
+prov Na
+province NA
+pwt1 Silenthill2@
+qaTitle Perché non si accende più?
+query Amnesia 
+register.email salvatoreliguori1991@gmail.com
+register[email] salvatoreliguori1991@gmail.com
+registration.fiscalCode LGRSVT02A28D789J
+registration.userName salvatoreliguori1991@gmail.com
+regmu_firstName Salvatore
+regmu_fiscalVATCode LGRSVT02A28D789J
+regmu_lastName Liguori
+residenzaCap 80027
+residenzaIndirizzo CORSO GARIBALDI 94
+s Alan wake
+s Alan wake 
+s Alisa
+s Alone in 
+s Alone in the dark
+s Baldurs gate
+s Brother 
+s Brothers
+s Callisto 
+s Celeste 
+s Clock tower
+s Crash
+s Crash n
+s Dark soul
+s Dark souls
+s Dark souls 
+s Devil
+s Devil May cry
+s Devil my
+s Devil my cry
+s Devil nu cry
+s Eastshade
+s Elden ring
+s Fifa 
+s Fifa 14
+s Final Fantasy 
+s Final Fantasy vii
+s Final fantasy 7
+s Final fantasy x
+s Galerians
+s God of war
+s Homesick
+s Kingdom
+s Kingdom 
+s Layers of fear
+s Life
+s Life Is strange 
+s Lord
+s Mundaun
+s Naruto 
+s Nier
+s Notebook
+s Parasite eve
+s Pc portatile 
+s Pes
+s PlayStation 
+s Prototype
+s Red dead
+s Remothered 
+s Resident Evil 
+s Resident Evil 3
+s Returnal
+s Rile of rosé 
+s Rule of rose
+s Sekiro
+s Shadow 
+s Shadow of the co
+s Silent Hill 
+s Silent bomber
+s Silent hill 
+s Spider
+s Spider-Man
+s Spiderman 
+s Spyro
+s Stray 
+s Tekken
+s The Evil whitin
+s The last of us
+s Tim
+s Tormented souls
+s Tymesia
+s Wwe
+s YouTube 
+s Zelda
+s alone
+s dark souls
+s dark souls 
+s devil
+s fifa 
+s fifa 12
+s fifa 13
+s fifa 14
+s final fantasy vii
+s final fantasy x
+s god
+s kingdom hearts
+s rile of rose
+s rule of rose
+s shadow 
+sbbpg sbbShell
+sdrv 0
+search-input Met
+searchForm[query] Sub
+searchForm[query] Subscription
+searchString Fotonico 
+searchphrase Prodotti 
+securityCode 115633
+session_key Nolloso1990@gmail.com
+session_key salvatoreliguori1991@gmail.com
+signin-entrance-input-signinId antonioliguori29@outlook.it
+signin-entrance-input-signinId salvatoreliguori1991@gmail.com
+signin-form[login] gte361@gmail.com
+single-line-text-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAEVQBOQBCuZ-djT7yaJnERtJ6janOSK7jFw-firstName Nollòso
+single-line-text-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAEVQBOQBCuZ-djT7yaJnERtJ6janOSK7jFw-headline Alta cucina italiana presso Nollosò
+single-line-text-form-component-profileEditFormElement-TOP-CARD-profile-ACoAAEVQBOQBCuZ-djT7yaJnERtJ6janOSK7jFw-lastName Restaurant
+startPrice 100,00
+startPrice 120,00
+startPrice 130,00
+startPrice 160,00
+story Spider
+streetName Traversa 1 di Papa Giovanni XXIII 
+supplement Citofonare Salvatore Liguori
+supportForm[subject] Abbonamento 
+surname LIGUORI
+surname Liguori 
+t-input XJZD-FBBD
+taxcode LGRSVT02A28D789J
+tokenTextP 211576
+tokenTextP 271576
+trackOrderEmail salvatoreliguori1991@gmail.com
+trackOrderNumber 51744388
+trackOrderPostal 80020
+two-step-code-form-id 942209
+txtEmail salvatoreliguori1991@gmail.com
+userId salvatoreliguori1991@gmail.com
+userLoginId salvatoreliguori1991@gmail.com
+user[name] Nobafy
+username Atzen
+username Nolloso1990@gmail.com
+username War
+username Warcards
+username carlosfalco1990@gmail.com
+username gte361@gmail.com
+username salvatoreliguori1991@gmail.com
+username_tmp salvatoreliguori1991@gmail.com
+word Rule of rose 
+word Silent Hill 
+zipCode 80020

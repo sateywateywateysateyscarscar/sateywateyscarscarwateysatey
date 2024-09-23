@@ -1,0 +1,2572 @@
+.codiceCliente 2170232969
+.codiceFiscale CRSRNG99C24F839P
+.codiceOtp 045418
+.codiceOtp 103846
+.codiceOtp 114328
+.codiceOtp 147646
+.codiceOtp 197225
+.codiceOtp 236997
+.codiceOtp 269228
+.codiceOtp 316882
+.codiceOtp 320907
+.codiceOtp 432352
+.codiceOtp 436079
+.codiceOtp 478171
+.codiceOtp 637153
+.codiceOtp 694493
+.codiceOtp 733156
+.codiceOtp 761787
+.codiceOtp 919391
+.codiceOtp 928736
+.codiceOtp 934576
+.codicePin 180421
+.confermaCodicePin 180421
+.emailAddress Cristofaroarcangelo99@gmail.com
+.numCellular +393889543228
+125761332_942517964 Orgoglio
+125761332_942517965 Felicità 
+125761332_942517966 Attesa
+173017148_1259341505 50
+173017148_1259341506 200
+173017148_1259341507 50
+173017148_1259341508 20
+173017148_1259341509 100
+173017148_1259341510 30
+173017177_1259341618 70
+173017177_1259341619 150
+173017177_1259341620 80
+173017177_1259341621 30
+173017177_1259341622 320
+173017177_1259341623 50
+173017458_1259343222 30
+173017458_1259343223 50
+173017458_1259343224 20
+173017458_1259343225 20
+173017458_1259343226 100
+173017458_1259343227 30
+1776816_86_1_1 Arcangelo
+1776816_86_1_2 Pasquale
+1776816_86_1_3 Aurelio
+1776816_86_1_4 Roberta
+1776816_86_1_5 Marianna
+1776816_86_2_1 Cristofaro
+1776816_86_2_2 Maggio
+1776816_86_2_3 Di Fronzo
+1776816_86_2_4 Pasquale
+1776816_86_2_5 Crochi
+189275581_1368633512 15
+189275581_1368633513 12
+189275581_1368633990 9
+189295468_1368760916 +39 388 954 3227
+193131692_1394086210 +39 388 954 3227
+193494634_other Internet
+195120720 I continui aumenti di prezzo
+195120720 I continui aumenti di prezzo e dovrebbero esserci più serie e film
+196688517_1417017203 endermencavallo@gmail.com
+196689863_1417025947 endermencavallo@gmail.com
+196704314_1417119446 endermencavallo@gmail.com
+:pp 5
+:pr 2020/06/19
+:r14g: 1000
+:r19u: Strategia Il Profeta
+:r1ci: 1000
+:r1e3: FantaSala CCC
+:r1f2: Strategia Il Profeta
+:r1hn: 1000
+:r1j5: Strategia CarmySpecial
+:r1jc: Strategia CarmySpecial
+:r1k7: Strategia Il Profeta
+:r1m7: Strategia Il Profeta
+:r22m: Strategia Recosta
+:r3: Criark
+:r4: ulissegolem95@gmail.com
+:r7s: Iamm ia
+:r7t: Vampiri
+:r7v: Fantasmi
+:r81: Big foot
+:r83: Elfi
+:r85: Gnomi
+:r87: Zombie
+:r89: Alieni
+:r8b: Ufo
+:r8d: Giganti
+:r8f: Demoni
+:r8h: Draghi
+:r8j: Sirene
+:r8l: Lupo mannaro
+:r8n: Mostro di Loch Ness
+:rh4: FantaSala CCC
+:rhm: Lay's barbecue
+:rho: San carlo Vivace
+:rhq: Pringles Paprika
+:rl5: fantasala ccc
+:rm9: Quella fresca
+:rmb: Quella che mi piace
+ASF_acquisto_anno 2021
+ASF_cognome cristofaro
+ASF_email endermencavallo@gmail.com
+ASF_nascita_data 24 / 03 / 1999
+ASF_nome arcangelo
+ASF_patente 2017
+ASF_ricerca_indirizzo Via Leopardi, 27, Frattaminore, NA
+ASF_targa CY024MP
+ASF_telefono 3889543228
+AY7000015.GiornoAppuntamento 18/04/2023
+AY7000017.CodiceFiscale MGGPQL99C08A512O
+AY7000017.CodiceFiscale MGGPQL99C08A512o
+AY7000017.CodicePromozione MGM309446036
+AY7000017.CodicePromozione MGM309466472
+AY7000017.Cognome Maggio
+AY7000017.DataDiNascita 08/03/1999
+AY7000017.Email Palytos99@gmail.com
+AY7000017.Email palytos99@gmail.com
+AY7000017.Nome Pasquale
+AY7000017.Nome Pasquale 
+AY7000017.Telefono 3314836505
+AY700007.CAPResidenza 80029
+AY700007.CivicoDiResidenza 9
+AY700007.DomicilioCAP 80029
+AY700007.DomicilioCivico 49
+AY700007.DomicilioIndirizzo Via francesco verde
+AY700007.DomicilioTelefonoFis 3314836505
+AY700007.Email palytos99@gmail.com
+AY700007.IndirizzoDiResidenza Via padre Antonino 
+AY700007.Telefono 3314836505
+AY700007.dataScadenzaDocumento 08/03/2029
+AY700007.docIDNum Ca23552bh
+AY700007.docIDRilasciatoIL 16/05/2018
+Amount 10
+Amount 10,90
+Amount 13,99
+BookingMemoViaggioRestylingBookingAcquistoRiepilogoView$RestylingBookingMemoViaggioResendTicketInputBookingAcquistoRiepilogoView$TextBoxEmail1 palytos99@gmail.com
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Month 01
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Month 08
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Year 2026
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Year 2027
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxCustomerNumber_0 9825962
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxCustomerNumber_1 9825988
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxFirstName_0 arcangelo
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxFirstName_1 Pasquale
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxLastName_0 cristofaro
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxLastName_1 Maggio
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxPassengerAddressLine1_0_0 cristofaroarcangelo99@gmail.com
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxPassengerAddressLine1_1_0 palytos99@gmail.com
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxPassengerAddressPhone_0_0 3889543228
+BookingPasseggeriRestylingBookingPasseggeriView_confermaEmailField_1 cristofaroarcangelo99@gmail.com
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl00$txtCognome cristofaro
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl00$txtNome arcangelo
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl01$txtCognome Maggio
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl01$txtNome Pasquale
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtCognome cristofaro
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtConfermaEmail Cristofaroarcangelo99@gmail.com
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtEmail Cristofaroarcangelo99@gmail.com
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtNome arcangelo
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtPhone 3889543228
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtZipcode 80020
+Data di scadenza 01/27
+DatiAnagraficiDelRichiedente$TextBoxEmail palytos99@gmail.com
+E-mail martinadangelo1804@gmail.com
+EndDate 01/04/2024
+EndDate 01/05/2024
+EndDate 29/02/2024
+EndDate 30/04/2024
+EndDate 30/11/2023
+EndDate 31/01/2024
+EndDate 31/03/2024
+EndDate 31/12/2023
+HD005001 VIA
+HD006001  G. LEOPARDI, 27
+ID001001 1200
+IndirizzoAttuale$TextBoxCap 80029
+IndirizzoAttuale$TextBoxCivico 49
+IndirizzoAttuale$TextBoxLocalita SANT'ANTIMO
+IndirizzoAttuale$TextBoxProvincia NA
+IndirizzoAttuale$TextBoxVia VIA FRANCESCO VERDE
+IndirizzoAttuale$TextBoxVia VIA PADRE ANTONINO
+PhoneNumber 3889543228
+QuickSearchText Sant'antimo 
+ReturnDate 09/06/2024
+ReturnDate 30/06/2024
+S03--S07--DateBeg-S03--S07--GridServizi-1-inner 27/09/2023
+S03--S07--EndDate-inner 18/09/2023
+S03--S07--IBeguz-inner 08:30
+S03--S07--IEnduz-inner 17:00
+S03--S07--IServizi-S03--S07--GridServizi-1-hiddenInput OT
+S03--S07--OraBeg-S03--S07--GridServizi-1-inner 07:12
+S03--S07--StartDate-inner 18/09/2023
+StartDate 01/01/2024
+StartDate 01/02/2024
+StartDate 01/03/2024
+StartDate 01/04/2023
+StartDate 01/04/2024
+StartDate 01/05/2023
+StartDate 01/05/2024
+StartDate 01/11/2023
+StartDate 01/12/2023
+StartDate 02/05/2023
+TxbBbd 24/09/2023
+Username 12,49
+Username Bellamatta22
+Username CRIARK99
+Username criark
+Username nancybionda
+Username ndonio22
+Username palytos99
+__email cristofaroarcangelo99@gmail.com
+_username endermencavallo@gmail.com
+aa_ricovero 2023
+account-name-input Criark
+account-name-input Criark99
+address Teverola
+address-level1 NA
+address.address1 Via G. Leopardi, 27
+address.city Frattaminore
+address.email endermencavallo@gmail.com
+address.firstName arcangelo
+address.lastName cristofaro
+address.phoneNumber 3889543228
+address.postalCode 80020
+address1 Via G. Leopardi, 27
+address1 Via Leopardi 27
+addressNumberFatturazione 27
+addressNumberFatturazione 49
+adultsNumber 2
+alias 1804
+alias Cristofaroarcangelo99@gmail.com
+alloggio guitgia
+annualMileage 13000
+annualMileage 15000
+answer1 Stella
+answer2 Angelina
+answer3 Frattaminore
+arrival dom 20 ago 2023
+arrival mar 15 ago 2023
+arrival sab 26 ago 2023
+arrivo_contact Lug 23, Mar
+barCode 009312396800180120002000
+barCode 009312396800280120002000
+biglietti_tot 2
+billing_address_1 Via G. Leopardi, 27
+billing_address_1 leopardi 27
+billing_city Frattaminore
+billing_city frattaminore
+billing_email cristofaroarcangelo99@gmail.com
+billing_email endermencavallo@gmail.com
+billing_first_name Arcangelo
+billing_first_name arcangelo
+billing_fiscal_code CRSRNG99C24F839P
+billing_last_name Cristofaro
+billing_last_name cristofaro
+billing_phone 3889543228
+billing_postcode 80020
+cal_outbound 15 agosto 2023
+cal_return 18 agosto 2023
+cap 80020
+capFatturazione 80020
+capFatturazione 80029
+ccFirstName arcangelo
+cdfiscale CNTVCN81R01I293Y
+cdfiscale CRSRNG99C24F839P
+cell 3889543228
+cellPhoneNumber-input 3889543221
+cellulare 3246010222
+cf_paz CRSTNN67L25D790B
+cf_rich CRSTNN67L25D790B
+challenge.Code 173605
+citta frattaminore
+city Frattaminore
+city-input FRATTAMINORE
+claimCode 3YFY-CVF3KK-XPBJ
+claimCode 49KP-US37UP-8WBD
+claimCode 9X6H-R9R23K-N6BH
+claimCode JXJU-JB9SKA-F9B6
+claimCode N2VG-6XHMNS-TVB6
+claimCode V8VE-ZTNG2Y-ZHBV
+claim_City Frattaminore
+claim_Number 27
+claim_Postcode 80020
+claim_Street Via G. Leopardi
+codVerCellPart2 416273
+codVerEmailPart2 682478
+code1 3
+code2 8
+code3 7
+code4 8
+codfis CRSRNG99C24F839P
+codiceCarta 0227015439476
+codiceverifica2fa 203054
+cogn_paz CRISTOFARO
+cogn_rich CRISTOFARO
+cognome CANTONE
+cognome Capasso
+cognome cristofaro
+confermaEmail cristofaroarcangelo99@gmail.com
+confermaEmail endermencavallo@gmail.com
+confermaEmail palytos99@gmail.com
+conferma_email ulissegolem95@gmail.com
+cpiPlate DP683JK
+credential endermencavallo@gmail.com
+ctl00$mainContent$Login$loginEmailInput endermencavallo@gmail.com
+ctl00_ContentPlaceHolder1_UsernameTextBox 955404
+dailyTripLength 60
+dataDa 07/10/2023
+dataNascita 8-11-1966
+datanasc_paz 25/07/1967
+departure dom 27 ago 2023
+departure mar 15 ago 2023
+departureDateVISIBLE 11 Gen 2024
+departureDateVISIBLE 15 Apr 2023
+dropdown-d7f655ab-c120-49f1-97ce-b59ec72d301b-3pPBz7jQuj0Tk4t0 Lom
+dtNascitaDelegato 24/03/1999
+dwfrm_shipping_shippingAddress_addressFields_firstName antonio
+dwfrm_shipping_shippingAddress_addressFields_lastName cristofaro
+dwfrm_shipping_shippingAddress_addressFields_phone 3663040868
+dwfrm_shipping_shippingAddress_addressFields_pndShippingEmail ulissegolem95@gmail.com
+email 3501296818
+email 3663040868
+email Golem Ulisse
+email Prova con cristofaroantonio18@gmail.com Antocsf95
+email ULI
+email arki-@live.it
+email bho@gmail.com
+email brunagallotti@outlook.it
+email cri
+email cristofaroarcangelo99@gmail.com
+email cristofaropicione@libero.it
+email endermencavallo@gmail.com
+email librofisicanero@gmail.com
+email liveforthemoment95@gmail.com
+email liveforthemoment95@live.com
+email liveforthemoment95@live.it
+email martinadangelo1804@gmail.com
+email palytos99@gmail.com
+email simona.spetrino#hotmail.it
+email simona.spetrino@hotmail.it
+email ulissegolem95@gmail.com
+emailOrPhone cristofaroarcangelo99@gmail.com
+email_contact ulissegolem95@gmail.com
+email_paz CRISTOFAROANTONIO18@GMAIL.COM
+email_rich CRISTOFAROANTONIO18@GMAIL.COM
+email_rich CRISTOFAROANTONO18@GMAIL.COM
+emailsecondaria librofisicanero@gmail.com
+emailsecondaria martinadangelo1804@gmail.com
+expDate 01/27
+expDate 03/29
+expiry 01 / 2027
+expiry-date 01 / 27
+fakeemailforchromeautocompletebug endermencavallo@gmail.com
+famiglia_customer_code SG28771
+familyName cristofaro
+filter Na
+firstName Antonio
+firstName Federica
+firstName Girolamo 
+firstName Nadia
+firstName Pasquale
+firstName Rocco
+firstName Tonino
+firstName antonio
+firstName arcangelo
+first_name antonio
+firstname arcangelo
+fiscalSeal 36b22c7539e58463
+fiscalSeal 581c67036f677af9
+givenName arcangelo
+high-price 100
+high-price 25
+high-price 300
+holder arcangelo cristofaro
+ib-ow 14/3/2024
+ib-ow 19/3/2024
+identifier cristofaroantonio18@gmail.com
+identifier endermencavallo@gmail.com
+identifier librofisicanero@gmail.com
+identifier palytos99@gmail.com
+identifier ulissegolem95@gmail.com
+identity[phone] 3889543228
+importo 10,00 €
+importo 5,00 €
+indirizzo via leopardi, 27
+indirizzoEmail cappina66@gmail.com
+indirizzoFatturazione Via G. Leopardi,
+indirizzoFatturazione Via G. Leopardi, 27
+indirizzoFatturazione Via francesco verde
+input-importo-altro 10
+kilometer 200000
+lastName Femiano
+lastName Fermiano
+lastName Maggio
+lastName Pizzo
+lastName Puca
+lastName Rocco
+lastName Verde
+lastName cristofaro
+lastName verde
+last_name picione
+lastname cristofaro
+lastname_contact cristofaro
+license-plate CM451GR
+line1 Via G. Leopardi, 27, 
+localitaFatturazione Frattaminore
+localitaFatturazione Sant'Antimo
+log_email endermencavallo@gmail.com
+login fdelucapicione_0602203219
+login-username ARCANGELO.CRISTOFARO
+login-username criark
+login-username csf95
+loginEmail francescagallotti@outlook.com
+loginEmail librofisicanero@gmail.com
+loginId endermencavallo@gmail.com
+login_email 3663040868
+login_email cristofaroarcangelo99@gmail.com
+loginfmt 955404@rfi.it
+loginfmt arki-@live.it
+low-price 100
+low-price 45
+low-price 50
+mobile 388 9543 228
+movieLookup Guardiani della galassia
+movieLookup Spiderman 
+name Antonio Picione
+name Criark
+name Roberta
+name Tonino
+name VINCENZO
+name arcangelo
+name_contact antonio
+nbAdults 1
+nbChildren 2
+noOfAdults 2
+nome Giuseppina
+nome antonio
+nome arcangelo
+nome_paz TONINO
+nome_rich TONINO
+number 41
+oggetto preventivo auto 6 posti
+partenza_contact Lug 27, Sab
+passwordForgotten cristofaroarcangelo99@gmail.com
+phone 3312810618
+phone 3663040868
+phone 388 954 3228
+phone 3889543228
+phone 393889543228
+phoneNumber 388 954 3228
+phoneOrEmail cristofaroarcangelo99@gmail.com
+phoneOrEmail endermencavallo@gmail.com
+postCode 80020
+postalCode 80020
+postalCode 81025
+postcode 80020
+postoOrdineRiduzione(79-1069-29071) 4
+prn_email cristofaroarcangelo99@gmail.com
+prn_email2 cristofaroarcangelo99@gmail.com
+prn_telefono 3889543228
+province NA
+province-input NAPOLI
+q Calza
+quote_contractor_cityOfBirth Napoli (NA)
+quote_contractor_residentialAddress_city Frattaminore (NA)
+quote_inheritedAtr_owner_cityOfBirth Frattaminore (NA)
+reductions #NONSTOP25
+reductions DIYPOWERSTREAM50
+ref G5A5WZ
+region 3484621
+returnDateVISIBLE 14 Gen 2024
+returnDateVISIBLE 16 Apr 2023
+route_outbound Napoli - Ischia (Casamicciola)
+s dark souls
+s dyson
+search Amazon
+search TESI TRIENNALE pegaso.docx
+search amazon
+search be
+search betotal
+search borsa
+search carta
+search google
+search igienica
+search-bar-id-100 Ital
+search-input WOL
+search-input tiy
+searchName 2 BAGNI
+searchName 3 BAGNI
+searchName 3B
+searchName scelta 2 bagni
+searchName scelta 3 bagni
+sf-search congedo
+sgE-90561960-5-13-10055 10%
+sgE-90561960-5-13-10055 5%
+sgE-90561960-5-13-10057 0%
+sgE-90561960-5-13-10057 20%
+sgE-90561960-5-13-10058 10%
+sgE-90561960-5-13-10058 40%
+sgE-90561960-5-13-10059 30%
+signUpEmail cristofaroarcangelo99@gmail.com
+signUpName arcangelo cristofaro
+simple_text Napoli
+streetName Via G. Leopardi
+surname Pasquale
+surname cristofaro
+t-input 1KM4-8LKV
+t-input 58MB-4XXG
+t-input 94ZJ-TRQK
+t-input GKNF-L3T2
+t-input H1GM-V61J
+t-input XXMJ-TBR3
+targa DH470KA
+targa DN409LK
+targa DP683JK
+targa cy024mp
+tel 338 954 3221
+tel 388 945 3221
+tel 388 954 3221
+tel 388 954 3226
+tel 388 954 3227
+tel 388 954 3322
+tel_paz 3347982032
+tel_rich 3347982032
+telefono 3314836505
+telefono 3347982032
+telefono 3663040868
+telefono 3889543228
+text Criark
+text criark
+text criarkkk
+textBoxUserID cristofaroarcangelo99@gmail.com
+time_outbound 09:00
+time_return 17:00
+transit-time 07:30
+transit-time 22:40
+transit-time 22:55
+txbAddressLine1_product Leopardi
+txbAddressLine2_product 27
+txbBarcode 8410199016713
+txbConfirmEmail_product Cristofaroarcangelo99@gmail.com
+txbConfirmEmail_product endermencavallo@gmail.com
+txbCountry_product Italia
+txbCounty_product NA
+txbDateOpened 18/07/2023
+txbDatePurchased 12/07/2023
+txbEmail_product Cristofaroarcangelo99@gmail.com
+txbEmail_product endermencavallo@gmail.com
+txbFirstname_product Arcangelo 
+txbFirstname_product arcangelo
+txbFlavour Lay's gusto paprika dolce
+txbLastname_product cristofaro
+txbMultipackSize 6
+txbPackCoding EB3611089T
+txbPackWeight 30
+txbPhone_product 3889543228
+txbPostcode_product 80020
+txbStorePurchsed Buoni dentro
+txbTownPurchased Frattaminore
+txbTown_product Frattaminore
+txtCAPResidenza 80020
+txtCamere_motore_package_1706478343 1 Camera, 2 Adulti - 0 Bambini
+txtCellulare 3889543228
+txtCellulareDelegato 3889543228
+txtCivicoResidenza 27
+txtCodFiscale CRSRNG99C24F839P
+txtCodFiscale CRSTNN67L25D790B
+txtCognome Cristofaro
+txtCognome Cristofaro 
+txtCognome cristofaro
+txtCognomeDelegato cristofaro
+txtCv 26
+txtEmail Cristofaroarcangelo99@gmail.com
+txtEmail endermencavallo@gmail.com
+txtEmailDelegato Cristofaroarcangelo99@gmail.com
+txtImmatricolazione 20/10/2005
+txtImmatricolazione 21/03/2005
+txtImmatricolazione 28/07/2004
+txtIndirizzoResidenza Via G. Leopardi, 27
+txtKw 50
+txtKw 66
+txtLuogoSottoscrizione Frattaminore
+txtNome Tonino
+txtNome arcangelo
+txtNomeDelegato arcangelo 
+txtNumCarta_fake **** **** **** 4165
+txtTarga CM451GR
+txtTarga CM451Gr
+txtTarga Cm451gv
+txtTarga Cy024mp
+txtTarga Eb103gf
+txtTelefonoDelegato 3889543228
+txtmm 01/27
+userLoginId netflixaaam@gmail.com
+userNickname Linomaggio
+user[email] endermencavallo@gmail.com
+user[login] ulissegolem95@gmail.com
+user[name] ulisse95
+username Criark
+username Cristofaroarcangelo99@gmail.com
+username Ulisse95
+username cristofaroarcangelo99@gmail.com
+username endermencavallo@gmail.com
+username fdelucapicione_0602203219
+username librofisicanero@gmail.com
+username palytos99@gmail.com
+username pasquale.maggio-dfgt
+username ulissegolem95@gmail.com
+verificationCode 91273886
+verify_code 156205
+your-email cristofaroarcangelo99@gmail.com
+your-name arcangelo
+zipCode-input 80020
+zone NA
+.codiceCliente 2170232969
+.codiceFiscale CRSRNG99C24F839P
+.codiceOtp 045418
+.codiceOtp 103846
+.codiceOtp 114328
+.codiceOtp 147646
+.codiceOtp 197225
+.codiceOtp 236997
+.codiceOtp 269228
+.codiceOtp 316882
+.codiceOtp 320907
+.codiceOtp 330394
+.codiceOtp 382018
+.codiceOtp 432352
+.codiceOtp 436079
+.codiceOtp 478171
+.codiceOtp 551128
+.codiceOtp 554527
+.codiceOtp 637153
+.codiceOtp 694493
+.codiceOtp 733156
+.codiceOtp 761787
+.codiceOtp 895608
+.codiceOtp 919391
+.codiceOtp 928736
+.codiceOtp 934576
+.codiceOtp 986224
+.codicePin 180421
+.confermaCodicePin 180421
+.emailAddress Cristofaroarcangelo99@gmail.com
+.numCellular +393889543228
+117583205 Il tema
+117583205 Il tema e i premi
+117583205 Il tema i premi e i vari modi di giocare
+117585987 100
+117586226 Il fatto che ci siano molte modalità di gioco
+117586227 Il tema e I disegni sono estremamente semplici
+117586654 100
+117587165 È più semplice è chiaro,tema e grafica migliore 
+117854724 Confusionario
+117854724 Confusionario e difficile da capire
+117854724 Confusionario e difficile da capire, e il prezzo 
+122307885_920330884 Libertà 
+122307885_920330885 Relax
+122307885_920330886 Divertimento 
+122379822 Telegram
+122384298 Più comodi
+122384298 Più comodi,semplici da indossare
+122384728_920266598 North face
+122384728_920266599 Columbia
+122392350 10
+122392406 8
+122392457 0
+122392579 7
+122392634 2
+122392662 2
+122393137 8
+122393228 9
+125761332_942517964 Orgoglio
+125761332_942517965 Felicità 
+125761332_942517966 Attesa
+173017148_1259341505 50
+173017148_1259341506 200
+173017148_1259341507 50
+173017148_1259341508 20
+173017148_1259341509 100
+173017148_1259341510 30
+173017177_1259341618 70
+173017177_1259341619 150
+173017177_1259341620 80
+173017177_1259341621 30
+173017177_1259341622 320
+173017177_1259341623 50
+173017458_1259343222 30
+173017458_1259343223 50
+173017458_1259343224 20
+173017458_1259343225 20
+173017458_1259343226 100
+173017458_1259343227 30
+1776816_86_1_1 Arcangelo
+1776816_86_1_2 Pasquale
+1776816_86_1_3 Aurelio
+1776816_86_1_4 Roberta
+1776816_86_1_5 Marianna
+1776816_86_2_1 Cristofaro
+1776816_86_2_2 Maggio
+1776816_86_2_3 Di Fronzo
+1776816_86_2_4 Pasquale
+1776816_86_2_5 Crochi
+:r14g: 1000
+:r19u: Strategia Il Profeta
+:r1ci: 1000
+:r1e3: FantaSala CCC
+:r1f2: Strategia Il Profeta
+:r1hn: 1000
+:r1j5: Strategia CarmySpecial
+:r1jc: Strategia CarmySpecial
+:r1k7: Strategia Il Profeta
+:r1m7: Strategia Il Profeta
+:r22m: Strategia Recosta
+:r3: Criark
+:r4: ulissegolem95@gmail.com
+:r7s: Iamm ia
+:r7t: Vampiri
+:r7v: Fantasmi
+:r81: Big foot
+:r83: Elfi
+:r85: Gnomi
+:r87: Zombie
+:r89: Alieni
+:r8b: Ufo
+:r8d: Giganti
+:r8f: Demoni
+:r8h: Draghi
+:r8j: Sirene
+:r8l: Lupo mannaro
+:r8n: Mostro di Loch Ness
+:r9: P&p
+:rh4: FantaSala CCC
+:rhm: Lay's barbecue
+:rho: San carlo Vivace
+:rhq: Pringles Paprika
+:rl5: fantasala ccc
+:rm9: Quella fresca
+:rmb: Quella che mi piace
+ASF_acquisto_anno 2021
+ASF_cognome cristofaro
+ASF_email endermencavallo@gmail.com
+ASF_nascita_data 24 / 03 / 1999
+ASF_nome arcangelo
+ASF_patente 2017
+ASF_ricerca_indirizzo Via Leopardi, 27, Frattaminore, NA
+ASF_targa CY024MP
+ASF_telefono 3889543228
+AY7000015.GiornoAppuntamento 18/04/2023
+AY7000017.CodiceFiscale CRSRNG99C24F839P
+AY7000017.CodiceFiscale MGGPQL99C08A512O
+AY7000017.CodiceFiscale MGGPQL99C08A512o
+AY7000017.CodicePromozione MGM309446036
+AY7000017.CodicePromozione MGM309466472
+AY7000017.Cognome Maggio
+AY7000017.Cognome cristofaro
+AY7000017.DataDiNascita 08/03/1999
+AY7000017.DataDiNascita 24/03/1999
+AY7000017.Email CRISTOFAROARCANGELO99@GMAIL.COm
+AY7000017.Email Cristofaroarcangelo99@gmail.com
+AY7000017.Email Palytos99@gmail.com
+AY7000017.Email palytos99@gmail.com
+AY7000017.Nome Pasquale
+AY7000017.Nome Pasquale 
+AY7000017.Nome arcangelo
+AY7000017.Telefono 3314836505
+AY7000017.Telefono 3889543228
+AY700003.NomeAzienda Team company
+AY700003.PartitaIva 86334519757
+AY700007.CAPResidenza 80020
+AY700007.CAPResidenza 80029
+AY700007.CivicoDiResidenza 27
+AY700007.CivicoDiResidenza 9
+AY700007.DomicilioCAP 80029
+AY700007.DomicilioCivico 49
+AY700007.DomicilioIndirizzo Via francesco verde
+AY700007.DomicilioTelefonoFis 3314836505
+AY700007.Email Cristofaroarcangelo99@gmail.com
+AY700007.Email palytos99@gmail.com
+AY700007.IndirizzoDiResidenza Via padre Antonino 
+AY700007.IndirizzoDiResidenza leopardi 
+AY700007.Telefono 3314836505
+AY700007.Telefono 3889543228
+AY700007.dataScadenzaDocumento 08/03/2029
+AY700007.dataScadenzaDocumento 24/03/2031
+AY700007.docIDNum CA14934GR
+AY700007.docIDNum Ca23552bh
+AY700007.docIDRilasciatoIL 16/05/2018
+AY700007.docIDRilasciatoIL 20/07/2020
+Amount 10
+Amount 10,90
+Amount 13,99
+BookingMemoViaggioRestylingBookingAcquistoRiepilogoView$RestylingBookingMemoViaggioResendTicketInputBookingAcquistoRiepilogoView$TextBoxEmail1 palytos99@gmail.com
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Month 01
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Month 08
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Year 2026
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Year 2027
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxCustomerNumber_0 9825962
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxCustomerNumber_1 9825988
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxFirstName_0 arcangelo
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxFirstName_1 Pasquale
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxLastName_0 cristofaro
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxLastName_1 Maggio
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxPassengerAddressLine1_0_0 cristofaroarcangelo99@gmail.com
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxPassengerAddressLine1_1_0 palytos99@gmail.com
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxPassengerAddressPhone_0_0 3889543228
+BookingPasseggeriRestylingBookingPasseggeriView_confermaEmailField_1 cristofaroarcangelo99@gmail.com
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl00$txtCognome cristofaro
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl00$txtNome arcangelo
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl01$txtCognome Maggio
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl01$txtNome Pasquale
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtCognome cristofaro
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtConfermaEmail Cristofaroarcangelo99@gmail.com
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtEmail Cristofaroarcangelo99@gmail.com
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtNome arcangelo
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtPhone 3889543228
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtZipcode 80020
+Data di scadenza 01/27
+DatiAnagraficiDelRichiedente$TextBoxEmail palytos99@gmail.com
+E-mail martinadangelo1804@gmail.com
+IndirizzoAttuale$TextBoxCap 80029
+IndirizzoAttuale$TextBoxCivico 49
+IndirizzoAttuale$TextBoxLocalita SANT'ANTIMO
+IndirizzoAttuale$TextBoxProvincia NA
+IndirizzoAttuale$TextBoxVia VIA FRANCESCO VERDE
+IndirizzoAttuale$TextBoxVia VIA PADRE ANTONINO
+NationalPin CRS-RNG-99C24-F839-P
+QuickSearchText Sant'antimo 
+S03--S07--DateBeg-S03--S07--GridServizi-1-inner 27/09/2023
+S03--S07--EndDate-inner 18/09/2023
+S03--S07--IBeguz-inner 08:30
+S03--S07--IEnduz-inner 17:00
+S03--S07--IServizi-S03--S07--GridServizi-1-hiddenInput OT
+S03--S07--OraBeg-S03--S07--GridServizi-1-inner 07:12
+S03--S07--StartDate-inner 18/09/2023
+TxbBbd 24/09/2023
+Username 12,49
+Username Bellamatta22
+Username CRIARK99
+Username criark
+Username nancybionda
+Username ndonio22
+Username palytos99
+__email cristofaroarcangelo99@gmail.com
+_username Linomaggio
+_username endermencavallo@gmail.com
+aa_ricovero 2023
+account-name-input Criark
+account-name-input Criark99
+address Teverola
+address leopardi
+address.address1 Via G. Leopardi, 27
+address.city Frattaminore
+address.email endermencavallo@gmail.com
+address.firstName arcangelo
+address.lastName cristofaro
+address.phoneNumber 3889543228
+address.postalCode 80020
+address1 Via Leopardi 27
+addressNumberFatturazione 27
+addressNumberFatturazione 49
+adultsNumber 2
+alias 1804
+alias Cristofaroarcangelo99@gmail.com
+annualMileage 13000
+annualMileage 15000
+answer1 Stella
+answer2 Angelina
+answer3 Frattaminore
+arrival dom 20 ago 2023
+arrival mar 15 ago 2023
+arrival sab 26 ago 2023
+barCode 009312396800180120002000
+barCode 009312396800280120002000
+biglietti_tot 2
+billingName ARCANGELO CRISTOFARO
+billing_address_1 Via G. Leopardi, 27
+billing_address_1 leopardi 27
+billing_city Frattaminore
+billing_city frattaminore
+billing_email cristofaroarcangelo99@gmail.com
+billing_email endermencavallo@gmail.com
+billing_first_name Arcangelo
+billing_first_name arcangelo
+billing_fiscal_code CRSRNG99C24F839P
+billing_last_name Cristofaro
+billing_last_name cristofaro
+billing_phone 3889543228
+billing_postcode 80020
+buildingNumber 27
+cal_outbound 15 agosto 2023
+cal_return 18 agosto 2023
+cap 80020
+capFatturazione 80020
+capFatturazione 80029
+cardExpiry 01 / 27
+ccFirstName arcangelo
+cdfiscale CNTVCN81R01I293Y
+cdfiscale CRSRNG99C24F839P
+cellPhoneNumber-input 3889543221
+cellulare 3246010222
+cf_paz CRSTNN67L25D790B
+cf_rich CRSTNN67L25D790B
+challenge.Code 173605
+challengeDataEntry 48450720
+citta frattaminore
+city Frattaminore
+city-input FRATTAMINORE
+claimCode 3YFY-CVF3KK-XPBJ
+claimCode 49KP-US37UP-8WBD
+claimCode BT6L-3LYX2U-TCBB
+claimCode MKPL-6389JV-NGBN
+claimCode V8VE-ZTNG2Y-ZHBV
+claimCode farjz2evuhf9bz
+codVerCellPart2 416273
+codVerEmailPart2 682478
+code1 3
+code2 8
+code3 7
+code4 8
+codiceverifica2fa 203054
+cogn_paz CRISTOFARO
+cogn_rich CRISTOFARO
+cognome CANTONE
+cognome cristofaro
+confermaEmail endermencavallo@gmail.com
+confermaEmail palytos99@gmail.com
+conferma_email ulissegolem95@gmail.com
+cpiPlate DP683JK
+cppEmailOrUsername martinadangelo1804@gmail.com
+credential endermencavallo@gmail.com
+ctl00$BodyMain$JoinSlice$JoinForm$emailInput endermencavallo@gmail.com
+ctl00$ContentPlaceHolder1$TextBox1 criark99
+ctl00$ContentPlaceHolder1$TextBox3 Pina
+ctl00$GeckoOneColPrimary$JoinForm$emailInput endermencavallo@gmail.com
+ctl00$GeckoOneColPrimary$Login$txtEmail endermencavallo@gmail.com
+ctl00$GeckoOneColPrimary$LoginV2$txtEmail endermencavallo@gmail.com
+ctl00$GeckoTwoColSecondary$MyProfileControl$accCompleteness$inputDial 29
+ctl00$ctl00$ContentPlaceHolder1$Content_body$TextBox10 3889543228
+ctl00$ctl00$ContentPlaceHolder1$Content_body$TextBox8 3889543228
+ctl00$ctl00$Content_body$Content_body$TextBox17 Leopardi, 27
+ctl00$ctl00$Content_body$Content_body$TextBox18 80020
+ctl00$ctl00$Content_body$Content_body$TextBox5 endermencavallo@gmail.com
+ctl00$ctl00$Content_body$Content_body$TextBox6 endermencavallo@gmail.com
+ctl00$mainContent$Login$loginEmailInput endermencavallo@gmail.com
+ctl00$txtUserName nancybionda
+ctl00_ContentPlaceHolder1_UsernameTextBox 955404
+dailyTripLength 60
+data 12-08-2023
+data 13-08-2023
+data.addressLine1 Leopardi, 27
+dataDa 07/10/2023
+datanasc_paz 25/07/1967
+daterange 14/08/2023 - 21/08/2023
+departure dom 27 ago 2023
+departure mar 15 ago 2023
+departureDateVISIBLE 11 Gen 2024
+departureDateVISIBLE 15 Apr 2023
+dropdown-d7f655ab-c120-49f1-97ce-b59ec72d301b-3pPBz7jQuj0Tk4t0 Lom
+dtNascitaDelegato 24/03/1999
+dwfrm_shipping_shippingAddress_addressFields_firstName antonio
+dwfrm_shipping_shippingAddress_addressFields_lastName cristofaro
+dwfrm_shipping_shippingAddress_addressFields_phone 3663040868
+dwfrm_shipping_shippingAddress_addressFields_pndShippingEmail ulissegolem95@gmail.com
+email 3501296818
+email 3663040868
+email Golem Ulisse
+email Prova con cristofaroantonio18@gmail.com Antocsf95
+email ULI
+email arki-@live.it
+email bho@gmail.com
+email brunagallotti@outlook.it
+email cristofaroarcangelo99@gmail.com
+email cristofaropicione@libero.it
+email endermencavallo@gmail.com
+email librofisicanero@gmail.com
+email liveforthemoment95@gmail.com
+email liveforthemoment95@live.it
+email martinadangelo1804@gmail.com
+email palytos99@gmail.com
+email simona.spetrino#hotmail.it
+email simona.spetrino@hotmail.it
+email ulissegolem95@gmail.com
+email-c19d6c37-6337-4c9a-9f9a-df84d25cd24b endermencavallo@gmail.com
+emailOrPhone cristofaroarcangelo99@gmail.com
+email_paz CRISTOFAROANTONIO18@GMAIL.COM
+email_rich CRISTOFAROANTONIO18@GMAIL.COM
+email_rich CRISTOFAROANTONO18@GMAIL.COM
+emailsecondaria librofisicanero@gmail.com
+emailsecondaria martinadangelo1804@gmail.com
+expDate 01/27
+expiry 01 / 2027
+expiry-date 01 / 27
+f_1 LT87 3250 0779 8665 5441
+fakeemailforchromeautocompletebug endermencavallo@gmail.com
+famiglia_customer_code SG28771
+familyName cristofaro
+filter Na
+firstName Antonio
+firstName Federica
+firstName Girolamo 
+firstName Nadia
+firstName Pasquale
+firstName Rocco
+firstName Tonino
+firstName antonio
+firstName arcangelo
+first_name antonio
+firstname arcangelo
+fiscalSeal 36b22c7539e58463
+fiscalSeal 581c67036f677af9
+givenName arcangelo
+high-price 10
+high-price 100
+high-price 12
+high-price 25
+high-price 300
+holder arcangelo cristofaro
+ib-ow 14/3/2024
+ib-ow 19/3/2024
+identifier endermencavallo@gmail.com
+identifier librofisicanero@gmail.com
+identifier palytos99@gmail.com
+identifier ulissegolem95@gmail.com
+identity[phone] 3889543228
+importo 10,00 €
+importo 5,00 €
+indirizzo via leopardi, 27
+indirizzoEmail cappina66@gmail.com
+indirizzoFatturazione Via G. Leopardi, 27
+indirizzoFatturazione Via francesco verde
+input-email endermencavallo@gmail.com
+input-importo-altro 10
+input-username Criark
+inputFilter Ita
+inputFilter Italia
+keyword https://www.youtube.com/watch?v=t-cRndlN4Lk
+kilometer 200000
+lastName Femiano
+lastName Fermiano
+lastName Maggio
+lastName Pizzo
+lastName Puca
+lastName Rocco
+lastName Verde
+lastName cristofaro
+lastName verde
+last_name picione
+lastname cristofaro
+line1 Via G. Leopardi, 27, 
+localitaFatturazione Frattaminore
+localitaFatturazione Sant'Antimo
+log_email endermencavallo@gmail.com
+login fdelucapicione_0602203219
+login-username ARCANGELO.CRISTOFARO
+login-username criark
+login-username csf95
+loginEmail francescagallotti@outlook.com
+loginEmail librofisicanero@gmail.com
+loginId endermencavallo@gmail.com
+login[username] endermencavallo@gmail.com
+login_email 3663040868
+login_email cristofaroarcangelo99@gmail.com
+loginfmt arki-@live.it
+low-price 100
+low-price 45
+low-price 50
+low-price 7
+low-price 8
+movieLookup Guardiani della galassia
+movieLookup Shazam
+movieLookup Spiderman 
+movieLookup ant man 2
+movieLookup loving vincent
+movieLookup van gogh
+movieLookup van gogh sulla soglia
+n 30
+name Affidabilità 
+name Antonio Picione
+name Como
+name Criark
+name Fulminacci
+name Integratori
+name Roberta
+name Sondaggio 
+name VINCENZO
+name arcangelo
+nationalIdentificationNumber CRSRNG99C24F839P
+nbAdults 1
+nbChildren 2
+noOfAdults 2
+nome antonio
+nome_paz TONINO
+nome_rich TONINO
+number 41
+p 20
+password Svizzera23@
+passwordForgotten cristofaroarcangelo99@gmail.com
+phone +39 388-9543-228
+phone 3312810618
+phone 3663040868
+phone 3889543228
+phone 393889543228
+phoneOrEmail cristofaroarcangelo99@gmail.com
+phoneOrEmail endermencavallo@gmail.com
+pin 89640163
+placeOfBirth Napoli
+postCode 80020
+postalCode 80020
+postalCode 81025
+postcode 80020
+postoOrdineRiduzione(79-1069-29071) 4
+prn_email cristofaroarcangelo99@gmail.com
+prn_email2 cristofaroarcangelo99@gmail.com
+prn_telefono 3889543228
+profile.city Frattaminore
+profile.firstName arcangelo
+profile.lastName cristofaro
+province-input NAPOLI
+q Calza
+q marvel
+quote_contractor_cityOfBirth Napoli (NA)
+quote_contractor_residentialAddress_city Frattaminore (NA)
+quote_inheritedAtr_owner_cityOfBirth Frattaminore (NA)
+reductions #NONSTOP25
+ref G5A5WZ
+region 3484621
+returnDateVISIBLE 14 Gen 2024
+returnDateVISIBLE 16 Apr 2023
+route_outbound Napoli - Ischia (Casamicciola)
+s dyson
+search Amazon
+search Amazon 
+search amazon
+search be
+search betotal
+search borsa
+search carta
+search google
+search igienica
+search olio
+search-input WOL
+search-input ant
+search-input avengers
+sgE-90561960-5-13-10055 10%
+sgE-90561960-5-13-10055 5%
+sgE-90561960-5-13-10057 0%
+sgE-90561960-5-13-10057 20%
+sgE-90561960-5-13-10058 10%
+sgE-90561960-5-13-10058 40%
+sgE-90561960-5-13-10059 30%
+sistemazioni_txt 2 Partecipanti, 1 Sistemazione
+state Napoli
+street Via leopardi 27
+surname Pasquale
+surname cristofaro
+t-input 1KM4-8LKV
+t-input 58MB-4XXG
+t-input 94ZJ-TRQK
+t-input GKNF-L3T2
+t-input H1GM-V61J
+t-input XXMJ-TBR3
+targa DH470KA
+targa DN409LK
+targa DP683JK
+targa cy024mp
+tel 338 954 3221
+tel 388 945 3221
+tel 388 954 3221
+tel 388 954 3226
+tel 388 954 3227
+tel 388 954 3322
+tel 388 956 3228
+tel 388 956 3248
+tel_paz 3347982032
+tel_rich 3347982032
+telefono 3314836505
+telefono 3889543228
+text Criark
+text criark
+text criarkkk
+text-0.12018180139610779 Frattaminore
+text-0.14385228838468866 Via G. Leopardi, 27
+text-0.686485598638944 80020
+text-0.9443056992668193 +393889543228
+textBoxUserID cristofaroarcangelo99@gmail.com
+time_outbound 09:00
+time_return 17:00
+toValues[name] arcangelo
+toValues[name_f] cristofaro
+town Frattaminore
+tx_kesearch_pi1[sword] immatricolazione
+txbAddressLine1_product Leopardi
+txbAddressLine2_product 27
+txbBarcode 8410199016713
+txbConfirmEmail_product Cristofaroarcangelo99@gmail.com
+txbConfirmEmail_product endermencavallo@gmail.com
+txbCountry_product Italia
+txbCounty_product NA
+txbDateOpened 18/07/2023
+txbDatePurchased 12/07/2023
+txbEmail_product Cristofaroarcangelo99@gmail.com
+txbEmail_product endermencavallo@gmail.com
+txbFirstname_product Arcangelo 
+txbFirstname_product arcangelo
+txbFlavour Lay's gusto paprika dolce
+txbLastname_product cristofaro
+txbMultipackSize 6
+txbPackCoding EB3611089T
+txbPackWeight 30
+txbPhone_product 3889543228
+txbPostcode_product 80020
+txbStorePurchsed Buoni dentro
+txbTownPurchased Frattaminore
+txbTown_product Frattaminore
+txtCAPResidenza 80020
+txtCamere_motore_package_1706478343 1 Camera, 2 Adulti - 0 Bambini
+txtCellulare 3889543228
+txtCellulareDelegato 3889543228
+txtCivicoResidenza 27
+txtCodFiscale CRSRNG99C24F839P
+txtCodFiscale CRSTNN67L25D790B
+txtCognome Cristofaro
+txtCognome cristofaro
+txtCognomeDelegato cristofaro
+txtCv 26
+txtEmail endermencavallo@gmail.com
+txtEmailDelegato Cristofaroarcangelo99@gmail.com
+txtImmatricolazione 20/10/2005
+txtImmatricolazione 21/03/2005
+txtImmatricolazione 28/07/2004
+txtIndirizzoResidenza Via G. Leopardi, 27
+txtKw 50
+txtKw 66
+txtLuogoSottoscrizione Frattaminore
+txtNome Tonino
+txtNome arcangelo
+txtNomeDelegato arcangelo 
+txtNumCarta_fake **** **** **** 4165
+txtTarga CM451GR
+txtTarga CM451Gr
+txtTarga Cm451gv
+txtTarga Cy024mp
+txtTarga Eb103gf
+txtTelefonoDelegato 3889543228
+txtmm 01/27
+txtquery Frattaminore%2C%20Camp.%2C%20Italia
+txtquery Via Filippo Turati 5, 80020 Frattaminore Naples, Italy
+userLoginId netflixaaam@gmail.com
+userNickname Linomaggio
+user[name] ulisse95
+username Criark
+username Cristofaroarcangelo99@gmail.com
+username Cristofaroarcangelo99@gmail.com 
+username Linomaggio
+username Marty1804
+username Ulisse95
+username cristofaroarcangelo99@gmail.com
+username endermencavallo@gmail.com
+username fdelucapicione_0602203219
+username librofisicanero@gmail.com
+username martinadangelo1804@gmail.com
+username palytos99@gmail.com
+username pasquale.maggio-dfgt
+username ulisse95
+username ulissegolem95@gmail.com
+verificationCode 91273886
+vin-search-defaultWithoutContainer CY024MP
+your-email cristofaroarcangelo99@gmail.com
+your-name arcangelo
+z3DQd4 Leg65p4GLPdu8zUGF1yQmCKEwJ2Unj6miE
+z3DQt4 0.66204677
+zipCode 80020
+zipCode-input 80020
+.codiceCliente 2170232969
+.codiceFiscale CRSRNG99C24F839P
+.codiceOtp 045418
+.codiceOtp 103846
+.codiceOtp 114328
+.codiceOtp 147646
+.codiceOtp 197225
+.codiceOtp 236997
+.codiceOtp 269228
+.codiceOtp 316882
+.codiceOtp 320907
+.codiceOtp 330394
+.codiceOtp 382018
+.codiceOtp 432352
+.codiceOtp 436079
+.codiceOtp 478171
+.codiceOtp 551128
+.codiceOtp 554527
+.codiceOtp 637153
+.codiceOtp 694493
+.codiceOtp 733156
+.codiceOtp 761787
+.codiceOtp 895608
+.codiceOtp 919391
+.codiceOtp 928736
+.codiceOtp 934576
+.codiceOtp 986224
+.codicePin 180421
+.confermaCodicePin 180421
+.emailAddress Cristofaroarcangelo99@gmail.com
+.numCellular +393889543228
+117583205 Il tema
+117583205 Il tema e i premi
+117583205 Il tema i premi e i vari modi di giocare
+117585987 100
+117586226 Il fatto che ci siano molte modalità di gioco
+117586227 Il tema e I disegni sono estremamente semplici
+117586654 100
+117587165 È più semplice è chiaro,tema e grafica migliore 
+117854724 Confusionario
+117854724 Confusionario e difficile da capire
+117854724 Confusionario e difficile da capire, e il prezzo 
+122307885_920330884 Libertà 
+122307885_920330885 Relax
+122307885_920330886 Divertimento 
+122379822 Telegram
+122384298 Più comodi
+122384298 Più comodi,semplici da indossare
+122384728_920266598 North face
+122384728_920266599 Columbia
+122392350 10
+122392406 8
+122392457 0
+122392579 7
+122392634 2
+122392662 2
+122393137 8
+122393228 9
+125761332_942517964 Orgoglio
+125761332_942517965 Felicità 
+125761332_942517966 Attesa
+173017148_1259341505 50
+173017148_1259341506 200
+173017148_1259341507 50
+173017148_1259341508 20
+173017148_1259341509 100
+173017148_1259341510 30
+173017177_1259341618 70
+173017177_1259341619 150
+173017177_1259341620 80
+173017177_1259341621 30
+173017177_1259341622 320
+173017177_1259341623 50
+173017458_1259343222 30
+173017458_1259343223 50
+173017458_1259343224 20
+173017458_1259343225 20
+173017458_1259343226 100
+173017458_1259343227 30
+1776816_86_1_1 Arcangelo
+1776816_86_1_2 Pasquale
+1776816_86_1_3 Aurelio
+1776816_86_1_4 Roberta
+1776816_86_1_5 Marianna
+1776816_86_2_1 Cristofaro
+1776816_86_2_2 Maggio
+1776816_86_2_3 Di Fronzo
+1776816_86_2_4 Pasquale
+1776816_86_2_5 Crochi
+189275581_1368633512 15
+189275581_1368633513 12
+189275581_1368633990 9
+189295468_1368760916 +39 388 954 3227
+:r14g: 1000
+:r19u: Strategia Il Profeta
+:r1ci: 1000
+:r1e3: FantaSala CCC
+:r1f2: Strategia Il Profeta
+:r1hn: 1000
+:r1j5: Strategia CarmySpecial
+:r1jc: Strategia CarmySpecial
+:r1k7: Strategia Il Profeta
+:r1m7: Strategia Il Profeta
+:r22m: Strategia Recosta
+:r3: Criark
+:r4: ulissegolem95@gmail.com
+:r7s: Iamm ia
+:r7t: Vampiri
+:r7v: Fantasmi
+:r81: Big foot
+:r83: Elfi
+:r85: Gnomi
+:r87: Zombie
+:r89: Alieni
+:r8b: Ufo
+:r8d: Giganti
+:r8f: Demoni
+:r8h: Draghi
+:r8j: Sirene
+:r8l: Lupo mannaro
+:r8n: Mostro di Loch Ness
+:rh4: FantaSala CCC
+:rhm: Lay's barbecue
+:rho: San carlo Vivace
+:rhq: Pringles Paprika
+:rl5: fantasala ccc
+:rm9: Quella fresca
+:rmb: Quella che mi piace
+ASF_acquisto_anno 2021
+ASF_cognome cristofaro
+ASF_email endermencavallo@gmail.com
+ASF_nascita_data 24 / 03 / 1999
+ASF_nome arcangelo
+ASF_patente 2017
+ASF_ricerca_indirizzo Via Leopardi, 27, Frattaminore, NA
+ASF_targa CY024MP
+ASF_telefono 3889543228
+AY7000015.GiornoAppuntamento 18/04/2023
+AY7000017.CodiceFiscale CRSRNG99C24F839P
+AY7000017.CodiceFiscale MGGPQL99C08A512O
+AY7000017.CodiceFiscale MGGPQL99C08A512o
+AY7000017.CodicePromozione MGM309446036
+AY7000017.CodicePromozione MGM309466472
+AY7000017.Cognome Maggio
+AY7000017.Cognome cristofaro
+AY7000017.DataDiNascita 08/03/1999
+AY7000017.DataDiNascita 24/03/1999
+AY7000017.Email CRISTOFAROARCANGELO99@GMAIL.COm
+AY7000017.Email Cristofaroarcangelo99@gmail.com
+AY7000017.Email Palytos99@gmail.com
+AY7000017.Email palytos99@gmail.com
+AY7000017.Nome Pasquale
+AY7000017.Nome Pasquale 
+AY7000017.Nome arcangelo
+AY7000017.Telefono 3314836505
+AY7000017.Telefono 3889543228
+AY700003.NomeAzienda Team company
+AY700003.PartitaIva 86334519757
+AY700007.CAPResidenza 80020
+AY700007.CAPResidenza 80029
+AY700007.CivicoDiResidenza 27
+AY700007.CivicoDiResidenza 9
+AY700007.DomicilioCAP 80029
+AY700007.DomicilioCivico 49
+AY700007.DomicilioIndirizzo Via francesco verde
+AY700007.DomicilioTelefonoFis 3314836505
+AY700007.Email Cristofaroarcangelo99@gmail.com
+AY700007.Email palytos99@gmail.com
+AY700007.IndirizzoDiResidenza Via padre Antonino 
+AY700007.IndirizzoDiResidenza leopardi 
+AY700007.Telefono 3314836505
+AY700007.Telefono 3889543228
+AY700007.dataScadenzaDocumento 08/03/2029
+AY700007.dataScadenzaDocumento 24/03/2031
+AY700007.docIDNum CA14934GR
+AY700007.docIDNum Ca23552bh
+AY700007.docIDRilasciatoIL 16/05/2018
+AY700007.docIDRilasciatoIL 20/07/2020
+Amount 10
+Amount 10,90
+Amount 13,99
+BookingMemoViaggioRestylingBookingAcquistoRiepilogoView$RestylingBookingMemoViaggioResendTicketInputBookingAcquistoRiepilogoView$TextBoxEmail1 palytos99@gmail.com
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Month 01
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Month 08
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Year 2026
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Year 2027
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxCustomerNumber_0 9825962
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxCustomerNumber_1 9825988
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxFirstName_0 arcangelo
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxFirstName_1 Pasquale
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxLastName_0 cristofaro
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxLastName_1 Maggio
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxPassengerAddressLine1_0_0 cristofaroarcangelo99@gmail.com
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxPassengerAddressLine1_1_0 palytos99@gmail.com
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxPassengerAddressPhone_0_0 3889543228
+BookingPasseggeriRestylingBookingPasseggeriView_confermaEmailField_1 cristofaroarcangelo99@gmail.com
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl00$txtCognome cristofaro
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl00$txtNome arcangelo
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl01$txtCognome Maggio
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl01$txtNome Pasquale
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtCognome cristofaro
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtConfermaEmail Cristofaroarcangelo99@gmail.com
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtEmail Cristofaroarcangelo99@gmail.com
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtNome arcangelo
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtPhone 3889543228
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtZipcode 80020
+Data di scadenza 01/27
+DatiAnagraficiDelRichiedente$TextBoxEmail palytos99@gmail.com
+E-mail martinadangelo1804@gmail.com
+IndirizzoAttuale$TextBoxCap 80029
+IndirizzoAttuale$TextBoxCivico 49
+IndirizzoAttuale$TextBoxLocalita SANT'ANTIMO
+IndirizzoAttuale$TextBoxProvincia NA
+IndirizzoAttuale$TextBoxVia VIA FRANCESCO VERDE
+IndirizzoAttuale$TextBoxVia VIA PADRE ANTONINO
+QuickSearchText Sant'antimo 
+S03--S07--DateBeg-S03--S07--GridServizi-1-inner 27/09/2023
+S03--S07--EndDate-inner 18/09/2023
+S03--S07--IBeguz-inner 08:30
+S03--S07--IEnduz-inner 17:00
+S03--S07--IServizi-S03--S07--GridServizi-1-hiddenInput OT
+S03--S07--OraBeg-S03--S07--GridServizi-1-inner 07:12
+S03--S07--StartDate-inner 18/09/2023
+TxbBbd 24/09/2023
+Username 12,49
+Username Bellamatta22
+Username CRIARK99
+Username criark
+Username nancybionda
+Username ndonio22
+Username palytos99
+__email cristofaroarcangelo99@gmail.com
+_username endermencavallo@gmail.com
+aa_ricovero 2023
+account-name-input Criark
+account-name-input Criark99
+address Teverola
+address.address1 Via G. Leopardi, 27
+address.city Frattaminore
+address.email endermencavallo@gmail.com
+address.firstName arcangelo
+address.lastName cristofaro
+address.phoneNumber 3889543228
+address.postalCode 80020
+address1 Via Leopardi 27
+addressNumberFatturazione 27
+addressNumberFatturazione 49
+adultsNumber 2
+alias 1804
+alias Cristofaroarcangelo99@gmail.com
+alloggio guitgia
+annualMileage 13000
+annualMileage 15000
+answer1 Stella
+answer2 Angelina
+answer3 Frattaminore
+arrival dom 20 ago 2023
+arrival mar 15 ago 2023
+arrival sab 26 ago 2023
+arrivo_contact Lug 23, Mar
+barCode 009312396800180120002000
+barCode 009312396800280120002000
+biglietti_tot 2
+billing_address_1 Via G. Leopardi, 27
+billing_address_1 leopardi 27
+billing_city Frattaminore
+billing_city frattaminore
+billing_email cristofaroarcangelo99@gmail.com
+billing_email endermencavallo@gmail.com
+billing_first_name Arcangelo
+billing_first_name arcangelo
+billing_fiscal_code CRSRNG99C24F839P
+billing_last_name Cristofaro
+billing_last_name cristofaro
+billing_phone 3889543228
+billing_postcode 80020
+cal_outbound 15 agosto 2023
+cal_return 18 agosto 2023
+cap 80020
+capFatturazione 80020
+capFatturazione 80029
+ccFirstName arcangelo
+cdfiscale CNTVCN81R01I293Y
+cdfiscale CRSRNG99C24F839P
+cellPhoneNumber-input 3889543221
+cellulare 3246010222
+cf_paz CRSTNN67L25D790B
+cf_rich CRSTNN67L25D790B
+challenge.Code 173605
+challengeDataEntry 48450720
+citta frattaminore
+city Frattaminore
+city-input FRATTAMINORE
+claimCode 3YFY-CVF3KK-XPBJ
+claimCode 49KP-US37UP-8WBD
+claimCode V8VE-ZTNG2Y-ZHBV
+codVerCellPart2 416273
+codVerEmailPart2 682478
+code1 3
+code2 8
+code3 7
+code4 8
+codiceverifica2fa 203054
+cogn_paz CRISTOFARO
+cogn_rich CRISTOFARO
+cognome CANTONE
+cognome cristofaro
+confermaEmail endermencavallo@gmail.com
+confermaEmail palytos99@gmail.com
+conferma_email ulissegolem95@gmail.com
+cpiPlate DP683JK
+cppEmailOrUsername martinadangelo1804@gmail.com
+credential endermencavallo@gmail.com
+ctl00$BodyMain$JoinSlice$JoinForm$emailInput endermencavallo@gmail.com
+ctl00$ContentPlaceHolder1$TextBox1 criark99
+ctl00$ContentPlaceHolder1$TextBox3 Pina
+ctl00$GeckoOneColPrimary$JoinForm$emailInput endermencavallo@gmail.com
+ctl00$GeckoOneColPrimary$Login$txtEmail endermencavallo@gmail.com
+ctl00$GeckoOneColPrimary$LoginV2$txtEmail endermencavallo@gmail.com
+ctl00$GeckoTwoColSecondary$MyProfileControl$accCompleteness$inputDial 29
+ctl00$ctl00$ContentPlaceHolder1$Content_body$TextBox10 3889543228
+ctl00$ctl00$ContentPlaceHolder1$Content_body$TextBox8 3889543228
+ctl00$ctl00$Content_body$Content_body$TextBox17 Leopardi, 27
+ctl00$ctl00$Content_body$Content_body$TextBox18 80020
+ctl00$ctl00$Content_body$Content_body$TextBox5 endermencavallo@gmail.com
+ctl00$ctl00$Content_body$Content_body$TextBox6 endermencavallo@gmail.com
+ctl00$mainContent$Login$loginEmailInput endermencavallo@gmail.com
+ctl00$txtUserName nancybionda
+ctl00_ContentPlaceHolder1_UsernameTextBox 955404
+dailyTripLength 60
+data 13-08-2023
+data.addressLine1 Leopardi, 27
+dataDa 07/10/2023
+datanasc_paz 25/07/1967
+departure dom 27 ago 2023
+departure mar 15 ago 2023
+departureDateVISIBLE 11 Gen 2024
+departureDateVISIBLE 15 Apr 2023
+dropdown-d7f655ab-c120-49f1-97ce-b59ec72d301b-3pPBz7jQuj0Tk4t0 Lom
+dtNascitaDelegato 24/03/1999
+dwfrm_shipping_shippingAddress_addressFields_firstName antonio
+dwfrm_shipping_shippingAddress_addressFields_lastName cristofaro
+dwfrm_shipping_shippingAddress_addressFields_phone 3663040868
+dwfrm_shipping_shippingAddress_addressFields_pndShippingEmail ulissegolem95@gmail.com
+email 3501296818
+email 3663040868
+email Golem Ulisse
+email Prova con cristofaroantonio18@gmail.com Antocsf95
+email ULI
+email arki-@live.it
+email bho@gmail.com
+email brunagallotti@outlook.it
+email cristofaroarcangelo99@gmail.com
+email cristofaropicione@libero.it
+email endermencavallo@gmail.com
+email librofisicanero@gmail.com
+email liveforthemoment95@gmail.com
+email liveforthemoment95@live.it
+email martinadangelo1804@gmail.com
+email palytos99@gmail.com
+email simona.spetrino#hotmail.it
+email simona.spetrino@hotmail.it
+email ulissegolem95@gmail.com
+email-c19d6c37-6337-4c9a-9f9a-df84d25cd24b endermencavallo@gmail.com
+emailOrPhone cristofaroarcangelo99@gmail.com
+email_contact ulissegolem95@gmail.com
+email_paz CRISTOFAROANTONIO18@GMAIL.COM
+email_rich CRISTOFAROANTONIO18@GMAIL.COM
+email_rich CRISTOFAROANTONO18@GMAIL.COM
+emailsecondaria librofisicanero@gmail.com
+emailsecondaria martinadangelo1804@gmail.com
+expDate 01/27
+expDate 03/29
+expiry 01 / 2027
+expiry-date 01 / 27
+fakeemailforchromeautocompletebug endermencavallo@gmail.com
+famiglia_customer_code SG28771
+familyName cristofaro
+filter Na
+firstName Antonio
+firstName Federica
+firstName Girolamo 
+firstName Nadia
+firstName Pasquale
+firstName Rocco
+firstName Tonino
+firstName antonio
+firstName arcangelo
+first_name antonio
+firstname arcangelo
+fiscalSeal 36b22c7539e58463
+fiscalSeal 581c67036f677af9
+givenName arcangelo
+high-price 100
+high-price 25
+high-price 300
+holder arcangelo cristofaro
+ib-ow 14/3/2024
+ib-ow 19/3/2024
+identifier endermencavallo@gmail.com
+identifier librofisicanero@gmail.com
+identifier palytos99@gmail.com
+identifier ulissegolem95@gmail.com
+identity[phone] 3889543228
+importo 10,00 €
+importo 5,00 €
+indirizzo via leopardi, 27
+indirizzoEmail cappina66@gmail.com
+indirizzoFatturazione Via G. Leopardi, 27
+indirizzoFatturazione Via francesco verde
+input-email endermencavallo@gmail.com
+input-importo-altro 10
+input-username Criark
+keyword https://www.youtube.com/watch?v=t-cRndlN4Lk
+kilometer 200000
+lastName Femiano
+lastName Fermiano
+lastName Maggio
+lastName Pizzo
+lastName Puca
+lastName Rocco
+lastName Verde
+lastName cristofaro
+lastName verde
+last_name picione
+lastname cristofaro
+lastname_contact cristofaro
+license-plate CM451GR
+line1 Via G. Leopardi, 27, 
+localitaFatturazione Frattaminore
+localitaFatturazione Sant'Antimo
+log_email endermencavallo@gmail.com
+login fdelucapicione_0602203219
+login-username ARCANGELO.CRISTOFARO
+login-username criark
+login-username csf95
+loginEmail francescagallotti@outlook.com
+loginEmail librofisicanero@gmail.com
+loginId endermencavallo@gmail.com
+login[username] endermencavallo@gmail.com
+login_email 3663040868
+login_email cristofaroarcangelo99@gmail.com
+loginfmt 955404@rfi.it
+loginfmt arki-@live.it
+low-price 100
+low-price 45
+low-price 50
+movieLookup Guardiani della galassia
+movieLookup Shazam
+movieLookup Spiderman 
+name Antonio Picione
+name Criark
+name Fulminacci
+name Integratori
+name Roberta
+name Sondaggio 
+name VINCENZO
+name arcangelo
+name_contact antonio
+nbAdults 1
+nbChildren 2
+noOfAdults 2
+nome antonio
+nome_paz TONINO
+nome_rich TONINO
+number 41
+oggetto preventivo auto 6 posti
+partenza_contact Lug 27, Sab
+passwordForgotten cristofaroarcangelo99@gmail.com
+phone +39 388-9543-228
+phone 3312810618
+phone 3663040868
+phone 3889543228
+phone 393889543228
+phoneNumber 388 954 3228
+phoneOrEmail cristofaroarcangelo99@gmail.com
+phoneOrEmail endermencavallo@gmail.com
+postalCode 80020
+postalCode 81025
+postcode 80020
+postoOrdineRiduzione(79-1069-29071) 4
+prn_email cristofaroarcangelo99@gmail.com
+prn_email2 cristofaroarcangelo99@gmail.com
+prn_telefono 3889543228
+profile.city Frattaminore
+profile.firstName arcangelo
+profile.lastName cristofaro
+province-input NAPOLI
+q Calza
+q marvel
+quote_contractor_cityOfBirth Napoli (NA)
+quote_contractor_residentialAddress_city Frattaminore (NA)
+quote_inheritedAtr_owner_cityOfBirth Frattaminore (NA)
+reductions #NONSTOP25
+ref G5A5WZ
+region 3484621
+returnDateVISIBLE 14 Gen 2024
+returnDateVISIBLE 16 Apr 2023
+route_outbound Napoli - Ischia (Casamicciola)
+s dark souls
+s dyson
+search Amazon
+search Amazon 
+search amazon
+search be
+search betotal
+search borsa
+search carta
+search google
+search igienica
+search olio
+search-bar-id-100 Ital
+search-input WOL
+search-input avengers
+search-input tiy
+searchName scelta 2 bagni
+searchName scelta 3 bagni
+sf-search congedo
+sgE-90561960-5-13-10055 10%
+sgE-90561960-5-13-10055 5%
+sgE-90561960-5-13-10057 0%
+sgE-90561960-5-13-10057 20%
+sgE-90561960-5-13-10058 10%
+sgE-90561960-5-13-10058 40%
+sgE-90561960-5-13-10059 30%
+simple_text Napoli
+surname Pasquale
+surname cristofaro
+t-input 1KM4-8LKV
+t-input 58MB-4XXG
+t-input 94ZJ-TRQK
+t-input GKNF-L3T2
+t-input H1GM-V61J
+t-input XXMJ-TBR3
+targa DH470KA
+targa DN409LK
+targa DP683JK
+targa cy024mp
+tel 338 954 3221
+tel 388 945 3221
+tel 388 954 3221
+tel 388 954 3226
+tel 388 954 3227
+tel 388 954 3322
+tel 388 956 3248
+tel_paz 3347982032
+tel_rich 3347982032
+telefono 3314836505
+telefono 3663040868
+telefono 3889543228
+text Criark
+text criark
+text criarkkk
+text-0.12018180139610779 Frattaminore
+text-0.14385228838468866 Via G. Leopardi, 27
+text-0.686485598638944 80020
+text-0.9443056992668193 +393889543228
+textBoxUserID cristofaroarcangelo99@gmail.com
+time_outbound 09:00
+time_return 17:00
+toValues[name] arcangelo
+toValues[name_f] cristofaro
+tx_kesearch_pi1[sword] immatricolazione
+txbAddressLine1_product Leopardi
+txbAddressLine2_product 27
+txbBarcode 8410199016713
+txbConfirmEmail_product Cristofaroarcangelo99@gmail.com
+txbConfirmEmail_product endermencavallo@gmail.com
+txbCountry_product Italia
+txbCounty_product NA
+txbDateOpened 18/07/2023
+txbDatePurchased 12/07/2023
+txbEmail_product Cristofaroarcangelo99@gmail.com
+txbEmail_product endermencavallo@gmail.com
+txbFirstname_product Arcangelo 
+txbFirstname_product arcangelo
+txbFlavour Lay's gusto paprika dolce
+txbLastname_product cristofaro
+txbMultipackSize 6
+txbPackCoding EB3611089T
+txbPackWeight 30
+txbPhone_product 3889543228
+txbPostcode_product 80020
+txbStorePurchsed Buoni dentro
+txbTownPurchased Frattaminore
+txbTown_product Frattaminore
+txtCAPResidenza 80020
+txtCamere_motore_package_1706478343 1 Camera, 2 Adulti - 0 Bambini
+txtCellulare 3889543228
+txtCellulareDelegato 3889543228
+txtCivicoResidenza 27
+txtCodFiscale CRSRNG99C24F839P
+txtCodFiscale CRSTNN67L25D790B
+txtCognome Cristofaro
+txtCognome Cristofaro 
+txtCognome cristofaro
+txtCognomeDelegato cristofaro
+txtCv 26
+txtEmail Cristofaroarcangelo99@gmail.com
+txtEmail endermencavallo@gmail.com
+txtEmailDelegato Cristofaroarcangelo99@gmail.com
+txtImmatricolazione 20/10/2005
+txtImmatricolazione 21/03/2005
+txtImmatricolazione 28/07/2004
+txtIndirizzoResidenza Via G. Leopardi, 27
+txtKw 50
+txtKw 66
+txtLuogoSottoscrizione Frattaminore
+txtNome Tonino
+txtNome arcangelo
+txtNomeDelegato arcangelo 
+txtNumCarta_fake **** **** **** 4165
+txtTarga CM451GR
+txtTarga CM451Gr
+txtTarga Cm451gv
+txtTarga Cy024mp
+txtTarga Eb103gf
+txtTelefonoDelegato 3889543228
+txtmm 01/27
+userLoginId netflixaaam@gmail.com
+userNickname Linomaggio
+user[login] ulissegolem95@gmail.com
+user[name] ulisse95
+username Criark
+username Cristofaroarcangelo99@gmail.com
+username Marty1804
+username Ulisse95
+username cristofaroarcangelo99@gmail.com
+username endermencavallo@gmail.com
+username fdelucapicione_0602203219
+username librofisicanero@gmail.com
+username martinadangelo1804@gmail.com
+username palytos99@gmail.com
+username pasquale.maggio-dfgt
+username ulissegolem95@gmail.com
+verificationCode 91273886
+vin-search-defaultWithoutContainer CY024MP
+your-email cristofaroarcangelo99@gmail.com
+your-name arcangelo
+z3DQd4 Leg65p4GLPdu8zUGF1yQmCKEwJ2Unj6miE
+z3DQt4 0.66204677
+zipCode 80020
+zipCode-input 80020
+.codiceCliente 2170232969
+.codiceFiscale CRSRNG99C24F839P
+.codiceOtp 045418
+.codiceOtp 103846
+.codiceOtp 114328
+.codiceOtp 147646
+.codiceOtp 197225
+.codiceOtp 236997
+.codiceOtp 269228
+.codiceOtp 316882
+.codiceOtp 320907
+.codiceOtp 330394
+.codiceOtp 382018
+.codiceOtp 432352
+.codiceOtp 436079
+.codiceOtp 478171
+.codiceOtp 551128
+.codiceOtp 554527
+.codiceOtp 637153
+.codiceOtp 694493
+.codiceOtp 733156
+.codiceOtp 761787
+.codiceOtp 895608
+.codiceOtp 919391
+.codiceOtp 928736
+.codiceOtp 934576
+.codiceOtp 986224
+.codicePin 180421
+.confermaCodicePin 180421
+.emailAddress Cristofaroarcangelo99@gmail.com
+.numCellular +393889543228
+122307885_920330884 Libertà 
+122307885_920330885 Relax
+122307885_920330886 Divertimento 
+122379822 Telegram
+122384298 Più comodi
+122384298 Più comodi,semplici da indossare
+122384728_920266598 North face
+122384728_920266599 Columbia
+122392350 10
+122392406 8
+122392457 0
+122392579 7
+122392634 2
+122392662 2
+122393137 8
+122393228 9
+125761332_942517964 Orgoglio
+125761332_942517965 Felicità 
+125761332_942517966 Attesa
+173017148_1259341505 50
+173017148_1259341506 200
+173017148_1259341507 50
+173017148_1259341508 20
+173017148_1259341509 100
+173017148_1259341510 30
+173017177_1259341618 70
+173017177_1259341619 150
+173017177_1259341620 80
+173017177_1259341621 30
+173017177_1259341622 320
+173017177_1259341623 50
+173017458_1259343222 30
+173017458_1259343223 50
+173017458_1259343224 20
+173017458_1259343225 20
+173017458_1259343226 100
+173017458_1259343227 30
+1776816_86_1_1 Arcangelo
+1776816_86_1_2 Pasquale
+1776816_86_1_3 Aurelio
+1776816_86_1_4 Roberta
+1776816_86_1_5 Marianna
+1776816_86_2_1 Cristofaro
+1776816_86_2_2 Maggio
+1776816_86_2_3 Di Fronzo
+1776816_86_2_4 Pasquale
+1776816_86_2_5 Crochi
+189275581_1368633512 15
+189275581_1368633513 12
+189275581_1368633990 9
+189295468_1368760916 +39 388 954 3227
+193131692_1394086210 +39 388 954 3227
+193494634_other Internet
+:r14g: 1000
+:r19u: Strategia Il Profeta
+:r1ci: 1000
+:r1e3: FantaSala CCC
+:r1f2: Strategia Il Profeta
+:r1hn: 1000
+:r1j5: Strategia CarmySpecial
+:r1jc: Strategia CarmySpecial
+:r1k7: Strategia Il Profeta
+:r1m7: Strategia Il Profeta
+:r22m: Strategia Recosta
+:r3: Criark
+:r4: ulissegolem95@gmail.com
+:r7s: Iamm ia
+:r7t: Vampiri
+:r7v: Fantasmi
+:r81: Big foot
+:r83: Elfi
+:r85: Gnomi
+:r87: Zombie
+:r89: Alieni
+:r8b: Ufo
+:r8d: Giganti
+:r8f: Demoni
+:r8h: Draghi
+:r8j: Sirene
+:r8l: Lupo mannaro
+:r8n: Mostro di Loch Ness
+:rh4: FantaSala CCC
+:rhm: Lay's barbecue
+:rho: San carlo Vivace
+:rhq: Pringles Paprika
+:rl5: fantasala ccc
+:rm9: Quella fresca
+:rmb: Quella che mi piace
+ASF_acquisto_anno 2021
+ASF_cognome cristofaro
+ASF_email endermencavallo@gmail.com
+ASF_nascita_data 24 / 03 / 1999
+ASF_nome arcangelo
+ASF_patente 2017
+ASF_ricerca_indirizzo Via Leopardi, 27, Frattaminore, NA
+ASF_targa CY024MP
+ASF_telefono 3889543228
+AY7000015.GiornoAppuntamento 18/04/2023
+AY7000017.CodiceFiscale CRSRNG99C24F839P
+AY7000017.CodiceFiscale MGGPQL99C08A512O
+AY7000017.CodiceFiscale MGGPQL99C08A512o
+AY7000017.CodicePromozione MGM309446036
+AY7000017.CodicePromozione MGM309466472
+AY7000017.Cognome Maggio
+AY7000017.Cognome cristofaro
+AY7000017.DataDiNascita 08/03/1999
+AY7000017.DataDiNascita 24/03/1999
+AY7000017.Email CRISTOFAROARCANGELO99@GMAIL.COm
+AY7000017.Email Cristofaroarcangelo99@gmail.com
+AY7000017.Email Palytos99@gmail.com
+AY7000017.Email palytos99@gmail.com
+AY7000017.Nome Pasquale
+AY7000017.Nome Pasquale 
+AY7000017.Nome arcangelo
+AY7000017.Telefono 3314836505
+AY7000017.Telefono 3889543228
+AY700003.NomeAzienda Team company
+AY700003.PartitaIva 86334519757
+AY700007.CAPResidenza 80020
+AY700007.CAPResidenza 80029
+AY700007.CivicoDiResidenza 27
+AY700007.CivicoDiResidenza 9
+AY700007.DomicilioCAP 80029
+AY700007.DomicilioCivico 49
+AY700007.DomicilioIndirizzo Via francesco verde
+AY700007.DomicilioTelefonoFis 3314836505
+AY700007.Email Cristofaroarcangelo99@gmail.com
+AY700007.Email palytos99@gmail.com
+AY700007.IndirizzoDiResidenza Via padre Antonino 
+AY700007.IndirizzoDiResidenza leopardi 
+AY700007.Telefono 3314836505
+AY700007.Telefono 3889543228
+AY700007.dataScadenzaDocumento 08/03/2029
+AY700007.dataScadenzaDocumento 24/03/2031
+AY700007.docIDNum CA14934GR
+AY700007.docIDNum Ca23552bh
+AY700007.docIDRilasciatoIL 16/05/2018
+AY700007.docIDRilasciatoIL 20/07/2020
+Amount 10
+Amount 10,90
+Amount 13,99
+BookingMemoViaggioRestylingBookingAcquistoRiepilogoView$RestylingBookingMemoViaggioResendTicketInputBookingAcquistoRiepilogoView$TextBoxEmail1 palytos99@gmail.com
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Month 01
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Month 08
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Year 2026
+BookingPagamentoRestylingBookingPagamentoView$BookingPagamentoPaymentInputRestylingBookingPagamentoView$DropDownListEXPDAT_Year 2027
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxCustomerNumber_0 9825962
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxCustomerNumber_1 9825988
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxFirstName_0 arcangelo
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxFirstName_1 Pasquale
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxLastName_0 cristofaro
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxLastName_1 Maggio
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxPassengerAddressLine1_0_0 cristofaroarcangelo99@gmail.com
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxPassengerAddressLine1_1_0 palytos99@gmail.com
+BookingPasseggeriRestylingBookingPasseggeriView$BookingPasseggeriPassengerInputRestylingBookingPasseggeriView$TextBoxPassengerAddressPhone_0_0 3889543228
+BookingPasseggeriRestylingBookingPasseggeriView_confermaEmailField_1 cristofaroarcangelo99@gmail.com
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl00$txtCognome cristofaro
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl00$txtNome arcangelo
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl01$txtCognome Maggio
+Comicon_Web_Module_304792$md883ed14a82148b296ed3c279ff185be$rpBiglietti$ctl01$txtNome Pasquale
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtCognome cristofaro
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtConfermaEmail Cristofaroarcangelo99@gmail.com
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtEmail Cristofaroarcangelo99@gmail.com
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtNome arcangelo
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtPhone 3889543228
+Comicon_Web_Module_304845$m696b1105ba5346078403062c6bf56645$txtZipcode 80020
+Data di scadenza 01/27
+DatiAnagraficiDelRichiedente$TextBoxEmail palytos99@gmail.com
+E-mail martinadangelo1804@gmail.com
+EndDate 01/04/2024
+EndDate 01/05/2024
+EndDate 29/02/2024
+EndDate 30/04/2024
+EndDate 30/11/2023
+EndDate 31/01/2024
+EndDate 31/03/2024
+EndDate 31/12/2023
+HD005001 VIA
+HD006001  G. LEOPARDI, 27
+ID001001 1200
+IndirizzoAttuale$TextBoxCap 80029
+IndirizzoAttuale$TextBoxCivico 49
+IndirizzoAttuale$TextBoxLocalita SANT'ANTIMO
+IndirizzoAttuale$TextBoxProvincia NA
+IndirizzoAttuale$TextBoxVia VIA FRANCESCO VERDE
+IndirizzoAttuale$TextBoxVia VIA PADRE ANTONINO
+PhoneNumber 3889543228
+QuickSearchText Sant'antimo 
+ReturnDate 09/06/2024
+S03--S07--DateBeg-S03--S07--GridServizi-1-inner 27/09/2023
+S03--S07--EndDate-inner 18/09/2023
+S03--S07--IBeguz-inner 08:30
+S03--S07--IEnduz-inner 17:00
+S03--S07--IServizi-S03--S07--GridServizi-1-hiddenInput OT
+S03--S07--OraBeg-S03--S07--GridServizi-1-inner 07:12
+S03--S07--StartDate-inner 18/09/2023
+StartDate 01/01/2024
+StartDate 01/02/2024
+StartDate 01/03/2024
+StartDate 01/04/2023
+StartDate 01/04/2024
+StartDate 01/05/2023
+StartDate 01/05/2024
+StartDate 01/11/2023
+StartDate 01/12/2023
+StartDate 02/05/2023
+TxbBbd 24/09/2023
+Username 12,49
+Username Bellamatta22
+Username CRIARK99
+Username criark
+Username nancybionda
+Username ndonio22
+Username palytos99
+__email cristofaroarcangelo99@gmail.com
+_username endermencavallo@gmail.com
+aa_ricovero 2023
+account-name-input Criark
+account-name-input Criark99
+address Teverola
+address-level1 NA
+address.address1 Via G. Leopardi, 27
+address.city Frattaminore
+address.email endermencavallo@gmail.com
+address.firstName arcangelo
+address.lastName cristofaro
+address.phoneNumber 3889543228
+address.postalCode 80020
+address1 Via G. Leopardi, 27
+address1 Via Leopardi 27
+addressNumberFatturazione 27
+addressNumberFatturazione 49
+adultsNumber 2
+alias 1804
+alias Cristofaroarcangelo99@gmail.com
+alloggio guitgia
+annualMileage 13000
+annualMileage 15000
+answer1 Stella
+answer2 Angelina
+answer3 Frattaminore
+arrival dom 20 ago 2023
+arrival mar 15 ago 2023
+arrival sab 26 ago 2023
+arrivo_contact Lug 23, Mar
+barCode 009312396800180120002000
+barCode 009312396800280120002000
+biglietti_tot 2
+billing_address_1 Via G. Leopardi, 27
+billing_address_1 leopardi 27
+billing_city Frattaminore
+billing_city frattaminore
+billing_email cristofaroarcangelo99@gmail.com
+billing_email endermencavallo@gmail.com
+billing_first_name Arcangelo
+billing_first_name arcangelo
+billing_fiscal_code CRSRNG99C24F839P
+billing_last_name Cristofaro
+billing_last_name cristofaro
+billing_phone 3889543228
+billing_postcode 80020
+cal_outbound 15 agosto 2023
+cal_return 18 agosto 2023
+cap 80020
+capFatturazione 80020
+capFatturazione 80029
+ccFirstName arcangelo
+cdfiscale CNTVCN81R01I293Y
+cdfiscale CRSRNG99C24F839P
+cellPhoneNumber-input 3889543221
+cellulare 3246010222
+cf_paz CRSTNN67L25D790B
+cf_rich CRSTNN67L25D790B
+challenge.Code 173605
+citta frattaminore
+city Frattaminore
+city-input FRATTAMINORE
+claimCode 3YFY-CVF3KK-XPBJ
+claimCode 49KP-US37UP-8WBD
+claimCode V8VE-ZTNG2Y-ZHBV
+claim_City Frattaminore
+claim_Number 27
+claim_Postcode 80020
+claim_Street Via G. Leopardi
+codVerCellPart2 416273
+codVerEmailPart2 682478
+code1 3
+code2 8
+code3 7
+code4 8
+codiceverifica2fa 203054
+cogn_paz CRISTOFARO
+cogn_rich CRISTOFARO
+cognome CANTONE
+cognome cristofaro
+confermaEmail cristofaroarcangelo99@gmail.com
+confermaEmail endermencavallo@gmail.com
+confermaEmail palytos99@gmail.com
+conferma_email ulissegolem95@gmail.com
+cpiPlate DP683JK
+credential endermencavallo@gmail.com
+ctl00$ContentPlaceHolder1$TextBox1 criark99
+ctl00$ContentPlaceHolder1$TextBox3 Pina
+ctl00$GeckoOneColPrimary$JoinForm$emailInput endermencavallo@gmail.com
+ctl00$GeckoOneColPrimary$LoginV2$txtEmail endermencavallo@gmail.com
+ctl00$mainContent$Login$loginEmailInput endermencavallo@gmail.com
+ctl00_ContentPlaceHolder1_UsernameTextBox 955404
+dailyTripLength 60
+data 13-08-2023
+data.addressLine1 Leopardi, 27
+dataDa 07/10/2023
+datanasc_paz 25/07/1967
+departure dom 27 ago 2023
+departure mar 15 ago 2023
+departureDateVISIBLE 11 Gen 2024
+departureDateVISIBLE 15 Apr 2023
+dropdown-d7f655ab-c120-49f1-97ce-b59ec72d301b-3pPBz7jQuj0Tk4t0 Lom
+dtNascitaDelegato 24/03/1999
+dwfrm_shipping_shippingAddress_addressFields_firstName antonio
+dwfrm_shipping_shippingAddress_addressFields_lastName cristofaro
+dwfrm_shipping_shippingAddress_addressFields_phone 3663040868
+dwfrm_shipping_shippingAddress_addressFields_pndShippingEmail ulissegolem95@gmail.com
+email 3501296818
+email 3663040868
+email Golem Ulisse
+email Prova con cristofaroantonio18@gmail.com Antocsf95
+email ULI
+email arki-@live.it
+email bho@gmail.com
+email brunagallotti@outlook.it
+email cri
+email cristofaroarcangelo99@gmail.com
+email cristofaropicione@libero.it
+email endermencavallo@gmail.com
+email librofisicanero@gmail.com
+email liveforthemoment95@gmail.com
+email liveforthemoment95@live.it
+email martinadangelo1804@gmail.com
+email palytos99@gmail.com
+email simona.spetrino#hotmail.it
+email simona.spetrino@hotmail.it
+email ulissegolem95@gmail.com
+emailOrPhone cristofaroarcangelo99@gmail.com
+email_contact ulissegolem95@gmail.com
+email_paz CRISTOFAROANTONIO18@GMAIL.COM
+email_rich CRISTOFAROANTONIO18@GMAIL.COM
+email_rich CRISTOFAROANTONO18@GMAIL.COM
+emailsecondaria librofisicanero@gmail.com
+emailsecondaria martinadangelo1804@gmail.com
+expDate 01/27
+expDate 03/29
+expiry 01 / 2027
+expiry-date 01 / 27
+fakeemailforchromeautocompletebug endermencavallo@gmail.com
+famiglia_customer_code SG28771
+familyName cristofaro
+filter Na
+firstName Antonio
+firstName Federica
+firstName Girolamo 
+firstName Nadia
+firstName Pasquale
+firstName Rocco
+firstName Tonino
+firstName antonio
+firstName arcangelo
+first_name antonio
+firstname arcangelo
+fiscalSeal 36b22c7539e58463
+fiscalSeal 581c67036f677af9
+givenName arcangelo
+high-price 100
+high-price 25
+high-price 300
+holder arcangelo cristofaro
+ib-ow 14/3/2024
+ib-ow 19/3/2024
+identifier endermencavallo@gmail.com
+identifier librofisicanero@gmail.com
+identifier palytos99@gmail.com
+identifier ulissegolem95@gmail.com
+identity[phone] 3889543228
+importo 10,00 €
+importo 5,00 €
+indirizzo via leopardi, 27
+indirizzoEmail cappina66@gmail.com
+indirizzoFatturazione Via G. Leopardi,
+indirizzoFatturazione Via G. Leopardi, 27
+indirizzoFatturazione Via francesco verde
+input-email endermencavallo@gmail.com
+input-importo-altro 10
+input-username Criark
+kilometer 200000
+lastName Femiano
+lastName Fermiano
+lastName Maggio
+lastName Pizzo
+lastName Puca
+lastName Rocco
+lastName Verde
+lastName cristofaro
+lastName verde
+last_name picione
+lastname cristofaro
+lastname_contact cristofaro
+license-plate CM451GR
+line1 Via G. Leopardi, 27, 
+localitaFatturazione Frattaminore
+localitaFatturazione Sant'Antimo
+log_email endermencavallo@gmail.com
+login fdelucapicione_0602203219
+login-username ARCANGELO.CRISTOFARO
+login-username criark
+login-username csf95
+loginEmail francescagallotti@outlook.com
+loginEmail librofisicanero@gmail.com
+loginId endermencavallo@gmail.com
+login_email 3663040868
+login_email cristofaroarcangelo99@gmail.com
+loginfmt 955404@rfi.it
+loginfmt arki-@live.it
+low-price 100
+low-price 45
+low-price 50
+mobile 388 9543 228
+movieLookup Guardiani della galassia
+movieLookup Shazam
+movieLookup Spiderman 
+name Antonio Picione
+name Criark
+name Fulminacci
+name Integratori
+name Roberta
+name Sondaggio 
+name Tonino
+name VINCENZO
+name arcangelo
+name_contact antonio
+nbAdults 1
+nbChildren 2
+noOfAdults 2
+nome antonio
+nome_paz TONINO
+nome_rich TONINO
+number 41
+oggetto preventivo auto 6 posti
+partenza_contact Lug 27, Sab
+passwordForgotten cristofaroarcangelo99@gmail.com
+phone 3312810618
+phone 3663040868
+phone 388 954 3228
+phone 3889543228
+phone 393889543228
+phoneNumber 388 954 3228
+phoneOrEmail cristofaroarcangelo99@gmail.com
+phoneOrEmail endermencavallo@gmail.com
+postCode 80020
+postalCode 80020
+postalCode 81025
+postcode 80020
+postoOrdineRiduzione(79-1069-29071) 4
+prn_email cristofaroarcangelo99@gmail.com
+prn_email2 cristofaroarcangelo99@gmail.com
+prn_telefono 3889543228
+profile.city Frattaminore
+profile.firstName arcangelo
+profile.lastName cristofaro
+province NA
+province-input NAPOLI
+q Calza
+quote_contractor_cityOfBirth Napoli (NA)
+quote_contractor_residentialAddress_city Frattaminore (NA)
+quote_inheritedAtr_owner_cityOfBirth Frattaminore (NA)
+reductions #NONSTOP25
+reductions DIYPOWERSTREAM50
+ref G5A5WZ
+region 3484621
+returnDateVISIBLE 14 Gen 2024
+returnDateVISIBLE 16 Apr 2023
+route_outbound Napoli - Ischia (Casamicciola)
+s dark souls
+s dyson
+search Amazon
+search Amazon 
+search amazon
+search be
+search betotal
+search borsa
+search carta
+search google
+search igienica
+search olio
+search-bar-id-100 Ital
+search-input WOL
+search-input tiy
+searchName scelta 2 bagni
+searchName scelta 3 bagni
+sf-search congedo
+sgE-90561960-5-13-10055 10%
+sgE-90561960-5-13-10055 5%
+sgE-90561960-5-13-10057 0%
+sgE-90561960-5-13-10057 20%
+sgE-90561960-5-13-10058 10%
+sgE-90561960-5-13-10058 40%
+sgE-90561960-5-13-10059 30%
+signUpEmail cristofaroarcangelo99@gmail.com
+signUpName arcangelo cristofaro
+simple_text Napoli
+streetName Via G. Leopardi
+surname Pasquale
+surname cristofaro
+t-input 1KM4-8LKV
+t-input 58MB-4XXG
+t-input 94ZJ-TRQK
+t-input GKNF-L3T2
+t-input H1GM-V61J
+t-input XXMJ-TBR3
+targa DH470KA
+targa DN409LK
+targa DP683JK
+targa cy024mp
+tel 338 954 3221
+tel 388 945 3221
+tel 388 954 3221
+tel 388 954 3226
+tel 388 954 3227
+tel 388 954 3322
+tel 388 956 3248
+tel_paz 3347982032
+tel_rich 3347982032
+telefono 3314836505
+telefono 3347982032
+telefono 3663040868
+telefono 3889543228
+text Criark
+text criark
+text criarkkk
+textBoxUserID cristofaroarcangelo99@gmail.com
+time_outbound 09:00
+time_return 17:00
+transit-time 07:30
+tx_kesearch_pi1[sword] immatricolazione
+txbAddressLine1_product Leopardi
+txbAddressLine2_product 27
+txbBarcode 8410199016713
+txbConfirmEmail_product Cristofaroarcangelo99@gmail.com
+txbConfirmEmail_product endermencavallo@gmail.com
+txbCountry_product Italia
+txbCounty_product NA
+txbDateOpened 18/07/2023
+txbDatePurchased 12/07/2023
+txbEmail_product Cristofaroarcangelo99@gmail.com
+txbEmail_product endermencavallo@gmail.com
+txbFirstname_product Arcangelo 
+txbFirstname_product arcangelo
+txbFlavour Lay's gusto paprika dolce
+txbLastname_product cristofaro
+txbMultipackSize 6
+txbPackCoding EB3611089T
+txbPackWeight 30
+txbPhone_product 3889543228
+txbPostcode_product 80020
+txbStorePurchsed Buoni dentro
+txbTownPurchased Frattaminore
+txbTown_product Frattaminore
+txtCAPResidenza 80020
+txtCamere_motore_package_1706478343 1 Camera, 2 Adulti - 0 Bambini
+txtCellulare 3889543228
+txtCellulareDelegato 3889543228
+txtCivicoResidenza 27
+txtCodFiscale CRSRNG99C24F839P
+txtCodFiscale CRSTNN67L25D790B
+txtCognome Cristofaro
+txtCognome Cristofaro 
+txtCognome cristofaro
+txtCognomeDelegato cristofaro
+txtCv 26
+txtEmail Cristofaroarcangelo99@gmail.com
+txtEmail endermencavallo@gmail.com
+txtEmailDelegato Cristofaroarcangelo99@gmail.com
+txtImmatricolazione 20/10/2005
+txtImmatricolazione 21/03/2005
+txtImmatricolazione 28/07/2004
+txtIndirizzoResidenza Via G. Leopardi, 27
+txtKw 50
+txtKw 66
+txtLuogoSottoscrizione Frattaminore
+txtNome Tonino
+txtNome arcangelo
+txtNomeDelegato arcangelo 
+txtNumCarta_fake **** **** **** 4165
+txtTarga CM451GR
+txtTarga CM451Gr
+txtTarga Cm451gv
+txtTarga Cy024mp
+txtTarga Eb103gf
+txtTelefonoDelegato 3889543228
+txtmm 01/27
+userLoginId netflixaaam@gmail.com
+userNickname Linomaggio
+user[login] ulissegolem95@gmail.com
+user[name] ulisse95
+username Criark
+username Cristofaroarcangelo99@gmail.com
+username Ulisse95
+username cristofaroarcangelo99@gmail.com
+username endermencavallo@gmail.com
+username fdelucapicione_0602203219
+username librofisicanero@gmail.com
+username palytos99@gmail.com
+username pasquale.maggio-dfgt
+username ulissegolem95@gmail.com
+verificationCode 91273886
+verify_code 156205
+vin-search-defaultWithoutContainer CY024MP
+your-email cristofaroarcangelo99@gmail.com
+your-name arcangelo
+zipCode 80020
+zipCode-input 80020
+zone NA
