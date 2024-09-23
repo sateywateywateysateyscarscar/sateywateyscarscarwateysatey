@@ -1,0 +1,29 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*  Telegram: https://t.me/redline_market_bot  *
+***********************************************
+
+1) 3uTools(32bit) [3.07.016]
+2) Adobe Refresh Manager [1.8.0]
+3) Epic Games Launcher [1.3.93.0]
+4) Epic Online Services [2.0.44.0]
+5) IObit Unlocker [1.3.0.11]
+6) Launcher Prerequisites (x64) [1.0.0.0]
+7) McAfee Security Scan Plus [4.1.583.1]
+8) Microsoft Edge [126.0.2592.102]
+9) Microsoft Edge Update [1.3.193.5]
+10) Microsoft Edge WebView2 Runtime [126.0.2592.102]
+11) Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.29.30153 [14.29.30153.0]
+12) Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.34.31938 [14.34.31938.0]
+13) Microsoft Visual C++ 2019 X86 Additional Runtime - 14.29.30153 [14.29.30153]
+14) Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.29.30153 [14.29.30153]
+15) Microsoft Windows Desktop Runtime - 6.0.32 (x64) [6.0.32.33814]
+16) NVIDIA Stereoscopic 3D Driver [7.17.12.6514]
+17) OBS Studio [30.0.2]
+18) Wise Force Deleter [1.5.6]

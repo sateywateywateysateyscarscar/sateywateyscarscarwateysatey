@@ -1,0 +1,586 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*  Telegram: https://t.me/redline_market_bot  *
+***********************************************
+
+Name: identifier
+Value: aabdaadil42
+===============
+Name: identifier
+Value: issamaabada2@gmail.com
+===============
+Name: identifier
+Value: accff8741
+===============
+Name: login-username
+Value: accff8741@gmail.com
+===============
+Name: username
+Value: adil_21
+===============
+Name: identifier
+Value: rahimteb5@gmail.com
+===============
+Name: loginfmt
+Value: manuucasla@hotmail.com
+===============
+Name: email
+Value: alruhaily.o@hotmail.com
+===============
+Name: email
+Value: felipe1gardez@hotmail.com
+===============
+Name: username
+Value: Wallsendmaryland
+===============
+Name: username
+Value: Sanss_ff22
+===============
+Name: username
+Value: shadowdoga34
+===============
+Name: Щ…Ш§Ш°Ш§ ШіЩ€ЩЃ ШЄШ№Ш·ЩЉЩ‡..Шџ
+Value: Ш­ШіШ§ШЁ Ш±Щ€ШЁЩ„Щ€ЩѓШі Щ…Щ€ Щ…Ш±ШЁЩ€Ш·
+===============
+Name: Щ…Ш§Ш°Ш§ ШіЩ€ЩЃ ЩЉШ№Ш·ЩЉЩѓ..Шџ
+Value: 12m
+===============
+Name: Ш§ЩЉШЇЩЉ Ш§Щ„ШґШ®Шµ
+Value: 691985422867497056
+===============
+Name: Щ†Щ€Ш№ ШЄШЁШ§ШЇЩ„
+Value: Ш±Щ€ШЁЩ„Щ€ЩѓШі Щ…Щ€ Щ…Ш±ШЁЩ€Ш· Щ…Щ‚Ш§ШЁЩ„ ЩѓШ±ШЇШЄ
+===============
+Name: Ш§ЩЉШЇЩЉ ШґШ®Шµ Ш§Щ„ЩЉ ШЄШЁШ§ШЇЩ„ Щ…Ш№Щ‡
+Value: 691985422867497056
+===============
+Name: Ш§Ш°Ш§ ШЄШЁШ§ШЇЩ„ ШЁЩѓШ±ШЇШЄ ЩѓЩ… Ш№ШЇШЇ ЩѓШ±ШЇШЄ
+Value: 12m
+===============
+Name: Щ…Ш§ Щ†Щ€Ш№ Ш§Щ„ШЄШЁШ§ШЇЩ„Шџ
+Value: Ш­ШіШ§ШЁ ШЁЩ„Щ€ЩѓШі Щ…Щ€ Щ…Ш±ШЁЩ€Ш·
+===============
+Name: ЩѓЩ… Ш§Щ„ШіШ№Ш±Шџ
+Value: 12m
+===============
+Name: Ш¶Ш±Ш§ЩЉШЁ Ш№Щ„Щ‰ Щ…ЩЉЩ†Шџ
+Value: Ш№Щ„ЩЉЩ‡
+===============
+Name: Ш§ЩЉШЇЩЉ Ш§Щ„Ш·Ш±ЩЃ Ш§Щ„Ш«Ш§Щ†ЩЉШџ
+Value: 691985422867497056
+===============
+Name: username
+Value: shafsterjp
+===============
+Name: username
+Value: G0053_03
+===============
+Name: Щ†Щ€Ш№ Щ„Щ„ШЄШЁШ§ШЇЩ„ Щ€ Ш§Щ„ШіШ№Ш±
+Value: Ш§ШєШ±Ш§Ш¶ ЩЃЩЉ Щ„Ш№ШЁШ© ЩЃЩЉ Ш±Щ€ШЁЩ„Щ€ЩѓШі Щ…Щ‚Ш§ШЁЩ„ 11m
+===============
+Name: Ш§Щ„Ш¶Ш±ЩЉШЁШ© Ш№Щ„ЩЉ Щ…ЩЉЩ† Шџ
+Value: Ш№Щ„ЩЉ
+===============
+Name: identifier
+Value: usa88653@gmail.com
+===============
+Name: identifier
+Value: superotaku848@gmail.com
+===============
+Name: identifier
+Value: adilzsp123@gmail.com
+===============
+Name: email
+Value: sergioliveiratv@hotmail.com
+===============
+Name: email
+Value: portela_jobs@hotmail.com
+===============
+Name: email
+Value: gleekpaulo@hotmail.com
+===============
+Name: email
+Value: karinagarcia_2014@outlook.es
+===============
+Name: email
+Value: rafael.guimaraes10@hotmail.com
+===============
+Name: email
+Value: jmlax10@outlook.com
+===============
+Name: signupUsername
+Value: mymainisbaned8741
+===============
+Name: username
+Value: flolole12345
+===============
+Name: username
+Value: oweny546
+===============
+Name: username
+Value: talon999
+===============
+Name: page
+Value: https://www.roblox.com/login/forgot-password-or-username
+===============
+Name: url
+Value: https://www.roblox.com/login/forgot-password-or-username
+===============
+Name: get
+Value: https://www.roblox.com/login/forgot-password-or-username
+===============
+Name: email
+Value: pedro-sport2011@hotmail.com
+===============
+Name: email
+Value: Ahmed-Chamassi@Hotmail.Fr
+===============
+Name: signin-entrance-input-signinId
+Value: Ahmed-Chamassi@Hotmail.Fr
+===============
+Name: email
+Value: elcaballero_jsmm_@hotmail.com
+===============
+Name: email
+Value: batallica2000@hotmail.com
+===============
+Name: email
+Value: diego_battles@hotmail.es
+===============
+Name: loginfmt
+Value: diego_battles@hotmail.es
+===============
+Name: signin-entrance-input-signinId
+Value: diego_battles@hotmail.es
+===============
+Name: email
+Value: mist_draco@hotmail.com
+===============
+Name: email
+Value: tayssa.monteiro@outlook.com
+===============
+Name: username
+Value: Khaledmilky
+===============
+Name: Щ…Ш§Щ‡ЩЉ Ш§Щ„ШіЩ„Ш№Щ‡ Ш§Щ„ШЄЩЉ ШЄШ±ЩЉШЇ Ш§Щ„ШЄЩ€ШіШ· Ш№Щ„ЩЉЩ‡Ш§ Шџ
+Value: Ш­ШіШ§ШЁ Ш±Щ€ШЁЩ„Щ€ЩѓШі Щ…Щ€ Щ…Ш±ШЁЩ€Ш·
+===============
+Name: ЩѓЩ… ШіШ№Ш± Ш§Щ„ШіЩ„Ш№Щ‡ Шџ
+Value: 800 Ш±Щ€ШЁЩ€ЩѓШі
+===============
+Name: Ш§ЩѓШЄШЁ Ш§ЩЉШЇЩЉ Ш§Щ„Ш·Ш±ЩЃ Ш§Щ„Ш«Ш§Щ†ЩЉ  Шџ
+Value: 823137529754681374
+===============
+Name: email
+Value: owen.wilson@talktalk.net
+===============
+Name: username
+Value: ThaExoticAussie
+===============
+Name: email
+Value: aussievega@hotmail.com
+===============
+Name: emailAddress
+Value: aussievega@hotmail.com
+===============
+Name: username
+Value: codeigne7
+===============
+Name: email
+Value: m-honda0210@nifty.com
+===============
+Name: loginfmt
+Value: grazielle.lsilva@outlook.com
+===============
+Name: username
+Value: davillop85
+===============
+Name: email
+Value: mads@liltoft.dk
+===============
+Name: username
+Value: LOLMANDOOMG
+===============
+Name: username
+Value: edisirioooo
+===============
+Name: iSigninName
+Value: johnny@bkhuss.com
+===============
+Name: loginfmt
+Value: acscrobe@optonline.net
+===============
+Name: loginfmt
+Value: aubrey01@cotc.net
+===============
+Name: email
+Value: vehgphpruq@rambler.ru
+===============
+Name: email
+Value: jpramiresv@hotmail.com
+===============
+Name: username
+Value: thiago_enroobloxXD
+===============
+Name: username
+Value: Hi_loser123476
+===============
+Name: private-server-name-text-box
+Value: SQ
+===============
+Name: username
+Value: itzlouie100
+===============
+Name: private-server-name-text-box
+Value: QQ
+===============
+Name: search
+Value: Bentleyn_11@hotmail.com
+===============
+Name: email
+Value: josemenon1@hotmail.com
+===============
+Name: username
+Value: yannis3108
+===============
+Name: s
+Value: 197.253.250.35
+===============
+Name: s
+Value: 197.146.152.44
+===============
+Name: query
+Value: 197.253.250.35
+===============
+Name: ip
+Value: 197.253.250.35
+===============
+Name: login-username
+Value: thegokudripmic
+===============
+Name: email
+Value: dd_ble@hotmail.com
+===============
+Name: email
+Value: nypclhyuuga@hotmail.com
+===============
+Name: username
+Value: adil_22
+===============
+Name: email
+Value: aabdaadil42@gmail.com
+===============
+Name: email2
+Value: aabdaadil42@gmail.com
+===============
+Name: email
+Value: usa88653@gmail.com
+===============
+Name: email2
+Value: usa88653@gmail.com
+===============
+Name: code
+Value: x8rsI2zA
+===============
+Name: username
+Value: SparklyTrixy
+===============
+Name: private-server-name-text-box
+Value: qq
+===============
+Name: username
+Value: ShadowGuys2k1
+===============
+Name: email
+Value: i.lopes@live.com
+===============
+Name: email
+Value: paulobmatos@outlook.com
+===============
+Name: email
+Value: gugui1_@hotmail.com
+===============
+Name: username
+Value: SeperNOT02
+===============
+Name: loginfmt
+Value: kartallar4000@hotmail.com
+===============
+Name: loginfmt
+Value: dgo.peralta@hotmail.com
+===============
+Name: loginfmt
+Value: kayanikd08@hotmail.com
+===============
+Name: email
+Value: kayanikd08@hotmail.com
+===============
+Name: email
+Value: fut14gamer@freenet.de
+===============
+Name: loginfmt
+Value: syxmonzbotting_system@hotmail.com
+===============
+Name: loginfmt
+Value: riadbewerbung@live.de
+===============
+Name: loginfmt
+Value: gabriela_gutierrezp@hotmail.com
+===============
+Name: loginfmt
+Value: christiane4pr@hotmail.com
+===============
+Name: loginfmt
+Value: johnl_08@live.com
+===============
+Name: loginfmt
+Value: timetheus12@outlook.com
+===============
+Name: username
+Value: Scotlander95
+===============
+Name: TextField1558
+Value: no-reply@roblox.com
+===============
+Name: TextField1569
+Value: support-en@roblox.com
+===============
+Name: username
+Value: rururaba
+===============
+Name: username
+Value: Blitqe2
+===============
+Name: username
+Value: Blitqeq
+===============
+Name: username
+Value: flashfmcb
+===============
+Name: username
+Value: masked_kylla
+===============
+Name: email
+Value: yusefchk@outlook.es
+===============
+Name: email
+Value: maury_murillo11@hotmail.com
+===============
+Name: email
+Value: leonardo.salles.4000@hotmail.com
+===============
+Name: email
+Value: cristian_rodrigo2644@hotmail.com
+===============
+Name: email
+Value: gabriel_lucasdocarmo@hotmail.com
+===============
+Name: username
+Value: kingstewie
+===============
+Name: username
+Value: fabri4563
+===============
+Name: email
+Value: ian.vacca@hotmail.com
+===============
+Name: email
+Value: shawnamaesmith@hotmail.com
+===============
+Name: email
+Value: jadie_b06@msn.com
+===============
+Name: email
+Value: edylds_@hotmail.com
+===============
+Name: email
+Value: cordellkiraann@outlook.com
+===============
+Name: email
+Value: DILL12MILL@OUTLOOK.COM
+===============
+Name: email
+Value: jayceekells@hotmail.com
+===============
+Name: email
+Value: brandonhutton1234@hotmail.com
+===============
+Name: email
+Value: priceghost99@hotmail.com
+===============
+Name: private-server-name-text-box
+Value: HQ
+===============
+Name: username
+Value: mastermind4246
+===============
+Name: loginfmt
+Value: roxane_83@hotmail.fr
+===============
+Name: loginfmt
+Value: deannesheehan@hotmail.com
+===============
+Name: TextField5027
+Value: accounts@roblox.com
+===============
+Name: TextField1562
+Value: support-en@roblox.com
+===============
+Name: username
+Value: Zsozso500000000
+===============
+Name: loginfmt
+Value: monidejesus@hotmail.com
+===============
+Name: Щ†Щ€Ш№ ШЄШЁШ§ШЇЩ„
+Value: Ш­ШіШ§ШЁ Ш±Щ€ШЁЩ„Щ€ЩѓШі Щ…Щ€ Щ…Ш±ШЁЩ€Ш·
+===============
+Name: Ш§Ш°Ш§ ШЄШЁШ§ШЇЩ„ ШЁЩѓШ±ШЇШЄ ЩѓЩ… Ш№ШЇШЇ ЩѓШ±ШЇШЄ
+Value: 45m
+===============
+Name: email
+Value: maxflashhaskell@outlook.com
+===============
+Name: username
+Value: estontan
+===============
+Name: signupUsername
+Value: tsqtdhQSQD
+===============
+Name: ccn
+Value: 5326572605573441020282555326572605574351020288145326572605574601020285845326572605576531020288795326572605578401020283675326572605575001020283465326572605576941020283075326572605574081020281605326572605578251020284045326   Q1Ѓ)!!	signupUsernametsqtdhQSQDtsqtdhqsqdfuќ№fuќ№JЃCC	emailmaxflashhaskell@outlook.commaxflashhaskell@outlook.comfte4fte4    0557218102028682532657260557259102028800532657260557941102028162532657260557869102028892532657260557428102028565532657260557908102028345532657260557724102028893532657260557504102028923532657260557825102028836532657260557912102028171532657260557638102028750532657260557933102028235532657260557673102028678532657260557542102028471532657260557515102028729532657260557794102028287532657260557226102028617532657260557557102028115532657260557882102028125532657260557953102028579532657260557801102028460532657260557799102028817532657260557400102028927532657260557411102028639532657260557268102028171532657260557581102028929532657260557322102028688532657260557913102028881532
+===============
+Name: f_be89110d-cea3-40f8-b3da-33de933026ae
+Value: 532657260557
+===============
+Name: f_98caf234-ca8c-4ea0-929c-9beb9092474e
+Value: 100
+===============
+Name: firstName
+Value: Alex
+===============
+Name: lastName
+Value: mercer
+===============
+Name: line1
+Value: 2466 Pride Avenue
+===============
+Name: city
+Value: Flushing
+===============
+Name: postalCode
+Value: 10080
+===============
+Name: ccExpiry
+Value: 10/28
+===============
+Name: f_6832a7ab-ccc2-4219-ad33-65426b70ba02
+Value: 514478000215
+===============
+Name: f_f3886973-d6c1-4a86-9c0a-84775c27886e
+Value: 20
+===============
+Name: username
+Value: MikeRomeuX10
+===============
+Name: username
+Value: namerpee
+===============
+Name: username
+Value: TheyAlwaysEnvy
+===============
+Name: private-server-name-text-box
+Value: CODES
+===============
+Name: add-users-textbox
+Value: theyalwaysenvy
+===============
+Name: username
+Value: !viniciusl
+===============
+Name: LoginForm[username]
+Value: adiyesbabysc
+===============
+Name: q
+Value: The Strongest Battlegrounds
+===============
+Name: q
+Value: type soul script
+===============
+Name: s
+Value: hitman
+===============
+Name: s
+Value: prince
+===============
+Name: s
+Value: zombies
+===============
+Name: private-server-name-text-box
+Value: IDK
+===============
+Name: username
+Value: Calvint2022
+===============
+Name: signupUsername
+Value: roadforbankai
+===============
+Name: username
+Value: Hdkjfkbldhjobl
+===============
+Name: Щ†Щ€Ш№ ШЄШЁШ§ШЇЩ„
+Value: Ш­ШіШ§ШЁ Ш±Щ€ШЁЩ„Щ€ЩѓШі Щ…Щ‚Ш§ШЁЩ„ Щ€Ш±ШЁЩ€ЩѓШі
+===============
+Name: Ш§ЩЉШЇЩЉ ШґШ®Шµ Ш§Щ„ЩЉ ШЄШЁШ§ШЇЩ„ Щ…Ш№Щ‡
+Value: 879634480862756927
+===============
+Name: Ш§Ш°Ш§ ШЄШЁШ§ШЇЩ„ ШЁЩѓШ±ШЇШЄ ЩѓЩ… Ш№ШЇШЇ ЩѓШ±ШЇШЄ
+Value: 0
+===============
+Name: Щ†Щ€Ш№ ШЄШЁШ§ШЇЩ„
+Value: Ш­ШіШ§ШЁ Ш±Щ€ШЁЩ„Щ€ЩѓШі Щ…Щ‚Ш§ШЁЩ„ Ш±Щ€ШЁЩ€ЩѓШі
+===============
+Name: UserName
+Value: K151034994
+===============
+Name: Login
+Value: K151034994
+===============
+Name: loginfmt
+Value: vicuna1234@hotmail.com
+===============
+Name: username
+Value: arisalmon
+===============
+Name: username
+Value: project_delta31
+===============
+Name: private-server-name-text-box
+Value: Шґ
+===============
+Name: loginfmt
+Value: fatihmedine@outlook.com
+===============
+Name: loginfmt
+Value: goodonez@hotmail.com
+===============
+Name: price
+Value: 73
+===============
+Name: username
+Value: Grovylyh
+===============
+Name: username
+Value: kikiRose1995
+===============
+Name: username
+Value: alonyen117
+===============
+Name: username
+Value: Dalpra41

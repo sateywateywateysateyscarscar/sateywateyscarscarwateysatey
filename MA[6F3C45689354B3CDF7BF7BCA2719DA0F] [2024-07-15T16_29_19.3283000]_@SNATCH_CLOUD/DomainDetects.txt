@@ -1,0 +1,4 @@
+PDD: NOT FOUND
+
+CDD: 
+[PayPal] paypal.com (11), [Amazon] amazon.com (7), [GPay] pay.google.com (1), [GAMES] store.steampowered.com (3), [GAMES] epicgames.com (14)

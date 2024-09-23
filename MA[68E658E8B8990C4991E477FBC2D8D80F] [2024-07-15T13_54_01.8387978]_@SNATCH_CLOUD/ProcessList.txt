@@ -1,0 +1,208 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*  Telegram: https://t.me/redline_market_bot  *
+***********************************************
+
+ID: 744, Name: csrss.exe, CommandLine: 
+===============
+ID: 824, Name: winlogon.exe, CommandLine: 
+===============
+ID: 512, Name: fontdrvhost.exe, CommandLine: 
+===============
+ID: 1372, Name: dwm.exe, CommandLine: 
+===============
+ID: 1852, Name: nvxdsync.exe, CommandLine: 
+===============
+ID: 1864, Name: nvvsvc.exe, CommandLine: 
+===============
+ID: 2852, Name: nvwmi64.exe, CommandLine: 
+===============
+ID: 5444, Name: sihost.exe, CommandLine: sihost.exe
+===============
+ID: 5480, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 5472, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 5572, Name: taskhostw.exe, CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 5632, Name: McUpdaterModule.exe, CommandLine: 
+===============
+ID: 2096, Name: ctfmon.exe, CommandLine: 
+===============
+ID: 600, Name: explorer.exe, CommandLine: C:\Windows\Explorer.EXE
+===============
+ID: 3656, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 5032, Name: StartMenuExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 4560, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6324, Name: SearchApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+===============
+ID: 6456, Name: TextInputHost.exe, CommandLine: "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca
+===============
+ID: 6464, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6848, Name: ShellExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 6956, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7500, Name: dllhost.exe, CommandLine: C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 7956, Name: SecurityHealthSystray.exe, CommandLine: "C:\Windows\System32\SecurityHealthSystray.exe" 
+===============
+ID: 1808, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start
+===============
+ID: 7760, Name: OneDrive.exe, CommandLine: "C:\Users\mouau\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+===============
+ID: 7788, Name: EpicGamesLauncher.exe, CommandLine: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe" -silent -launchcontext=boot
+===============
+ID: 8044, Name: BlueStacksServices.exe, CommandLine: "C:\Users\mouau\AppData\Local\Programs\bluestacks-services\BlueStacksServices.exe" --hidden
+===============
+ID: 7208, Name: browser_assistant.exe, CommandLine: "C:\Users\mouau\AppData\Local\Programs\Opera GX\assistant\browser_assistant.exe" 
+===============
+ID: 7288, Name: SSScheduler.exe, CommandLine: "C:\Program Files (x86)\McAfee Security Scan\4.1.583\SSScheduler.exe" 
+===============
+ID: 6548, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=crashpad-handler "--user-data-dir=C:\Users\mouau\AppData\Local\Microsoft\Edge\User Data" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\mouau\AppData\Local\Microsoft\Edge\User Data\Crashpad" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=126.0.6478.127 "--annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --annotation=plat=Win64 "--annotation=prod=Microsoft Edge" --annotation=ver=126.0.2592.102 --initial-client-data=0x268,0x26c,0x270,0x264,0x278,0x7fffc3fb0148,0x7fffc3fb0154,0x7fffc3fb0160
+===============
+ID: 7892, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=gpu-process --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=2304,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=2300 /prefetch:2
+===============
+ID: 1060, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --field-trial-handle=2432,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=2608 /prefetch:3
+===============
+ID: 5128, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --field-trial-handle=2760,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=2772 /prefetch:8
+===============
+ID: 7820, Name: browser_assistant.exe, CommandLine: "C:\Users\mouau\AppData\Local\Programs\Opera GX\assistant\browser_assistant.exe" --type=crashpad-handler /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\mouau\AppData\Roaming\Opera Software\Opera GX Stable\Crash Reports" "--crash-count-file=C:\Users\mouau\AppData\Roaming\Opera Software\Opera GX Stable\crash_count.txt" --url=https://crashstats-collector.opera.com/collector/submit --annotation=channel=Stable --annotation=plat=Win32 --annotation=prod=OperaDesktopGX --annotation=ver=73.0.3856.382 --initial-client-data=0x2a4,0x2a8,0x2ac,0x280,0x2b0,0x4257a0,0x4257b0,0x4257bc
+===============
+ID: 8260, Name: unsecapp.exe, CommandLine: C:\Windows\system32\wbem\unsecapp.exe -Embedding
+===============
+ID: 8468, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=12 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=204811085 --field-trial-handle=5820,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=5708 /prefetch:1
+===============
+ID: 10204, Name: Discord.exe, CommandLine: "C:\Users\mouau\AppData\Local\Discord\app-1.0.9153\Discord.exe" 
+===============
+ID: 9592, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 9668, Name: EpicWebHelper.exe, CommandLine: "C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe" --type=gpu-process --field-trial-handle=2028,889282576929265109,18025815327382444700,131072 --disable-features=CalculateNativeWinOcclusion --no-sandbox --locales-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales" --log-file=C:/Users/mouau/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --log-severity=warning --resources-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources" --user-agent-product="EpicGamesLauncher/16.7.1-34305288+++Portal+Release-Live UnrealEngine/4.27.0-34305288+++Portal+Release-Live Chrome/90.0.4430.212" --lang=en --gpu-preferences=SAAAAAAAAADgACAwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAAIAAAAAAAAAAgAAAAAAAAA --log-file=C:/Users/mouau/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --mojo-platform-channel-handle=2232 /prefetch:2
+===============
+ID: 9500, Name: PhoneExperienceHost.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.YourPhone_1.24061.93.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe" -ComServer:Background -Embedding
+===============
+ID: 6748, Name: BlueStacksServices.exe, CommandLine: "C:\Users\mouau\AppData\Local\Programs\bluestacks-services\BlueStacksServices.exe" --type=gpu-process --user-data-dir="C:\Users\mouau\AppData\Roaming\bluestacks-services" --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=1748 --field-trial-handle=1696,i,2069333574640153730,2290407306693614107,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:2
+===============
+ID: 2740, Name: BlueStacksServices.exe, CommandLine: "C:\Users\mouau\AppData\Local\Programs\bluestacks-services\BlueStacksServices.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir="C:\Users\mouau\AppData\Roaming\bluestacks-services" --mojo-platform-channel-handle=2012 --field-trial-handle=1696,i,2069333574640153730,2290407306693614107,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:8
+===============
+ID: 9260, Name: BlueStacksServices.exe, CommandLine: "C:\Users\mouau\AppData\Local\Programs\bluestacks-services\BlueStacksServices.exe" --type=renderer --user-data-dir="C:\Users\mouau\AppData\Roaming\bluestacks-services" --app-user-model-id=com.bluestacks.services --app-path="C:\Users\mouau\AppData\Local\Programs\bluestacks-services\resources\app.asar" --enable-sandbox --first-renderer-process --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1721073641109743 --launch-time-ticks=278068881 --mojo-platform-channel-handle=2664 --field-trial-handle=1696,i,2069333574640153730,2290407306693614107,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:1
+===============
+ID: 7180, Name: Discord.exe, CommandLine: C:\Users\mouau\AppData\Local\Discord\app-1.0.9153\Discord.exe --type=crashpad-handler --user-data-dir=C:\Users\mouau\AppData\Roaming\discord /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\mouau\AppData\Roaming\discord\Crashpad --url=https://f.a.k/e --annotation=_productName=discord --annotation=_version=1.0.9153 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=30.1.0 --initial-client-data=0x51c,0x520,0x524,0x518,0x404,0x7ff787d59218,0x7ff787d59224,0x7ff787d59230
+===============
+ID: 2752, Name: Discord.exe, CommandLine: "C:\Users\mouau\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=gpu-process --user-data-dir="C:\Users\mouau\AppData\Roaming\discord" --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=1900,i,12102817677863381843,15474441278060470418,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=1892 /prefetch:2
+===============
+ID: 2440, Name: Discord.exe, CommandLine: "C:\Users\mouau\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir="C:\Users\mouau\AppData\Roaming\discord" --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --field-trial-handle=2132,i,12102817677863381843,15474441278060470418,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=1928 /prefetch:3
+===============
+ID: 4508, Name: EpicWebHelper.exe, CommandLine: "C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=2028,889282576929265109,18025815327382444700,131072 --disable-features=CalculateNativeWinOcclusion --lang=en-US --service-sandbox-type=none --no-sandbox --locales-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales" --log-file=C:/Users/mouau/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --log-severity=warning --resources-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources" --user-agent-product="EpicGamesLauncher/16.7.1-34305288+++Portal+Release-Live UnrealEngine/4.27.0-34305288+++Portal+Release-Live Chrome/90.0.4430.212" --lang=en --log-file=C:/Users/mouau/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --mojo-platform-channel-handle=2988 /prefetch:8
+===============
+ID: 2252, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=18 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=323121447 --field-trial-handle=5924,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=4848 /prefetch:1
+===============
+ID: 8856, Name: taskhostw.exe, CommandLine: taskhostw.exe
+===============
+ID: 11312, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=edge_search_indexer.mojom.SearchIndexerInterfaceBroker --lang=en-US --service-sandbox-type=search_indexer --message-loop-type-ui --field-trial-handle=7012,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=6912 /prefetch:8
+===============
+ID: 11808, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --field-trial-handle=6928,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=7164 /prefetch:8
+===============
+ID: 11900, Name: Discord.exe, CommandLine: "C:\Users\mouau\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=renderer --user-data-dir="C:\Users\mouau\AppData\Roaming\discord" --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --app-user-model-id=com.squirrel.Discord.Discord --app-path="C:\Users\mouau\AppData\Local\Discord\app-1.0.9153\resources\app.asar" --no-sandbox --no-zygote --autoplay-policy=no-user-gesture-required --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1721073641117241 --launch-time-ticks=375198425 --field-trial-handle=3916,i,12102817677863381843,15474441278060470418,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=3912 --enable-node-leakage-in-renderers /prefetch:1
+===============
+ID: 11480, Name: Discord.exe, CommandLine: "C:\Users\mouau\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --user-data-dir="C:\Users\mouau\AppData\Roaming\discord" --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --field-trial-handle=3940,i,12102817677863381843,15474441278060470418,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=3740 /prefetch:8
+===============
+ID: 4056, Name: WhatsApp.exe, CommandLine: "C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2424.6.0_x64__cv1g1gvanyjgm\WhatsApp.exe" -ServerName:App.AppXkf4yh0averk473g9chjmra34tgccdh3d.mca
+===============
+ID: 10644, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7960, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=35 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=462904709 --field-trial-handle=7840,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=7584 /prefetch:1
+===============
+ID: 14236, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=43 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=468594414 --field-trial-handle=8452,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=5436 /prefetch:1
+===============
+ID: 3444, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=48 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=469941991 --field-trial-handle=4756,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=4576 /prefetch:1
+===============
+ID: 11132, Name: SearchApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:ShellFeedsUI.AppX88fpyyrd21w8wqe62wzsjh5agex7tf1e.mca
+===============
+ID: 12064, Name: UserOOBEBroker.exe, CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 14140, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8784, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=103 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=1500238224 --field-trial-handle=12580,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=8084 /prefetch:1
+===============
+ID: 10684, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=105 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=1500561397 --field-trial-handle=8492,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=4428 /prefetch:1
+===============
+ID: 13280, Name: RobloxPlayerBeta.exe, CommandLine: "C:\Users\mouau\AppData\Local\Roblox\Versions\version-3243b6d003cf4642\RobloxPlayerBeta.exe" 
+===============
+ID: 8396, Name: RobloxCrashHandler.exe, CommandLine: C:\Users\mouau\AppData\Local\Roblox\Versions\version-3243b6d003cf4642\\RobloxCrashHandler.exe --no-rate-limit --crashCounter Win-ROBLOXPlayer-Crash --baseUrl http://www.roblox.com/ --attachment=attachment_0.633.1.6330512_20240715T202643Z_Player_61989_last.log=C:\Users\mouau\AppData\Local\Roblox\logs\0.633.1.6330512_20240715T202643Z_Player_61989_last.log --database=C:\Users\mouau\AppData\Local\Roblox\logs\crashes --metrics-dir=C:\Users\mouau\AppData\Local\Roblox\logs\crashes --url=https://upload.crashes.rbxinfra.com/post?format=minidump --annotation=AppVersion=0.633.1.6330512 --annotation=BaseUrl=http://www.roblox.com/ "--annotation=CPUMake=Intel(R) Xeon(R) CPU           W3520  @ 2.67GHz" --annotation=Format=minidump --annotation=OSPlatform=Win32 "--annotation=OSVersion=Windows 10 - PlatformId 2, Version 10.0, Build 19045" --annotation=PlatformId=2 --annotation=RobloxChannel=production --annotation=RobloxGitHash=a5e1d39aa3778ca34a20893ef2072782b0d0f56d --annotation=RobloxProduct=RobloxPlayer --annotation=TotalMemory=12867305472 --annotation=UniqueId=8181794222167361916 --annotation=UploadAttachmentKiloByteLimit=1000 --annotation=UseCrashpad=True --initial-client-data=0x7a8,0x6f0,0x5ac,0x7ac,0x894,0x7ff7a12e3b88,0x7ff7a12e3ba0,0x7ff7a12e3bb8
+===============
+ID: 8728, Name: Video.UI.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe\Video.UI.exe" -ServerName:Microsoft.ZuneVideo.AppX758ya5sqdjd98rx6z7g95nw6jy7bqx9y.mca
+===============
+ID: 12212, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7496, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=108 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=2917208394 --field-trial-handle=11824,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=6248 /prefetch:1
+===============
+ID: 9688, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=109 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=2917358142 --field-trial-handle=9684,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=11232 /prefetch:1
+===============
+ID: 10220, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --instant-process --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=113 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=2975528852 --field-trial-handle=9228,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=9264 /prefetch:1
+===============
+ID: 12592, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=129 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3025031587 --field-trial-handle=8728,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=10484 /prefetch:1
+===============
+ID: 12928, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=131 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3028794312 --field-trial-handle=3460,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=8040 /prefetch:1
+===============
+ID: 4460, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=135 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3030508580 --field-trial-handle=7956,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=6976 /prefetch:1
+===============
+ID: 10660, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=136 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3030769760 --field-trial-handle=10176,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=9724 /prefetch:1
+===============
+ID: 9676, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=137 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3031731035 --field-trial-handle=10368,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=9052 /prefetch:1
+===============
+ID: 3112, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=139 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3032827828 --field-trial-handle=8864,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=4860 /prefetch:1
+===============
+ID: 12676, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=140 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3032850673 --field-trial-handle=11028,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=10404 /prefetch:1
+===============
+ID: 10336, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=141 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3032892377 --field-trial-handle=6300,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=12156 /prefetch:1
+===============
+ID: 11284, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=142 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3032913277 --field-trial-handle=10724,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=8036 /prefetch:1
+===============
+ID: 10928, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=144 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3033312945 --field-trial-handle=12416,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=3468 /prefetch:1
+===============
+ID: 13100, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=146 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3035040207 --field-trial-handle=5252,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=6324 /prefetch:1
+===============
+ID: 13888, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=147 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3036018433 --field-trial-handle=8716,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=8024 /prefetch:1
+===============
+ID: 5988, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=151 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3036418296 --field-trial-handle=12548,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=7960 /prefetch:1
+===============
+ID: 5656, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=152 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3036591988 --field-trial-handle=8644,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=12168 /prefetch:1
+===============
+ID: 9952, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=153 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3036650484 --field-trial-handle=10696,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=11840 /prefetch:1
+===============
+ID: 11700, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 10400, Name: ApplicationFrameHost.exe, CommandLine: C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 13692, Name: SecHealthUI.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy\SecHealthUI.exe" -ServerName:SecHealthUI.AppXep4x2tbtjws1v9qqs0rmb3hxykvkpqtn.mca
+===============
+ID: 6896, Name: SecurityHealthHost.exe, CommandLine: C:\Windows\System32\SecurityHealthHost.exe {E041C90B-68BA-42C9-991E-477B73A75C90} -Embedding
+===============
+ID: 8780, Name: smartscreen.exe, CommandLine: C:\Windows\System32\smartscreen.exe -Embedding
+===============
+ID: 10360, Name: SecurityHealthHost.exe, CommandLine: 
+===============
+ID: 13752, Name: msedge.exe, CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=160 --time-ticks-at-unix-epoch=-1721073641111537 --launch-time-ticks=3129760955 --field-trial-handle=11240,i,14052478575270093430,965997465540559802,262144 --variations-seed-version --mojo-platform-channel-handle=9400 /prefetch:1
+===============
+ID: 5004, Name: dllhost.exe, CommandLine: C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+===============
+ID: 7040, Name: FileCoAuth.exe, CommandLine: "C:\Users\mouau\AppData\Local\Microsoft\OneDrive\24.126.0623.0001\FileCoAuth.exe" -Embedding
+===============
+ID: 1536, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 13812, Name: conhost.exe, CommandLine: \??\C:\Windows\system32\conhost.exe 0x4
+===============
+ID: 12668, Name: MSBuild.exe, CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"
+===============
+ID: 14188, Name: WinRAR.exe, CommandLine: "C:\Program Files\WinRAR\WinRAR.exe" "C:\Users\mouau\OneDrive\Desktop\lnstаllerV2.0.rar"

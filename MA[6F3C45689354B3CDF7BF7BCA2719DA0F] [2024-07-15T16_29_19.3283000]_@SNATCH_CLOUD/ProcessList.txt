@@ -1,0 +1,130 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*  Telegram: https://t.me/redline_market_bot  *
+***********************************************
+
+ID: 828, Name: csrss.exe, CommandLine: 
+===============
+ID: 536, Name: winlogon.exe, CommandLine: 
+===============
+ID: 512, Name: fontdrvhost.exe, CommandLine: 
+===============
+ID: 1072, Name: dwm.exe, CommandLine: 
+===============
+ID: 2100, Name: NVDisplay.Container.exe, CommandLine: 
+===============
+ID: 3808, Name: sihost.exe, CommandLine: sihost.exe
+===============
+ID: 1684, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 3948, Name: taskhostw.exe, CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 3608, Name: ctfmon.exe, CommandLine: 
+===============
+ID: 4144, Name: explorer.exe, CommandLine: C:\Windows\Explorer.EXE
+===============
+ID: 4464, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p
+===============
+ID: 4628, Name: AsusTPLoader.exe, CommandLine: "C:\Program Files (x86)\ASUS\ASUS Smart Gesture\AsTPCenter\x64\AsusTPLoader.exe" 
+===============
+ID: 5004, Name: StartMenuExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 3160, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 5296, Name: igfxHK.exe, CommandLine: igfxHK.exe 
+===============
+ID: 5308, Name: igfxTray.exe, CommandLine: igfxTray.exe 
+===============
+ID: 5460, Name: TextInputHost.exe, CommandLine: "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe" -ServerName:InputApp.AppX9jnwykgrccxc8by3hsrsh07r423xzvav.mca
+===============
+ID: 5696, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 3468, Name: RAVBg64.exe, CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe" /AECBYLISTENTOSTATUS
+===============
+ID: 3216, Name: RAVBg64.exe, CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe" /FORPCEE4
+===============
+ID: 5252, Name: SearchApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+===============
+ID: 1068, Name: RAVCpl64.exe, CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe" -s
+===============
+ID: 5592, Name: Taskmgr.exe, CommandLine: 
+===============
+ID: 1648, Name: ShellExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 6800, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6748, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" 
+===============
+ID: 3860, Name: vivaldi.exe, CommandLine: C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe --type=crashpad-handler "--user-data-dir=C:\Users\Adil\AppData\Local\Vivaldi\User Data" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Adil\AppData\Local\Vivaldi\User Data\Crashpad" --url=https://crash.vivaldi.com/submit --annotation=plat=Win64 --annotation=prod=Vivaldi --annotation=ver=6.8.3381.46 --initial-client-data=0xe8,0xec,0xf0,0xc4,0xf4,0x7ffd2d9a6cd0,0x7ffd2d9a6cdc,0x7ffd2d9a6ce8
+===============
+ID: 2868, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=gpu-process --start-stack-profiler --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --running-vivaldi --field-trial-handle=1848,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=1896 /prefetch:2
+===============
+ID: 4796, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --running-vivaldi --service-sandbox-type=none --start-stack-profiler --field-trial-handle=2132,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=2128 /prefetch:3
+===============
+ID: 4856, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --running-vivaldi --service-sandbox-type=service --field-trial-handle=2272,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=532 /prefetch:8
+===============
+ID: 6944, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=renderer --extension-process --origin-trial-disabled-features=ElementCapture --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1721079878026701 --running-vivaldi --launch-time-ticks=484628794 --field-trial-handle=3760,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=3656 /prefetch:2
+===============
+ID: 72, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=renderer --extension-process --origin-trial-disabled-features=ElementCapture --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1721079878026701 --running-vivaldi --launch-time-ticks=494162604 --field-trial-handle=4900,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=4436 /prefetch:2
+===============
+ID: 3200, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=renderer --extension-process --origin-trial-disabled-features=ElementCapture --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1721079878026701 --running-vivaldi --launch-time-ticks=495607271 --field-trial-handle=5340,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=5348 /prefetch:2
+===============
+ID: 5804, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=renderer --extension-process --origin-trial-disabled-features=ElementCapture --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1721079878026701 --running-vivaldi --launch-time-ticks=495645480 --field-trial-handle=5696,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=5700 /prefetch:2
+===============
+ID: 5916, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --running-vivaldi --service-sandbox-type=audio --field-trial-handle=8464,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=8168 /prefetch:8
+===============
+ID: 7632, Name: CompPkgSrv.exe, CommandLine: C:\Windows\System32\CompPkgSrv.exe -Embedding
+===============
+ID: 8160, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=23 --time-ticks-at-unix-epoch=-1721079878026701 --running-vivaldi --launch-time-ticks=553404818 --field-trial-handle=5308,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=8796 /prefetch:1
+===============
+ID: 8128, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=31 --time-ticks-at-unix-epoch=-1721079878026701 --running-vivaldi --launch-time-ticks=685139899 --field-trial-handle=4692,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=5300 /prefetch:1
+===============
+ID: 4844, Name: UserOOBEBroker.exe, CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 3856, Name: IDMan.exe, CommandLine: "C:\Program Files (x86)\Internet Download Manager\IDMan.exe" -Embedding
+===============
+ID: 4660, Name: dllhost.exe, CommandLine: "C:\Windows\SysWOW64\DllHost.exe" /Processid:{776DBC8D-7347-478C-8D71-791E12EF49D8}
+===============
+ID: 5348, Name: Bluestacks.exe, CommandLine: 
+===============
+ID: 4404, Name: HD-Player.exe, CommandLine: 
+===============
+ID: 7700, Name: BstkSVC.exe, CommandLine: 
+===============
+ID: 3472, Name: HD-Agent.exe, CommandLine: 
+===============
+ID: 2792, Name: Bluestacks.exe, CommandLine: 
+===============
+ID: 2608, Name: HD-Adb.exe, CommandLine: 
+===============
+ID: 6224, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=utility --utility-sub-type=proxy_resolver.mojom.ProxyResolverFactory --lang=en-US --running-vivaldi --service-sandbox-type=service --field-trial-handle=4948,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=1476 /prefetch:8
+===============
+ID: 8828, Name: Video.UI.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe\Video.UI.exe" -ServerName:Microsoft.ZuneVideo.AppX758ya5sqdjd98rx6z7g95nw6jy7bqx9y.mca
+===============
+ID: 8880, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 9160, Name: taskhostw.exe, CommandLine: 
+===============
+ID: 1752, Name: JASON.exe, CommandLine: 
+===============
+ID: 8260, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8392, Name: JASON.exe, CommandLine: 
+===============
+ID: 4600, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=renderer --extension-process --origin-trial-disabled-features=ElementCapture --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=80 --time-ticks-at-unix-epoch=-1721079878026701 --running-vivaldi --launch-time-ticks=5523655408 --field-trial-handle=4800,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=9672 /prefetch:2
+===============
+ID: 1516, Name: vivaldi.exe, CommandLine: "C:\Users\Adil\AppData\Local\Vivaldi\Application\vivaldi.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=83 --time-ticks-at-unix-epoch=-1721079878026701 --running-vivaldi --launch-time-ticks=5774831537 --field-trial-handle=6500,i,8942047996342175749,4523742843635304897,262144 --variations-seed-version --mojo-platform-channel-handle=3684 /prefetch:1
+===============
+ID: 8428, Name: smartscreen.exe, CommandLine: C:\Windows\System32\smartscreen.exe -Embedding
+===============
+ID: 2096, Name: WinRAR.exe, CommandLine: "C:\Program Files\WinRAR\WinRAR.exe" "C:\Users\Adil\Downloads\Compressed\bustowner.zip"
+===============
+ID: 1668, Name: conhost.exe, CommandLine: \??\C:\Windows\system32\conhost.exe 0x4
+===============
+ID: 8688, Name: MSBuild.exe, CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"

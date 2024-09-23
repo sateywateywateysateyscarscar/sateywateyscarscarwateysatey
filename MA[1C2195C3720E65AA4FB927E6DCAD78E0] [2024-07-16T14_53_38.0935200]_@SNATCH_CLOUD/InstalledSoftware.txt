@@ -1,0 +1,58 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*  Telegram: https://t.me/redline_market_bot  *
+***********************************************
+
+1) Adobe Flash Player 12 ActiveX [12.0.0.38]
+2) Adobe Flash Player 12 Plugin [12.0.0.43]
+3) Adobe Reader XI (11.0.17) - Franais [11.0.17]
+4) ASIO4ALL [2.15]
+5) Epic Games Launcher [1.3.93.0]
+6) Epic Online Services [2.0.44.0]
+7) FL Studio 21 [21.2.3.4004]
+8) Google Update Helper [1.3.35.441]
+9) Herramientas de correccin de Microsoft Office 2016: espaol [16.0.4266.1001]
+10) IMICE T93 Gaming Mouse [1.0.5]
+11) Intel(R) Processor Graphics [20.19.15.4531]
+12) K-Lite Mega Codec Pack 14.9.9 [14.9.9]
+13) LDPlayer [9.0.71]
+14) Microsoft Access MUI (French) 2016 [16.0.4266.1001]
+15) Microsoft DCF MUI (French) 2016 [16.0.4266.1001]
+16) Microsoft Edge [126.0.2592.102]
+17) Microsoft Edge Update [1.3.193.5]
+18) Microsoft Edge WebView2 Runtime [126.0.2592.102]
+19) Microsoft Excel MUI (French) 2016 [16.0.4266.1001]
+20) Microsoft Groove MUI (French) 2016 [16.0.4266.1001]
+21) Microsoft InfoPath MUI (French) 2016 [16.0.4266.1001]
+22) Microsoft Office Korrekturhilfen 2016  Deutsch [16.0.4266.1001]
+23) Microsoft Office OSM MUI (French) 2016 [16.0.4266.1001]
+24) Microsoft Office OSM UX MUI (French) 2016 [16.0.4266.1001]
+25) Microsoft Office Professional Plus 2016 [16.0.4266.1001]
+26) Microsoft Office Professionnel Plus2016 [16.0.4266.1001]
+27) Microsoft Office Proofing (French) 2016 [16.0.4266.1001]
+28) Microsoft Office Proofing Tools 2016 -   [16.0.4266.1001]
+29) Microsoft Office Proofing Tools 2016 - English [16.0.4266.1001]
+30) Microsoft Office Shared MUI (French) 2016 [16.0.4266.1001]
+31) Microsoft OneNote MUI (French) 2016 [16.0.4266.1001]
+32) Microsoft Outlook MUI (French) 2016 [16.0.4266.1001]
+33) Microsoft PowerPoint MUI (French) 2016 [16.0.4266.1001]
+34) Microsoft Publisher MUI (French) 2016 [16.0.4266.1001]
+35) Microsoft Skype for Business MUI (French) 2016 [16.0.4266.1001]
+36) Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.40.33810 [14.40.33810.0]
+37) Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.40.33810 [14.40.33810.0]
+38) Microsoft Visual C++ 2022 X86 Additional Runtime - 14.40.33810 [14.40.33810]
+39) Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.40.33810 [14.40.33810]
+40) Microsoft Word MUI (French) 2016 [16.0.4266.1001]
+41) OBS Studio [30.1.0]
+42) Outils de vrification linguistique 2016 de Microsoft Office- Franais [16.0.4266.1001]
+43) Realtek High Definition Audio Driver [6.0.1.8224]
+44) Steam [2.10.91.91]
+45) Taalprogramma's voor Microsoft Office 2016 - Nederlands [16.0.4266.1001]
+46) VLC media player 1.1.4 [1.1.4]
+47) WebAdvisor par McAfee [4.1.1.914]
