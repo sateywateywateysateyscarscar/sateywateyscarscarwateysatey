@@ -1,0 +1,29 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: username
+Value: sikeelm
+===============
+Name: What is 10 + 8?
+Value: 18
+===============
+Name: User ID
+Value: n3C4jt006IyF
+===============
+Name: ctrl_134d64de62a94e56b22da88018e1144d$txtfirst_name
+Value: John
+===============
+Name: ctrl_134d64de62a94e56b22da88018e1144d$txtlast_name
+Value: Abuse
+===============
+Name: ctrl_134d64de62a94e56b22da88018e1144d$txtemail
+Value: Jokubas.puidokas@dubysos.lt
+===============
+Name: username
+Value: Ma_x922

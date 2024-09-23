@@ -1,0 +1,4 @@
+PDD: 
+[GAMES] rockstargames.com (2)
+CDD: 
+[PayPal] paypal.com (35), [Amazon] amazon.com (13), [GAMES] store.steampowered.com (4), [GAMES] epicgames.com (8), [GAMES] rockstargames.com (27)

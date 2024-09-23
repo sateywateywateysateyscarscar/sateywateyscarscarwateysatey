@@ -1,0 +1,37 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+@SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+IP: 213.252.216.73
+FileLocation: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+UserName: Aronas
+MachineName: DESKTOP-3U0GJFI
+Country: LT
+Zip Code: 72001
+Location: Taurage, Taurages apskritis
+HWID: F3FE3C34B17E3EC4735E5CAC778420C0
+Current Language: English (United States)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC+03:00) Volgograd
+Operation System: Windows 10 Pro x64
+Log date: 7/17/2024 6:44:01 AM
+
+Available KeyboardLayouts: 
+English (United States)
+Lithuanian (Lithuania)
+
+
+Hardwares: 
+Name: Total of RAM, 65480.36 Mb or 68661137408 bytes
+Name: AMD Ryzen 7 5800X 8-Core Processor             , 8 Cores
+Name: NVIDIA GeForce RTX 2070 SUPER, 4293918720 bytes
+
+
+Anti-Viruses: 
+Windows Defender

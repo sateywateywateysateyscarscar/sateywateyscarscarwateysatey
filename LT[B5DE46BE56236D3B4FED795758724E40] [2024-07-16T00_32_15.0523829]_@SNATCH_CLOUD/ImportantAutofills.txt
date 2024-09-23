@@ -1,0 +1,21 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+email: durniukas90@gmail.com
+ba_last_name: Volkov
+first_name: РІ
+last_name: РєРѕРЅРµРєС‚
+email_or_username: piter griffin
+emailConfirm: estar.artem@gmail.com
+pin: nkezgya2
+request[anonymous_requester_email]: estar.artem@gmail.com
+helpdesk_ticket[email]: estar.artem@gmail.com
+ba_first_name: Aleksandr
+lastName: s
+email-input: estar.artem@gmail.com

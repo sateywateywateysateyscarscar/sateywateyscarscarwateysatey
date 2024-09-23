@@ -1,0 +1,37 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+@SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+IP: 84.240.15.45
+FileLocation: C:\Users\Артем\AppData\Local\Temp\567196\RegAsm.exe
+UserName: Артем
+MachineName: DESKTOP-1H4D5R0
+Country: LT
+Zip Code: 01001
+Location: Vilnius, Vilniaus apskritis
+HWID: B5DE46BE56236D3B4FED795758724E40
+Current Language: English (United States)
+ScreenSize: {Width=1920, Height=1200}
+TimeZone: (UTC+02:00) Вильнюс, Киев, Рига, София, Таллин, Хельсинки
+Operation System: Майкрософт Windows 11 Pro x64
+Log date: 7/16/2024 12:32:15 AM
+
+Available KeyboardLayouts: 
+English (United States)
+Russian (Russia)
+
+
+Hardwares: 
+Name: Total of RAM, 16280.62 Mb or 17071464448 bytes
+Name: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz, 6 Cores
+Name: NVIDIA GeForce RTX 3050, 4293918720 bytes
+
+
+Anti-Viruses: 
+Windows Defender

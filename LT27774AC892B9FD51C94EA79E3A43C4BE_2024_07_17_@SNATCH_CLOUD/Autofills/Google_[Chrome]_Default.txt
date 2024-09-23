@@ -1,0 +1,233 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: username
+Value: sikeelm
+===============
+Name: username
+Value: sofijux_123
+===============
+Name: name
+Value: 1.20.1
+===============
+Name: username
+Value: Ma_x922
+===============
+Name: email
+Value: Linasp38@gmail.com
+===============
+Name: emailConfirm
+Value: Linasp38@gmail.com
+===============
+Name: email
+Value: ZkansL
+===============
+Name: username
+Value: ZkasnL
+===============
+Name: username
+Value: ZkansL
+===============
+Name: username
+Value: Jokuxe
+===============
+Name: name
+Value: ZkansL
+===============
+Name: mc_username
+Value: Jokuxe
+===============
+Name: nickname
+Value: Jokuxe
+===============
+Name: ignn
+Value: Jokuxe
+===============
+Name: nombre
+Value: Jokuxe
+===============
+Name: identifier
+Value: Linasp38@gmail.com
+===============
+Name: username
+Value: progamer0pi
+===============
+Name: email
+Value: 8660629299
+===============
+Name: email
+Value: +37060629299
+===============
+Name: email
+Value: sd@asgasg.com
+===============
+Name: minecraftusername
+Value: Jokuxe
+===============
+Name: game_user
+Value: Jokuxe
+===============
+Name: name
+Value: Jokuxe
+===============
+Name: email
+Value: Jokubas.puidokas@dubysos.lt
+===============
+Name: pluginsearch
+Value: pvp
+===============
+Name: pluginsearch
+Value: spam pvp
+===============
+Name: pluginsearch
+Value: spam
+===============
+Name: pluginsearch
+Value: pvp 1.8
+===============
+Name: pluginsearch
+Value: health
+===============
+Name: pluginsearch
+Value: ping
+===============
+Name: pluginsearch
+Value: strafe
+===============
+Name: pluginsearch
+Value: palyer hearth
+===============
+Name: pluginsearch
+Value: 1.8
+===============
+Name: pluginsearch
+Value: world edit
+===============
+Name: pluginsearch
+Value: player hearth
+===============
+Name: pluginsearch
+Value: anti cheat
+===============
+Name: pluginsearch
+Value: grim anticheat
+===============
+Name: pluginsearch
+Value: login
+===============
+Name: pluginsearch
+Value: rg
+===============
+Name: firstName
+Value: josh
+===============
+Name: lastName
+Value: playz
+===============
+Name: emailConfirmation
+Value: Jokubas.puidokas@dubysos.lt
+===============
+Name: subdomain
+Value: kitpvps
+===============
+Name: vote
+Value: 11
+===============
+Name: vote
+Value: 8
+===============
+Name: ign
+Value: ZkansL
+===============
+Name: username
+Value: KAPCIUKAS
+===============
+Name: search
+Value: account switcher
+===============
+Name: email
+Value: Pickles32405@outlook.com
+===============
+Name: private-server-name-text-box
+Value: aaa
+===============
+Name: private-server-name-text-box
+Value: ssss
+===============
+Name: price
+Value: 5
+===============
+Name: price
+Value: 10
+===============
+Name: price
+Value: 7
+===============
+Name: price
+Value: 15
+===============
+Name: text
+Value: Sikeelm
+===============
+Name: text
+Value: SikeeRBLX
+===============
+Name: text
+Value: SikeeelmRBX
+===============
+Name: text
+Value: SikeelmRBX
+===============
+Name: text
+Value: @sikeelm
+===============
+Name: text
+Value: Linasp38@gmail.com
+===============
+Name: text
+Value: ggtxi52c
+===============
+Name: q
+Value: trident survival
+===============
+Name: signupUsername
+Value: TROLISS50
+===============
+Name: :r1:
+Value: jokubas.puidokas@dubysos.lt
+===============
+Name: :r7:
+Value: 34307279
+===============
+Name: email
+Value: Jurgapui@gmail.com
+===============
+Name: :rq:
+Value: 60629299
+===============
+Name: :ru:
+Value: 630786
+===============
+Name: :r1b:
+Value: 60629299
+===============
+Name: :r1s:
+Value: Jokubas.puidokas@dubysos.lt
+===============
+Name: :r1v:
+Value: Jokubas.puidokas@dubysos.lt
+===============
+Name: :r23:
+Value: 091515
+===============
+Name: username
+Value: drakonas2803
+===============
+Name: username
+Value: Max_92236

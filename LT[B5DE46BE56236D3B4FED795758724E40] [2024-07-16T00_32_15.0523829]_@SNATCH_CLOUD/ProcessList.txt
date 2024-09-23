@@ -1,0 +1,266 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+ID: 920, Name: csrss.exe,  CommandLine: 
+===============
+ID: 668, Name: winlogon.exe,  CommandLine: 
+===============
+ID: 1152, Name: fontdrvhost.exe,  CommandLine: 
+===============
+ID: 1804, Name: dwm.exe,  CommandLine: 
+===============
+ID: 2924, Name: NVDisplay.Container.exe,  CommandLine: 
+===============
+ID: 4864, Name: sihost.exe,  CommandLine: sihost.exe
+===============
+ID: 2160, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 2316, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s webthreatdefusersvc
+===============
+ID: 2816, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 1572, Name: taskhostw.exe,  CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 5312, Name: explorer.exe,  CommandLine: C:\WINDOWS\Explorer.EXE
+===============
+ID: 2452, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 6344, Name: SearchHost.exe,  CommandLine: "C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe" -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca
+===============
+ID: 6352, Name: StartMenuExperienceHost.exe,  CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 6512, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6624, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup -s UdkUserSvc
+===============
+ID: 6640, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6548, Name: dllhost.exe,  CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 8080, Name: ctfmon.exe,  CommandLine: 
+===============
+ID: 6872, Name: LocationNotificationWindows.exe,  CommandLine: "C:\WINDOWS\System32\LocationNotificationWindows.exe"
+===============
+ID: 8164, Name: PhoneExperienceHost.exe,  CommandLine: "C:\Program Files\WindowsApps\Microsoft.YourPhone_1.24061.93.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe" -ComServer:Background -Embedding
+===============
+ID: 8336, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8424, Name: SecurityHealthSystray.exe,  CommandLine: "C:\Windows\System32\SecurityHealthSystray.exe" 
+===============
+ID: 8580, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start
+===============
+ID: 8636, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Артем\AppData\Local\Microsoft\Edge\User Data" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Артем\AppData\Local\Microsoft\Edge\User Data\Crashpad" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=126.0.6478.127 "--annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --annotation=plat=Win64 "--annotation=prod=Microsoft Edge" --annotation=ver=126.0.2592.102 --initial-client-data=0x274,0x278,0x27c,0x250,0x284,0x7ffe05d80148,0x7ffe05d80154,0x7ffe05d80160
+===============
+ID: 8816, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=gpu-process --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=2324,i,17593720556354606691,15888121354962705954,262144 --variations-seed-version --mojo-platform-channel-handle=2300 /prefetch:2
+===============
+ID: 8828, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ru --service-sandbox-type=none --field-trial-handle=2276,i,17593720556354606691,15888121354962705954,262144 --variations-seed-version --mojo-platform-channel-handle=2564 /prefetch:11
+===============
+ID: 8852, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=ru --service-sandbox-type=service --field-trial-handle=2748,i,17593720556354606691,15888121354962705954,262144 --variations-seed-version --mojo-platform-channel-handle=2760 /prefetch:13
+===============
+ID: 6524, Name: OneDrive.exe,  CommandLine: "C:\Users\Артем\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+===============
+ID: 4708, Name: TextInputHost.exe,  CommandLine: "C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca
+===============
+ID: 9620, Name: EpicGamesLauncher.exe,  CommandLine: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe" -silent -launchcontext=boot
+===============
+ID: 9924, Name: EpicWebHelper.exe,  CommandLine: "C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe" --type=gpu-process --field-trial-handle=2888,6889158100451586732,10322367156506022804,131072 --disable-features=CalculateNativeWinOcclusion --no-sandbox --locales-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales" --log-file=C:/Users/Артем/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --log-severity=warning --resources-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources" --user-agent-product="EpicGamesLauncher/16.7.1-34305288+++Portal+Release-Live UnrealEngine/4.27.0-34305288+++Portal+Release-Live Chrome/90.0.4430.212" --lang=ru --gpu-preferences=SAAAAAAAAADgACAwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAAIAAAAAAAAAAgAAAAAAAAA --log-file=C:/Users/Артем/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --mojo-platform-channel-handle=2904 /prefetch:2
+===============
+ID: 10132, Name: Discord.exe,  CommandLine: "C:\Users\Артем\AppData\Local\Discord\app-1.0.9153\Discord.exe" 
+===============
+ID: 10228, Name: Discord.exe,  CommandLine: C:\Users\Артем\AppData\Local\Discord\app-1.0.9153\Discord.exe --type=crashpad-handler --user-data-dir=C:\Users\Артем\AppData\Roaming\discord /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\Артем\AppData\Roaming\discord\Crashpad --url=https://f.a.k/e --annotation=_productName=discord --annotation=_version=1.0.9153 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=30.1.0 --initial-client-data=0x538,0x53c,0x540,0x530,0x544,0x7ff6dd769218,0x7ff6dd769224,0x7ff6dd769230
+===============
+ID: 5824, Name: Discord.exe,  CommandLine: "C:\Users\Артем\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=gpu-process --user-data-dir="C:\Users\Артем\AppData\Roaming\discord" --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=1820,i,5765031908334008195,7099323635446784106,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=1812 /prefetch:2
+===============
+ID: 4528, Name: Discord.exe,  CommandLine: "C:\Users\Артем\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ru --service-sandbox-type=none --user-data-dir="C:\Users\Артем\AppData\Roaming\discord" --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --field-trial-handle=2040,i,5765031908334008195,7099323635446784106,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=2036 /prefetch:3
+===============
+ID: 10548, Name: EpicWebHelper.exe,  CommandLine: "C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=2888,6889158100451586732,10322367156506022804,131072 --disable-features=CalculateNativeWinOcclusion --lang=ru --service-sandbox-type=none --no-sandbox --locales-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales" --log-file=C:/Users/Артем/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --log-severity=warning --resources-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources" --user-agent-product="EpicGamesLauncher/16.7.1-34305288+++Portal+Release-Live UnrealEngine/4.27.0-34305288+++Portal+Release-Live Chrome/90.0.4430.212" --lang=ru --log-file=C:/Users/Артем/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --mojo-platform-channel-handle=3736 /prefetch:8
+===============
+ID: 11196, Name: Discord.exe,  CommandLine: "C:\Users\Артем\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=renderer --user-data-dir="C:\Users\Артем\AppData\Roaming\discord" --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --app-user-model-id=com.squirrel.Discord.Discord --app-path="C:\Users\Артем\AppData\Local\Discord\app-1.0.9153\resources\app.asar" --no-sandbox --no-zygote --autoplay-policy=no-user-gesture-required --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1721113258118603 --launch-time-ticks=112692172 --field-trial-handle=3692,i,5765031908334008195,7099323635446784106,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=3768 --enable-node-leakage-in-renderers /prefetch:1
+===============
+ID: 10424, Name: Discord.exe,  CommandLine: "C:\Users\Артем\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=ru --service-sandbox-type=audio --user-data-dir="C:\Users\Артем\AppData\Roaming\discord" --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --field-trial-handle=3772,i,5765031908334008195,7099323635446784106,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=2688 /prefetch:8
+===============
+ID: 11180, Name: steam.exe,  CommandLine: "C:\Program Files (x86)\Steam\steam.exe" -silent
+===============
+ID: 6216, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" "-lang=ru_RU" "-cachedir=C:\Users\Артем\AppData\Local\Steam\htmlcache" "-steampid=11180" "-buildid=1718904662" "-steamid=0" "-logdir=C:\Program Files (x86)\Steam\logs" "-uimode=7" "-startcount=0" "-userdatadir=C:\Users\Артем\AppData\Local\Steam\cefdata" "-steamuniverse=Public" "-realm=Global" "-clientui=C:\Program Files (x86)\Steam\clientui" "-steampath=C:\Program Files (x86)\Steam\steam.exe" "-launcher=0" --valve-enable-site-isolation --enable-smooth-scrolling --enable-direct-write "--log-file=C:\Program Files (x86)\Steam\logs\cef_log.txt" --disable-quick-menu "--disable-features=SpareRendererForSitePerProcess,DcheckIsFatal"
+===============
+ID: 10796, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=crashpad-handler /prefetch:7 --max-uploads=5 --max-db-size=20 --max-db-age=5 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Program Files (x86)\Steam\dumps" "--metrics-dir=C:\Users\Артем\AppData\Local\CEF\User Data" --url=https://crash.steampowered.com/submit --annotation=platform=win64 --annotation=product=cefwebhelper --annotation=version=1718904662 --initial-client-data=0x3b0,0x3b4,0x3b8,0x38c,0x3bc,0x7ffdd8deee38,0x7ffdd8deee48,0x7ffdd8deee58
+===============
+ID: 8296, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=gpu-process --user-agent-product="Valve Steam Client" --lang=ru-RU --user-data-dir="C:\Users\Артем\AppData\Local\Steam\cefdata" --buildid=1718904662 --steamid=0 --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --mojo-platform-channel-handle=1808 --field-trial-handle=1824,i,6234559689453280367,11650163564955492298,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:2
+===============
+ID: 10912, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ru --service-sandbox-type=none --user-agent-product="Valve Steam Client" --lang=ru-RU --user-data-dir="C:\Users\Артем\AppData\Local\Steam\cefdata" --buildid=1718904662 --steamid=0 --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --mojo-platform-channel-handle=2344 --field-trial-handle=1824,i,6234559689453280367,11650163564955492298,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:8
+===============
+ID: 8260, Name: AltServer.exe,  CommandLine: "C:\Program Files (x86)\AltServer\AltServer.exe" 
+===============
+ID: 12216, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=ru --service-sandbox-type=service --user-agent-product="Valve Steam Client" --lang=ru-RU --user-data-dir="C:\Users\Артем\AppData\Local\Steam\cefdata" --buildid=1718904662 --steamid=0 --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --mojo-platform-channel-handle=2136 --field-trial-handle=1824,i,6234559689453280367,11650163564955492298,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:8
+===============
+ID: 11456, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=renderer --user-agent-product="Valve Steam Client" --user-data-dir="C:\Users\Артем\AppData\Local\Steam\cefdata" --buildid=1718904662 --steamid=0 --first-renderer-process --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1721113258117495 --launch-time-ticks=121548230 --mojo-platform-channel-handle=3056 --field-trial-handle=1824,i,6234559689453280367,11650163564955492298,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:1
+===============
+ID: 12236, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 12264, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k LocalService -p -s NPSMSvc
+===============
+ID: 12776, Name: jusched.exe,  CommandLine: "C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe" 
+===============
+ID: 8400, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 10236, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=renderer --user-agent-product="Valve Steam Client" --user-data-dir="C:\Users\Артем\AppData\Local\Steam\cefdata" --buildid=1718904662 --steamid=0 --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1721113258117495 --launch-time-ticks=156157147 --mojo-platform-channel-handle=4324 --field-trial-handle=1824,i,6234559689453280367,11650163564955492298,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:1
+===============
+ID: 12668, Name: backgroundTaskHost.exe,  CommandLine: "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:App.AppXe9cvj1thv1hmcw0cs98xm3r97tyzy2xs.mca
+===============
+ID: 3488, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7728, Name: ApplicationFrameHost.exe,  CommandLine: C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 5916, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" 
+===============
+ID: 5756, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Артем\AppData\Local\Google\Chrome\User Data" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Артем\AppData\Local\Google\Chrome\User Data\Crashpad" "--metrics-dir=C:\Users\Артем\AppData\Local\Google\Chrome\User Data" --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=126.0.6478.127 --initial-client-data=0x174,0x178,0x17c,0x150,0x180,0x7ffe06441c70,0x7ffe06441c7c,0x7ffe06441c88
+===============
+ID: 14124, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=gpu-process --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=1916,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=1904 /prefetch:2
+===============
+ID: 11892, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ru --service-sandbox-type=none --field-trial-handle=1532,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=2160 /prefetch:11
+===============
+ID: 3144, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=ru --service-sandbox-type=service --field-trial-handle=2328,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=2336 /prefetch:13
+===============
+ID: 13572, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=290079877 --field-trial-handle=3956,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=3916 /prefetch:9
+===============
+ID: 9596, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=290098236 --field-trial-handle=4356,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=4428 /prefetch:9
+===============
+ID: 1588, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=290616261 --field-trial-handle=4828,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=4952 /prefetch:9
+===============
+ID: 8256, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=11 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=291563200 --field-trial-handle=5516,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=5248 /prefetch:1
+===============
+ID: 11212, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=14 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=295484412 --field-trial-handle=6780,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=6792 /prefetch:1
+===============
+ID: 3088, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=18 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=309410176 --field-trial-handle=7056,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=7084 /prefetch:1
+===============
+ID: 7824, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=ru --service-sandbox-type=audio --video-capture-use-gpu-memory-buffer --field-trial-handle=3564,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=6728 /prefetch:12
+===============
+ID: 12784, Name: ShellExperienceHost.exe,  CommandLine: "C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 5084, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 1252, Name: Widgets.exe,  CommandLine: "C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_524.16300.20.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe" -ServerName:Microsoft.Windows.DashboardServer
+===============
+ID: 3176, Name: XboxGameBarSpotify.exe,  CommandLine: "C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.241.434.0_x64__zpdnekdrzrea0\XboxGameBarSpotify.exe" -ServerName:Widget.AppXcq6m83pcstjyfwwpn2knfgeh8hb23cne.mca
+===============
+ID: 6360, Name: XboxPcAppFT.exe,  CommandLine: "C:\Program Files\WindowsApps\Microsoft.GamingApp_2406.1001.20.0_x64__8wekyb3d8bbwe\XboxPcAppFT.exe" -Embedding
+===============
+ID: 9204, Name: SystemSettings.exe,  CommandLine: "C:\Windows\ImmersiveControlPanel\SystemSettings.exe" -ServerName:microsoft.windows.immersivecontrolpanel
+===============
+ID: 980, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=68 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1070965882 --field-trial-handle=6332,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=3144 /prefetch:1
+===============
+ID: 14776, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=69 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1072695710 --field-trial-handle=7028,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=8176 /prefetch:1
+===============
+ID: 15184, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=70 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1073533187 --field-trial-handle=8432,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=7920 /prefetch:1
+===============
+ID: 13496, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=71 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1074920444 --field-trial-handle=7736,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=9076 /prefetch:1
+===============
+ID: 8740, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=72 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1075487290 --field-trial-handle=9160,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=7188 /prefetch:1
+===============
+ID: 5076, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=73 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1075761233 --field-trial-handle=7704,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=6700 /prefetch:1
+===============
+ID: 14832, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=74 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1076080772 --field-trial-handle=8868,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=7244 /prefetch:1
+===============
+ID: 11136, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=78 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1076936254 --field-trial-handle=3292,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=6212 /prefetch:1
+===============
+ID: 14056, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=79 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1077305674 --field-trial-handle=6680,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=3520 /prefetch:1
+===============
+ID: 6964, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=80 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1077346749 --field-trial-handle=6544,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=9068 /prefetch:1
+===============
+ID: 5884, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=81 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1077499935 --field-trial-handle=9092,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=8004 /prefetch:1
+===============
+ID: 3792, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=82 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1077781149 --field-trial-handle=524,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=6240 /prefetch:1
+===============
+ID: 15224, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=84 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1077818326 --field-trial-handle=3460,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=5396 /prefetch:1
+===============
+ID: 13424, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=85 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1077824423 --field-trial-handle=7528,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=9232 /prefetch:1
+===============
+ID: 13752, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=86 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1077940156 --field-trial-handle=9672,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=9632 /prefetch:1
+===============
+ID: 12436, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=89 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1078459176 --field-trial-handle=9376,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=3396 /prefetch:1
+===============
+ID: 15088, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=90 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1078930582 --field-trial-handle=10152,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=9508 /prefetch:1
+===============
+ID: 12608, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=91 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1078938657 --field-trial-handle=9628,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=9496 /prefetch:1
+===============
+ID: 13976, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=92 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1079833328 --field-trial-handle=10044,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=5416 /prefetch:1
+===============
+ID: 9376, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=93 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1079970398 --field-trial-handle=9952,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=9888 /prefetch:1
+===============
+ID: 1136, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=94 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1079992450 --field-trial-handle=8376,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=10212 /prefetch:1
+===============
+ID: 13120, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=95 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1080325090 --field-trial-handle=10480,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=10412 /prefetch:1
+===============
+ID: 12932, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=96 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1080686175 --field-trial-handle=10908,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=10928 /prefetch:1
+===============
+ID: 10968, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=97 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1081242618 --field-trial-handle=10844,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=11068 /prefetch:1
+===============
+ID: 11424, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=99 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1081748764 --field-trial-handle=9532,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=11208 /prefetch:1
+===============
+ID: 4744, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=100 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1081990240 --field-trial-handle=11060,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=11072 /prefetch:1
+===============
+ID: 7576, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=102 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1083775853 --field-trial-handle=11696,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=11616 /prefetch:1
+===============
+ID: 14648, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=122 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1294536401 --field-trial-handle=12136,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=11196 /prefetch:1
+===============
+ID: 4656, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=135 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1347498714 --field-trial-handle=12304,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=12468 /prefetch:1
+===============
+ID: 11836, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=158 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1524210959 --field-trial-handle=13528,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=13860 /prefetch:1
+===============
+ID: 16136, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=159 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1528158616 --field-trial-handle=12904,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=14164 /prefetch:1
+===============
+ID: 13384, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=160 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1549320996 --field-trial-handle=11888,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=13164 /prefetch:1
+===============
+ID: 10976, Name: smartscreen.exe,  CommandLine: C:\Windows\System32\smartscreen.exe -Embedding
+===============
+ID: 15168, Name: SecHealthUI.exe,  CommandLine: "C:\Program Files\WindowsApps\microsoft.sechealthui_1000.25992.9000.0_x64__8wekyb3d8bbwe\SecHealthUI.exe" -ServerName:SecHealthUI.AppX8tam42xc7v2czs3s1nt0nkxvfjtepzp9.mca
+===============
+ID: 13616, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7360, Name: SecurityHealthHost.exe,  CommandLine: \\?\C:\Windows\System32\SecurityHealth\1.0.2402.27001-0\SecurityHealthHost.exe {E041C90B-68BA-42C9-991E-477B73A75C90} -Embedding
+===============
+ID: 6440, Name: FileCoAuth.exe,  CommandLine: "C:\Users\Артем\AppData\Local\Microsoft\OneDrive\24.126.0623.0001\FileCoAuth.exe" -Embedding
+===============
+ID: 13748, Name: CHXSmartScreen.exe,  CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy\CHXSmartScreen.exe" -ServerName:App.AppXk7vvv12h4qrkhkbvf6j86ja45mzj5km9.mca
+===============
+ID: 1368, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 17344, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=188 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1717796774 --field-trial-handle=11844,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=11352 /prefetch:1
+===============
+ID: 2204, Name: dllhost.exe,  CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+===============
+ID: 16756, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=189 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1770577284 --field-trial-handle=13188,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=12884 /prefetch:9
+===============
+ID: 15948, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=191 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1805371167 --field-trial-handle=11104,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=12672 /prefetch:1
+===============
+ID: 13200, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=195 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1807753474 --field-trial-handle=12696,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=12912 /prefetch:1
+===============
+ID: 17148, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=196 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1810268447 --field-trial-handle=11044,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=14060 /prefetch:1
+===============
+ID: 16412, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=198 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1815712853 --field-trial-handle=11916,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=13340 /prefetch:1
+===============
+ID: 17188, Name: backgroundTaskHost.exe,  CommandLine: "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:App.AppXxw3e32mpkfkfbh0tznpwwqfw96t0tfx6.mca
+===============
+ID: 15316, Name: backgroundTaskHost.exe,  CommandLine: "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:Global.Accounts.AppXqe94epy97qwa6w3j6w132e8zvcs117nd.mca
+===============
+ID: 14940, Name: backgroundTaskHost.exe,  CommandLine: "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:Microsoft.MicrosoftOfficeHub.AppX54h2e8jwdm50fj5ha8987vz1etpx7czd.mca
+===============
+ID: 13536, Name: backgroundTaskHost.exe,  CommandLine: "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:Global.DesktopSpotlight.AppXz2j21w56bgxkgsjhtn7zkjsepq96erz2.mca
+===============
+ID: 17212, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 11844, Name: backgroundTaskHost.exe,  CommandLine: "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:WebExperienceHost.AppXt2rk6m02ana976jna04hdq35jfnzy7f7.mca
+===============
+ID: 5896, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=ru --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=202 --time-ticks-at-unix-epoch=-1721113258118797 --launch-time-ticks=1836888483 --field-trial-handle=1884,i,576891973626925027,11567440935569663417,262144 --variations-seed-version=20240715-050117.866000 --mojo-platform-channel-handle=11776 /prefetch:1
+===============
+ID: 15916, Name: RegAsm.exe,  CommandLine: C:\Users\Артем\AppData\Local\Temp\567196\RegAsm.exe 
+===============
+ID: 8196, Name: WaveInstaller Official (1).exe,  CommandLine: 
+===============
+ID: 17364, Name: conhost.exe,  CommandLine: \??\C:\WINDOWS\system32\conhost.exe 0x4

@@ -1,0 +1,41 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+1) Epic Games Launcher [1.3.82.0]
+2) Epic Online Services [2.0.42.0]
+3) Google Chrome [126.0.6478.128]
+4) Java Auto Updater [2.8.351.10]
+5) Launcher Prerequisites (x64) [1.0.0.0]
+6) Microsoft Edge [126.0.2592.102]
+7) Microsoft Edge Update [1.3.193.5]
+8) Microsoft Edge WebView2 Runtime [126.0.2592.102]
+9) Microsoft Visual C++ 2005 Redistributable [8.0.61001]
+10) Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 [9.0.30729.6161]
+11) Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 [10.0.40219]
+12) Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 [11.0.61030.0]
+13) Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 [11.0.61030.0]
+14) Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 [11.0.61030]
+15) Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 [11.0.61030]
+16) Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664 [12.0.40664.0]
+17) Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 [12.0.40664.0]
+18) Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664 [12.0.40664]
+19) Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664 [12.0.40664]
+20) Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.36.32532 [14.36.32532.0]
+21) Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532 [14.36.32532.0]
+22) Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532 [14.36.32532]
+23) Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532 [14.36.32532]
+24) Microsoft Windows Desktop Runtime - 8.0.2 (x64) [8.0.2.33318]
+25) OBS Studio [30.0.2]
+26) OBS-VirtualCam version 2.0.4 [2.0.4]
+27) Razer Cortex [10.13.12.0]
+28) Razer Synapse [3.9.0630.062714]
+29) Rockstar Games Launcher [1.0.92.2003]
+30) Rockstar Games Social Club [2.3.3.1]
+31) Steam [2.10.91.91]
+32) TLauncher [2.885]

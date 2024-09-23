@@ -1,0 +1,206 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+ID: 972, Name: csrss.exe,  CommandLine: 
+===============
+ID: 780, Name: winlogon.exe,  CommandLine: 
+===============
+ID: 1208, Name: fontdrvhost.exe,  CommandLine: 
+===============
+ID: 1780, Name: dwm.exe,  CommandLine: 
+===============
+ID: 2328, Name: atieclxx.exe,  CommandLine: 
+===============
+ID: 5652, Name: sihost.exe,  CommandLine: sihost.exe
+===============
+ID: 5688, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 5752, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s webthreatdefusersvc
+===============
+ID: 5788, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 5880, Name: taskhostw.exe,  CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 6016, Name: PCHelpSoftDriverUpdater.exe,  CommandLine: 
+===============
+ID: 4588, Name: explorer.exe,  CommandLine: C:\WINDOWS\Explorer.EXE
+===============
+ID: 6368, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 6896, Name: SearchHost.exe,  CommandLine: "C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe" -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca
+===============
+ID: 6920, Name: StartMenuExperienceHost.exe,  CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 6960, Name: Widgets.exe,  CommandLine: "C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_524.16300.20.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe" -ServerName:Microsoft.Windows.DashboardServer
+===============
+ID: 7132, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6484, Name: WWAHost.exe,  CommandLine: "C:\WINDOWS\system32\wwahost.exe" -ServerName:App.wwa
+===============
+ID: 5516, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7192, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup -s UdkUserSvc
+===============
+ID: 7328, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 7812, Name: dllhost.exe,  CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 8764, Name: ShellExperienceHost.exe,  CommandLine: "C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 8336, Name: ctfmon.exe,  CommandLine: 
+===============
+ID: 8388, Name: WidgetService.exe,  CommandLine: "C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_524.16300.20.0_x64__cw5n1h2txyewy\Dashboard\widgetservice.exe" -RegisterProcessAsComServer -Embedding
+===============
+ID: 9116, Name: SecurityHealthSystray.exe,  CommandLine: "C:\Windows\System32\SecurityHealthSystray.exe" 
+===============
+ID: 9868, Name: TextInputHost.exe,  CommandLine: "C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca
+===============
+ID: 12048, Name: svchost.exe,  CommandLine: C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 1908, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --embedded-browser-webview=1 --webview-exe-name=Widgets.exe --webview-exe-version=524.16300.30.0 --user-data-dir="C:\Users\nauja\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --noerrdialogs --disk-cache-size=52428800 --edge-webview-is-background --enable-features=MojoIpcz --lang=en-US --mojo-named-platform-channel-pipe=6960.1708.14202051800422811375 /pfhostedapp:5f879c1c991407a26f78505d09a1c1d8df3610a5
+===============
+ID: 3192, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --type=crashpad-handler --user-data-dir=C:\Users\nauja\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView /prefetch:4 /pfhostedapp:5f879c1c991407a26f78505d09a1c1d8df3610a5 --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\nauja\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Crashpad --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=126.0.6478.127 "--annotation=exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --annotation=plat=Win64 "--annotation=prod=Edge WebView2" --annotation=ver=126.0.2592.102 --initial-client-data=0x18c,0x190,0x194,0xa4,0x19c,0x7fff83200148,0x7fff83200154,0x7fff83200160
+===============
+ID: 4700, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --type=gpu-process --noerrdialogs --user-data-dir="C:\Users\nauja\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.16300.30.0 --embedded-browser-webview=1 --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=1776,i,16230959755099523458,8251338085511298182,262144 --enable-features=MojoIpcz --variations-seed-version --mojo-platform-channel-handle=1760 /prefetch:2 /pfhostedapp:5f879c1c991407a26f78505d09a1c1d8df3610a5
+===============
+ID: 4936, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noerrdialogs --user-data-dir="C:\Users\nauja\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.16300.30.0 --embedded-browser-webview=1 --field-trial-handle=1852,i,16230959755099523458,8251338085511298182,262144 --enable-features=MojoIpcz --variations-seed-version --mojo-platform-channel-handle=2080 /prefetch:11 /pfhostedapp:5f879c1c991407a26f78505d09a1c1d8df3610a5
+===============
+ID: 3840, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --noerrdialogs --user-data-dir="C:\Users\nauja\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.16300.30.0 --embedded-browser-webview=1 --field-trial-handle=2304,i,16230959755099523458,8251338085511298182,262144 --enable-features=MojoIpcz --variations-seed-version --mojo-platform-channel-handle=2252 /prefetch:13 /pfhostedapp:5f879c1c991407a26f78505d09a1c1d8df3610a5
+===============
+ID: 8500, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --type=renderer --noerrdialogs --user-data-dir="C:\Users\nauja\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.16300.30.0 --embedded-browser-webview=1 --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --js-flags="--harmony-weak-refs-with-cleanup-some --expose-gc --ms-user-locale=" --time-ticks-at-unix-epoch=-1721209538955586 --launch-time-ticks=188802760 --field-trial-handle=3612,i,16230959755099523458,8251338085511298182,262144 --enable-features=MojoIpcz --variations-seed-version --mojo-platform-channel-handle=3580 /pfhostedapp:5f879c1c991407a26f78505d09a1c1d8df3610a5 /prefetch:1
+===============
+ID: 9416, Name: ApplicationFrameHost.exe,  CommandLine: C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 6784, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k LocalService -p -s NPSMSvc
+===============
+ID: 1660, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 12888, Name: SystemSettingsBroker.exe,  CommandLine: C:\Windows\System32\SystemSettingsBroker.exe -Embedding
+===============
+ID: 7912, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k DevicesFlow -s DevicesFlowUserSvc
+===============
+ID: 7416, Name: UserOOBEBroker.exe,  CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 5624, Name: msedgewebview2.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --noerrdialogs --user-data-dir="C:\Users\nauja\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.16300.30.0 --embedded-browser-webview=1 --field-trial-handle=5084,i,16230959755099523458,8251338085511298182,262144 --enable-features=MojoIpcz --variations-seed-version --mojo-platform-channel-handle=4608 /prefetch:12 /pfhostedapp:5f879c1c991407a26f78505d09a1c1d8df3610a5
+===============
+ID: 5196, Name: Video.UI.exe,  CommandLine: "C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe\Video.UI.exe" -ServerName:Microsoft.ZuneVideo.AppX758ya5sqdjd98rx6z7g95nw6jy7bqx9y.mca
+===============
+ID: 6676, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8348, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" 
+===============
+ID: 7672, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\nauja\AppData\Local\Google\Chrome\User Data" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\nauja\AppData\Local\Google\Chrome\User Data\Crashpad" --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=126.0.6478.182 --initial-client-data=0x170,0x174,0x178,0x14c,0x17c,0x7fffaf631c70,0x7fffaf631c7c,0x7fffaf631c88
+===============
+ID: 6188, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=gpu-process --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=1940,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=1936 /prefetch:2
+===============
+ID: 13008, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --field-trial-handle=2216,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=2224 /prefetch:11
+===============
+ID: 4260, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --field-trial-handle=2324,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=2344 /prefetch:13
+===============
+ID: 12824, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --extension-process --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=5459956088 --field-trial-handle=3936,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=3884 /prefetch:9
+===============
+ID: 1196, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --video-capture-use-gpu-memory-buffer --field-trial-handle=5264,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=5256 /prefetch:12
+===============
+ID: 12040, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=18 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=5464031405 --field-trial-handle=6204,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=6356 /prefetch:1
+===============
+ID: 3708, Name: DataExchangeHost.exe,  CommandLine: C:\Windows\System32\DataExchangeHost.exe -Embedding
+===============
+ID: 8236, Name: steam.exe,  CommandLine: "C:\Program Files (x86)\Steam\steam.exe" -- "steam://forceinputappid/0"
+===============
+ID: 11936, Name: backgroundTaskHost.exe,  CommandLine: "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:App.AppXfkd8mejksk4ancwf4vtyhmkvtzn1jcbs.mca
+===============
+ID: 13408, Name: PhoneExperienceHost.exe,  CommandLine: "C:\Program Files\WindowsApps\Microsoft.YourPhone_1.24062.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe" -ComServer:Background -Embedding
+===============
+ID: 14044, Name: Bloxstrap.exe,  CommandLine: "C:\Users\nauja\AppData\Local\Bloxstrap\Bloxstrap.exe" 
+===============
+ID: 3216, Name: RobloxPlayerBeta.exe,  CommandLine: "C:\Users\nauja\AppData\Local\Bloxstrap\Versions\version-3243b6d003cf4642\RobloxPlayerBeta.exe" --app -channel production
+===============
+ID: 13016, Name: RobloxCrashHandler.exe,  CommandLine: C:\Users\nauja\AppData\Local\Bloxstrap\Versions\version-3243b6d003cf4642\\RobloxCrashHandler.exe --no-rate-limit --crashCounter Win-ROBLOXPlayer-Crash --baseUrl http://www.roblox.com/ --attachment=attachment_0.633.1.6330512_20240717T121336Z_Player_469AD_last.log=C:\Users\nauja\AppData\Local\Roblox\logs\0.633.1.6330512_20240717T121336Z_Player_469AD_last.log --database=C:\Users\nauja\AppData\Local\Roblox\logs\crashes --metrics-dir=C:\Users\nauja\AppData\Local\Roblox\logs\crashes --url=https://upload.crashes.rbxinfra.com/post?format=minidump --annotation=AppVersion=0.633.1.6330512 --annotation=BaseUrl=http://www.roblox.com/ "--annotation=CPUMake=AMD Ryzen 5 5600G with Radeon Graphics         " --annotation=Format=minidump --annotation=OSPlatform=Win32 "--annotation=OSVersion=Windows 11 - PlatformId 2, Version 10.0, Build 22631" --annotation=PlatformId=2 --annotation=RobloxChannel=production --annotation=RobloxGitHash=a5e1d39aa3778ca34a20893ef2072782b0d0f56d --annotation=RobloxProduct=RobloxPlayer --annotation=TotalMemory=7915814912 --annotation=UniqueId=1330169672773093551 --annotation=UploadAttachmentKiloByteLimit=1000 --annotation=UseCrashpad=True --initial-client-data=0x788,0x764,0x658,0x864,0x5dc,0x7ff781b03b88,0x7ff781b03ba0,0x7ff781b03bb8
+===============
+ID: 7232, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=84 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=9540143545 --field-trial-handle=9576,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=9152 /prefetch:1
+===============
+ID: 12236, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=91 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=9628651709 --field-trial-handle=7984,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=9660 /prefetch:1
+===============
+ID: 3524, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=176 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=10198383390 --field-trial-handle=11740,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=8348 /prefetch:1
+===============
+ID: 2164, Name: smartscreen.exe,  CommandLine: C:\Windows\System32\smartscreen.exe -Embedding
+===============
+ID: 5824, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" 
+===============
+ID: 4104, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=crashpad-handler "--user-data-dir=C:\Users\nauja\AppData\Local\Microsoft\Edge\User Data" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\nauja\AppData\Local\Microsoft\Edge\User Data\Crashpad" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=126.0.6478.127 "--annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --annotation=plat=Win64 "--annotation=prod=Microsoft Edge" --annotation=ver=126.0.2592.102 --initial-client-data=0x30c,0x310,0x314,0x308,0x31c,0x7fff83200148,0x7fff83200154,0x7fff83200160
+===============
+ID: 12932, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=gpu-process --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=2320,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=2296 /prefetch:2
+===============
+ID: 7280, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --field-trial-handle=2388,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=2436 /prefetch:11
+===============
+ID: 10936, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --field-trial-handle=2524,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=2724 /prefetch:13
+===============
+ID: 8808, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --instant-process --pdf-upsell-enabled --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1721209538955572 --launch-time-ticks=10260714384 --field-trial-handle=3680,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=3800 /prefetch:1
+===============
+ID: 8128, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1721209538955572 --launch-time-ticks=10260797320 --field-trial-handle=4368,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=4376 /prefetch:9
+===============
+ID: 9436, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --pdf-upsell-enabled --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=15 --time-ticks-at-unix-epoch=-1721209538955572 --launch-time-ticks=10263283958 --field-trial-handle=6300,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=6308 /prefetch:1
+===============
+ID: 13752, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --field-trial-handle=6096,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=5468 /prefetch:12
+===============
+ID: 7052, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=edge_xpay_wallet.mojom.EdgeXPayWalletService --lang=en-US --service-sandbox-type=utility --field-trial-handle=4408,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=3824 /prefetch:14
+===============
+ID: 9568, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=179 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=10300351274 --field-trial-handle=8536,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=5504 /prefetch:1
+===============
+ID: 288, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=180 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=10300478122 --field-trial-handle=8848,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=12220 /prefetch:1
+===============
+ID: 5060, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=data_decoder.mojom.DataDecoderService --lang=en-US --service-sandbox-type=service --video-capture-use-gpu-memory-buffer --field-trial-handle=7480,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=11872 /prefetch:14
+===============
+ID: 13448, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=184 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=10301155357 --field-trial-handle=8388,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=10496 /prefetch:1
+===============
+ID: 11000, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=186 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=10301960850 --field-trial-handle=9372,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=11620 /prefetch:1
+===============
+ID: 9528, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=187 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=10301986152 --field-trial-handle=7872,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=8292 /prefetch:1
+===============
+ID: 13556, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=188 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=10303583486 --field-trial-handle=10724,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=10152 /prefetch:1
+===============
+ID: 12028, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=189 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=10303596430 --field-trial-handle=8144,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=12144 /prefetch:1
+===============
+ID: 9372, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=191 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=10304113458 --field-trial-handle=11908,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=7520 /prefetch:1
+===============
+ID: 9212, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=entity_extraction_service.mojom.Extractor --lang=en-US --service-sandbox-type=entity_extraction --onnx-enabled-for-ee --field-trial-handle=5516,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=4132 /prefetch:14
+===============
+ID: 7776, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --pdf-upsell-enabled --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=30 --time-ticks-at-unix-epoch=-1721209538955572 --launch-time-ticks=10320817569 --field-trial-handle=6072,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=7368 /prefetch:1
+===============
+ID: 13336, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=edge_search_indexer.mojom.SearchIndexerInterfaceBroker --lang=en-US --service-sandbox-type=search_indexer --message-loop-type-ui --field-trial-handle=7572,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=6964 /prefetch:14
+===============
+ID: 9340, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6832, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --pdf-upsell-enabled --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=34 --time-ticks-at-unix-epoch=-1721209538955572 --launch-time-ticks=10321062233 --field-trial-handle=8360,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=8276 /prefetch:1
+===============
+ID: 4188, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=data_decoder.mojom.DataDecoderService --lang=en-US --service-sandbox-type=service --video-capture-use-gpu-memory-buffer --field-trial-handle=8624,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=9852 /prefetch:14
+===============
+ID: 5012, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=200 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=10331967548 --field-trial-handle=11316,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=8432 /prefetch:1
+===============
+ID: 9364, Name: chrome.exe,  CommandLine: "C:\Program Files\Google\Chrome\Application\chrome.exe" --type=renderer --origin-trial-disabled-features=ElementCapture --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=202 --time-ticks-at-unix-epoch=-1721209538954916 --launch-time-ticks=10333237020 --field-trial-handle=5960,i,17427739524443380893,12187458442927863057,262144 --variations-seed-version=20240716-050118.556000 --mojo-platform-channel-handle=8568 /prefetch:1
+===============
+ID: 10080, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=price_comparison_service.mojom.DataProcessor --lang=en-US --service-sandbox-type=entity_extraction --field-trial-handle=9156,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=7132 /prefetch:14
+===============
+ID: 9268, Name: SearchProtocolHost.exe,  CommandLine: "C:\WINDOWS\System32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-256057406-4095896156-1288997262-10016_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-256057406-4095896156-1288997262-10016 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"  "1"
+===============
+ID: 10808, Name: CHXSmartScreen.exe,  CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy\CHXSmartScreen.exe" -ServerName:App.AppXk7vvv12h4qrkhkbvf6j86ja45mzj5km9.mca
+===============
+ID: 9660, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 10272, Name: conhost.exe,  CommandLine: \??\C:\WINDOWS\system32\conhost.exe 0x4
+===============
+ID: 344, Name: OpenConsole.exe,  CommandLine: "C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\OpenConsole.exe" -Embedding
+===============
+ID: 14308, Name: WindowsTerminal.exe,  CommandLine: "C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe" -Embedding
+===============
+ID: 10892, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 12952, Name: MSBuild.exe,  CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"
+===============
+ID: 13584, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=data_decoder.mojom.DataDecoderService --lang=en-US --service-sandbox-type=service --field-trial-handle=8636,i,16733424972445763122,4923139302662614935,262144 --variations-seed-version --mojo-platform-channel-handle=6492 /prefetch:14

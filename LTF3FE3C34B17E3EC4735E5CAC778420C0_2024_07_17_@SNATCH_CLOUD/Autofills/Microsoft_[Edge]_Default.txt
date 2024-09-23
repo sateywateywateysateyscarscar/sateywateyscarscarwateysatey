@@ -1,0 +1,116 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: phone
+Value: +370 660 20670
+===============
+Name: login
+Value: +370 660 20 670
+===============
+Name: firstname
+Value: Aronas
+===============
+Name: lastname
+Value: Aronas
+===============
+Name: code
+Value: 25573
+===============
+Name: email
+Value: +370 66020670
+===============
+Name: email
+Value: +37066020670
+===============
+Name: login
+Value: aronas.mokykla@gmail.com
+===============
+Name: signup-username
+Value: Aronkidze
+===============
+Name: display-name
+Value: aronkidze
+===============
+Name: depth
+Value: 5000
+===============
+Name: first_name
+Value: BeatriДЌД—
+===============
+Name: identifier
+Value: aronas.mokykla@gmail.com
+===============
+Name: playerName
+Value: A.V.M
+===============
+Name: testing_password
+Value: IIH2
+===============
+Name: playerName
+Value: Milena
+===============
+Name: first_name
+Value: Aronas
+===============
+Name: UserName
+Value: Aronas15
+===============
+Name: playerName
+Value: Mija
+===============
+Name: depth
+Value: 7500
+===============
+Name: student_code
+Value: 1234
+===============
+Name: playerName
+Value: Deividas
+===============
+Name: playerName
+Value: AndЕѕelika
+===============
+Name: Amzius
+Value: 16
+===============
+Name: UserName
+Value: oksana0510
+===============
+Name: testing_password
+Value: 1234
+===============
+Name: teamcheckName
+Value: Voveriai
+===============
+Name: playerName
+Value: Oksana
+===============
+Name: last_name
+Value: KriauneviДЌius
+===============
+Name: width
+Value: 5000
+===============
+Name: last_name
+Value: MaskaliЕ«naitД—
+===============
+Name: teamName
+Value: Voveriai
+===============
+Name: depth
+Value: 12500
+===============
+Name: width
+Value: 7500
+===============
+Name: signupUsername
+Value: nojka206
+===============
+Name: Vardas
+Value: Aronas Kriaunevicius
