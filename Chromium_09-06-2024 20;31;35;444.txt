@@ -1,0 +1,25 @@
+Url: https://discord.com/login
+Username: malachibiden@gmail.com
+Password: Ttremaine09
+Application: Edge Chromium
+=============================
+Url: https://id.unity.com/en/conversations/84555374-b5d9-4f74-aac8-93762300a9f2003f
+Username: malachibiden@gmail.com
+Password: Ttremaine09
+Application: Edge Chromium
+=============================
+Url: https://vrchat.com/home/login
+Username: jacksontrey774@gmail.com
+Password: Ttremaine09
+Application: Edge Chromium
+=============================
+Url: https://accounts.google.com/v3/signin/challenge/pwd
+Username: malachibiden@gmail.com
+Password: Ttremaine09
+Application: Edge Chromium
+=============================
+Url: https://my.account.sony.com/sonyacct/signin/
+Username: trina1961nalls@gmail.com
+Password: Ttremaine09
+Application: Edge Chromium
+=============================
