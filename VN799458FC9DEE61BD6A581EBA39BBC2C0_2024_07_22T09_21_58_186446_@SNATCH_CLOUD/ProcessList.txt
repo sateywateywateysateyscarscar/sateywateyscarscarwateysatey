@@ -1,0 +1,110 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*  Telegram: https://t.me/redline_market_bot  *
+***********************************************
+
+ID: 1000, Name: csrss.exe, CommandLine: 
+===============
+ID: 848, Name: winlogon.exe, CommandLine: winlogon.exe
+===============
+ID: 1132, Name: fontdrvhost.exe, CommandLine: "fontdrvhost.exe"
+===============
+ID: 1344, Name: dwm.exe, CommandLine: "dwm.exe"
+===============
+ID: 4584, Name: svchost.exe, CommandLine: C:\windows\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 4592, Name: sihost.exe, CommandLine: sihost.exe
+===============
+ID: 4716, Name: svchost.exe, CommandLine: C:\windows\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 4808, Name: taskhostw.exe, CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 4884, Name: Core Temp.exe, CommandLine: "E:\Soft\Core Temp\Core Temp.exe"
+===============
+ID: 4996, Name: GCP Launcher.exe, CommandLine: "E:\GCUpdater Games\Tools\GCP Menu\Launcher\GCP Launcher.exe"
+===============
+ID: 4548, Name: ctfmon.exe, CommandLine: "ctfmon.exe"
+===============
+ID: 5372, Name: KzoneClient.exe, CommandLine: C:\Menu2625\\KzoneClient.exe -runcomponent
+===============
+ID: 5808, Name: CyberStation.exe, CommandLine: "C:\Program Files (x86)\CSMClient\CyberStation.exe"
+===============
+ID: 5860, Name: explorer.exe, CommandLine: C:\windows\Explorer.EXE
+===============
+ID: 5076, Name: svchost.exe, CommandLine: C:\windows\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 1084, Name: lwhardware64.exe, CommandLine: "B:\lwclient64\lwhardware64.exe" -t
+===============
+ID: 5684, Name: lwPersonalSetting64.exe, CommandLine: "B:\lwclient64\lwPersonalSetting64.exe" 
+===============
+ID: 6472, Name: StartMenuExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 6804, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6856, Name: GCP Launcher.exe, CommandLine: "E:\GCUpdater Games\Tools\GCP Menu\Launcher\GCP Launcher.exe" --type=gpu-process --user-data-dir="C:\Users\Administrator\AppData\Roaming\GCP Launcher" --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAGAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --use-gl=angle --use-angle=swiftshader-webgl --mojo-platform-channel-handle=1788 --field-trial-handle=1792,i,11627160158024870783,88221170725686012,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:2
+===============
+ID: 6784, Name: GCP Launcher.exe, CommandLine: "E:\GCUpdater Games\Tools\GCP Menu\Launcher\GCP Launcher.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir="C:\Users\Administrator\AppData\Roaming\GCP Launcher" --mojo-platform-channel-handle=2144 --field-trial-handle=1792,i,11627160158024870783,88221170725686012,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:8
+===============
+ID: 7164, Name: GCP Launcher.exe, CommandLine: "E:\GCUpdater Games\Tools\GCP Menu\Launcher\GCP Launcher.exe" --type=renderer --user-data-dir="C:\Users\Administrator\AppData\Roaming\GCP Launcher" --app-path="E:\GCUpdater Games\Tools\GCP Menu\Launcher\resources\app.asar" --no-sandbox --no-zygote --first-renderer-process --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1721654318855255 --launch-time-ticks=36399834 --mojo-platform-channel-handle=2476 --field-trial-handle=1792,i,11627160158024870783,88221170725686012,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:1
+===============
+ID: 7324, Name: GCP Launcher.exe, CommandLine: "E:\GCUpdater Games\Tools\GCP Menu\Launcher\GCP Launcher.exe" --type=renderer --user-data-dir="C:\Users\Administrator\AppData\Roaming\GCP Launcher" --app-path="E:\GCUpdater Games\Tools\GCP Menu\Launcher\resources\app.asar" --no-sandbox --no-zygote --enable-blink-features --disable-blink-features --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1721654318855255 --launch-time-ticks=36866259 --mojo-platform-channel-handle=3320 --field-trial-handle=1792,i,11627160158024870783,88221170725686012,131072 --disable-features=SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:1
+===============
+ID: 7500, Name: conhost.exe, CommandLine: \??\C:\windows\system32\conhost.exe 0x4
+===============
+ID: 7544, Name: MenuRunner.exe, CommandLine: C:\Users\Administrator\AppData\Local\Temp\MenuRunner.exe  10012898 3.1.0
+===============
+ID: 8096, Name: vgtray.exe, CommandLine: "C:\Vanguard Anti\vgtray.exe" 
+===============
+ID: 8532, Name: TextInputHost.exe, CommandLine: "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe" -ServerName:InputApp.AppXjd5de1g66v206tj52m9d0dtpppx4cgpn.mca
+===============
+ID: 5792, Name: RiotClientServices.exe, CommandLine: "C:\Riot Games\Riot Client\RiotClientServices.exe" --launch-product=league_of_legends --launch-patchline=live"
+===============
+ID: 8236, Name: rundll32.exe, CommandLine: "C:\windows\system32\rundll32.exe" -localserver 22d8c27b-47a1-48d1-ad08-7da7abd79617
+===============
+ID: 1520, Name: RiotClientCrashHandler.exe, CommandLine: "C:\Riot Games\Riot Client\RiotClientCrashHandler.exe" --no-rate-limit "--database=C:\Users\Administrator\AppData\Local\Riot Games\Riot Client\Crashes\Riot Client" "--metrics-dir=C:\Users\Administrator\AppData\Local\Riot Games\Riot Client\Crashes\Riot Client" --url=https://sentry.io:443/api/1339107/minidump/?sentry_client=sentry.native/0.7.5&sentry_key=dc54709324504ab18ddf517a83f99e1a "--attachment=C:/Users/Administrator/AppData/Local/Riot Games/Riot Client/Logs/Riot Client Logs/2024-07-22T20-19-56_5792_Riot Client.0.log" "--attachment=C:/Users/Administrator/AppData/Local/Riot Games/Riot Client/Logs/Riot Client Logs/2024-07-22T20-19-56_5792_Riot Client.log" "--attachment=C:\Users\Administrator\AppData\Local\Riot Games\Riot Client\Crashes\Riot Client\016e66e6-2529-4b49-d076-2f8d1ca9a164.run\__sentry-event" "--attachment=C:\Users\Administrator\AppData\Local\Riot Games\Riot Client\Crashes\Riot Client\016e66e6-2529-4b49-d076-2f8d1ca9a164.run\__sentry-breadcrumb1" "--attachment=C:\Users\Administrator\AppData\Local\Riot Games\Riot Client\Crashes\Riot Client\016e66e6-2529-4b49-d076-2f8d1ca9a164.run\__sentry-breadcrumb2" --initial-client-data=0x410,0x3f4,0x3c8,0x390,0x404,0x6c515b4c,0x6c515b58,0x6c515b68
+===============
+ID: 2096, Name: taskhostw.exe, CommandLine: taskhostw.exe
+===============
+ID: 58800, Name: ApplicationFrameHost.exe, CommandLine: C:\windows\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 64100, Name: KzoneClient.exe, CommandLine: "C:\Menu2625\KzoneClient.exe" 
+===============
+ID: 57096, Name: HYP.exe, CommandLine: "E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\HYP.exe" 
+===============
+ID: 64608, Name: HYPHelper.exe, CommandLine: "E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\HYPHelper" --type=gpu-process --no-sandbox --locales-dir-path="E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\resources\locales" --log-severity=disable --resources-dir-path="E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\resources" --user-agent="HYPContainer/1.0.5.88 (windows 10)" --lang=en-US --user-data-dir="C:\Users\Administrator\AppData\Roaming\Cognosphere\HYP\1_0\cache" --windows-job-name=CefView-Job-{f0a3c1e3-ff89-4581-8a45-f0bfd74c4bb0}-57096 --disable-extensions --renderer-process-limit=1 --enable-aggressive-domstorage-flushing --enable-experimental-web-platform-features --bridge-obj-name=HYPClient --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --log-file="E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\debug.log" --mojo-platform-channel-handle=3052 --field-trial-handle=3068,i,14873672422015173902,6136116303150620933,131072 --enable-features=BlockInsecurePrivateNetworkRequests,BlockInsecurePrivateNetworkRequestsFromPrivate,BlockInsecurePrivateNetworkRequestsFromUnknown,ClientHintThirdPartyDelegation,ClientHintsMetaHTTPEquivAcceptCH,ClientHintsMetaNameAcceptCH,ClipboardCustomFormats,CookieSameSiteConsidersRedirectChain,CriticalClientHint,DocumentPolicyNegotiation,DocumentReporting,EditContext,EnableCanvas2DLayers,ExperimentalContentSecurityPolicyFeatures,OriginIsolationHeader,OriginPolicy,PrefersColorSchemeClientHintHeader,PrivateNetworkAccessForWorkers,PrivateNetworkAccessRespectPreflightResults,SchemefulSameSite,UserAgentClientHint,UserAgentClientHintFullVersionList,ViewportHeightClientHintHeader --disable-features=CalculateNativeWinOcclusion,WinUseBrowserSpellChecker /prefetch:2
+===============
+ID: 65868, Name: HYPHelper.exe, CommandLine: "E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\HYPHelper" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --enable-experimental-web-platform-features --locales-dir-path="E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\resources\locales" --log-severity=disable --resources-dir-path="E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\resources" --user-agent="HYPContainer/1.0.5.88 (windows 10)" --lang=en-US --user-data-dir="C:\Users\Administrator\AppData\Roaming\Cognosphere\HYP\1_0\cache" --windows-job-name=CefView-Job-{f0a3c1e3-ff89-4581-8a45-f0bfd74c4bb0}-57096 --disable-extensions --renderer-process-limit=1 --enable-aggressive-domstorage-flushing --enable-experimental-web-platform-features --bridge-obj-name=HYPClient --log-file="E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\debug.log" --mojo-platform-channel-handle=3972 --field-trial-handle=3068,i,14873672422015173902,6136116303150620933,131072 --enable-features=BlockInsecurePrivateNetworkRequests,BlockInsecurePrivateNetworkRequestsFromPrivate,BlockInsecurePrivateNetworkRequestsFromUnknown,ClientHintThirdPartyDelegation,ClientHintsMetaHTTPEquivAcceptCH,ClientHintsMetaNameAcceptCH,ClipboardCustomFormats,CookieSameSiteConsidersRedirectChain,CriticalClientHint,DocumentPolicyNegotiation,DocumentReporting,EditContext,EnableCanvas2DLayers,ExperimentalContentSecurityPolicyFeatures,OriginIsolationHeader,OriginPolicy,PrefersColorSchemeClientHintHeader,PrivateNetworkAccessForWorkers,PrivateNetworkAccessRespectPreflightResults,SchemefulSameSite,UserAgentClientHint,UserAgentClientHintFullVersionList,ViewportHeightClientHintHeader --disable-features=CalculateNativeWinOcclusion,WinUseBrowserSpellChecker /prefetch:8
+===============
+ID: 64580, Name: HYPHelper.exe, CommandLine: "E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\HYPHelper" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --no-sandbox --enable-experimental-web-platform-features --locales-dir-path="E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\resources\locales" --log-severity=disable --resources-dir-path="E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\resources" --user-agent="HYPContainer/1.0.5.88 (windows 10)" --lang=en-US --user-data-dir="C:\Users\Administrator\AppData\Roaming\Cognosphere\HYP\1_0\cache" --windows-job-name=CefView-Job-{f0a3c1e3-ff89-4581-8a45-f0bfd74c4bb0}-57096 --disable-extensions --renderer-process-limit=1 --enable-aggressive-domstorage-flushing --enable-experimental-web-platform-features --bridge-obj-name=HYPClient --log-file="E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\debug.log" --mojo-platform-channel-handle=4064 --field-trial-handle=3068,i,14873672422015173902,6136116303150620933,131072 --enable-features=BlockInsecurePrivateNetworkRequests,BlockInsecurePrivateNetworkRequestsFromPrivate,BlockInsecurePrivateNetworkRequestsFromUnknown,ClientHintThirdPartyDelegation,ClientHintsMetaHTTPEquivAcceptCH,ClientHintsMetaNameAcceptCH,ClipboardCustomFormats,CookieSameSiteConsidersRedirectChain,CriticalClientHint,DocumentPolicyNegotiation,DocumentReporting,EditContext,EnableCanvas2DLayers,ExperimentalContentSecurityPolicyFeatures,OriginIsolationHeader,OriginPolicy,PrefersColorSchemeClientHintHeader,PrivateNetworkAccessForWorkers,PrivateNetworkAccessRespectPreflightResults,SchemefulSameSite,UserAgentClientHint,UserAgentClientHintFullVersionList,ViewportHeightClientHintHeader --disable-features=CalculateNativeWinOcclusion,WinUseBrowserSpellChecker /prefetch:8
+===============
+ID: 6060, Name: HYPHelper.exe, CommandLine: "E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\HYPHelper" --type=renderer --locales-dir-path="E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\resources\locales" --log-severity=disable --resources-dir-path="E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\resources" --user-agent="HYPContainer/1.0.5.88 (windows 10)" --disable-extensions --user-data-dir="C:\Users\Administrator\AppData\Roaming\Cognosphere\HYP\1_0\cache" --windows-job-name=CefView-Job-{f0a3c1e3-ff89-4581-8a45-f0bfd74c4bb0}-57096 --disable-extensions --renderer-process-limit=1 --enable-aggressive-domstorage-flushing --enable-experimental-web-platform-features --bridge-obj-name=HYPClient --no-sandbox --enable-experimental-web-platform-features --log-file="E:\Online Games\Genshin Impact\HoYoPlay\1.0.5.88\debug.log" --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --launch-time-ticks=10645335446 --mojo-platform-channel-handle=4388 --field-trial-handle=3068,i,14873672422015173902,6136116303150620933,131072 --enable-features=BlockInsecurePrivateNetworkRequests,BlockInsecurePrivateNetworkRequestsFromPrivate,BlockInsecurePrivateNetworkRequestsFromUnknown,ClientHintThirdPartyDelegation,ClientHintsMetaHTTPEquivAcceptCH,ClientHintsMetaNameAcceptCH,ClipboardCustomFormats,CookieSameSiteConsidersRedirectChain,CriticalClientHint,DocumentPolicyNegotiation,DocumentReporting,EditContext,EnableCanvas2DLayers,ExperimentalContentSecurityPolicyFeatures,OriginIsolationHeader,OriginPolicy,PrefersColorSchemeClientHintHeader,PrivateNetworkAccessForWorkers,PrivateNetworkAccessRespectPreflightResults,SchemefulSameSite,UserAgentClientHint,UserAgentClientHintFullVersionList,ViewportHeightClientHintHeader --disable-features=CalculateNativeWinOcclusion,WinUseBrowserSpellChecker /prefetch:1
+===============
+ID: 9444, Name: conhost.exe, CommandLine: \??\C:\windows\system32\conhost.exe 0x4
+===============
+ID: 64304, Name: MSBuild.exe, CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"
+===============
+ID: 49116, Name: conhost.exe, CommandLine: \??\C:\windows\system32\conhost.exe 0x4
+===============
+ID: 9580, Name: MSBuild.exe, CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"
+===============
+ID: 63700, Name: conhost.exe, CommandLine: \??\C:\windows\system32\conhost.exe 0x4
+===============
+ID: 3100, Name: MSBuild.exe, CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"
+===============
+ID: 65596, Name: conhost.exe, CommandLine: \??\C:\windows\system32\conhost.exe 0x4
+===============
+ID: 50272, Name: MSBuild.exe, CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"
+===============
+ID: 65788, Name: conhost.exe, CommandLine: \??\C:\windows\system32\conhost.exe 0x4
+===============
+ID: 65976, Name: MSBuild.exe, CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"
+===============
+ID: 51720, Name: conhost.exe, CommandLine: \??\C:\windows\system32\conhost.exe 0x4
+===============
+ID: 31428, Name: MSBuild.exe, CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"

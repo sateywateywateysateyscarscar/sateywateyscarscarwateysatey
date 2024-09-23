@@ -1,0 +1,38 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*  Telegram: https://t.me/redline_market_bot  *
+***********************************************
+
+1) CSMClient [4.00.0000]
+2) Google Chrome [126.0.6478.127]
+3) Intel(R) Chipset Device Software [10.1.19600.8418]
+4) Microsoft Visual C++ 2005 Redistributable [8.0.61001]
+5) Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 [9.0.30729]
+6) Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 [9.0.30729.6161]
+7) Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 [10.0.40219]
+8) Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 [11.0.61030.0]
+9) Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 [11.0.61030.0]
+10) Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 [11.0.61030]
+11) Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 [11.0.61030]
+12) Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664 [12.0.40664.0]
+13) Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 [12.0.40664.0]
+14) Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664 [12.0.40664]
+15) Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664 [12.0.40664]
+16) Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.36.32532 [14.36.32532.0]
+17) Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532 [14.36.32532.0]
+18) Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532 [14.36.32532]
+19) Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532 [14.36.32532]
+20) Microsoft XNA Framework Redistributable 3.0 [3.0.11010.0]
+21) Microsoft XNA Framework Redistributable 3.1 [3.1.10527.0]
+22) Microsoft XNA Framework Redistributable 4.0 [4.0.20823.0]
+23) MSXML 4.0 SP3 Parser [4.30.2100.0]
+24) Office 16 Click-to-Run Extensibility Component [16.0.14131.20320]
+25) Office 16 Click-to-Run Localization Component [16.0.14131.20278]
+26) Rockstar Games Launcher [1.0.78.1620]
+27) Rockstar Games Social Club [2.2.0.6]
