@@ -1,0 +1,114 @@
+Field: 3c7b0692059b2b7589ead81431a097a6
+Value: merxc
+Field: a29a53b980e6d6f46aa4633ff82bc828
+Value: mrxag
+Field: c
+Value: MzY2NzQyNqqpqbE01jM0NNUzNgJSZgA
+Field: email
+Value: bl-acksolution@hotmail.com
+Field: email
+Value: dsulej95@gmail.com
+Field: global_name
+Value: qerjwetiol
+Field: host
+Value: 31.0.80.198
+Field: host
+Value: 45.159.164.172
+Field: hub.0.host
+Value: https://cfcybernews.eu
+Field: iVerifyText
+Value: 542435
+Field: identifier
+Value: dsulej95@gmail.com
+Field: linkToShorten
+Value: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Field: login-username
+Value: mrzetroxxxx
+Field: loginfmt
+Value: car387507@gmail.com
+Field: mes1
+Value: 0
+Field: mes10
+Value: 0
+Field: mes11
+Value: 0
+Field: mes12
+Value: 0
+Field: mes13
+Value: 24
+Field: mes14
+Value: 0
+Field: mes15
+Value: 0
+Field: mes16
+Value: 0
+Field: mes17
+Value: 0
+Field: mes18
+Value: 1
+Field: mes19
+Value: 0
+Field: mes2
+Value: 0
+Field: mes3
+Value: 0
+Field: mes4
+Value: 0
+Field: mes5
+Value: 0
+Field: mes6
+Value: 0
+Field: mes7
+Value: 0
+Field: mes8
+Value: 0
+Field: mes9
+Value: 0
+Field: name
+Value: fgaasd
+Field: port
+Value: 0
+Field: q
+Value: arsenal roblox cheat
+Field: q
+Value: bat
+Field: q
+Value: batm
+Field: q
+Value: batman
+Field: q
+Value: batman kontra wojownicze żółie ninja
+Field: q
+Value: batman w cieniu 
+Field: q
+Value: doctor strange multiwersum obłędu
+Field: q
+Value: morbius
+Field: q
+Value: pam
+Field: q
+Value: pami
+Field: q
+Value: shang
+Field: q
+Value: shazam gniew
+Field: q
+Value: the originals
+Field: q
+Value: valorant hack
+Field: q
+Value: valorant injector
+Field: search
+Value: morbius
+Field: search-query
+Value: Dawid Polak
+Field: search-query
+Value: Wiktor Ptak
+Field: sf_url
+Value: https://vider.info/vid/+fxxm8s8
+Field: username
+Value: dsulej95@gmail.com
+Field: username
+Value: mrzerte
+Field: username
+Value: mrzetrx

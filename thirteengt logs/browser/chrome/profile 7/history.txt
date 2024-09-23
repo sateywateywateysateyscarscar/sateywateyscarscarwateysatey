@@ -1,0 +1,93 @@
+URL: https://accounts.google.com/signin/oauth/consent?authuser=1&part=AJi8hAPEwh1N4s1lfYOreLDziYfrt7wMtFIrIpxPRS97l2fMza2dElFWruxxDvXTKP2SSUZoiLa5HC4hv1EOPpQ46e1vbRaAG3BY_7-ATqL1taL6c2PUpvP2cAYFEIyj-NCcBwxt9J23mNtEZyIvGSIKfEJnLeFgGrJcbHdxLrMSPNdNitWw-ao3bbEB3K_Fo1o-Jc-gc2qiPTIDtWmmObKCcQU993klES7rKm8mHg8a5aBA4Oy_9awCcI1lsZlwQIMwJh5AuhML5pfi7xoaex5Qd4AMUqjvuNaiMWwyhFJadKEEtR2IJZD2DEMNHFAe8i9so-lQU_uMQmu7DEhYGgVije2Bui_bg6-GzoUVt2s0EdmK9UCXKfxco67YYe5kUYfsQ90jMeLgC68pEojLSRCKcaTii4a4PndrcRRbH_a1N78TdTumhKrBm8IxnshF3oq4PQfmv_1KRH4R0KbkenCUbtxJGy3LWA3dVxKa0i2zJWiu-KiQ8tCVAdriT-tOKwtKIfoUT-SoNP7sHIgaLmB5k3mHdZXgWc2G2g8cIM449MOgNcUfrMO_L6FhDRYg6K-fk1k4mU4F_KacVN-0icOHcKXwFBImzaBi6S1h77uA9reHC9CI1aYuldpW97JHrmyHwJgTk5v5&flowName=GeneralOAuthFlow&as=S671479355%3A1715537577112657&client_id=15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com&rapt=AEjHL4MFj-oVUmpKjvBq4eaVbBn-U1KEuKDU9hz0nbKn2KNz7vguFVBSEBfkdOowO7x2WTgTz3_HV3cINj0oC1qoxBHgKPgWdWlhRb-9rN_v390LOFEVuRE#
+TITLE: Error 400 (Bad Request)!!1
+TIME: 12.05.2024 21:13:39
+URL: https://www.google.com/search?q=messenger&oq=mes&gs_lcrp=EgZjaHJvbWUqDQgBEAAYgwEYsQMYgAQyDAgAEEUYORixAxiABDINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDINCAMQLhjHARjRAxiABDIKCAQQLhixAxiABDIHCAUQABiABDIKCAYQABixAxiABDIKCAcQABixAxiABDIKCAgQABixAxiABDIHCAkQABiPAtIBCTQ2MDdqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8
+TITLE: messenger - Szukaj w Google
+TIME: 12.05.2024 21:14:02
+URL: https://www.google.com/search?q=facebook&sca_esv=0181327e673e72d3&sxsrf=ADLYWIKQGxjWmghZoCPa_krI5NxB-SRg2Q%3A1715537639743&ei=5wZBZr7jK5q2wPAPjIaWqAE&udm=&oq=f&gs_lp=Egxnd3Mtd2l6LXNlcnAiAWYqAggDMgoQIxiABBgnGIoFMgQQIxgnMgoQIxiABBgnGIoFMhAQABiABBixAxhDGIMBGIoFMhAQABiABBixAxhDGIMBGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMhAQABiABBixAxhDGIMBGIoFMgsQABiABBixAxiDATIEEAAYA0jtI1DaBFiJEHACeAGQAQOYAYQBoAGeB6oBAzUuNLgBAcgBAPgBAZgCBKACvAKoAhHCAgoQABiwAxjWBBhHwgITEC4YgAQYsAMY0QMYQxjHARiKBcICExAuGIAEGLADGEMYyAMYigXYAQHCAhkQLhiABBiwAxjRAxhDGMcBGMgDGIoF2AEBwgIIEAAYgAQYsQPCAgUQABiABMICBxAjGCcY6gLCAg0QLhjRAxjHARgnGOoCwgITEAAYgAQYQxi0AhiKBRjqAtgBAsICGRAuGIAEGNEDGEMYtAIYxwEYigUY6gLYAQLCAhYQLhiABBhDGLQCGMgDGIoFGOoC2AEDwgIcEC4YgAQY0QMYQxi0AhjHARjIAxiKBRjqAtgBA5gDHogGAZAGC7oGBAgBGAi6BgYIAhABGAG6BgYIAxABGAiSBwMyLjKgB41K&sclient=gws-wiz-serp
+TITLE: facebook - Szukaj w Google
+TIME: 12.05.2024 21:14:12
+URL: https://www.facebook.com/?locale=pl_PL
+TITLE: Facebook – zaloguj się lub zarejestruj
+TIME: 12.05.2024 21:14:20
+URL: https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzE1NTM3NjU4LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D
+TITLE: Zaloguj się do Facebooka
+TIME: 12.05.2024 21:15:03
+URL: https://accounts.google.com/o/oauth2/auth?client_id=15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com&state=ARcs4gBXtASTemm9cii5q4LY81OYcdDn7MDl0wrIt24BNmVDWr9Jb_LJBPqwKhs2-7kiWqpas1gD6GzQMuqNU7LCij-TOZvyK4R-7BdMagijFJIJd5gYFF2F2wniopFW4vrskNFoZrlZUEJFpE-IQhMIGvNt_40Vk8lXpZlihHSQuCKLK_wz8cgweiS8oUoqdQ0bM8enPxfwmfu_wCGkowmonARWWF1I5GemQkAz47M-ylvUl2C_EvHSTZ9ubcjPaw0rx6FlDT3X0Cte2u9_p5GX&response_type=code&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foauth2%2Fredirect%2F&scope=openid+email&login_hint=car387507%40gmail.com
+TITLE: Logowanie – Konta Google
+TIME: 12.05.2024 21:15:41
+URL: https://accounts.google.com/o/oauth2/auth?client_id=15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com&state=ARcs4gBXtASTemm9cii5q4LY81OYcdDn7MDl0wrIt24BNmVDWr9Jb_LJBPqwKhs2-7kiWqpas1gD6GzQMuqNU7LCij-TOZvyK4R-7BdMagijFJIJd5gYFF2F2wniopFW4vrskNFoZrlZUEJFpE-IQhMIGvNt_40Vk8lXpZlihHSQuCKLK_wz8cgweiS8oUoqdQ0bM8enPxfwmfu_wCGkowmonARWWF1I5GemQkAz47M-ylvUl2C_EvHSTZ9ubcjPaw0rx6FlDT3X0Cte2u9_p5GX&response_type=code&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foauth2%2Fredirect%2F&scope=openid%20email&login_hint=car387507%40gmail.com&service=lso&o2v=1&ddm=0
+TITLE: Logowanie – Konta Google
+TIME: 12.05.2024 21:15:41
+URL: https://accounts.google.com/o/oauth2/auth/oauthchooseaccount?client_id=15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com&state=ARcs4gBXtASTemm9cii5q4LY81OYcdDn7MDl0wrIt24BNmVDWr9Jb_LJBPqwKhs2-7kiWqpas1gD6GzQMuqNU7LCij-TOZvyK4R-7BdMagijFJIJd5gYFF2F2wniopFW4vrskNFoZrlZUEJFpE-IQhMIGvNt_40Vk8lXpZlihHSQuCKLK_wz8cgweiS8oUoqdQ0bM8enPxfwmfu_wCGkowmonARWWF1I5GemQkAz47M-ylvUl2C_EvHSTZ9ubcjPaw0rx6FlDT3X0Cte2u9_p5GX&response_type=code&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foauth2%2Fredirect%2F&scope=openid%20email&login_hint=car387507%40gmail.com&service=lso&o2v=1&ddm=0&flowName=GeneralOAuthFlow
+TITLE: Logowanie – Konta Google
+TIME: 12.05.2024 21:15:41
+URL: https://accounts.google.com/signin/oauth/consent?authuser=0&part=AJi8hAMHGohQL3g7f-IoWd79cCqKXNWsG1WCxMHBC1SBYGYwSI1icRWeXgo6F4iHmpH1M2um3XRpzWABEnCrQBsNdq08UbYtJwMtqthX0__TkwDCJWeVRa-YqX4q9II2ZknieCu5x4MAxQIePlkKbB-HyjIJ9DlgXb0JZytew7tTb2Q2xLfBShhpJoMm5p89vXCxr0iP3UY37tbm_XcRjXlLu0BqzAsg_litH5i4STa-dNWIkSH4cRxcNTAoH0_Hit3YQopY1PvixCeeB7PZN195gup4Ma1F-P938KGO5xufcEa5lp_Rq9zYLF5TGxl_BgPVt9zMrWGuq4PJxzCExMqveuIAr--eqQiuEPYN-oTwmxkhlAIoS-VdcDGS8NuPL4gtIRoGI6P651Su06CS0OG3sRXjSATyMeWsDRKYjd2WdSJcnOkIQkHWl9ekP3a7rFtnVa6wJTlvzkGtIQScdfJfLKjuuSHpOg&flowName=GeneralOAuthFlow&as=S-1207208953%3A1715537739017707&client_id=15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com&pli=1&rapt=AEjHL4PSbq-VnRujCy_5_dce7pSYqdWPMI93B8sjr8Vrb30kHLaeP-qS_WNoS9ykamWaDdX4y8tgts2-OwBkxZtyy_1s0P5gEg#
+TITLE: Logowanie – Konta Google
+TIME: 12.05.2024 21:15:44
+URL: https://accounts.google.com/signin/oauth/id?authuser=0&part=AJi8hAOa9IfznFpIoidjrxEHq2bxQaezn76Yx_gIECLYfp9H1azU6BUa_pmN7glg7CNZ7fgJprWc7wO_pmzz3gQkJVRZHUmZleZGkuIQ8pKRYgjuQ7wc424Q54UrqaRJEMsr7JnXyIE8c5hHrSTTIY1x3LR8RFzrCdPEwJajkiWLqrEnOI3b6fcP5MApHhbeDZENnMvVMCYdkAtrSK5KPuIHeI-w1j40fcU_LY7QnyLYoPnU3--j6HYopNhOaCx4QzBnkqSYemWfsZhvm9lL14hHTHmxerNe97nqn8IQh5l_X_sasAb_gqK1-4CA6xxuot58NCvwdtFo6_PcbxLsfxnWKlWyTV_X63LwwL2AxbJTDWheepUWe1RCGkabIpwV8PpUKDy3tp8TQzskAG5ONiXVFjwjU58D1xMi4M4jnhMqnD24CM-gu40M_ZTJxoaU4UCtsjP-aTBjWhOWK5dgBbpCzdNQNZUO2dNsSyxgPA0DjmFiEjYSrX1d4Jw4ve6V0Ybo3ipnorn968OdCbvgPdvpdCNcq0Vi5Oq_P6f7dMRYNFX9S4aT70yrONS6ezrlzUVwwSQUnkCFyGvifQnfYG5mRZ7L9E7UGn7MI8eiIZKPiDUT4rx3DrXu_01MDKVfTBjllH64G1UH4ZG4wo3_zpHL5X_uoPZ4X07UWZ_P8JAX6wOMWK2aj2awMtJ0-SWy1LL6pFVIHa3I3SxdJtoFWsfNv8wXWGBYocgvLhsvH49bjw0A8qXveY5dI89QYbvpjzbELj0-2Ms5&flowName=GeneralOAuthFlow&as=S-1207208953%3A1715537739017707&client_id=15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com&rapt=AEjHL4PSbq-VnRujCy_5_dce7pSYqdWPMI93B8sjr8Vrb30kHLaeP-qS_WNoS9ykamWaDdX4y8tgts2-OwBkxZtyy_1s0P5gEg#
+TITLE: Logowanie – Konta Google
+TIME: 12.05.2024 21:15:44
+URL: https://accounts.google.com/signin/oauth/consent?as=S-1207208953:1715537739017707&authuser=0&client_id=15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com&flowName=GeneralOAuthFlow&part=AJi8hAPkJbPW5begBFzh0EezZYD2jMrZfSRdxT8B3ctbx_77SWPvGmfdmDThTJ3YrpTpj9yDxYUieTCVXXUnI0QvNZyYH-R-25DnPG-dxpAXSq0jLhUeFDJPgFdHwCuflC-AVhnd_EAkicINIWTbbpkq6D59W05gySMyc7qaq24A-iIM89cu-c153KRzfBXJokHUjVcMjditFf_lyKjR-QGOYEdcx2oS6G82hraZpN3244LXCyLvjRIDsip_DhBwbF2FILaNMcISaYe3bXWAeRov8cUi1cPDbSytpe-ZefVQeZ2kVSSZkjSCNlf3vlyyM17sLzUF3vhcIgO5JnLpy0Q1-ho7Ore_FbkeDSADF657553xTS2mhHLFsrXUoXcjc9cGZ6DXR5CDyC3iDE86wqpXn9sucueRp534ZwWNTq74qkaN_H9oa3ad6RU13mRjuOGU2n3HyVasogFS7WXJ19UaWoS4fg-wIW6N_APtt0WebqqYqGqreqlcBfwY90XPvL0YOh500X4cf8VKQG9fNeV3KICZSSDQirE5eFKVwgoJo_s39hqQRq5ztVJQHB8He5JzkjcIyUGXy9wXMEWk_zKJXPqxXdCdYvFGmywVvNzyRkw27Yy4XoPx2CPOhLiSy20UJ1pi4iFn4FCCYieswT-xTK_BNn73AzrHFIKJs1t4DYtkpD5M7sSBG2VquQazgz35fAQPEQD3cGZNOm2amWx0gW_bi76gHBPc840tXgMtmcBuTGbvMPK4GhaANW8AC9Hyv9GzDz2T&rapt=AEjHL4PSbq-VnRujCy_5_dce7pSYqdWPMI93B8sjr8Vrb30kHLaeP-qS_WNoS9ykamWaDdX4y8tgts2-OwBkxZtyy_1s0P5gEg
+TITLE: (1) Facebook
+TIME: 12.05.2024 21:15:49
+URL: https://www.facebook.com/oauth2/redirect/?state=ARcs4gBXtASTemm9cii5q4LY81OYcdDn7MDl0wrIt24BNmVDWr9Jb_LJBPqwKhs2-7kiWqpas1gD6GzQMuqNU7LCij-TOZvyK4R-7BdMagijFJIJd5gYFF2F2wniopFW4vrskNFoZrlZUEJFpE-IQhMIGvNt_40Vk8lXpZlihHSQuCKLK_wz8cgweiS8oUoqdQ0bM8enPxfwmfu_wCGkowmonARWWF1I5GemQkAz47M-ylvUl2C_EvHSTZ9ubcjPaw0rx6FlDT3X0Cte2u9_p5GX&code=4%2F0AdLIrYe_UVdweYbs04UAfqp0uUKLWIuRxGx3Gx22cRkt4Z20zJWi5sAVn-6a_90AqzuxRw&scope=email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent
+TITLE: (1) Facebook
+TIME: 12.05.2024 21:15:49
+URL: https://www.facebook.com/
+TITLE: (1) Facebook
+TIME: 12.05.2024 21:20:16
+URL: https://www.facebook.com/messenger_media?attachment_id=406351468619958&message_id=mid.%24cAAAABT5F51WTl6pKuGNZmT6fZzTE&thread_id=100070816839555
+TITLE: (1) Facebook
+TIME: 12.05.2024 21:16:43
+URL: https://www.facebook.com/?stype=lo&deoia=1&jlou=AfcKj5iU3sCY7WIAYXgAOpkrt84KC5v29OTsvRwk0N0CMhdzByH6T3Vmkw2p7F4CCkKqLucpdCwg_d08-4zZP7eh8e7YkCyGJQgyRCS5raGhGQ&smuh=17797&lh=Ac-Gd_LEugCPjCl1sP0
+TITLE: Facebook – zaloguj się lub zarejestruj
+TIME: 12.05.2024 21:16:59
+URL: https://www.facebook.com/recover/initiate/?ars=www_account_switcher
+TITLE: Nie pamiętam hasła | Nie mogę się zalogować | Facebook
+TIME: 12.05.2024 21:17:11
+URL: https://www.facebook.com/login/identify/?ctx=recover&ars=www_account_switcher&from_login_screen=0
+TITLE: Nie pamiętam hasła | Nie mogę się zalogować | Facebook
+TIME: 12.05.2024 21:17:11
+URL: https://www.facebook.com/login/identify/?ctx=recover&cuid_selected=AYhX4Cxns8M8pokVZyaZchKT2Jxp2Fi1vjlUojF3qbR6vgXH4pCQ_39ofa149eVSuepzcByOTLogHARYJ-F96LuOtTDm3kdB8QKt5Nr9GYpccuuNNa-xeJJa-vXiCNdOXc-AuaOdhuQ6p5vcIz-4GB7_fJMs_bT3DQqHpUaoDXbmxH-TWyZbH2KI04i5vkQvXvX0Jj9lX40oNW7TDPxIyjO8vqKr5kyZy7WsODwLXlHEXxUNUcDfbsQkY_BPkwW6yys&ldata=AWciPyqPh6mGlyjqmX137ct4iMdr0wpE-E2rDJbNtYFsnlg6pLBdROUauVyhoqWf03TvuchYkD2LVbu1YFbpcIJLYTHwib7v5_zPfJFWOwILxs6IXSe6XkrfhI4W0M9kvtzxSfozqQm1AnfmvuV_ggE9rSKDuTOk2pBcQuBUgHy1zeWRfu99_oqCUqJiD8itjbx1pWC5kGVtsXcAmtpw9DZjJExAQTUj39XyKwXTkAldH_NDoVXHw0mT3e1-R7G7o2E
+TITLE: Zaloguj się do Facebooka
+TIME: 12.05.2024 21:17:23
+URL: https://www.facebook.com/recover/initiate/?ldata=AWciPyqPh6mGlyjqmX137ct4iMdr0wpE-E2rDJbNtYFsnlg6pLBdROUauVyhoqWf03TvuchYkD2LVbu1YFbpcIJLYTHwib7v5_zPfJFWOwILxs6IXSe6XkrfhI4W0M9kvtzxSfozqQm1AnfmvuV_ggE9rSKDuTOk2pBcQuBUgHy1zeWRfu99_oqCUqJiD8itjbx1pWC5kGVtsXcAmtpw9DZjJExAQTUj39XyKwXTkAldH_NDoVXHw0mT3e1-R7G7o2E
+TITLE: Zaloguj się do Facebooka
+TIME: 12.05.2024 21:17:23
+URL: https://www.facebook.com/login/web/?email=665877993&is_from_lara=1
+TITLE: Zaloguj się do Facebooka
+TIME: 12.05.2024 21:17:40
+URL: https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=101
+TITLE: Zaloguj się do Facebooka
+TIME: 12.05.2024 21:17:33
+URL: https://www.facebook.com/login/help.php?st=opw&lwv=120&lwc=1348060
+TITLE: Pomoc dotycząca logowania
+TIME: 12.05.2024 21:17:37
+URL: https://www.facebook.com/recover/initiate/
+TITLE: Zaloguj się do Facebooka
+TIME: 12.05.2024 21:17:40
+URL: https://www.facebook.com/recover/initiate/?is_from_lara_screen=1
+TITLE: Nie pamiętam hasła | Nie mogę się zalogować | Facebook
+TIME: 12.05.2024 21:17:44
+URL: https://www.facebook.com/sms/captcha/?next=%2Fajax%2Frecover%2Finitiate%2F%3Fcuid%3DAYgzNZiuiAmmFaoQW9Y4wpycleeTnPOXHczYLuaI_3IZ6xwhwonEfAWk792BK7BhlKCf6AVzq2sMJtJ-sJ1mbdfGBcN04dEUxbbISqrv5nn5rfg2Hub6qNbS2foEmaLZxXGmZ8sivYNr6dKI5pQ6EZXc9AVYVx57CkmLQMYKfwbwWPkiJPVUOiHbkxjAxum76h-r7m8dN2bRTosHF2jLKYMj4w5lkNN7dNI36RNZ5b5Z1oWq2SZagkNw6SPflBW5iBHkcupkU97hX_qGfd1zeYnRgqtgrKph4YxiS7SlIUt0OYVdQvI0wC6OnnzxfjpTGrA%26recover_method%3Dsend_sms%253AAYj_KVZ45-AJzKp_m6qFbFSk4FNhtrFTVURd87KmrYw1FNMFd27AdpM3YriHlseozWlQqCEBR1I4HxbMjjaRTD4xNcMDfStGhl8N-o9ms4S0ZNh7XFePBabkSvdRkf8ppKs%26lara%3D1&next_mac=ASuwcllRoRdmQrNU6F4EirZ-bwkbD9cxOPfRiguFAFd-Owz2
+TITLE: Facebook
+TIME: 12.05.2024 21:17:49
+URL: https://www.facebook.com/recover/code/?ph[0]=%2B48665877993&rm=send_sms&cuid=AYhumra3e5HhCvy7ckLCEgky7bzh85EJC5ZjkmdPRLTs-bwdPSUWRwAkQooqhYgSI1t8OY-rKaguszYgOPkpF5Bj7JEezGT9JjsPcBusV5ws4Bah5BbWGUrBZct9vtCH_WMDO2ZyiWde15rykpfLukspRtkV1KJRMurIfEAYrs40N0Z4viQ7mZtvM6bCjD6ANR8taoYz70q3o6N_lLrLs-MQAs9qd8MWu_LEAO0LdyuAWJAiYJt5TMHfzp0zQBjOqTveQdtH6Q8lL4iJA5Nh2dTK0k3t2-GWBemTf42vAPKZREjOWShQMAzorgAkXKoclaQ&lara=1&hash=AUYewqVFvQlQ2iTc5v8
+TITLE: Facebook
+TIME: 12.05.2024 21:18:02
+URL: https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzE1NTM3ODgwLCJjYWxsc2l0ZV9pZCI6NDAwMDE1NzU4MDUxMTIzfQ%3D%3D&is_from_lara_screen=1
+TITLE: Nie pamiętam hasła | Nie mogę się zalogować | Facebook
+TIME: 12.05.2024 21:19:29
+URL: https://www.facebook.com/recover/code/?rm=send_push_to_session_login&cuid=AYhWA8fWlgpkop0lrkAzCQvOAPYpExngznfJARpJdaZWDItszoWyZIogNYHgz_Wab_NfAS0hy1WZUvQ_lQ-hYJv6V5lWWMpY7Wa-BE8Gg48qhmnsNITk_eDSYm8q5ANLDx1ZBxrtI3Y3KYqJyuezB97oY8TlGp9e-rc6HSZA7xbh4JAuAc1grmoGLqnQFXHJgJq5K-TkUEyLlpXextZ4gX-ZLaZyTpYlfk-XDBqMICfmuZb5NhDZomfK5z_4V4xsCj3M-Smg5mIOhxmzvFXjW_JH4NX3IKBRJVJuz8hFoGUMBERf4oKwFKrrXE3yh5dw-Lg&lara=1&hash=AUYozFF8Nm0SyviJMU4
+TITLE: Facebook
+TIME: 12.05.2024 21:19:42
+URL: https://www.facebook.com/recover/password/?u=100084334760150&n=329234&fl=default_recover&sih=0&msgr=0&rm=send_push_to_session_login
+TITLE: Facebook
+TIME: 12.05.2024 21:19:54
+URL: https://www.facebook.com/password/change/reason/
+TITLE: (1) Facebook
+TIME: 12.05.2024 21:20:12
+URL: file:///C:/Users/katar/Downloads/formularz%20do%20bierzmowania%202023%20skorzeszyce.pdf
+TITLE: formularz do bierzmowania 2023 skorzeszyce.pdf
+TIME: 12.05.2024 21:21:44

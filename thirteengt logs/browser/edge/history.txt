@@ -1,0 +1,216 @@
+URL: https://www.capcut.com/lvpc_web/login_proxy?platform=tiktok&lng=en&login_id=e6cbd055-8ff2-4695-be82-4c4adf5c16b2
+TITLE: login
+TIME: 09.03.2024 15:53:41
+URL: https://go.microsoft.com/fwlink/?linkid=2140622&channel=stable&version=122.0.2365.80
+TITLE: Microsoft Edge | Co nowego
+TIME: 09.03.2024 15:53:42
+URL: https://www.microsoft.com/edge/update?channel=stable&version=122.0.2365.80
+TITLE: Microsoft Edge | Co nowego
+TIME: 09.03.2024 15:53:42
+URL: https://www.microsoft.com/pl-pl/edge/update/122?form=MT00N1&channel=stable&version=122.0.2365.80
+TITLE: Microsoft Edge | Co nowego
+TIME: 09.03.2024 15:53:42
+URL: https://www.capcut.com/lvpc_web/login_proxy?platform=tiktok&lng=en&login_id=f3f17aff-ded1-4e94-8e03-1ca274705537
+TITLE: login
+TIME: 09.03.2024 15:55:46
+URL: https://www.tiktok.com/v2/auth/authorize/?client_key=awn8muh1wn7l5qjz&scope=user.info.basic,music.collection.sync,user.info.stats,user.info.profile,user.account.type&response_type=code&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_success&state={%22platform%22:%22tiktok%22,%22id%22:%22f3f17aff-ded1-4e94-8e03-1ca274705537%22}
+TITLE: Authorize with TikTok
+TIME: 09.03.2024 15:56:18
+URL: https://www.tiktok.com/login?lang=pl-PL&enter_method=web&enter_from=dev_awn8muh1wn7l5qjz&redirect_url=https%253A%252F%252Fwww.tiktok.com%252Fv2%252Fauth%252Fauthorize%252F%253Fclient_key%253Dawn8muh1wn7l5qjz%2526scope%253Duser.info.basic%252Cmusic.collection.sync%252Cuser.info.stats%252Cuser.info.profile%252Cuser.account.type%2526response_type%253Dcode%2526redirect_uri%253Dhttps%25253A%25252F%25252Fwww.capcut.com%25252Flvpc_web%25252Flogin_success%2526state%253D%257B%252522platform%252522%253A%252522tiktok%252522%252C%252522id%252522%253A%252522f3f17aff-ded1-4e94-8e03-1ca274705537%252522%257D&hide_left_icon=0&type=
+TITLE: Zaloguj się | TikTok
+TIME: 09.03.2024 15:55:47
+URL: https://www.tiktok.com/login/qrcode
+TITLE: Zaloguj się | TikTok
+TIME: 09.03.2024 15:55:53
+URL: https://www.capcut.com/lvpc_web/login_success?code=jlSXUuRKFrgaSMht0LA99QhqpBYyVfIN8QqNc3pAcTEVFkUi6SXSylMuePzcd9AMnJKE4H0Rnot-Rh2Q8c0QMLDm5fHqyc5NsqNPLOsZVb8eFPuvCSlwDryySvPr_x64itFPAiMbaN2PFXnkxif94f7TyOEDoM1PObm8rr-N9Ri_hfkRGf7VBMjBdBfL3bYLdhH8b5erZ810klLSdwazFQ%2A2%215934.e1&scopes=user.info.basic%2Cmusic.collection.sync%2Cuser.info.stats%2Cuser.info.profile%2Cuser.account.type&state=%7B%22platform%22%3A%22tiktok%22%2C%22id%22%3A%22f3f17aff-ded1-4e94-8e03-1ca274705537%22%7D
+TITLE: success
+TIME: 09.03.2024 15:56:34
+URL: https://www.capcut.com/lvpc_web/login_proxy?platform=tiktok&lng=en&login_id=f76589ea-ea3f-49a2-ad6c-f292c9e73ec6
+TITLE: login
+TIME: 09.03.2024 16:08:08
+URL: https://www.tiktok.com/v2/auth/authorize/?client_key=awn8muh1wn7l5qjz&scope=user.info.basic,music.collection.sync,user.info.stats,user.info.profile,user.account.type&response_type=code&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_success&state={%22platform%22:%22tiktok%22,%22id%22:%22f76589ea-ea3f-49a2-ad6c-f292c9e73ec6%22}
+TITLE: Authorize with TikTok
+TIME: 09.03.2024 16:08:09
+URL: https://www.capcut.com/lvpc_web/login_success?code=F74w049Z6Bg9C3gdm4SU8Sy-MNxCaCc1_f8aVT_o66yZdc-2L7IEkSi7Y6zdc5d5kBsbV49YAcIgN78v2sYxk6bZVDfV2lKeyI7UPKOnDvgk24ycC0mCci0KaFHdP0QXEP1buHZR_7nWAjJQwvg-z52mSmVTLsMGYRX55bFLQPsvSELHybXY2lMmM5ELYpxzPBzVyLBAa4OOSXvbL57WzA%2A0%215939.e1&scopes=user.info.basic%2Cmusic.collection.sync%2Cuser.info.stats%2Cuser.info.profile%2Cuser.account.type&state=%7B%22platform%22%3A%22tiktok%22%2C%22id%22%3A%22f76589ea-ea3f-49a2-ad6c-f292c9e73ec6%22%7D
+TITLE: success
+TIME: 09.03.2024 16:08:11
+URL: https://www.capcut.com/lvpc_web/login_proxy?platform=tiktok&lng=en&login_id=72f78e1f-0571-49fe-add6-3a9552c517e6
+TITLE: login
+TIME: 09.03.2024 16:08:28
+URL: https://www.tiktok.com/v2/auth/authorize/?client_key=awn8muh1wn7l5qjz&scope=user.info.basic,music.collection.sync,user.info.stats,user.info.profile,user.account.type&response_type=code&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_success&state={%22platform%22:%22tiktok%22,%22id%22:%2272f78e1f-0571-49fe-add6-3a9552c517e6%22}
+TITLE: Authorize with TikTok
+TIME: 09.03.2024 16:08:28
+URL: https://www.capcut.com/lvpc_web/login_success?code=WgkS1_UOnbmSnILMEJ8TiopubXhqEp_HlPCtvqg3Bu4ald5iv4BEUkXpCDLjVBKOEYtHROWoLAmM8AT8GSYtyNh3DrlStQ-NUhqIk3RrfM5xMujy5bgFg-Aq44wO4Sz-T2g__iEF5o8Wof9-bzQTKhm8a_B03zkiFv0aj6tHw64XRhlZ5wx3I_SUNqSzQlMfzt_siWmOhC-1age_8iJ8tA%2A0%215866.e1&scopes=user.info.basic%2Cuser.info.stats%2Cuser.info.profile%2Cuser.account.type%2Cmusic.collection.sync&state=%7B%22platform%22%3A%22tiktok%22%2C%22id%22%3A%2272f78e1f-0571-49fe-add6-3a9552c517e6%22%7D
+TITLE: success
+TIME: 09.03.2024 16:08:30
+URL: https://www.capcut.com/lvpc_web/login_proxy?platform=google&lng=en&login_id=4a4a8dba-2124-4940-b332-200bedf4a744
+TITLE: login
+TIME: 09.03.2024 16:08:48
+URL: https://accounts.google.com/o/oauth2/v2/auth?client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status&state=%7B%22client_id%22%3A%22128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22page%22%2C%22callback%22%3A%22_hellojs_amifmgje%22%2C%22state%22%3A%224a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status%22%2C%22scope%22%3A%22basic%22%2C%22page_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_proxy%3Fplatform%3Dgoogle%26lng%3Den%26login_id%3D4a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22oauth%22%3A%7B%22version%22%3A2%2C%22auth%22%3A%22https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%22%2C%22grant%22%3A%22https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken%22%7D%2C%22oauth_proxy%22%3A%22https%3A%2F%2Fauth-server.herokuapp.com%2Fproxy%22%7D&scope=openid%20profile&access_type=offline&prompt=consent
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:08:50
+URL: https://accounts.google.com/o/oauth2/v2/auth?client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status&state=%7B%22client_id%22%3A%22128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22page%22%2C%22callback%22%3A%22_hellojs_amifmgje%22%2C%22state%22%3A%224a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status%22%2C%22scope%22%3A%22basic%22%2C%22page_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_proxy%3Fplatform%3Dgoogle%26lng%3Den%26login_id%3D4a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22oauth%22%3A%7B%22version%22%3A2%2C%22auth%22%3A%22https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%22%2C%22grant%22%3A%22https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken%22%7D%2C%22oauth_proxy%22%3A%22https%3A%2F%2Fauth-server.herokuapp.com%2Fproxy%22%7D&scope=openid%20profile&access_type=offline&prompt=consent&servi
+ce=lso&o2v=2&theme=glif
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:08:51
+URL: https://accounts.google.com/o/oauth2/v2/auth/oauthchooseaccount?client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status&state=%7B%22client_id%22%3A%22128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22page%22%2C%22callback%22%3A%22_hellojs_amifmgje%22%2C%22state%22%3A%224a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status%22%2C%22scope%22%3A%22basic%22%2C%22page_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_proxy%3Fplatform%3Dgoogle%26lng%3Den%26login_id%3D4a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22oauth%22%3A%7B%22version%22%3A2%2C%22auth%22%3A%22https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%22%2C%22grant%22%3A%22https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken%22%7D%2C%22oauth_proxy%22%3A%22https%3A%2F%2Fauth-server.herokuapp.com%2Fproxy%22%7D&scope=openid%20profile&access_type=offline&p
+rompt=consent&service=lso&o2v=2&theme=glif&flowName=GeneralOAuthFlow
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:08:51
+URL: https://accounts.google.com/v3/signin/identifier?client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status&state=%7B%22client_id%22%3A%22128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22page%22%2C%22callback%22%3A%22_hellojs_amifmgje%22%2C%22state%22%3A%224a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status%22%2C%22scope%22%3A%22basic%22%2C%22page_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_proxy%3Fplatform%3Dgoogle%26lng%3Den%26login_id%3D4a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22oauth%22%3A%7B%22version%22%3A2%2C%22auth%22%3A%22https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%22%2C%22grant%22%3A%22https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken%22%7D%2C%22oauth_proxy%22%3A%22https%3A%2F%2Fauth-server.herokuapp.com%2Fproxy%22%7D&scope=openid%20profile&access_type=offline&prompt=consent&s
+ervice=lso&o2v=2&theme=glif&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANYFrUmwQ_en7ZnKIWVv0-0VFNmQ2S7u8fzguVkJ7b3ZADWoRpIqjwtmCBeBVXddpT87UtEkBP__Vb4UipkSeak5yo4lvk6kGNdSfdVYiCbDIGQsSZPavUUupkpxNYfdiQCpJwq39NmNvhc29lafotQZLUZ-GWCo3hs1SzKMPplC6Tx2gXRjTRa7ARsky_QBkVGWLBDejJmTr24cemJQuon_8zcMlIPggwSy_R3TnEW9RyWDZABG5Ory5qiXWmIGcELNNNTtISavI84QXKjJPCjKrjItPUOEjx6zVqDkMnc2O6aTcvRDmu06QL3FIRLH4EsEdEEgRk07Johtja6QwmNpYKcqa5QC-HhoNz-7bS1HptnHLx8-_eo4BycFhVzZmXLeGSWF7zKV6bXRtPcJOqxvbmC-TqcPo3Rxl0Kw7Gba5dftWzDL6QerpZKrwPH8KgLPR3QYwX2t5mgODsYYVwllDTWfQ%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif%23
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:11:02
+URL: https://accounts.google.com/v3/signin/challenge/pwd?TL=ADg0xR34VxlQdLXPVQi9QkwZkx1JUjhrgHx5Rd0Z2rvM7XbE5z6WTQeeL46RIf8U&access_type=offline&checkConnection=youtube%3A134&checkedDomains=youtube&cid=1&client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANYFrUmwQ_en7ZnKIWVv0-0VFNmQ2S7u8fzguVkJ7b3ZADWoRpIqjwtmCBeBVXddpT87UtEkBP__Vb4UipkSeak5yo4lvk6kGNdSfdVYiCbDIGQsSZPavUUupkpxNYfdiQCpJwq39NmNvhc29lafotQZLUZ-GWCo3hs1SzKMPplC6Tx2gXRjTRa7ARsky_QBkVGWLBDejJmTr24cemJQuon_8zcMlIPggwSy_R3TnEW9RyWDZABG5Ory5qiXWmIGcELNNNTtISavI84QXKjJPCjKrjItPUOEjx6zVqDkMnc2O6aTcvRDmu06QL3FIRLH4EsEdEEgRk07Johtja6QwmNpYKcqa5QC-HhoNz-7bS1HptnHLx8-_eo4BycFhVzZmXLeGSWF7zKV6bXRtPcJOqxvbmC-TqcPo3Rxl0Kw7Gba5dftWzDL6QerpZKrwPH8KgLPR3QYwX2t5mgODsYYVwllDTWfQ%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif%23&flowName=GeneralOAuthFlow&o2v=2&prompt=consent&pstMsg=
+1&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status&response_type=code&scope=openid%20profile&service=lso&state=%7B%22client_id%22%3A%22128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22page%22%2C%22callback%22%3A%22_hellojs_amifmgje%22%2C%22state%22%3A%224a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status%22%2C%22scope%22%3A%22basic%22%2C%22page_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_proxy%3Fplatform%3Dgoogle%26lng%3Den%26login_id%3D4a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22oauth%22%3A%7B%22version%22%3A2%2C%22auth%22%3A%22https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%22%2C%22grant%22%3A%22https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken%22%7D%2C%22oauth_proxy%22%3A%22https%3A%2F%2Fauth-server.herokuapp.com%2Fproxy%22%7D&theme=glif
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:11:19
+URL: https://accounts.google.com/v3/signin/challenge/pk/presend?TL=ADg0xR34VxlQdLXPVQi9QkwZkx1JUjhrgHx5Rd0Z2rvM7XbE5z6WTQeeL46RIf8U&access_type=offline&checkConnection=youtube%3A134&checkedDomains=youtube&cid=3&client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANYFrUmwQ_en7ZnKIWVv0-0VFNmQ2S7u8fzguVkJ7b3ZADWoRpIqjwtmCBeBVXddpT87UtEkBP__Vb4UipkSeak5yo4lvk6kGNdSfdVYiCbDIGQsSZPavUUupkpxNYfdiQCpJwq39NmNvhc29lafotQZLUZ-GWCo3hs1SzKMPplC6Tx2gXRjTRa7ARsky_QBkVGWLBDejJmTr24cemJQuon_8zcMlIPggwSy_R3TnEW9RyWDZABG5Ory5qiXWmIGcELNNNTtISavI84QXKjJPCjKrjItPUOEjx6zVqDkMnc2O6aTcvRDmu06QL3FIRLH4EsEdEEgRk07Johtja6QwmNpYKcqa5QC-HhoNz-7bS1HptnHLx8-_eo4BycFhVzZmXLeGSWF7zKV6bXRtPcJOqxvbmC-TqcPo3Rxl0Kw7Gba5dftWzDL6QerpZKrwPH8KgLPR3QYwX2t5mgODsYYVwllDTWfQ%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif%23&flowName=GeneralOAuthFlow&o2v=2&prompt=consent&
+pstMsg=1&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status&response_type=code&scope=openid%20profile&service=lso&state=%7B%22client_id%22%3A%22128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22page%22%2C%22callback%22%3A%22_hellojs_amifmgje%22%2C%22state%22%3A%224a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status%22%2C%22scope%22%3A%22basic%22%2C%22page_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_proxy%3Fplatform%3Dgoogle%26lng%3Den%26login_id%3D4a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22oauth%22%3A%7B%22version%22%3A2%2C%22auth%22%3A%22https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%22%2C%22grant%22%3A%22https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken%22%7D%2C%22oauth_proxy%22%3A%22https%3A%2F%2Fauth-server.herokuapp.com%2Fproxy%22%7D&theme=glif
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:11:35
+URL: https://accounts.google.com/v3/signin/challenge/pk/error?TL=ADg0xR34VxlQdLXPVQi9QkwZkx1JUjhrgHx5Rd0Z2rvM7XbE5z6WTQeeL46RIf8U&access_type=offline&checkConnection=youtube%3A134&checkedDomains=youtube&cid=3&client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANYFrUmwQ_en7ZnKIWVv0-0VFNmQ2S7u8fzguVkJ7b3ZADWoRpIqjwtmCBeBVXddpT87UtEkBP__Vb4UipkSeak5yo4lvk6kGNdSfdVYiCbDIGQsSZPavUUupkpxNYfdiQCpJwq39NmNvhc29lafotQZLUZ-GWCo3hs1SzKMPplC6Tx2gXRjTRa7ARsky_QBkVGWLBDejJmTr24cemJQuon_8zcMlIPggwSy_R3TnEW9RyWDZABG5Ory5qiXWmIGcELNNNTtISavI84QXKjJPCjKrjItPUOEjx6zVqDkMnc2O6aTcvRDmu06QL3FIRLH4EsEdEEgRk07Johtja6QwmNpYKcqa5QC-HhoNz-7bS1HptnHLx8-_eo4BycFhVzZmXLeGSWF7zKV6bXRtPcJOqxvbmC-TqcPo3Rxl0Kw7Gba5dftWzDL6QerpZKrwPH8KgLPR3QYwX2t5mgODsYYVwllDTWfQ%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif%23&flowName=GeneralOAuthFlow&o2v=2&prompt=consent&ps
+tMsg=1&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status&response_type=code&scope=openid%20profile&service=lso&state=%7B%22client_id%22%3A%22128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22page%22%2C%22callback%22%3A%22_hellojs_amifmgje%22%2C%22state%22%3A%224a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status%22%2C%22scope%22%3A%22basic%22%2C%22page_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_proxy%3Fplatform%3Dgoogle%26lng%3Den%26login_id%3D4a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22oauth%22%3A%7B%22version%22%3A2%2C%22auth%22%3A%22https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%22%2C%22grant%22%3A%22https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken%22%7D%2C%22oauth_proxy%22%3A%22https%3A%2F%2Fauth-server.herokuapp.com%2Fproxy%22%7D&theme=glif
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:12:19
+URL: https://accounts.google.com/v3/signin/challenge/dp?TL=ADg0xR34VxlQdLXPVQi9QkwZkx1JUjhrgHx5Rd0Z2rvM7XbE5z6WTQeeL46RIf8U&access_type=offline&checkConnection=youtube%3A134&checkedDomains=youtube&cid=6&client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANYFrUmwQ_en7ZnKIWVv0-0VFNmQ2S7u8fzguVkJ7b3ZADWoRpIqjwtmCBeBVXddpT87UtEkBP__Vb4UipkSeak5yo4lvk6kGNdSfdVYiCbDIGQsSZPavUUupkpxNYfdiQCpJwq39NmNvhc29lafotQZLUZ-GWCo3hs1SzKMPplC6Tx2gXRjTRa7ARsky_QBkVGWLBDejJmTr24cemJQuon_8zcMlIPggwSy_R3TnEW9RyWDZABG5Ory5qiXWmIGcELNNNTtISavI84QXKjJPCjKrjItPUOEjx6zVqDkMnc2O6aTcvRDmu06QL3FIRLH4EsEdEEgRk07Johtja6QwmNpYKcqa5QC-HhoNz-7bS1HptnHLx8-_eo4BycFhVzZmXLeGSWF7zKV6bXRtPcJOqxvbmC-TqcPo3Rxl0Kw7Gba5dftWzDL6QerpZKrwPH8KgLPR3QYwX2t5mgODsYYVwllDTWfQ%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif%23&flowName=GeneralOAuthFlow&o2v=2&prompt=consent&pstMsg=1
+&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status&response_type=code&scope=openid%20profile&service=lso&state=%7B%22client_id%22%3A%22128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22page%22%2C%22callback%22%3A%22_hellojs_amifmgje%22%2C%22state%22%3A%224a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status%22%2C%22scope%22%3A%22basic%22%2C%22page_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_proxy%3Fplatform%3Dgoogle%26lng%3Den%26login_id%3D4a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22oauth%22%3A%7B%22version%22%3A2%2C%22auth%22%3A%22https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%22%2C%22grant%22%3A%22https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken%22%7D%2C%22oauth_proxy%22%3A%22https%3A%2F%2Fauth-server.herokuapp.com%2Fproxy%22%7D&theme=glif
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:12:23
+URL: https://accounts.google.com/signin/v2/speedbump/changepassword?TL=ADg0xR34VxlQdLXPVQi9QkwZkx1JUjhrgHx5Rd0Z2rvM7XbE5z6WTQeeL46RIf8U&access_type=offline&checkConnection=youtube%3A134&checkedDomains=youtube&client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANYFrUmwQ_en7ZnKIWVv0-0VFNmQ2S7u8fzguVkJ7b3ZADWoRpIqjwtmCBeBVXddpT87UtEkBP__Vb4UipkSeak5yo4lvk6kGNdSfdVYiCbDIGQsSZPavUUupkpxNYfdiQCpJwq39NmNvhc29lafotQZLUZ-GWCo3hs1SzKMPplC6Tx2gXRjTRa7ARsky_QBkVGWLBDejJmTr24cemJQuon_8zcMlIPggwSy_R3TnEW9RyWDZABG5Ory5qiXWmIGcELNNNTtISavI84QXKjJPCjKrjItPUOEjx6zVqDkMnc2O6aTcvRDmu06QL3FIRLH4EsEdEEgRk07Johtja6QwmNpYKcqa5QC-HhoNz-7bS1HptnHLx8-_eo4BycFhVzZmXLeGSWF7zKV6bXRtPcJOqxvbmC-TqcPo3Rxl0Kw7Gba5dftWzDL6QerpZKrwPH8KgLPR3QYwX2t5mgODsYYVwllDTWfQ%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif%23&flowName=GeneralOAuthFlow&o2v=2&prompt=consent&ps
+tMsg=1&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status&response_type=code&scope=openid%20profile&service=lso&state=%7B%22client_id%22%3A%22128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22page%22%2C%22callback%22%3A%22_hellojs_amifmgje%22%2C%22state%22%3A%224a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status%22%2C%22scope%22%3A%22basic%22%2C%22page_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_proxy%3Fplatform%3Dgoogle%26lng%3Den%26login_id%3D4a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22oauth%22%3A%7B%22version%22%3A2%2C%22auth%22%3A%22https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%22%2C%22grant%22%3A%22https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken%22%7D%2C%22oauth_proxy%22%3A%22https%3A%2F%2Fauth-server.herokuapp.com%2Fproxy%22%7D&theme=glif
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:12:34
+URL: https://accounts.google.com/signin/v2/speedbump/changepassword/changepasswordnudge?TL=ADg0xR34VxlQdLXPVQi9QkwZkx1JUjhrgHx5Rd0Z2rvM7XbE5z6WTQeeL46RIf8U&access_type=offline&checkConnection=youtube%3A134&checkedDomains=youtube&client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANYFrUmwQ_en7ZnKIWVv0-0VFNmQ2S7u8fzguVkJ7b3ZADWoRpIqjwtmCBeBVXddpT87UtEkBP__Vb4UipkSeak5yo4lvk6kGNdSfdVYiCbDIGQsSZPavUUupkpxNYfdiQCpJwq39NmNvhc29lafotQZLUZ-GWCo3hs1SzKMPplC6Tx2gXRjTRa7ARsky_QBkVGWLBDejJmTr24cemJQuon_8zcMlIPggwSy_R3TnEW9RyWDZABG5Ory5qiXWmIGcELNNNTtISavI84QXKjJPCjKrjItPUOEjx6zVqDkMnc2O6aTcvRDmu06QL3FIRLH4EsEdEEgRk07Johtja6QwmNpYKcqa5QC-HhoNz-7bS1HptnHLx8-_eo4BycFhVzZmXLeGSWF7zKV6bXRtPcJOqxvbmC-TqcPo3Rxl0Kw7Gba5dftWzDL6QerpZKrwPH8KgLPR3QYwX2t5mgODsYYVwllDTWfQ%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif%23&flowName=GeneralOAuthFlow&o2v
+=2&prompt=consent&pstMsg=1&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status&response_type=code&scope=openid+profile&service=lso&state=%7B%22client_id%22%3A%22128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22page%22%2C%22callback%22%3A%22_hellojs_amifmgje%22%2C%22state%22%3A%224a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status%22%2C%22scope%22%3A%22basic%22%2C%22page_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_proxy%3Fplatform%3Dgoogle%26lng%3Den%26login_id%3D4a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22oauth%22%3A%7B%22version%22%3A2%2C%22auth%22%3A%22https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%22%2C%22grant%22%3A%22https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken%22%7D%2C%22oauth_proxy%22%3A%22https%3A%2F%2Fauth-server.herokuapp.com%2Fproxy%22%7D&theme=glif
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:12:34
+URL: https://accounts.google.com/signin/v2/speedbump/changepassword/changepasswordnudge?TL=ADg0xR34VxlQdLXPVQi9QkwZkx1JUjhrgHx5Rd0Z2rvM7XbE5z6WTQeeL46RIf8U&access_type=offline&checkConnection=youtube%3A134&checkedDomains=youtube&client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANYFrUmwQ_en7ZnKIWVv0-0VFNmQ2S7u8fzguVkJ7b3ZADWoRpIqjwtmCBeBVXddpT87UtEkBP__Vb4UipkSeak5yo4lvk6kGNdSfdVYiCbDIGQsSZPavUUupkpxNYfdiQCpJwq39NmNvhc29lafotQZLUZ-GWCo3hs1SzKMPplC6Tx2gXRjTRa7ARsky_QBkVGWLBDejJmTr24cemJQuon_8zcMlIPggwSy_R3TnEW9RyWDZABG5Ory5qiXWmIGcELNNNTtISavI84QXKjJPCjKrjItPUOEjx6zVqDkMnc2O6aTcvRDmu06QL3FIRLH4EsEdEEgRk07Johtja6QwmNpYKcqa5QC-HhoNz-7bS1HptnHLx8-_eo4BycFhVzZmXLeGSWF7zKV6bXRtPcJOqxvbmC-TqcPo3Rxl0Kw7Gba5dftWzDL6QerpZKrwPH8KgLPR3QYwX2t5mgODsYYVwllDTWfQ%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif%23&flowName=GeneralOAuthFlow&o2v
+=2&prompt=consent&pstMsg=1&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status&response_type=code&scope=openid%20profile&service=lso&state=%7B%22client_id%22%3A%22128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22page%22%2C%22callback%22%3A%22_hellojs_amifmgje%22%2C%22state%22%3A%224a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status%22%2C%22scope%22%3A%22basic%22%2C%22page_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_proxy%3Fplatform%3Dgoogle%26lng%3Den%26login_id%3D4a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22oauth%22%3A%7B%22version%22%3A2%2C%22auth%22%3A%22https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%22%2C%22grant%22%3A%22https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken%22%7D%2C%22oauth_proxy%22%3A%22https%3A%2F%2Fauth-server.herokuapp.com%2Fproxy%22%7D&theme=glif
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:12:35
+URL: https://accounts.google.com/CheckCookie?continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMjV3d4wUym_1OT_JBs7rfZOdx62_CwdxBVjITU0DKx_hTW5bkUvi5bs5zlbrlMvTTQAEgrwcqDwq67ADI8UbH_ccnA3m475_pgdmuXFn4wGbJ1l0P4r4etGoN1zMxJpfhWAGflrYVHIngBhzK_lGFWThuzk7R79hf-7OjKqSlvk9Jkt8zZK2-K2NGxk2EwqPeQ7apbNB89_PtWN--USkZ7y6FZx16UUi0E_nSagf961YqOtD5dq5gMKVtrUzI4Tv1nv-xTM2buXNQLekbZ5c4NqfxRmPaYYRywlUv6xMCjM-ZgupOsTk3ZZzqA217YUYwqf1lZtdOkCWAzIDk6l3lA-Mug_8jMUo13i4llL2LYAOkAyuJhRb4-kqLT_V8TkKArPTdPnXj_iS0a7VITQUnIqD3iXUqEdSTZNdEMffp5CPNEETVJxGsdwFY7osHKy8DC_R3Kfznz2hsKtMdjSyVjSkJuWg%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif%23&service=lso&hl=pl&checkedDomains=youtube&checkConnection=youtube%3A134&pstMsg=1&flowName=GeneralOAuthFlow&client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&theme=glif&redirect_uri=https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status&scope=openid+profile&o2v=2&c
+html=LoginDoneHtml&gidl=EgIIAA
+TITLE: Przekierowuję
+TIME: 09.03.2024 16:12:48
+URL: https://accounts.youtube.com/accounts/SetSID?ssdc=1&sidt=ALWU2cuLQddMeTOd1MJB7%2F2U%2Fo1W2LYxv1%2B4T2Iq40hCY9yNnZIdIWkMu3%2Fb%2BSEMOBVQei3etFrEUajbvwWf2FQW6mLEGYzubd1i3LqRDyPVaybxIyrigOQeVWGo7oL8J%2Ffy4539qVngwbyk6irjaX04eLPyDYaQiDkyAh0%2BVmtvMkcpSNQfdiUpYLqfZ6bdnMfZuaRZS3co87chu5Y9Q3yj1v3ifBk0njgWrLJ54jDPdFqz0SM2xgGnN91JzjUt719ncoT1VfDNedlB2BlOGnd5BC8ttzHWbKGMwyO5haJo8U2eOIOmr%2FGzHejhKc1gsRdLJNtwL4bIBzatxM%2BJ2WI1xKHzrei1JDLqbgy6c3cNOoGDfQGWqLoWjNvsLZTAE4tgxcKfAVtnd9EzU7qdIljORlwcx5g4NvL9jrbnfWibEfBd0a9EpuwJum%2FlhNlBJWdy%2FCJSC99uFu4ZKnYbXdZfNQqXk3rFDCdXycRZ5txIpDWatLl8qvYJTN4x3T4uYV0o2pk95XeXO81HH7IVJDRP2I7wejWNnAPVlUg9EYdTUPIFMWwHbG5nnJUwiXjcoiHOCCUVdfnymS%2Fn8NSHCTAREfRePqqq9kBFbw6vx%2BgtRtWuhy4pGdmzVq0pesXRxHzDF3H4cx5b1tThcCELqliYDbfNypTSBM6nGRJvdza738Z%2B%2FqC0FpzkINj2guo7cai241SCucMKYoOCMs6ZbLZSNK445SOHoE8xE%2BxEEt7yeXbOtCNseuID%2FBIeSjDk63KIJPppDU56e6RrBsALN4aU5hvZk5OtLQ%3D%3D&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3D0%26part%3DAJi8hAMjV3d4wUym_1OT_JBs7rfZOdx62_CwdxBVjITU0DKx_hTW5bkUvi5bs5zlbrlMvTTQAEgrwcqDwq67ADI8UbH_ccnA3m47
+5_pgdmuXFn4wGbJ1l0P4r4etGoN1zMxJpfhWAGflrYVHIngBhzK_lGFWThuzk7R79hf-7OjKqSlvk9Jkt8zZK2-K2NGxk2EwqPeQ7apbNB89_PtWN--USkZ7y6FZx16UUi0E_nSagf961YqOtD5dq5gMKVtrUzI4Tv1nv-xTM2buXNQLekbZ5c4NqfxRmPaYYRywlUv6xMCjM-ZgupOsTk3ZZzqA217YUYwqf1lZtdOkCWAzIDk6l3lA-Mug_8jMUo13i4llL2LYAOkAyuJhRb4-kqLT_V8TkKArPTdPnXj_iS0a7VITQUnIqD3iXUqEdSTZNdEMffp5CPNEETVJxGsdwFY7osHKy8DC_R3Kfznz2hsKtMdjSyVjSkJuWg%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif%23&tcc=1&dbus=PL
+TITLE: Przekierowuję
+TIME: 09.03.2024 16:12:48
+URL: https://accounts.google.pl/accounts/SetSID?ssdc=1&sidt=ALWU2ctJKtGJTqMS18R9XMBBYrElIifI6yEXz331jI7Iy81lobyzdQjh8W4gKDAP1vVEwJlcdMYF5rpZRexMet6gZxiRqbb6CB5y4UEI0ifludYO89fr1L4wb5EE25g1iiFcadT%2B8L%2BivuQldBqsUeMMEkYmOx94tu7mEZ8s2zFdZlStzN79tacJe5/QCHvUByUzh/xE7hCC9lzPVwE8DapWtAnQotWbcko7j2lHTLhTeDniPWQU0RKeVqSJMkBPI0oqDlcXTVhRLUrQh6n0F8DxQagvKdasnEGQQib/X8KmI/T%2Bm/h6uoJfiwYwv3f28KQWFI9FQUZJ61AiASUkckLn%2BiJPIaWXvDXP%2B3Z9T9%2BsEBo9AxRl6E6OEoW3KkCfk8m2WHSA/KP6V30RCFJkyiTqeKpE/4BQjwsuOXtGjw7UpBwLuQbaZw8miYB0Ypg34o4N5zTPLoih9M9ZPCmnoX8NhIlgZpCnALSXnIapIWzyTtNCxYkQlFHlNedxalIt8qoX5vcIe6Rm4g19vsn1rmBgWkfJLP6PiIfqRtCg0FPo3WW8yzOmXxsRP2gxk3Vyb/B9%2BsmYnI7kFajtJLece3HDaX%2BIfKpExk0KuKS4WLJ5T3GHstROQShCUtzYQFOEPUWpU145Z7JY4rFN3oeBXFNbN/GJqwbGzZfIyWm3doFGWSMcrG7BXBmXslpsIFrRSUp0upx9YwnfCuA2xvwo6dd5biZKQJwOsvnlKqa4vdp/aFI8rpM8yI7hJn5NU1zrDeNkv5zDXWTChQQS/sIbRI%2BK47PJhyQBrA%3D%3D&continue=https://accounts.google.com/signin/oauth/consent?authuser%3D0%26part%3DAJi8hAMjV3d4wUym_1OT_JBs7rfZOdx62_CwdxBVjITU0DKx_hTW5bkUvi5bs5zlbrlMvTTQAEgrwcqDwq67ADI8UbH_ccnA3m475_pgdmuXFn4wGbJ1l0P4r4etGoN1zMxJ
+pfhWAGflrYVHIngBhzK_lGFWThuzk7R79hf-7OjKqSlvk9Jkt8zZK2-K2NGxk2EwqPeQ7apbNB89_PtWN--USkZ7y6FZx16UUi0E_nSagf961YqOtD5dq5gMKVtrUzI4Tv1nv-xTM2buXNQLekbZ5c4NqfxRmPaYYRywlUv6xMCjM-ZgupOsTk3ZZzqA217YUYwqf1lZtdOkCWAzIDk6l3lA-Mug_8jMUo13i4llL2LYAOkAyuJhRb4-kqLT_V8TkKArPTdPnXj_iS0a7VITQUnIqD3iXUqEdSTZNdEMffp5CPNEETVJxGsdwFY7osHKy8DC_R3Kfznz2hsKtMdjSyVjSkJuWg%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif%23&tcc=1
+TITLE: Przekierowuję
+TIME: 09.03.2024 16:12:48
+URL: https://accounts.google.pl/accounts/SetSID
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:12:48
+URL: https://accounts.google.com/signin/oauth/consent?authuser=0&part=AJi8hAMjV3d4wUym_1OT_JBs7rfZOdx62_CwdxBVjITU0DKx_hTW5bkUvi5bs5zlbrlMvTTQAEgrwcqDwq67ADI8UbH_ccnA3m475_pgdmuXFn4wGbJ1l0P4r4etGoN1zMxJpfhWAGflrYVHIngBhzK_lGFWThuzk7R79hf-7OjKqSlvk9Jkt8zZK2-K2NGxk2EwqPeQ7apbNB89_PtWN--USkZ7y6FZx16UUi0E_nSagf961YqOtD5dq5gMKVtrUzI4Tv1nv-xTM2buXNQLekbZ5c4NqfxRmPaYYRywlUv6xMCjM-ZgupOsTk3ZZzqA217YUYwqf1lZtdOkCWAzIDk6l3lA-Mug_8jMUo13i4llL2LYAOkAyuJhRb4-kqLT_V8TkKArPTdPnXj_iS0a7VITQUnIqD3iXUqEdSTZNdEMffp5CPNEETVJxGsdwFY7osHKy8DC_R3Kfznz2hsKtMdjSyVjSkJuWg&flowName=GeneralOAuthFlow&as=S1829259949%3A1709989729840929&client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&theme=glif#
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:12:49
+URL: https://accounts.google.com/ServiceLogin?rart=ANgoxcePKCkzHZwAdE6shN7JgzJ_VsDXrkyLM-0JkXqgDXXQA4yQsLWVj37rOCzJARk0ekPmwumcPBJJKuDYBQzw3phWtrLmyp32rHd-B22T9y7-uBVHRX8&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3D0%26part%3DAJi8hAMjV3d4wUym_1OT_JBs7rfZOdx62_CwdxBVjITU0DKx_hTW5bkUvi5bs5zlbrlMvTTQAEgrwcqDwq67ADI8UbH_ccnA3m475_pgdmuXFn4wGbJ1l0P4r4etGoN1zMxJpfhWAGflrYVHIngBhzK_lGFWThuzk7R79hf-7OjKqSlvk9Jkt8zZK2-K2NGxk2EwqPeQ7apbNB89_PtWN--USkZ7y6FZx16UUi0E_nSagf961YqOtD5dq5gMKVtrUzI4Tv1nv-xTM2buXNQLekbZ5c4NqfxRmPaYYRywlUv6xMCjM-ZgupOsTk3ZZzqA217YUYwqf1lZtdOkCWAzIDk6l3lA-Mug_8jMUo13i4llL2LYAOkAyuJhRb4-kqLT_V8TkKArPTdPnXj_iS0a7VITQUnIqD3iXUqEdSTZNdEMffp5CPNEETVJxGsdwFY7osHKy8DC_R3Kfznz2hsKtMdjSyVjSkJuWg%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif&authuser=0
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:12:49
+URL: https://accounts.google.com/InteractiveLogin?authuser=0&continue=https://accounts.google.com/signin/oauth/consent?authuser%3D0%26part%3DAJi8hAMjV3d4wUym_1OT_JBs7rfZOdx62_CwdxBVjITU0DKx_hTW5bkUvi5bs5zlbrlMvTTQAEgrwcqDwq67ADI8UbH_ccnA3m475_pgdmuXFn4wGbJ1l0P4r4etGoN1zMxJpfhWAGflrYVHIngBhzK_lGFWThuzk7R79hf-7OjKqSlvk9Jkt8zZK2-K2NGxk2EwqPeQ7apbNB89_PtWN--USkZ7y6FZx16UUi0E_nSagf961YqOtD5dq5gMKVtrUzI4Tv1nv-xTM2buXNQLekbZ5c4NqfxRmPaYYRywlUv6xMCjM-ZgupOsTk3ZZzqA217YUYwqf1lZtdOkCWAzIDk6l3lA-Mug_8jMUo13i4llL2LYAOkAyuJhRb4-kqLT_V8TkKArPTdPnXj_iS0a7VITQUnIqD3iXUqEdSTZNdEMffp5CPNEETVJxGsdwFY7osHKy8DC_R3Kfznz2hsKtMdjSyVjSkJuWg%26flowName%3DGeneralOAuthFlow%26as%3DS1829259949%253A1709989729840929%26client_id%3D128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%26theme%3Dglif&rart=ANgoxcePKCkzHZwAdE6shN7JgzJ_VsDXrkyLM-0JkXqgDXXQA4yQsLWVj37rOCzJARk0ekPmwumcPBJJKuDYBQzw3phWtrLmyp32rHd-B22T9y7-uBVHRX8&ifkv=ATuJsjy36yYNP2kOkekXQpxMdlmMUs4VpkIIKWGsrS3IrACGzxEGVAp0kBhivkcVHctDA2fsc0PTcg
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:12:49
+URL: https://accounts.google.com/signin/oauth/consent?authuser=0&part=AJi8hAMjV3d4wUym_1OT_JBs7rfZOdx62_CwdxBVjITU0DKx_hTW5bkUvi5bs5zlbrlMvTTQAEgrwcqDwq67ADI8UbH_ccnA3m475_pgdmuXFn4wGbJ1l0P4r4etGoN1zMxJpfhWAGflrYVHIngBhzK_lGFWThuzk7R79hf-7OjKqSlvk9Jkt8zZK2-K2NGxk2EwqPeQ7apbNB89_PtWN--USkZ7y6FZx16UUi0E_nSagf961YqOtD5dq5gMKVtrUzI4Tv1nv-xTM2buXNQLekbZ5c4NqfxRmPaYYRywlUv6xMCjM-ZgupOsTk3ZZzqA217YUYwqf1lZtdOkCWAzIDk6l3lA-Mug_8jMUo13i4llL2LYAOkAyuJhRb4-kqLT_V8TkKArPTdPnXj_iS0a7VITQUnIqD3iXUqEdSTZNdEMffp5CPNEETVJxGsdwFY7osHKy8DC_R3Kfznz2hsKtMdjSyVjSkJuWg&flowName=GeneralOAuthFlow&as=S1829259949%3A1709989729840929&client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&theme=glif&pli=1&rapt=AEjHL4MWckY0AiBLTewuwwDISVkYK1ZpLCal437Yfw9wCh7m4r5IvhWTTiQBps8-beZ5x6IxQ_5D36XDw0ZmA6zzx8YyUUefr6YbHTi39H9BvM6bnqZEZNo
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:12:49
+URL: https://accounts.google.com/signin/oauth/id?authuser=0&part=AJi8hAMEWXA3aDkUaN_pcbzNlPODUN3kqxBhUh0b9e5oG_n1MJyvCTP0l2FdEGC82dP-f4ZJUTNYkAIEcOWnrWMmc2cFSKzztrWIJMdKI4Ap1H3qxnFwNptJQAGDw-36If4gr_nPjjY64bnpomwCppqRcHf_iXYkRg1ODEKkmIV5t3F-aM_DWjldb5O0-fqgqSR_HLkp8Ssv4BswCvOdFTU-Q74OpXUdoHQ62Rjf-ZRZ4BzXA9reFEDowVnG4dQ0rpQ0_UtNgBMACgbx8jk8lm0LtRqHYvuggBp7ENiLyqUDp8LHaAs5pbVxfrp1WDuYEk1gLvnlMgZ5sRCmSsABP1TKaJnQxJS1cq1-DkaFEFIOs1tOzuT9jMIRmnKDxBY9CFM3wcvEkSLwGzQ8npcmkQLSh1PZUWKksvDMGH2FH71TySgQIi90TeAGxeID846_3ME3Yo-aLrFz1dgvz8F-CZrHbFvYisb3mcw3SuB-SzDB_uRTO__do9L3IuUssJQzhKy1g6oj4UO590PNxFazslwnMBvjrjq9FENoKxfdhfNtzbrGUyN5DzywlTp8b6p8v8uHwz-uaXIHnpqWZPWlDHHn5lzxA3IR8gjFxeTJ2tydNf5_w9qNcjwz0d3hcMYl1D-BfPllKyJkQBb752BjOoAjdannm9cIPzPdxlPzqSsGsZRzEHDg-w8e6CCiA6SgZ9Lmzx8rdUcX-5BDnmnQdRUB2OnrdRhNRgKAqv_N6L7bz-8LUenFZhmRwDQxUOfCfzeg51UYfOdv&flowName=GeneralOAuthFlow&as=S1829259949%3A1709989729840929&client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&rapt=AEjHL4MWckY0AiBLTewuwwDISVkYK1ZpLCal437Yfw9wCh7m4r5IvhWTTiQBps8-beZ5x6IxQ_5D36XDw0ZmA6zzx8YyUUefr6YbHTi39
+H9BvM6bnqZEZNo&theme=glif#
+TITLE: Logowanie – Konta Google
+TIME: 09.03.2024 16:12:49
+URL: https://accounts.google.com/signin/oauth/consent?as=S1829259949:1709989729840929&authuser=0&client_id=128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com&flowName=GeneralOAuthFlow&part=AJi8hAM_EgP2Zr3GwLnJjEewaCkooaDVS5kGt7zY8lPlgoUQrvO1HKiEhVtvufzeJcfD0Mj0I3m6CR-9TD3y5LdFt4eyyInhywnnluC6K96fAm3gkYggg_7d7xNEbPUUn6zgJSxFfy5qTAXAp3qXvHqNvD5W1ApVynEGmv8bH32j1FwgAKeRanrhrxr2Pm5rOQjCn8v_47ETo9W5RoX3qKZxeS0u8lYcCm-Ma0kyXlO809gCr11FONj1UYy63WrHZV8sCbrid5d7t3V6SAuHXIGhRH3cS0fnA_k7IGvAyY9tZ3Te7MOk0IKrUfYYwTCvEezz11tBe_skMqyBpMAIe2M-JUOHEJg0jMPL7_NfaX6mhwZ25aM7Asgu5gRHJdGb0ylJh-y0OJ7w_dd57lAQmiF414IZCHCwL0-Fv3dEXPeiUWdZqABKF26jFWcf07unPNSXe8Ee3CIxgrApKQk0He6Nm6Tf4-hkS9gtbo6lkhvPomi29SkSl4MwYfZhGaUxsO9IdyPfjPFu2zCutZczN7FdoWlxsr0E6OFE_bA9NNebp3WlxI8zWIvVshF1Ln1KTK7K5ikihRaJW98k0vp0Fh8yNMZLHSpJbpuCKATXhFjwdMoE6ugg1yoBsx0DbAhXJ_HTBqPpegYcfo2dK6E511X_Gax35QMOEOxK3MzDYDhyZAdhisZPquApNBuZqcEXZkafOfFBfuAwHFC_7vPNVuYXVQDjOnrxcgQF-XfNyZrhio_Y6YY7DM2jHEtcMNsSNSRueyZp7rqg&rapt=AEjHL4MWckY0AiBLTewuwwDISVkYK1ZpLCal437Yfw9wCh7m4r5IvhWTTiQBps8-beZ5x6IxQ_5D36XDw0ZmA6zzx8YyUUefr6YbHT
+i39H9BvM6bnqZEZNo&theme=glif
+TITLE: success
+TIME: 09.03.2024 16:12:53
+URL: https://www.capcut.com/lvpc_web/login_status?state=%7B%22client_id%22%3A%22128657643583-as9ej2egc82vfu0u2efr77nmpahej5h0.apps.googleusercontent.com%22%2C%22network%22%3A%22google%22%2C%22display%22%3A%22page%22%2C%22callback%22%3A%22_hellojs_amifmgje%22%2C%22state%22%3A%224a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22redirect_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_status%22%2C%22scope%22%3A%22basic%22%2C%22page_uri%22%3A%22https%3A%2F%2Fwww.capcut.com%2Flvpc_web%2Flogin_proxy%3Fplatform%3Dgoogle%26lng%3Den%26login_id%3D4a4a8dba-2124-4940-b332-200bedf4a744%22%2C%22oauth%22%3A%7B%22version%22%3A2%2C%22auth%22%3A%22https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%22%2C%22grant%22%3A%22https%3A%2F%2Fwww.googleapis.com%2Foauth2%2Fv4%2Ftoken%22%7D%2C%22oauth_proxy%22%3A%22https%3A%2F%2Fauth-server.herokuapp.com%2Fproxy%22%7D&code=4%2F0AeaYSHCdRpyC_GgP0GkomCCcMjtGthYS9ozKvSVb09eCubcq0KNCdOZpNR8Q_ZsqFN-3sQ&scope=profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=consent
+TITLE: success
+TIME: 09.03.2024 16:12:53
+URL: https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win10-x64&apphost_version=7.0.1&gui=true
+TITLE: Download .NET 7.0 Desktop Runtime (v7.0.18) - Windows x64 Installer
+TIME: 21.04.2024 15:27:44
+URL: https://dotnet.microsoft.com/get-dotnet/dotnet-core?missing_runtime=true&arch=x64&rid=win10-x64&apphost_version=7.0.1&gui=true
+TITLE: Download .NET 7.0 Desktop Runtime (v7.0.18) - Windows x64 Installer
+TIME: 21.04.2024 15:27:44
+URL: https://dotnet.microsoft.com/download/dotnet/7.0/runtime?cid=getdotnetcore&runtime=desktop&os=windows&arch=x64
+TITLE: Download .NET 7.0 Desktop Runtime (v7.0.18) - Windows x64 Installer
+TIME: 21.04.2024 15:27:44
+URL: https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-7.0.18-windows-x64-installer?cid=getdotnetcore
+TITLE: Download .NET 7.0 Desktop Runtime (v7.0.18) - Windows x64 Installer
+TIME: 21.04.2024 15:27:44
+URL: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.18-windows-x64-installer?cid=getdotnetcore
+TITLE: Download .NET 7.0 Desktop Runtime (v7.0.18) - Windows x64 Installer
+TIME: 21.04.2024 15:27:44
+URL: https://wallpapercave.com/
+TITLE: Wallpaper Cave
+TIME: 21.04.2024 15:45:51
+URL: https://go.microsoft.com/fwlink/?linkid=2140622&channel=stable&version=124.0.2478.51
+TITLE: Microsoft Edge | Co nowego
+TIME: 21.04.2024 15:45:53
+URL: https://www.microsoft.com/edge/update?channel=stable&version=124.0.2478.51
+TITLE: Microsoft Edge | Co nowego
+TIME: 21.04.2024 15:45:53
+URL: https://www.microsoft.com/pl-pl/edge/update/124?form=MT00O8&channel=stable&version=124.0.2478.51
+TITLE: Microsoft Edge | Co nowego
+TIME: 21.04.2024 15:45:53
+URL: https://kiwi-development.gitbook.io/kiwi-x-external/more-information/models
+TITLE: 🤖 Models - Guide | Kiwi X External
+TIME: 21.04.2024 16:59:35
+URL: https://kiwi-development.gitbook.io/kiwi-x-external/more-information/models-guide
+TITLE: 🤖 Models - Guide | Kiwi X External
+TIME: 21.04.2024 16:59:37
+URL: https://www.makesense.ai/
+TITLE: Make Sense
+TIME: 21.04.2024 17:00:22
+URL: https://www.bing.com/search?q=tlauncher&form=WSBEDG&qs=OS&cvid=3a5d0189dec44a87b3814132c4e5bf44&pq=tlun&cc=PL&setlang=pl-PL&PC=NMTS&nclid=A72DD54C57AC06A6A51D8561A2A7988F&ts=1713713409139&nclidts=1713713409&tsms=139&wsso=Moderate
+TITLE: tlauncher - Wyszukaj
+TIME: 21.04.2024 18:30:11
+URL: https://www.bing.com/search?q=tlauncher&form=WSBEDG&qs=OS&cvid=3a5d0189dec44a87b3814132c4e5bf44&pq=tlun&cc=PL&setlang=pl-PL&PC=NMTS&nclid=A72DD54C57AC06A6A51D8561A2A7988F&ts=1713713409139&wsso=Moderate
+TITLE: tlauncher - Wyszukaj
+TIME: 21.04.2024 18:30:29
+URL: https://www.bing.com/ck/a?!&&p=d6d6b12bff9c6fecJmltdHM9MTcxMzY1NzYwMCZpZ3VpZD0zMDg2ZDhhMi1hYWZmLTYyNmMtMjAyZS1jYjkwYWIxODYzZTEmaW5zaWQ9NTIyNQ&ptn=3&ver=2&hsh=3&fclid=3086d8a2-aaff-626c-202e-cb90ab1863e1&psq=tlauncher&u=a1aHR0cHM6Ly90bGF1bmNoZXIub3JnL2VuLw&ntb=1
+TITLE: 
+TIME: 21.04.2024 18:30:29
+URL: https://tlauncher.org/en/
+TITLE: TLauncher — Download Minecraft Launcher
+TIME: 21.04.2024 18:30:30
+URL: https://www.mumuglobal.com/problem/q58/?lang=en
+TITLE: Reasons for unsuccessful download of MuM
+TIME: 24.04.2024 20:01:23
+URL: https://www.mumuplayer.com/problem/q58/?lang=en
+TITLE: Reasons for unsuccessful download of MuM
+TIME: 24.04.2024 20:01:23
+URL: https://research.easebar.com/htmls/zook7c/paper.html
+TITLE: Reasons for unsuccessful download of MuM
+TIME: 24.04.2024 20:01:25
+URL: https://support-valorant.riotgames.com/hc/articles/10088435639571
+TITLE: Rozwiązanie problemów z błędami VAN9001 i VAN9003 na Windows 11 | VALORANT – Wsparcie VALORANT
+TIME: 25.04.2024 12:44:43
+URL: https://support-valorant.riotgames.com/hc/pl/articles/10088435639571
+TITLE: Rozwiązanie problemów z błędami VAN9001 i VAN9003 na Windows 11 | VALORANT – Wsparcie VALORANT
+TIME: 25.04.2024 12:44:43
+URL: https://support-valorant.riotgames.com/hc/pl/articles/10088435639571-Rozwi%C4%85zanie-problem%C3%B3w-z-b%C5%82%C4%99dami-VAN9001-i-VAN9003-na-Windows-11-VALORANT
+TITLE: Rozwiązanie problemów z błędami VAN9001 i VAN9003 na Windows 11 | VALORANT – Wsparcie VALORANT
+TIME: 25.04.2024 12:44:43
+URL: https://xsso.riotgames.com/login?prompt=none&response_type=code&client_id=prod-xsso-riotgames&scope=openid%20account%20email
+TITLE: 
+TIME: 25.04.2024 12:44:47
+URL: https://auth.riotgames.com/authorize?client_id=prod-xsso-riotgames&scope=openid+account+email&code_challenge_method=S256&code_challenge=7wMvVzydwNYZQDduGT6Vpq_4h1RJpJDuUCm9tvGR95k&redirect_uri=https%3A%2F%2Fxsso.riotgames.com%2Fredirect&state=6d40028fb2f484636828949bf6&response_type=code&prompt=none
+TITLE: 
+TIME: 25.04.2024 12:44:47
+URL: https://xsso.riotgames.com/redirect?iss=https%3A%2F%2Fauth.riotgames.com&state=6d40028fb2f484636828949bf6&error=login_required&error_description=Login+required
+TITLE: 
+TIME: 25.04.2024 12:44:47
+URL: https://utweb.rainberrytv.com/gui/index.html?v=1.4.0.5759&firstrun=1&localauth=localapifdca74e4dc5cc832:
+TITLE: 
+TIME: 04.05.2024 18:26:31
+URL: https://utweb.rainberrytv.com/gui/index.html?v=1.4.0.5759&firstrun=1&localauth=localapifdca74e4dc5cc832:#/
+TITLE: μTorrent Web
+TIME: 04.05.2024 18:26:36
+URL: https://utweb.rainberrytv.com/gui/index.html?v=1.4.0.5759&firstrun=1&localauth=localapifdca74e4dc5cc832:#/dashboard
+TITLE: μTorrent Web
+TIME: 04.05.2024 18:26:36
+URL: https://utweb.rainberrytv.com/gui/index.html?v=1.4.0.5759&localauth=localapifdca74e4dc5cc832:#/dashboard
+TITLE: μTorrent Web
+TIME: 04.05.2024 18:26:36
