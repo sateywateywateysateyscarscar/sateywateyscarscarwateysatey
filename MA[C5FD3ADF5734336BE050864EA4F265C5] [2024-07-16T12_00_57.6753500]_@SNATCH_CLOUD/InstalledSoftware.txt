@@ -1,0 +1,60 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*  Telegram: https://t.me/redline_market_bot  *
+***********************************************
+
+1) AMD Chipset Software [6.01.25.342]
+2) AMD GPIO2 Driver [2.2.0.130]
+3) AMD PSP Driver [5.26.0.0]
+4) AMD Ryzen Balanced Driver [8.0.0.13]
+5) AMD SBxxx SMBus Driver [5.12.0.38]
+6) AMD_Chipset_Drivers [6.01.25.342]
+7) DroidCam Client [6.5.2]
+8) EA app [13.248.0.5761]
+9) Epic Games Launcher [1.3.93.0]
+10) Epic Online Services [2.0.44.0]
+11) Epsilon Menu.exe version 3.0 [3.0]
+12) Grand Theft Auto V [1.0.3179.0]
+13) Internet Download Manager [6.42.1]
+14) Launcher Prerequisites (x64) [1.0.0.0]
+15) Microsoft Edge [126.0.2592.102]
+16) Microsoft Edge Update [1.3.193.5]
+17) Microsoft Edge WebView2 Runtime [126.0.2592.102]
+18) Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 [9.0.30729]
+19) Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 [9.0.30729.6161]
+20) Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 [10.0.40219]
+21) Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 [11.0.61030.0]
+22) Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 [11.0.61030.0]
+23) Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 [11.0.61030]
+24) Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 [11.0.61030]
+25) Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 [12.0.30501.0]
+26) Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 [12.0.30501.0]
+27) Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 [12.0.40664.0]
+28) Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664 [12.0.40664]
+29) Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664 [12.0.40664]
+30) Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.36.32532 [14.36.32532.0]
+31) Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532 [14.36.32532.0]
+32) Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532 [14.36.32532]
+33) Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532 [14.36.32532]
+34) Microsoft Windows Desktop Runtime - 6.0.25 (x64) [6.0.25.33020]
+35) Microsoft Windows Desktop Runtime - 7.0.15 (x64) [7.0.15.33129]
+36) MSI Afterburner 4.6.5 [4.6.5]
+37) MSI Center SDK [3.2023.1026.01]
+38) MTA:SA v1.6.0 [v1.6.0]
+39) Neat Download Manager version 1.4 [1.4]
+40) Need for Speed Heat [1.0.60.7040]
+41) Overwolf [0.254.0.13]
+42) Promontory_GPIO Driver [3.0.0.0]
+43) Realtek Audio Driver [6.0.9585.1]
+44) Realtek Ethernet Controller Driver [10.053.1001.2021]
+45) RivaTuner Statistics Server 7.3.4 [7.3.4]
+46) Rockstar Games Launcher [1.0.89.1979]
+47) Rockstar Games Social Club [2.3.0.8]
+48) Steam [2.10.91.91]
+49) Ubisoft Connect [73.0]

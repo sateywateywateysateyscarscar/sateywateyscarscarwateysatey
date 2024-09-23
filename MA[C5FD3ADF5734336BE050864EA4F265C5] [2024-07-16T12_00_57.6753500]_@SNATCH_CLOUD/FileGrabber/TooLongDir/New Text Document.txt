@@ -1,0 +1,101 @@
+1||Freezead - تجميد الاعلانات
+2|| Aunimpound - ازاله السيارات من الحجز
+3|| Getvehweight - معرفه حجم السياره 
+4|| Sendtovct - ارسال ربورت ل شخص معين
+5|| Srd - توقف جميع الراديهات الي انت فهيا: 
+6|| Enableallinterios - جعل جيمع البيوت مغلقا
+7|| Clearnearbytag - حذف جميع التقاتات القريبه
+8|| Disarm - اخذ جميع الاسلحه من الاعب
+9||- Moveshop - نقل بائu
+10|| Setintentrance - نقل بيت
+11|| Hideadmin - تحول ادمن مخفي
+12|| Makeshop - صنع بائع 
+13|| editveh - تعديل على السياراتت
+14|| Setfactionleader - الدخول فاكشن ب ليدر
+15|| Setfaction - دخول فاكشن بي عضو
+16|| Makeveh - صنع سياره
+17|| Setserverpassword - وضع رمز للسيرفر 
+18|| Fixveh - اصلاح سياره
+19|| Addint - صنع بيت
+20|| Delint - محو بيت
+21|| Nearbyshops - معرفه ايدي البائع
+22|| Delnearbyshops - حذف البائع الي جمبك
+23|| Gates - لاءحه ابواب
+24|| I - temsلاءحه اغراض ادمنيه
+25|| Movesafe - نقل الخزنه
+26|| Shiwinv - روؤيه جميع اغراض الاعب
+27|| Nearbygates - معرفه ايدي الباب
+28|| Delgate - محو الباب
+29|| Animselect - رؤيه ملءا بالححركات
+30|| Ck - اعدام شخصيه
+31|| Unck - فك سي كي
+32|| Cks - رؤيه جميع طلبات سي كي
+33|| Restartvehall - رستارت ل جميع السيارت
+34|| Reretcharacter - عمل رساتارت لشخصيه
+35|| Aduty - تشغل سياره
+36|| Dutyadmin - تصليح ديوتي فاكشنات
+37|| Recon - مراقبه شخص
+38|| Showkills -
+39|| Watch - مراقبه شخص
+40|| Bigears - مراقبه خاص 
+41|| Changename - تغير اسم الشخصيه
+42|| Loginto - تدخل شخصيه 
+43|| Slap - رفع شخص
+44|| Restoreveh - عمل رسوبن ل سياره
+45|| Makegun - صنع سلاح
+46||makeammo - صنع رصاص
+47||Gunlist - لوحه الاسلحه الاختفاء
+48|| Jail - سجن شخص
+49|| Disappear - اختفاء كلي
+50|| Supervise - اختفاء جزءي
+51|| Sojail - سجن شخص غير موجود
+52|| Soban - تبنيد شخص غير موجود 
+53|| Sjail - سجن صامت لا يراخ الاعب 
+54|| pkick - طرد لاعب 
+55|| oban - باند وهو مو مجود بالسيرفر
+56|| Unbind - فك باند
+57|| Showban - روئيه باند
+58|| Findserial - تجيب سريال شخص
+59|| Banserial - تبنيد سيرال
+60|| sban - باند سريال مؤاقت
+61|| Pban - باند سريال مئقت
+62|| unjail - فك سجن شخص
+63|| Setintentrance  -
+64|| Restoreint  -
+65||Setintname - تغير اسم البيت
+66|| Setintid - تغير شكل البيت من داخل
+67|| Gateintid - معرفه ايدي البيت من الداخل
+68|| Makefations - صنع فاكشن
+69|| Renamefaction - اعاده تسميه فاكشن
+70|| Setvehfaction - وضع سياره في فاكشن
+71|| Setintfaction - وضع بيت في فاكشن
+72|| Givegc  id-  عدد جيسى 
+73|| Givemone id- العدد 
+74|| Setgc- تعمل عدد لجي سي
+75|| Addancer- اضافه شخص يرقص
+76|| Deldancer- حذف بائع يرقص
+77|| Forcepayday- تزويد سااعات
+78|| Auncuff- فك كلبشات
+79|| Togooc- فتح شات عام
+80|| Addephone- اضافه تلفون
+81|| Agivelicense- اعطاء رخصه سواقه
+82|| Setskin- وضع شخصيه ل شخص
+83|| Setage- وضع عمر ل شخص
+84|| Setdob- وضع وضعيه
+85|| Setgender- تعين جنسيه
+86|| Restoregates- راساترت ل ابوباب
+87|| Tempsell- اعظطاع الشخص حقه
+88|| Revive - اعاده احياء
+89|| Sethp- قتل شخص
+90|| Givesuperman- اعطاء طيران
+91|| Weaponlicenses- اعاطء رخصه سلاحح
+92|| Fakeme- ضهور بأسم مخفي
+93|| Makefuel- صنع بائئع بانزين
+94|| Nearbyfuels- معرفه ايدي بائع لبانزيين
+95|| Delnearbyfuels- حذف بائع البنازين
+96|| Addramp- اضافه رامب
+97|| Delramp- حذف رامب
+98|| Nearbyramps- معرفه ايدي الرامب
+99|| Vehlib- معلومات معرض السيارت
+100|| restoreveh-استرجاع سياره محذوفه
+101|| getkey -مفتاح السياره تجيبه 

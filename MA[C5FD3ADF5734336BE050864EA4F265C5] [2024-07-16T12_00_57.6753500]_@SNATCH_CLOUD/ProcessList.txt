@@ -1,0 +1,204 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*  Telegram: https://t.me/redline_market_bot  *
+***********************************************
+
+ID: 8992, Name: csrss.exe, CommandLine: 
+===============
+ID: 11064, Name: winlogon.exe, CommandLine: 
+===============
+ID: 20080, Name: fontdrvhost.exe, CommandLine: 
+===============
+ID: 15016, Name: dwm.exe, CommandLine: 
+===============
+ID: 18740, Name: GameInputSvc.exe, CommandLine: 
+===============
+ID: 6148, Name: atieclxx.exe, CommandLine: 
+===============
+ID: 10932, Name: NVDisplay.Container.exe, CommandLine: 
+===============
+ID: 4884, Name: nvcontainer.exe, CommandLine: "C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe" -f "C:\ProgramData\NVIDIA Corporation\NVIDIA app\NvContainer\NvContainerUser%d.log" -d "C:\Program Files\NVIDIA Corporation\NvContainer\plugins\User" -r -l 3 -p 30000   -c
+===============
+ID: 10892, Name: sihost.exe, CommandLine: sihost.exe
+===============
+ID: 2208, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 11632, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 8860, Name: taskhostw.exe, CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 19440, Name: explorer.exe, CommandLine: C:\Windows\Explorer.EXE
+===============
+ID: 1264, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 8292, Name: VoiceControl_Engine.exe, CommandLine: 
+===============
+ID: 17412, Name: MSI.TerminalServer.exe, CommandLine: 
+===============
+ID: 14640, Name: StartMenuExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 11548, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 23436, Name: SearchApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+===============
+ID: 9896, Name: ctfmon.exe, CommandLine: 
+===============
+ID: 8328, Name: UserOOBEBroker.exe, CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 11052, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 9824, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 1516, Name: TextInputHost.exe, CommandLine: "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca
+===============
+ID: 12140, Name: SecurityHealthSystray.exe, CommandLine: "C:\Windows\System32\SecurityHealthSystray.exe" 
+===============
+ID: 22324, Name: RtkAudUService64.exe, CommandLine: "C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_717e06ebd4d5ad4d\RtkAudUService64.exe" -background
+===============
+ID: 19428, Name: vgtray.exe, CommandLine: "C:\Program Files\Riot Vanguard\vgtray.exe" 
+===============
+ID: 11096, Name: Discord.exe, CommandLine: "C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\Discord.exe" 
+===============
+ID: 8064, Name: cmd.exe, CommandLine: C:\Windows\system32\cmd.exe /d /s /c ""C:\Program Files\Malwarebytes\Anti-Malware\mbambgnativemsg.exe" chrome-extension://bojobppfploabceghnmlahpoonbcbacn/ --parent-window=0" < \\.\pipe\chrome.nativeMessaging.in.7039bf879a07d6db > \\.\pipe\chrome.nativeMessaging.out.7039bf879a07d6db
+===============
+ID: 21008, Name: conhost.exe, CommandLine: \??\C:\Windows\system32\conhost.exe 0x4
+===============
+ID: 12304, Name: MbamBgNativeMsg.exe, CommandLine: "C:\Program Files\Malwarebytes\Anti-Malware\mbambgnativemsg.exe"  chrome-extension://bojobppfploabceghnmlahpoonbcbacn/ --parent-window=0 
+===============
+ID: 8072, Name: Discord.exe, CommandLine: "C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Setup Game\AppData\Roaming\discord" /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Setup Game\AppData\Roaming\discord\Crashpad" --url=https://f.a.k/e --annotation=_productName=discord --annotation=_version=1.0.9153 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=30.1.0 --initial-client-data=0x510,0x51c,0x520,0x518,0x524,0x7ff70b2c9218,0x7ff70b2c9224,0x7ff70b2c9230
+===============
+ID: 20140, Name: Discord.exe, CommandLine: "C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=gpu-process --user-data-dir="C:\Users\Setup Game\AppData\Roaming\discord" --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=1820,i,5167410517622558445,8744153528284238936,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=1856 /prefetch:2
+===============
+ID: 6516, Name: Discord.exe, CommandLine: "C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir="C:\Users\Setup Game\AppData\Roaming\discord" --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --field-trial-handle=2124,i,5167410517622558445,8744153528284238936,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=2120 /prefetch:3
+===============
+ID: 22000, Name: CompPkgSrv.exe, CommandLine: C:\Windows\System32\CompPkgSrv.exe -Embedding
+===============
+ID: 12928, Name: Discord.exe, CommandLine: "C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=renderer --user-data-dir="C:\Users\Setup Game\AppData\Roaming\discord" --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --app-user-model-id=com.squirrel.Discord.Discord --app-path="C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\resources\app.asar" --no-sandbox --no-zygote --autoplay-policy=no-user-gesture-required --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1720837432311692 --launch-time-ticks=314823165210 --field-trial-handle=3768,i,5167410517622558445,8744153528284238936,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=3988 --enable-node-leakage-in-renderers /prefetch:1
+===============
+ID: 20200, Name: RadeonSoftware.exe, CommandLine: "C:\Program Files\AMD\CNext\CNext\Radeonsoftware.exe" atlogon
+===============
+ID: 23456, Name: Discord.exe, CommandLine: "C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --user-data-dir="C:\Users\Setup Game\AppData\Roaming\discord" --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --field-trial-handle=4004,i,5167410517622558445,8744153528284238936,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=4024 /prefetch:8
+===============
+ID: 23044, Name: CPUMetricsServer.exe, CommandLine: 
+===============
+ID: 10880, Name: cncmd.exe, CommandLine: "C:\Program Files\AMD\CNext\CNext\cncmd.exe" watch 20200
+===============
+ID: 8688, Name: cmd.exe, CommandLine: "C:\Windows\system32\cmd.exe" /C "C:\Program Files\AMD\CNext\CNext\AMDRSServ.exe"
+===============
+ID: 11792, Name: conhost.exe, CommandLine: \??\C:\Windows\system32\conhost.exe 0x4
+===============
+ID: 19392, Name: AMDRSServ.exe, CommandLine: 
+===============
+ID: 11748, Name: ShellExperienceHost.exe, CommandLine: "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 19768, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 19312, Name: ApplicationFrameHost.exe, CommandLine: C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 20084, Name: SystemSettings.exe, CommandLine: "C:\Windows\ImmersiveControlPanel\SystemSettings.exe" -ServerName:microsoft.windows.immersivecontrolpanel
+===============
+ID: 23252, Name: svchost.exe, CommandLine: C:\Windows\System32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 3720, Name: SearchApp.exe, CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:ShellFeedsUI.AppX88fpyyrd21w8wqe62wzsjh5agex7tf1e.mca
+===============
+ID: 8824, Name: msedgewebview2.exe, CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --embedded-browser-webview=1 --webview-exe-name=SearchApp.exe --webview-exe-version=10.0.19041.4648 --user-data-dir="C:\Users\Setup Game\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\EBWebView" --noerrdialogs --enable-features=MojoIpcz,msEmbeddedBrowserVisualHosting --lang=en-US --mojo-named-platform-channel-pipe=3720.10632.8408949066256483479
+===============
+ID: 23204, Name: msedgewebview2.exe, CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Setup Game\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\EBWebView" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Setup Game\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\EBWebView\Crashpad" "--metrics-dir=C:\Users\Setup Game\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\EBWebView" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=126.0.6478.127 "--annotation=exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --annotation=plat=Win64 "--annotation=prod=Edge WebView2" --annotation=ver=126.0.2592.102 --initial-client-data=0x170,0x174,0x178,0x14c,0x180,0x7ffa07020148,0x7ffa07020154,0x7ffa07020160
+===============
+ID: 18252, Name: msedgewebview2.exe, CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --type=gpu-process --noerrdialogs --user-data-dir="C:\Users\Setup Game\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=SearchApp.exe --webview-exe-version=10.0.19041.4648 --embedded-browser-webview=1 --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=1908,i,2556254526760419273,26607000322123528,262144 --enable-features=MojoIpcz,msEmbeddedBrowserVisualHosting --variations-seed-version --mojo-platform-channel-handle=1892 /prefetch:2
+===============
+ID: 11284, Name: msedgewebview2.exe, CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noerrdialogs --user-data-dir="C:\Users\Setup Game\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=SearchApp.exe --webview-exe-version=10.0.19041.4648 --embedded-browser-webview=1 --field-trial-handle=2040,i,2556254526760419273,26607000322123528,262144 --enable-features=MojoIpcz,msEmbeddedBrowserVisualHosting --variations-seed-version --mojo-platform-channel-handle=2132 /prefetch:3
+===============
+ID: 9300, Name: msedgewebview2.exe, CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --noerrdialogs --user-data-dir="C:\Users\Setup Game\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=SearchApp.exe --webview-exe-version=10.0.19041.4648 --embedded-browser-webview=1 --field-trial-handle=2348,i,2556254526760419273,26607000322123528,262144 --enable-features=MojoIpcz,msEmbeddedBrowserVisualHosting --variations-seed-version --mojo-platform-channel-handle=2292 /prefetch:8
+===============
+ID: 22768, Name: msedgewebview2.exe, CommandLine: "C:\Program Files (x86)\Microsoft\EdgeWebView\Application\126.0.2592.102\msedgewebview2.exe" --type=renderer --noerrdialogs --user-data-dir="C:\Users\Setup Game\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=SearchApp.exe --webview-exe-version=10.0.19041.4648 --embedded-browser-webview=1 --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --js-flags="--harmony-weak-refs-with-cleanup-some --expose-gc --ms-user-locale=" --time-ticks-at-unix-epoch=-1720837432320912 --launch-time-ticks=314909122619 --field-trial-handle=3428,i,2556254526760419273,26607000322123528,262144 --enable-features=MojoIpcz,msEmbeddedBrowserVisualHosting --variations-seed-version --mojo-platform-channel-handle=4092 /prefetch:1
+===============
+ID: 16336, Name: upc.exe, CommandLine: "C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\upc.exe" -upc_uplay_id 1843 -uplay_steam_mode 
+===============
+ID: 14024, Name: UplayWebCore.exe, CommandLine: "C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/UplayWebCore.exe" --type=gpu-process --no-sandbox --locales-dir-path="C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/locales/1" --log-severity=disable --user-agent-product=ConnectPC --lang=en-US --user-data-dir="C:\Users\Setup Game\AppData\Local\CEF\User Data" --upc_cache="C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/cache/http2/" --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAGAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --log-file="C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\debug.log" --mojo-platform-channel-handle=2404 --field-trial-handle=2416,i,14542217363557502298,767203795564044683,131072 --disable-features=BackForwardCache,CalculateNativeWinOcclusion,WinUseBrowserSpellChecker /prefetch:2
+===============
+ID: 6684, Name: UplayWebCore.exe, CommandLine: "C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/UplayWebCore.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --no-sandbox --locales-dir-path="C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/locales/1" --log-severity=disable --user-agent-product=ConnectPC --lang=en-US --user-data-dir="C:\Users\Setup Game\AppData\Local\CEF\User Data" --upc_cache="C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/cache/http2/" --log-file="C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\debug.log" --mojo-platform-channel-handle=2788 --field-trial-handle=2416,i,14542217363557502298,767203795564044683,131072 --disable-features=BackForwardCache,CalculateNativeWinOcclusion,WinUseBrowserSpellChecker /prefetch:8
+===============
+ID: 16488, Name: UplayWebCore.exe, CommandLine: "C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/UplayWebCore.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --locales-dir-path="C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/locales/1" --log-severity=disable --user-agent-product=ConnectPC --lang=en-US --user-data-dir="C:\Users\Setup Game\AppData\Local\CEF\User Data" --upc_cache="C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/cache/http2/" --log-file="C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\debug.log" --mojo-platform-channel-handle=2876 --field-trial-handle=2416,i,14542217363557502298,767203795564044683,131072 --disable-features=BackForwardCache,CalculateNativeWinOcclusion,WinUseBrowserSpellChecker /prefetch:8
+===============
+ID: 23384, Name: UplayWebCore.exe, CommandLine: "C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/UplayWebCore.exe" --type=renderer --locales-dir-path="C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/locales/1" --log-severity=disable --user-agent-product=ConnectPC --disable-spell-checking --user-data-dir="C:\Users\Setup Game\AppData\Local\CEF\User Data" --upc_cache="C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/cache/http2/" --no-sandbox --log-file="C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\debug.log" --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1720837432321825 --launch-time-ticks=314921317060 --mojo-platform-channel-handle=3096 --field-trial-handle=2416,i,14542217363557502298,767203795564044683,131072 --disable-features=BackForwardCache,CalculateNativeWinOcclusion,WinUseBrowserSpellChecker /prefetch:1
+===============
+ID: 18960, Name: XboxPcAppFT.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.GamingApp_2406.1001.20.0_x64__8wekyb3d8bbwe\XboxPcAppFT.exe" -Embedding
+===============
+ID: 4228, Name: AMDRSSrcExt.exe, CommandLine: "C:\Program Files\AMD\CNext\CNext\AMDRSSrcExt.exe" fb28e830-7c29-4591-b2df-4e16275fa0d9 SOFTWARE\AMD\DVR\Overlays
+===============
+ID: 9868, Name: GameBarPresenceWriter.exe, CommandLine: "C:\Windows\System32\GameBarPresenceWriter.exe" -ServerName:Windows.Gaming.GameBar.Internal.PresenceWriterServer
+===============
+ID: 24304, Name: svchost.exe, CommandLine: C:\Windows\system32\svchost.exe -k BcastDVRUserService -s BcastDVRUserService
+===============
+ID: 12792, Name: dllhost.exe, CommandLine: C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 24748, Name: EpicWebHelper.exe, CommandLine: "C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe" --type=renderer --no-sandbox --log-file="C:/Users/Setup Game/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log" --field-trial-handle=2904,14238945464515030518,13034360220483483782,131072 --disable-features=CalculateNativeWinOcclusion --lang=en-US --locales-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales" --log-file="C:/Users/Setup Game/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log" --log-severity=warning --resources-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources" --user-agent-product="EpicGamesLauncher/16.7.1-34305288+++Portal+Release-Live UnrealEngine/4.27.0-34305288+++Portal+Release-Live Chrome/90.0.4430.212" --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=11 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=4264 /prefetch:1
+===============
+ID: 6936, Name: EpicGamesLauncher.exe, CommandLine: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\..\..\..\Portal\Binaries\Win64\EpicGamesLauncher.exe" 
+===============
+ID: 27408, Name: EpicWebHelper.exe, CommandLine: "C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe" --type=gpu-process --field-trial-handle=2856,1641968704787450729,319389728495227702,131072 --disable-features=CalculateNativeWinOcclusion --no-sandbox --locales-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales" --log-file="C:/Users/Setup Game/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log" --log-severity=warning --resources-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources" --user-agent-product="EpicGamesLauncher/16.7.1-34305288+++Portal+Release-Live UnrealEngine/4.27.0-34305288+++Portal+Release-Live Chrome/90.0.4430.212" --lang=en --gpu-preferences=SAAAAAAAAADgACAwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAAIAAAAAAAAAAgAAAAAAAAA --log-file="C:/Users/Setup Game/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log" --mojo-platform-channel-handle=2864 /prefetch:2
+===============
+ID: 24760, Name: EpicWebHelper.exe, CommandLine: "C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=2856,1641968704787450729,319389728495227702,131072 --disable-features=CalculateNativeWinOcclusion --lang=en-US --service-sandbox-type=none --no-sandbox --locales-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales" --log-file="C:/Users/Setup Game/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log" --log-severity=warning --resources-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources" --user-agent-product="EpicGamesLauncher/16.7.1-34305288+++Portal+Release-Live UnrealEngine/4.27.0-34305288+++Portal+Release-Live Chrome/90.0.4430.212" --lang=en --log-file="C:/Users/Setup Game/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log" --mojo-platform-channel-handle=3664 /prefetch:8
+===============
+ID: 8224, Name: cmd.exe, CommandLine: C:\Windows\system32\cmd.exe /d /s /c ""C:\Program Files\Malwarebytes\Anti-Malware\mbambgnativemsg.exe" chrome-extension://bojobppfploabceghnmlahpoonbcbacn/ --parent-window=0" < \\.\pipe\chrome.nativeMessaging.in.d11a8727292c4eb1 > \\.\pipe\chrome.nativeMessaging.out.d11a8727292c4eb1
+===============
+ID: 25296, Name: conhost.exe, CommandLine: \??\C:\Windows\system32\conhost.exe 0x4
+===============
+ID: 10456, Name: MbamBgNativeMsg.exe, CommandLine: "C:\Program Files\Malwarebytes\Anti-Malware\mbambgnativemsg.exe"  chrome-extension://bojobppfploabceghnmlahpoonbcbacn/ --parent-window=0 
+===============
+ID: 1812, Name: SearchProtocolHost.exe, CommandLine: "C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-2299533439-199545682-2917056353-1001142_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-2299533439-199545682-2917056353-1001142 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"  "1"
+===============
+ID: 24956, Name: Taskmgr.exe, CommandLine: 
+===============
+ID: 17016, Name: EpicWebHelper.exe, CommandLine: "C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe" --type=renderer --no-sandbox --log-file="C:/Users/Setup Game/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log" --field-trial-handle=2856,1641968704787450729,319389728495227702,131072 --disable-features=CalculateNativeWinOcclusion --lang=en-US --locales-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales" --log-file="C:/Users/Setup Game/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log" --log-severity=warning --resources-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources" --user-agent-product="EpicGamesLauncher/16.7.1-34305288+++Portal+Release-Live UnrealEngine/4.27.0-34305288+++Portal+Release-Live Chrome/90.0.4430.212" --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=10 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=5828 /prefetch:1
+===============
+ID: 1396, Name: FortniteLauncher.exe, CommandLine: "E:/Fortnite/FortniteGame/Binaries/Win64/FortniteLauncher.exe"  -obfuscationid=iDkaKzl08diwOpawKkaeEkwihUB0Og -AUTH_LOGIN=unused -AUTH_PASSWORD=81d55200b2854177b76c382b648d54df -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal  -steamimportavailable -epicusername="souadiadnan" -epicuserid=ea08e0f776244d16ac08fc7b337bf8dd -epiclocale=en -epicsandboxid=fn
+===============
+ID: 25412, Name: FortniteClient-Win64-Shipping_EAC_EOS.exe, CommandLine: E:\Fortnite\FortniteGame\Binaries\Win64/FortniteClient-Win64-Shipping_EAC_EOS.exe -obfuscationid=iDkaKzl08diwOpawKkaeEkwihUB0Og -AUTH_LOGIN=unused -AUTH_PASSWORD=81d55200b2854177b76c382b648d54df -AUTH_TYPE=exchangecode -epicapp=Fortnite -epicenv=Prod -EpicPortal -steamimportavailable -epicusername=souadiadnan -epicuserid=ea08e0f776244d16ac08fc7b337bf8dd -epiclocale=en -epicsandboxid=fn -nobe -noeac -fromfl=eaceos -caldera=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiZWEwOGUwZjc3NjI0NGQxNmFjMDhmYzdiMzM3YmY4ZGQiLCJnZW5lcmF0ZWQiOjE3MjExNTYxNzUsImNhbGRlcmFHdWlkIjoiODFjN2YyZjMtM2ZmMS00MjYxLWFhZTgtMjQ5ZTk5OTZjNmY0IiwiYWNQcm92aWRlciI6IkVhc3lBbnRpQ2hlYXRFT1MiLCJub3RlcyI6IiIsInByZSI6dHJ1ZSwiZmFsbGJhY2siOmZhbHNlfQ.4gn-sA_zsy9PvSB8Gdz4nekDlwoWLqP-fplmLoPXHeEz7M8P9XBV_Rl1UKRqMcWg0sUDrUdfociFyM8-ps7Amw
+===============
+ID: 8336, Name: GameBar.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_7.124.5142.0_x64__8wekyb3d8bbwe\GameBar.exe" -ServerName:App.AppXbdkk0yrkwpcgeaem8zk81k8py1eaahny.mca
+===============
+ID: 20244, Name: GameBarFTServer.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_7.124.5142.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe" -Embedding
+===============
+ID: 2664, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 27300, Name: XboxGameBarWidgets.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.GamingApp_2406.1001.20.0_x64__8wekyb3d8bbwe\XboxGameBarWidgets.exe" -ServerName:Microsoft.Xbox.WidgetsApp.AppXvmd054fy0d5ktfeay7jt5w8kg32dxk24.mca
+===============
+ID: 10780, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 22856, Name: XboxGameBarSpotify.exe, CommandLine: "C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.241.434.0_x64__zpdnekdrzrea0\XboxGameBarSpotify.exe" -ServerName:Widget.AppXcq6m83pcstjyfwwpn2knfgeh8hb23cne.mca
+===============
+ID: 27016, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 12260, Name: backgroundTaskHost.exe, CommandLine: "C:\Windows\system32\backgroundTaskHost.exe" -ServerName:Spotify.AppXtdk8mnjd568eshy3qjgb1wew6q74vv2f.mca
+===============
+ID: 16532, Name: dllhost.exe, CommandLine: 
+===============
+ID: 9804, Name: FortniteClient-Win64-Shipping.exe, CommandLine: 
+===============
+ID: 26924, Name: CrashReportClient.exe, CommandLine: "E:\Fortnite\Engine\Binaries\Win64\CrashReportClient.exe" "../../../Engine/Binaries/Win64/CrashReportClient.exe"  -READ=292700 -WRITE=292712 -MONITOR=9804 -ProcessGroupId=1FAACD7242E5D89783637E801D55FAC7 -RespawnedInstance
+===============
+ID: 18724, Name: Discord.exe, CommandLine: "C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\Discord.exe" --overlay-host
+===============
+ID: 6712, Name: Discord.exe, CommandLine: "C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=gpu-process --user-data-dir="C:\Users\Setup Game\AppData\Roaming\discord" --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --use-gl=angle --use-angle=swiftshader-webgl --field-trial-handle=1740,i,10983912036569693747,15535010703254937012,262144 --enable-features=kWebSQLAccess --disable-features=SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=1732 /prefetch:2
+===============
+ID: 14972, Name: Discord.exe, CommandLine: "C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir="C:\Users\Setup Game\AppData\Roaming\discord" --field-trial-handle=1936,i,10983912036569693747,15535010703254937012,262144 --enable-features=kWebSQLAccess --disable-features=SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=2108 /prefetch:3
+===============
+ID: 11444, Name: Discord.exe, CommandLine: "C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=renderer --user-data-dir="C:\Users\Setup Game\AppData\Roaming\discord" --app-user-model-id=com.squirrel.Discord.Discord --app-path="C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\resources\app.asar" --no-sandbox --no-zygote --autoplay-policy=no-user-gesture-required --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1720837432321503 --launch-time-ticks=318804315165 --field-trial-handle=2972,i,10983912036569693747,15535010703254937012,262144 --enable-features=kWebSQLAccess --disable-features=SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=3004 /prefetch:1
+===============
+ID: 21416, Name: Discord.exe, CommandLine: "C:\Users\Setup Game\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --user-data-dir="C:\Users\Setup Game\AppData\Roaming\discord" --field-trial-handle=3036,i,10983912036569693747,15535010703254937012,262144 --enable-features=kWebSQLAccess --disable-features=SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=3096 /prefetch:8
+===============
+ID: 11928, Name: UplayWebCore.exe, CommandLine: "C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/UplayWebCore.exe" --type=renderer --locales-dir-path="C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/locales/1" --log-severity=disable --user-agent-product=ConnectPC --disable-spell-checking --user-data-dir="C:\Users\Setup Game\AppData\Local\CEF\User Data" --upc_cache="C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/cache/http2/" --no-sandbox --log-file="C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\debug.log" --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=21 --time-ticks-at-unix-epoch=-1720837432321825 --launch-time-ticks=318900581393 --mojo-platform-channel-handle=5716 --field-trial-handle=2416,i,14542217363557502298,767203795564044683,131072 --disable-features=BackForwardCache,CalculateNativeWinOcclusion,WinUseBrowserSpellChecker /prefetch:1
+===============
+ID: 5972, Name: WinRAR.exe, CommandLine: "C:\Program Files\WinRAR\WinRAR.exe" "C:\Users\Setup Game\Downloads\bostonkrack.zip"
+===============
+ID: 7164, Name: conhost.exe, CommandLine: \??\C:\Windows\system32\conhost.exe 0x4
+===============
+ID: 24808, Name: MSBuild.exe, CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"
