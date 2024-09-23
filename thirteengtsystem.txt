@@ -1,0 +1,33 @@
+# Buy now: TG @lummanowork
+- LummaC2 Build: May 14 2024
+- LID:
+- Configuration: default
+- Path: C:\Users\katar\AppData\Local\Microsoft\Windows\INetCache\2140452\Journals.pif
+- Computer: MBOOK15
+- User: katar
+- Domain: 
+- Hostname: mBook15
+- NetBIOS: MBOOK15
+- Language: pl-PL
+- Anti Virus:
+	- None
+- HWID: 1A2FFF06611456B1E220BFC89AEEFAFB
+- RAM Size: 8192MB
+- CPU Vendor: GenuineIntel
+- CPU Name: Intel(R) Celeron(R) J4125 CPU @ 2.00GHz
+- CPU Threads: 4
+- CPU Cores: 4
+- GPU: Intel(R) UHD Graphics 600
+- Display resolution: 1400x1050
+- IP Address: 31.0.83.54
+- Time: 17.05.2024 18:38:30 (sig:1715960310.a4a156e80465e2b9758dfe85ce81ccb6)
+- Country: PL
+------------------------------------
+Отработка криптокошельков, сидфраз и сессий телеграма >> t.me/brute
+60+ сеток эфира (некоторые из них НЕ ПОКАЗЫВАЮТСЯ по zapper, apeboard, debank
+Классические валюты, малоизвесные валюты(BTG, BTCSV, DigiByte...)
+Подбор паролей к криптокошелькам: Metamask, Ronin, Phantom, Daedalus Mainnet, Nami, Exodus, Electrum
+Беру логи с балансом от 3000$
+Общий процент: до 10000$ - 70/30, от 10001$ и более - 60/40
+Наш депозит: 1.2BTC
+Telegram: @brute

@@ -1,0 +1,49 @@
+Intel(R) HID Event Filter
+Google Chrome
+Microsoft Edge
+Microsoft Edge Update
+Środowisko uruchomieniowe Microsoft Edge WebView2
+Steam
+TLauncher
+WinRAR 6.24 (32-bitowy)
+Intel(R) Wireless Bluetooth(R)
+LightClient
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.34.31938
+Python 3.11.8 Utility Scripts (32-bit)
+Avast Update Helper
+Microsoft Windows Desktop Runtime - 6.0.12 (x64)
+Microsoft VC++ redistributables repacked.
+Epic Games Launcher
+JJSploit
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Epic Online Services
+WebAdvisor firmy McAfee
+Xbox Wheel Compatibility
+Intel(R) Trusted Connect Services Client
+Launcher Prerequisites (x64)
+The Sims™ 4
+Java Auto Updater
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.34.31938
+Intel(R) Chipset Device Software
+Intel(R) Dynamic Tuning
+Python 3.11.8 Development Libraries (32-bit)
+Python 3.11.8 Test Suite (32-bit)
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.34.31938
+Python Launcher
+Python 3.11.8 pip Bootstrap (32-bit)
+Microsoft Windows Desktop Runtime - 7.0.18 (x64)
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Python 3.11.8 Executables (32-bit)
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+Intel(R) Trusted Connect Service Client x86
+Python 3.11.8 Documentation (32-bit)
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+Python 3.11.8 Core Interpreter (32-bit)
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.34.31938
+Python 3.11.8 Standard Library (32-bit)
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Python 3.11.8 Tcl/Tk Support (32-bit)
+Intel® Software Installer
+EA app
