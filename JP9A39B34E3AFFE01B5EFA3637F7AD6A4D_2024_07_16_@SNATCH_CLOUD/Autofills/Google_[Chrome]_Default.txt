@@ -1,0 +1,260 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: username
+Value: ahfhthwfh
+===============
+Name: username
+Value: toloveru_Darkness
+===============
+Name: query
+Value: ж‚¶гЃ€гЃ¦г‚€гЂЃг‚ўгѓЂгѓ гЃЏг‚“
+===============
+Name: s
+Value: ж‚¶гЃ€гЃ¦г‚€гЂЃг‚ўгѓЂгѓ гЃЏг‚“
+===============
+Name: creatorName
+Value: 74's UGC
+===============
+Name: embed_code
+Value: <iframe width="854" height="480" src="https://zozovideo.com/embedcode?v=7544" frameborder="0" allowfullscreen></iframe>
+===============
+Name: embed_code
+Value: <iframe width="854" height="480" src="https://zozovideo.com/embedcode?v=7543" frameborder="0" allowfullscreen></iframe>
+===============
+Name: sf_url
+Value: https://www.youtube.com/shorts/HFcrLjoSkXU
+===============
+Name: SignupForm[email]
+Value: jeuln2xqpy@elatter.com
+===============
+Name: VerifyEmailForm[code]
+Value: 440536
+===============
+Name: url
+Value: https://web-ace.jp/youngaceup/contents/1000242/episode/8663/
+===============
+Name: email
+Value: bv1oa0r4v6@sute.jp
+===============
+Name: GroupSearchField
+Value: exclu
+===============
+Name: s
+Value: гѓ‘гѓігѓЃгѓ©гѓѓг‚·гѓҐпјЄпј«г‚їгѓ©гЃЎг‚ѓг‚“
+===============
+Name: query
+Value: гѓ‘гѓігѓЃгѓ©гѓѓг‚·гѓҐпјЄпј«г‚їгѓ©гЃЎг‚ѓг‚“
+===============
+Name: SignupForm[email]
+Value: ldeucyv68b@elatter.com
+===============
+Name: VerifyEmailForm[code]
+Value: 780670
+===============
+Name: 7
+Value: 1%
+===============
+Name: 1132
+Value: 100%
+===============
+Name: 1133
+Value: 100%
+===============
+Name: 1134
+Value: 0%
+===============
+Name: 1278
+Value: 15  px
+===============
+Name: 1279
+Value: 0 В°
+===============
+Name: 1280
+Value: 100 %
+===============
+Name: 1281
+Value: 100 %
+===============
+Name: 1282
+Value: 25 %
+===============
+Name: 466
+Value: 0В°
+===============
+Name: 467
+Value: 0%
+===============
+Name: 468
+Value: 100%
+===============
+Name: 469
+Value: 255
+===============
+Name: 470
+Value: 255
+===============
+Name: 471
+Value: 255
+===============
+Name: 479
+Value: ffffff
+===============
+Name: 472
+Value: 100
+===============
+Name: 473
+Value: 0
+===============
+Name: 474
+Value: 0
+===============
+Name: 475
+Value: 0%
+===============
+Name: 476
+Value: 0%
+===============
+Name: 477
+Value: 0%
+===============
+Name: 478
+Value: 0%
+===============
+Name: 1284
+Value: 1 px
+===============
+Name: 1278
+Value: 23 px
+===============
+Name: 1279
+Value: 23 px
+===============
+Name: 1428
+Value: 2  px
+===============
+Name: 1432
+Value: 1 %
+===============
+Name: s
+Value: з ґжЈ„гЃ•г‚ЊгЃџдїєгЃЁиїЅж”ѕгЃ•г‚ЊгЃџж‚ЄеЅ№д»¤е¬ў
+===============
+Name: query
+Value: з ґжЈ„гЃ•г‚ЊгЃџдїєгЃЁиїЅж”ѕгЃ•г‚ЊгЃџж‚ЄеЅ№д»¤е¬ў
+===============
+Name: search
+Value: unwelcome school
+===============
+Name: private-server-name-text-box
+Value: гЃ“г‚Њж‡ђгЃ‹гЃ—гЃ„пјЃ
+===============
+Name: name
+Value: aaaa
+===============
+Name: email
+Value: 6fhpzk89kp@elatter.com
+===============
+Name: s
+Value: yaruo.info
+===============
+Name: search
+Value: ryuukiken0514@gmail.com
+===============
+Name: s
+Value: live
+===============
+Name: s
+Value: Live!
+===============
+Name: s
+Value: Live! Jairou
+===============
+Name: simple-generation-form
+Value: гЃјгЃЈгЃЎгЃЎг‚ѓг‚“
+===============
+Name: :rs:
+Value: 768
+===============
+Name: :rr:
+Value: 512
+===============
+Name: simple-generation-form
+Value: г‚ўг‚«гѓЌгѓЃгѓЈгѓі
+===============
+Name: query
+Value: г‚·гѓЈгѓігѓ•гѓ­
+===============
+Name: query
+Value: г‚·гѓЈгѓігѓ‡гѓЄг‚ўгѓ•гѓ­гѓігѓ†г‚Јг‚ў
+===============
+Name: query
+Value: жђѕзІѕз—…жЈџ
+===============
+Name: query
+Value: жђѕзІѕз—…жЈџ е…Ёе№ґйЅўз‰€
+===============
+Name: SignupForm[email]
+Value: t0a0quypjy@mxscout.com
+===============
+Name: VerifyEmailForm[code]
+Value: 345051
+===============
+Name: email
+Value: t0a0quypjy@mxscout.com
+===============
+Name: user_id
+Value: jajajaa
+===============
+Name: user_name
+Value: aaaa213fcaz
+===============
+Name: user_email
+Value: t0a0quypjy@mxscout.com
+===============
+Name: query
+Value: з•°дё–з•ЊеҐЅи‰Із„ЎеЏЊйЊІгЂњз•°дё–з•Њи»ўз”џгЃ®зџҐжЃµгЃЁеЉ›г‚’гЂЃгЃџгЃ гЃІгЃџгЃ™г‚‰вњ•вњ•вњ•вњ•гЃ™г‚‹гЃџг‚ЃгЃ«дЅїгЃ†гЂњ
+===============
+Name: SignupForm[email]
+Value: 72upmq1mdw@mxscout.com
+===============
+Name: VerifyEmailForm[code]
+Value: 204398
+===============
+Name: email
+Value: 2gy8kjzfgw@mxscout.com
+===============
+Name: username
+Value: ryuken0408
+===============
+Name: name
+Value: гЃјгЃЈгЃЎ
+===============
+Name: name
+Value: г‚ўгѓ‹гѓЎ
+===============
+Name: GuestEmail
+Value: 2gy8kjzfgw@mxscout.com
+===============
+Name: search
+Value: Suisei Hoshimachi
+===============
+Name: search
+Value: Suisei
+===============
+Name: username
+Value: bochita665
+===============
+Name: react-aria1465683691-:r13:
+Value: Orphen
+===============
+Name: SignupForm[email]
+Value: u4way9uydu@hellomailo.net
+===============
+Name: VerifyEmailForm[code]
+Value: 525916

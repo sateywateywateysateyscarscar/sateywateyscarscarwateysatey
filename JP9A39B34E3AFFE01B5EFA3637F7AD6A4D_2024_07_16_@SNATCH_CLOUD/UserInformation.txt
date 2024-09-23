@@ -1,0 +1,37 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+@SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+IP: 110.132.131.221
+FileLocation: C:\Users\Ryu\AppData\Local\Temp\473804\RegAsm.exe
+UserName: Ryu
+MachineName: DESKTOP-QFFB98T
+Country: JP
+Zip Code: 337-0042
+Location: Saitama, Saitama
+HWID: 9A39B34E3AFFE01B5EFA3637F7AD6A4D
+Current Language: Japanese (Japan)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC+09:00) Osaka, Sapporo, Tokyo
+Operation System: Windows 10 Pro x64
+Log date: 7/16/2024 2:40:33 AM
+
+Available KeyboardLayouts: 
+Japanese (Japan)
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 8129.9 Mb or 8524816384 bytes
+Name: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, 4 Cores
+Name: NVIDIA GeForce GTX 1060 6GB, 4293918720 bytes
+
+
+Anti-Viruses: 
+Windows Defender

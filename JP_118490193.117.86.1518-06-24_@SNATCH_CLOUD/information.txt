@@ -1,0 +1,684 @@
+-- VIDAR STEALER - ЛУЧШИЙ STEALER НА РЫНКЕ!!!!
+-- Контакты для связи Telegram: @SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+-- ПОМНИТЕ ОПЛАТА ТОЛЬКО НА САЙТЕ ПРОЕКТА В АВТОМАТИЧЕСКОМ РЕЖИМЕ! 
+
+Chat Public: https://t.me/vidarchatopen
+Channel: https://t.me/vidarnews
+
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Подбор паролей к криптокошелькам.
+Беру в работу Metamask, Ronin, Phantom, Daedalus Mainnet, Nami, Exodus, Electrum, Rabby, Unisat
+Беру логи с балансом от 3000$
+
+В процессе брута задействую более 10 аттак.
+Возьмусь за лог после других брутеров.
+Срок брута зависит от сложности пароля.
+
+Telegram: @brute
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Ip: 193.117.86.151
+Country: JP
+Version: 10.1
+
+Date: 18/6/2024 21:57:54
+MachineID: 51b9b79d-fa4e-4721-8b2f-26d2e2d83a31
+GUID: {4df4e922-f287-11ee-a92e-806e6f6e6963}
+HWID: FD87D9D33FC058492808-4df4e922-f287-11ee-a92e-806e6f6e6963
+
+Path: C:\Users\hotal\AppData\Local\Temp\dcom.au3
+Work Dir: In memory
+
+Windows: Windows 11
+Install Date: 4/4/2024 22:32:19
+AV: Windows Defender
+Computer Name: B660
+User Name: hotal
+Display Resolution: 1920x1080
+Keyboard Languages: ???{?? (???{)
+Local Time: 18/6/2024 21:57:55
+TimeZone: 9
+
+[Hardware]
+Processor: 13th Gen Intel(R) Core(TM) i9-13900K
+Cores: 24
+Threads: 32
+RAM: 130855 MB
+VideoCard: NVIDIA GeForce RTX 4070
+
+[Processes]
+System
+Secure System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+csrss.exe
+services.exe
+LsaIso.exe
+lsass.exe
+winlogon.exe
+svchost.exe
+fontdrvhost.exe
+fontdrvhost.exe
+svchost.exe
+svchost.exe
+dwm.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+vmms.exe
+svchost.exe
+svchost.exe
+svchost.exe
+NVDisplay.Container.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+Memory Compression
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+spoolsv.exe
+svchost.exe
+svchost.exe
+AnyDesk.exe
+remoting_host.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+cloudflared.exe
+svchost.exe
+svchost.exe
+svchost.exe
+RtkAudUService64.exe
+vpnclient_x64.exe
+nvcontainer.exe
+jhi_service.exe
+MpDefenderCoreService.exe
+WMIRegistrationService.exe
+wslservice.exe
+MsMpEng.exe
+mysqld.exe
+wlanext.exe
+tailscaled.exe
+logi_lamparray_service.exe
+svchost.exe
+mysqld.exe
+svchost.exe
+conhost.exe
+svchost.exe
+svchost.exe
+gamingservices.exe
+gamingservicesnet.exe
+svchost.exe
+remoting_host.exe
+svchost.exe
+rundll32.exe
+svchost.exe
+tailscaled.exe
+conhost.exe
+svchost.exe
+AggregatorHost.exe
+dasHost.exe
+WUDFHost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+vmcompute.exe
+NisSrv.exe
+svchost.exe
+svchost.exe
+svchost.exe
+NVDisplay.Container.exe
+svchost.exe
+svchost.exe
+svchost.exe
+MoUsoCoreWorker.exe
+svchost.exe
+SearchIndexer.exe
+svchost.exe
+OneApp.IGCC.WinService.exe
+svchost.exe
+SecurityHealthService.exe
+svchost.exe
+svchost.exe
+svchost.exe
+WmiPrvSE.exe
+svchost.exe
+nvcontainer.exe
+nvcontainer.exe
+sihost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+taskhostw.exe
+ParkControl.exe
+dllhost.exe
+ShellHost.exe
+NVIDIA Web Helper.exe
+conhost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+RuntimeBroker.exe
+svchost.exe
+RuntimeBroker.exe
+GameInputSvc.exe
+GameInputSvc.exe
+ctfmon.exe
+PhoneExperienceHost.exe
+vpnclient_x64.exe
+RtkAudUService64.exe
+nvsphelper64.exe
+NVIDIA Share.exe
+NVIDIA Share.exe
+NVIDIA Share.exe
+steam.exe
+steamwebhelper.exe
+steamservice.exe
+steamwebhelper.exe
+steamwebhelper.exe
+steamwebhelper.exe
+BlueStacksServices.exe
+BlueStacksServices.exe
+BlueStacksServices.exe
+BlueStacksServices.exe
+steamwebhelper.exe
+steamwebhelper.exe
+IGCCTray.exe
+IGCC.exe
+svchost.exe
+AnyDesk.exe
+VCDDaemon.exe
+vpncmgr_x64.exe
+tailscale-ipn.exe
+CustomRP.exe
+svchost.exe
+SpotifyWidgetProvider.exe
+XboxGameBarWidgets.exe
+RuntimeBroker.exe
+XboxPcAppFT.exe
+svchost.exe
+svchost.exe
+svchost.exe
+ApplicationFrameHost.exe
+dllhost.exe
+explorer.exe
+SearchHost.exe
+StartMenuExperienceHost.exe
+TextInputHost.exe
+ShellExperienceHost.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+WindowsTerminal.exe
+node_app.exe
+conhost.exe
+OpenConsole.exe
+RuntimeBroker.exe
+RuntimeBroker.exe
+node_app.exe
+conhost.exe
+OpenConsole.exe
+UserOOBEBroker.exe
+explorer.exe
+SystemSettings.exe
+steamwebhelper.exe
+RuntimeBroker.exe
+TvUpdateInfo.exe
+TeamViewer_Service.exe
+TeamViewer.exe
+crashpad_handler.exe
+tv_w32.exe
+tv_x64.exe
+msedgewebview2.exe
+crashpad_handler.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+taskhostw.exe
+backgroundTaskHost.exe
+audiodg.exe
+backgroundTaskHost.exe
+Discord.exe
+Discord.exe
+Discord.exe
+Discord.exe
+Discord.exe
+Discord.exe
+DataExchangeHost.exe
+LINE.exe
+LineMediaPlayer.exe
+LineMediaPlayer.exe
+LineCall.exe
+backgroundTaskHost.exe
+Widgets.exe
+WidgetService.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+backgroundTaskHost.exe
+Photos.exe
+backgroundTaskHost.exe
+cheatengine-x86_64.exe
+backgroundTaskHost.exe
+svchost.exe
+svchost.exe
+SndVol.exe
+HxTsr.exe
+RuntimeBroker.exe
+HxOutlook.exe
+backgroundTaskHost.exe
+backgroundTaskHost.exe
+opera.exe
+opera_crashreporter.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+Notepad.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+backgroundTaskHost.exe
+backgroundTaskHost.exe
+WeMod.exe
+WeMod.exe
+WeMod.exe
+WeMod.exe
+WeModAuxiliaryService.exe
+opera.exe
+backgroundTaskHost.exe
+opera.exe
+steamwebhelper.exe
+opera.exe
+pty_win32_x64.exe
+conhost.exe
+winpty-agent.exe
+conhost.exe
+cmd.exe
+java.exe
+java.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+svchost.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+pty_win32_x64.exe
+conhost.exe
+winpty-agent.exe
+conhost.exe
+cmd.exe
+java.exe
+java.exe
+pty_win32_x64.exe
+conhost.exe
+winpty-agent.exe
+conhost.exe
+cmd.exe
+java.exe
+java.exe
+pty_win32_x64.exe
+conhost.exe
+winpty-agent.exe
+conhost.exe
+cmd.exe
+java.exe
+java.exe
+pty_win32_x64.exe
+conhost.exe
+winpty-agent.exe
+conhost.exe
+cmd.exe
+java.exe
+java.exe
+pty_win32_x64.exe
+conhost.exe
+winpty-agent.exe
+conhost.exe
+cmd.exe
+java.exe
+java.exe
+opera.exe
+opera.exe
+svchost.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+opera.exe
+SearchProtocolHost.exe
+smartscreen.exe
+opera.exe
+opera.exe
+opera.exe
+dcom.au3
+
+[Software]
+7-Zip 22.01 - 22.01
+AIDA64 Extreme v6.92 - 6.92
+AnyDesk - ad 8.0.10
+Bandai Namco Launcher - 2.0.24.0
+BitComet 2.07 - 2.07
+Codec Pack Update 17.1.3 - 17.1.3
+Earth Defense Force 5
+Euro Truck Simulator 2
+Visual Studio Community 2022 - 17.9.6
+Google Chrome - 125.0.6422.176
+IntelliJ IDEA 2023.1 - 231.8109.175
+IntelliJ IDEA Community Edition 2023.2 - 232.8660.185
+MCreator 2023.3 - 2023.3.36712
+Microsoft Edge - 126.0.2592.61
+Microsoft Edge Update - 1.3.187.41
+Microsoft Edge WebView2 Runtime - 125.0.2535.92
+OBS Studio - 30.0.2
+Ocen Audio 3.13.5 - 3.13.5
+ParkControl - 5.0.3.8
+PCSX2 - Playstation 2 Emulator - 1.6.0
+Puyo Puyo Tetris 2
+Rockstar Games Launcher - 1.0.88.1929
+Rockstar Games Social Club - 2.3.0.7
+Steam - 2.10.91.91
+STRLibCRT 1.0.12.2
+VirtualCloneDrive - 5.5.2.0
+VLC media player - 3.0.20
+WinSCP 6.3.3 - 6.3.3
+?C???e??(R) ???C?????X Bluetooth(R) - 22.90.4.1
+Windows Mobile Extension SDK Contracts - 10.1.22621.3233
+Windows SDK Desktop Tools x86 - 10.1.22000.832
+Windows SDK for Windows Store Managed Apps Libs - 10.1.22621.3233
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 - 12.0.30501.0
+Adobe Redeem Launcher - 1.0.0.07
+Tera Term ?o?[?W???? 5.0-beta1 r10612-20230227_154019 - 5.0-beta1 r10612-20230227_154019
+vs_vswebprotocolselectormsi - 17.9.34511
+vs_BlendMsi - 17.9.34511
+Realtek USB Audio - 6.3.9600.2353
+Microsoft Visual Studio Setup WMI Provider - 3.9.2148.60653
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.40.33810 - 14.40.33810
+WinRT Intellisense Mobile - en-us - 10.1.22000.832
+Windows SDK Signing Tools - 10.1.22000.832
+Microsoft .NET CoreRuntime SDK - 1.1.27004.0
+Windows Team Extension SDK - 10.1.22000.832
+vs_CoreEditorFonts - 17.7.40001
+Windows SDK Desktop Libs x64 - 10.1.22000.832
+CyberLink PowerDVD 23 - 23.0.1406.62
+vs_vswebprotocolselectormsires - 17.9.34511
+WPTx64 (OnecoreUAP) - 10.1.22621.3233
+Universal CRT Redistributable - 10.1.22621.3233
+Tailscale - 1.66.4
+Windows IoT Extension SDK Contracts - 10.1.22000.832
+ClickOnce Bootstrapper Package for Microsoft .NET Framework - 4.8.09037
+Windows SDK Desktop Libs x86 - 10.1.22621.3233
+Microsoft Windows Desktop Targeting Pack - 8.0.4 (x86) - 64.16.12024
+Windows App Certification Kit x64 - 10.1.22621.3233
+SDK ARM Additions - 10.1.22621.3233
+Windows SDK - 10.1.22621.3233
+Windows SDK Desktop Libs arm - 10.1.22621.3233
+Windows SDK Desktop Headers arm64 - 10.1.22000.832
+Microsoft Visual C++ 2022 X86 Debug Runtime - 14.38.33135 - 14.38.33135
+Windows SDK for Windows Store Apps DirectX x86 Remote - 10.1.22000.832
+Windows SDK Facade Windows WinMD Versioned - 10.1.22000.832
+Windows SDK Desktop Headers arm - 10.1.22621.3233
+Microsoft ASP.NET Core 8.0.4 Shared Framework (x86) - 8.0.4.24170
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 - 11.0.61030.0
+Windows SDK for Windows Store Apps Tools - 10.1.22621.3233
+CyberLink PowerDVD 22 - 22.0.3526.62
+Epic Online Services - 2.0.42.0
+vs_filehandler_amd64 - 17.9.34714
+windows_toolscorepkg - 17.9.34714
+Universal CRT Tools x86 - 10.1.22621.3233
+MSI Development Tools - 10.1.22621.3233
+WinRT Intellisense IoT - Other Languages - 10.1.22000.832
+Windows SDK Desktop Headers x64 - 10.1.22621.3233
+WinRT Intellisense UAP - Other Languages - 10.1.22621.3233
+Microsoft .NET Host FX Resolver - 8.0.4 (x86) - 64.16.12025
+Windows Desktop Extension SDK - 10.1.22000.832
+Microsoft ASP.NET Core 8.0.4 Targeting Pack (x86) - 8.0.4.24170
+vs_clickoncebootstrappermsires - 17.9.34511
+Microsoft .NET Host - 8.0.4 (x86) - 64.16.12025
+Windows SDK Redistributables - 10.1.22621.3233
+Visual C++ Library CRT Desktop Appx Package - 14.39.33519
+WinRT Intellisense UAP - en-us - 10.1.22000.832
+Launcher Prerequisites (x64) - 1.0.0.0
+MySQL Examples and Samples 8.0 - 8.0.35
+WinRT Intellisense IoT - en-us - 10.1.22621.3233
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.40.33810 - 14.40.33810.0
+vs_Graphics_Singletonx86 - 17.9.34511
+icecap_collectionresources - 17.9.34714
+icecap_collection_neutral - 17.9.34714
+Microsoft .NET CoreRuntime For CoreCon - 1.0.0.0
+Windows SDK for Windows Store Apps Metadata - 10.1.22621.3233
+UE4 Prerequisites (x64) - 1.0.13.0
+WinRT Intellisense Desktop - Other Languages - 10.1.22621.3233
+vs_minshellinteropsharedmsi - 17.9.34511
+Microsoft .NET Core Runtime - 3.1.22 (x86) - 24.88.30721
+Windows SDK Desktop Tools arm64 - 10.1.22000.832
+Windows SDK Signing Tools - 10.1.22621.3233
+Visual C++ Library CRT Appx Package - 14.39.33519
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.40.33810 - 14.40.33810.0
+Windows IoT Extension SDK - 10.1.22000.832
+?????݂̂Ȃ݂? - 1.00.0000
+Windows SDK for Windows Store Apps DirectX x86 Remote - 10.1.22621.3233
+vs_communitysharedmsi - 17.9.34714
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.40.33810 - 14.40.33810
+Visual C++ Library CRT Appx Package - 14.39.33519
+WinRT Intellisense PPI - Other Languages - 10.1.22621.3233
+Windows SDK for Windows Store Apps Contracts - 10.1.22621.3233
+Windows Team Extension SDK Contracts - 10.1.22000.832
+Windows SDK for Windows Store Apps - 10.1.22621.3233
+icecap_collectionresourcesx64 - 17.9.34714
+Windows SDK Desktop Libs arm - 10.1.22000.832
+WinRT Intellisense IoT - Other Languages - 10.1.22621.3233
+Microsoft Windows Desktop Runtime - 3.1.22 (x86) - 3.1.22.30721
+Windows SDK for Windows Store Apps Tools - 10.1.22000.832
+vs_githubprotocolhandlermsi - 17.9.34511
+Microsoft Visual Studio Setup Configuration - 3.9.2148.60653
+Windows SDK Desktop Headers x86 - 10.1.22000.832
+Microsoft .NET Targeting Pack - 8.0.4 (x86) - 64.16.12025
+Windows Software Development Kit - Windows 10.0.22621.3233 - 10.1.22621.3233
+Microsoft NetStandard SDK - 15.0.51105
+Windows App Certification Kit x64 (OnecoreUAP) - 10.1.22621.3233
+Visual C++ Library CRT ARM64 Appx Package - 14.39.33519
+Windows SDK for Windows Store Apps Headers - 10.1.22621.3233
+Windows SDK Modern Non-Versioned Developer Tools - 10.1.22621.3233
+Windows SDK Facade Windows WinMD Versioned - 10.1.22621.3233
+Windows Desktop Extension SDK Contracts - 10.1.22621.3233
+Bve trainsim 5.8 - 5.8
+Windows SDK for Windows Store Apps Metadata - 10.1.22000.832
+MySQL Installer - Community - 1.6.8.0
+Windows SDK Desktop Libs x86 - 10.1.22000.832
+vs_minshellsharedmsi - 17.9.34511
+WinRT Intellisense Mobile - en-us - 10.1.22621.3233
+Minecraft Launcher - 1.0.0.0
+Windows SDK DirectX x86 Remote - 10.1.22621.3233
+WinRT Intellisense IoT - en-us - 10.1.22000.832
+Windows SDK Desktop Libs arm64 - 10.1.22000.832
+WinRT Intellisense Desktop - Other Languages - 10.1.22000.832
+Windows SDK Desktop Libs x64 - 10.1.22621.3233
+Microsoft TestPlatform SDK Local Feed - 17.0.0.5175695
+Microsoft .NET Framework 4.8 SDK (???{??) - 4.8.03761
+Windows SDK Desktop Libs arm64 - 10.1.22621.3233
+Windows IoT Extension SDK Contracts - 10.1.22621.3233
+WinAppDeploy - 10.1.22000.832
+Universal CRT Redistributable - 10.1.22000.832
+Windows Mobile Extension SDK Contracts - 10.1.22000.832
+vs_filehandler_x86 - 17.9.34714
+Visual C++ Library CRT Desktop Appx Package - 14.39.33519
+Windows Team Extension SDK - 10.1.22621.3233
+Universal CRT Extension SDK - 10.1.22000.832
+Visual C++ Library CRT Desktop Appx Package - 14.39.33519
+Windows SDK EULA - 10.1.22000.832
+vs_clickoncebootstrappermsi - 17.9.34511
+Microsoft .NET Framework 4.8 SDK - 4.8.03928
+WinRT Intellisense UAP - en-us - 10.1.22621.3233
+MSI Development Tools - 10.1.22000.832
+Visual C++ Library CRT Appx Resource Package - 14.39.33519
+Windows SDK ARM Desktop Tools - 10.1.22621.3233
+?炶?ꂱ - 1.9.29.0
+Universal CRT Headers Libraries and Sources - 10.1.22000.832
+Intel(R) Chipset Device Software - 10.1.18836.8283
+WinRT Intellisense PPI - Other Languages - 10.1.22000.832
+Windows SDK for Windows Store Apps Headers - 10.1.22000.832
+Windows Mobile Extension SDK - 10.1.22621.3233
+Windows SDK Desktop Tools arm64 - 10.1.22621.3233
+vs_clickoncesigntoolmsi - 17.9.34511
+MAMP & MAMP PRO version 5.0.5 - 5.0.5
+Windows SDK Desktop Headers arm64 - 10.1.22621.3233
+WPT Redistributables - 10.1.22621.3233
+Windows SDK ARM Desktop Tools - 10.1.22000.832
+Windows SDK for Windows Store Apps Contracts - 10.1.22000.832
+MySQL Documents 8.0 - 8.0.35
+Epic Games Launcher - 1.3.82.0
+?炶?ꂱ - 1.9.29.0
+Windows SDK for Windows Store Managed Apps Libs - 10.1.22000.832
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 - 11.0.61030
+MAMP PRO version 5.0.5 - 5.0.5
+WinRT Intellisense Desktop - en-us - 10.1.22621.3233
+SDK ARM Redistributables - 10.1.22621.3233
+cloudflared - 2023.7.3
+Visual C++ Library CRT ARM64 Appx Package - 14.39.33519
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 - 11.0.61030
+vs_communitymsires - 17.9.34511
+Windows SDK Desktop Tools x64 - 10.1.22621.3233
+Windows SDK Desktop Headers x64 - 10.1.22000.832
+WinRT Intellisense PPI - en-us - 10.1.22621.3233
+Windows SDK Modern Versioned Developer Tools - 10.1.22621.3233
+vcpp_crt.redist.clickonce - 14.38.33135
+Microsoft UniversalWindowsPlatform SDK - 15.9.16
+VideoScreensaver - 1.00.0007
+Windows SDK Desktop Headers arm - 10.1.22000.832
+Windows App Certification Kit SupportedApiList x86 - 10.1.22621.3233
+IntelliTraceProfilerProxy - 15.0.21225.01
+Windows SDK for Windows Store Apps Libs - 10.1.22000.832
+WinAppDeploy - 10.1.22621.3233
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 - 11.0.61030.0
+Windows SDK Desktop Tools x86 - 10.1.22621.3233
+Windows SDK for Windows Store Apps Libs - 10.1.22621.3233
+Kits Configuration Installer - 10.1.22000.832
+Windows IoT Extension SDK - 10.1.22621.3233
+PatnetResort ?o?[?W???? 1.2.20 - 1.2.20
+vs_SQLClickOnceBootstrappermsi - 17.9.34511
+WinRT Intellisense UAP - Other Languages - 10.1.22000.832
+Universal General MIDI DLS Extension SDK - 10.1.22621.3233
+Universal CRT Headers Libraries and Sources - 10.1.22621.3233
+Microsoft .NET Core Host FX Resolver - 3.1.22 (x86) - 24.88.30721
+Windows Desktop Extension SDK Contracts - 10.1.22000.832
+Universal General MIDI DLS Extension SDK - 10.1.22000.832
+Windows Desktop Extension SDK - 10.1.22621.3233
+Windows Software Development Kit - Windows 10.0.22000.832 - 10.1.22000.832
+WPTx64 (DesktopEditions) - 10.1.22621.3233
+Microsoft Windows Desktop Runtime - 8.0.4 (x86) - 64.16.12024
+Microsoft .NET Core Host - 3.1.22 (x86) - 24.88.30721
+Windows Mobile Extension SDK - 10.1.22000.832
+Microsoft .NET Runtime - 8.0.4 (x86) - 64.16.12025
+Windows SDK EULA - 10.1.22621.3233
+Windows SDK Desktop Tools x64 - 10.1.22000.832
+Universal CRT Extension SDK - 10.1.22621.3233
+Jw_cad ?o?[?W???? 8.25.1.0 - 8.25.1.0
+Windows SDK Modern Versioned Developer Tools - 10.1.22000.832
+JoyToKey ?o?[?W???? 6.9.3 - 6.9.3
+Microsoft Windows Desktop Runtime - 3.1.22 (x86) - 24.88.30721
+Microsoft .NET Native SDK - 15.0.24211.07
+Chrome Remote Desktop Host - 125.0.6422.31
+Windows SDK AddOn - 10.1.0.0
+vs_tipsmsi - 17.9.34511
+Windows SDK Desktop Headers x86 - 10.1.22621.3233
+vs_FileTracker_Singleton - 17.9.34714
+Windows Team Extension SDK Contracts - 10.1.22621.3233
+vs_devenvsharedmsi - 17.9.34511
+WinRT Intellisense Desktop - en-us - 10.1.22000.832
+WinRT Intellisense PPI - en-us - 10.1.22000.832
+vs_minshellmsires - 17.9.34511
+VS Immersive Activate Helper - 17.0.125.0
+Chrome ?????[?g ?f?X?N?g?b?v - 1.0
+BlueStacks X - 10.5.21.1001
+BlueStacks Services - 3.0.9
+Discord - 1.0.9013
+FLARE NUINUI QUEST - 1.1.0
+LINE - 9.0.1.3361
+Microsoft OneDrive - 24.116.0609.0002
+Opera Stable 110.0.5130.82 - 110.0.5130.82
+Prism Launcher - 7.1
+toc - 1.55
+uTorrent Web - 1.3.0
+WeMod - 9.3.0-beta00
+CustomRP 1.17.19 - 1.17.19
+Microsoft Visual Studio Code (User) - 1.88.1
+

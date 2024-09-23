@@ -1,0 +1,750 @@
+/paypalAccountData/address/0/address1 1128番地2
+/paypalAccountData/address/0/city 志摩市磯部町穴川
+/paypalAccountData/address/0/zip 517-0213
+/paypalAccountData/dob 1995/10/21
+/paypalAccountData/firstName カズキ
+/paypalAccountData/lastName オクダ
+/paypalAccountData/phoneNumber 8026183041
+1val-field_1.3.10--input Sorry, you have been blocked You are unable to access discord.com
+370189 yuiwiz928_sub@yahoo.co.jp
+91a2af7af368cc0f53f96c3c8da68d05302f6074 yuiwiz928_sub@yahoo.co.jp
+:r14: fix nickname.java
+:r2: ActionBarMoney
+:r2: Digger
+:r2: MyWorldmanager
+:r2m: fix editname.java
+:r3: Antibedplugin
+:r3: ClimatePlugin
+:r3: GunsPlugin-ResoucePack
+:r3: InstantCrafter
+:r3: LobbyManager
+:r3: Menu
+:r3: MinuslotInventory
+:r3: OreReplacer
+:r3: Wipe
+:r4: BedrockMenu
+:rf: EnderChestExpansion
+:rm: ADD LICENSE
+BUILD_NUMBER latest
+Bid 1
+Bid 100
+Bid 200
+Bid 500
+Choice1 1.20.x
+Choice2 1.19.4
+Choice3 1.17.1
+Choice4 それ以外（コメントでね）
+Comment VPN
+Comment VPNhere
+Description /slot [ID] +/-[数字] でインベントリの数を減らしていく.例：インベントリの初めのスロットが灰色の板付きガラスに変わる
+Description fishsell
+Description エンダーチェスト成長
+Description マイワールド管理プラグイン
+Description メニュー
+Description ワイププラグイン
+GLUXZipUpdateInput_0 511
+GLUXZipUpdateInput_1 0001
+IP 176.58.106.79
+IP 20.4.48.76
+IP 213.136.71
+IP 213.136.71.218
+IP 3.65.39.22
+IP contaboserver.net
+LOOKUPADDRESS 153.252.132.143
+LOOKUPADDRESS 172.104.210.105
+MINECRAFT_VERSION latest
+Name VANDLE USER
+OfferExpireDate 2024年02月05日
+OfferExpireDate 2024年02月11日
+OfferExpireDate 2024年02月12日
+PasswordText hotamachi1
+PasswordText minecraftrei1
+Quantity 2
+SERVER_JARFILE server.jar
+UserCode 9T3ELv
+Username hotal
+_2087757115@Screen_Name__c @WcnhOf
+__email yuiwiz928_sub@yahoo.co.jp
+account-property-displayname ほたまち！
+action-input-kxcpz helper
+action-input-kxcpz moderator
+action-input-kxcpz support
+action-input-lmrll MODE
+action-input-nfocu sup
+action-input-svqhb MOD
+action-input-vhqru he,p
+action-input-vhqru help
+action-input-xpcua 517-0213
+action-input-zckmf admin
+addinfo_0_11 志摩市磯部町穴川
+addinfo_0_12 1128-2
+addinfo_0_9 5170213
+address hypixel.net
+address mc,hypixel.net
+address mc.hypixel.net
+address nandeyanen.click
+address play.hotal.jp
+address play.hotamachi.net
+address play.raulnohaka.com
+address-ui-widgets-enterAddressFullName きゅうり
+address-ui-widgets-enterAddressLine2 24-17
+address-ui-widgets-enterAddressPhoneNumber 09065007864
+address-ui-widgets-enterAddressPostalCodeOne 350
+address-ui-widgets-enterAddressPostalCodeOne 517
+address-ui-widgets-enterAddressPostalCodeTwo 0502
+address-ui-widgets-enterAddressPostalCodeTwo 1323
+allocation_alias 103.112.3.104
+allocation_alias 103.112.3.105
+amount 20000
+auth-domain yestotwo
+authid keionyuiazu@docomo.ne.jp
+authid yuiwiz928@docomo.ne.jp
+authid yuiwiz928_sub@yahoo.co.jp
+b956a57e845e54cfdc68ea86a84a1076440075a0 hotal
+backup_limit -1
+backup_limit 10
+backup_limit 12
+backup_limit 3
+backup_limit 5
+billingAddress.city 三重県
+billingAddress.street 志摩市磯部町穴川
+billingAddress.zipCode 517-0213
+billingAddressLine1 志摩市磯部町穴川
+billingAddressLine2 1128-2
+billingPostalCode 517-0213
+birthday_mday 21
+birthday_month 10
+birthday_year 1995
+card_holder Vandle User
+cardnumber 52041779000911120777
+cardnumber 52095712625296753202
+ccHolder VANDLE USER
+cc_expiration 08/27
+checkout[billing_address][address1] 磯部町穴川1128-2
+checkout[billing_address][city] 志摩市
+checkout[billing_address][first_name] 和紀
+checkout[billing_address][last_name] 奥田
+checkout[billing_address][phone] 080-2618-3041
+checkout[billing_address][zip] 517-0213
+checkout[shipping_address][address1] 阿児町神明1007-85
+checkout[shipping_address][country] JP
+checkout[shipping_address][first_name] 陸斗
+checkout[shipping_address][last_name] 亀山
+checkout[shipping_address][province] 三重県
+checkout[shipping_address][zip] 5170502
+checkout_vault_phone +81 80-2618-3041
+ci100 897518
+ci206 志摩磯部
+ci209 近鉄名古屋
+cidr 172.22.119.176
+cidr 172.29.42.128
+cidr 192.168.2.111
+cidr_post 20.4.48.76
+code 1183
+code 2432
+code 2503
+code 4616
+code 475811
+code 478671
+code 5766
+code 6711
+code 8765
+connectionsFrom 103.112.3.104:25568
+connectionsFrom 103.112.3.104:25569
+connectionsFrom localhost
+console-input plugmanx:plugman reload WardenBoss
+cpu 20
+cpu 200
+cpu 300
+cpu 400
+cpu 500
+customerName 蛍
+customer[email] yuiwiz928_sub@yahoo.co.jp
+data[Offer][price] 1500
+data[Service][order_limit] 2
+data[User][login_email] yuiwiz928_sub@yahoo.co.jp
+data[use_point_v3] 165
+data[use_point_v3] 220
+databaseName Jecon
+databaseName economyUtilsApi
+databaseName mysql
+database_limit 2
+date_checkin 2024年6月23日
+date_checkout 2024年6月24日
+datetime 2023/10/26
+dayOfMonth 1
+dayOf月 1
+dayOf月 23
+db Digger
+db digger
+directoryName heightmap
+disk 10240
+disk 102400
+disk 16384
+disk 20480
+disk 204800
+disk 20840
+disk 40960
+disk 5120
+disk 51200
+dob_day 21
+dob_year 1995
+domain file.hotamachi.net
+domain.subdomain cf.panel
+domain.subdomain game
+domain.subdomain gamepanel
+domain.subdomain pf.panel
+domainName hotal.jp
+email amg1560w@amigo.ne.jp
+email minamikana1@ymail.ne.jp
+email yuiwiz928_sub@yahoo.co.jp
+emailAddress yuiwiz928_sub@yahoo.co.jp
+email_confirm yuiwiz928_sub@yahoo.co.jp
+empty-setup-clone-url https://github.com/NANDEYANENW/LobbyManager.git
+environment[MINECRAFT_VERSION] 1.20.1
+environment[MINECRAFT_VERSION] latest
+expirationDate 0827
+fanclub[input_campaign_code] CS2023F
+field ビジネス科
+firstName Hotal
+firstName 和紀
+firstNameFurigana かずき
+first_name KIYOKAZU
+first_name VANDLE
+first_name 和紀
+first_name 清和
+first_name 陸斗
+first_name_kana キヨカズ
+formCreditNominee VANDLE USER
+form_item_apiKey f1248046c40b4e9d96e1c194a144aac969625ae7c0085ae
+form_item_ip play.hotal.jp
+form_item_jarName paper-1.20.6-124.jar
+form_item_jarName purpur-1.20.6-2230.jar
+form_item_maxMemory 10240M
+form_item_minMemory 10240M
+form_item_passWord Uminokun3
+form_item_passWord ae5,sVsxqamC
+form_item_port 24444
+form_item_port 34635
+form_item_remarks game
+form_item_userName uminokun
+from 蛍
+hitokoto 基本的に14:00~18:00
+hitokoto 基本的に14:00~18:00.なるべく早めに
+home_address1 阿児町神明1007-85
+home_zip 5170502
+hour 0
+hour 11
+hour 12
+hour 13
+hour 13-13
+hour 17
+hour 23
+identifier yuiwiz928@gmail.com
+ign Hotal_Mami1021
+input-subdomain-label sakura-server
+inputAuth 08026183041
+input_ip1 103
+input_ip1 133
+input_ip1 153
+input_ip1 172
+input_ip1 193
+input_ip1 219
+input_ip2 103
+input_ip2 105
+input_ip2 112
+input_ip2 117
+input_ip2 167
+input_ip3 204
+input_ip3 3
+input_ip3 79
+input_ip3 86
+input_ip3 97
+input_ip4 104
+input_ip4 151
+input_ip4 207
+input_ip4 44
+input_ip4 75
+io 1000
+io 3000
+ip 103.112.3.104
+ipv4_address 193.117.86.151
+ipv4_address 219.103.79.207
+issue_form[plugin-version] latest
+jobTitle-0 検品・梱包
+k_telNoUndr 3041
+keyword マインクラフト
+keywords Auction
+keywords Auctions
+keywords BlockedJava
+keywords Elevatir
+keywords Gsit
+keywords Iron Elevator
+keywords LWCX
+keywords Lift
+keywords Magia Record
+keywords Slashhub
+keywords VPN
+keywords blockjava
+keywords java
+keywords mcMMO
+label Discord
+label discord
+lastName Mami
+lastName 奥田
+lastNameFurigana おくだ
+last_name OKUDA
+last_name USER
+last_name 亀山
+last_name 奥田
+last_name_kana オクダ
+leftMenuPriceTo 240000
+local Shima-shi
+log root
+login holymami1021
+login minamikana1
+login minamiserver
+login yuiwiz928_sub@yahoo.co.jp
+login-username gyv50993
+loginID minamikana
+loginId 90802600
+loginName 90802600
+login_email yuiwiz928_sub@yahoo.co.jp
+login_handle yuiwiz928_sub
+mail yuiwiz928_sub@yahoo.co.jp
+mailAddress yuiwiz928@gmail.com
+mailAddrss yuiwiz928_sub@yahoo.co.jp
+mail_address yuiwiz928@gmail.com
+mailaddress yuiwiz928_sub@yahoo.co.jp
+mcsm_username hotalmami1021
+mcsm_username hotamachisubaru
+member__email minamikana1@ymail.ne.jp
+member__email yuiwiz928@gmail.com
+member__email yuiwiz928_sub@yahoo.co.jp
+member__email_confirm minamikana1@ymail.ne.jp
+member__email_confirm yuiwiz928@gmail.com
+member__email_confirm yuiwiz928_sub@yahoo.co.jp
+member__name ほたまちスバル
+member__name_read ホタマチスバル
+memory 1024
+memory 10240
+memory 14336
+memory 16384
+memory 18432
+memory 2048
+memory 20480
+memory 24576
+memory 3072
+memory 30720
+memory 32768
+memory 4096
+memory 5120
+memory 8192
+memory 8192*2
+mfaCode 655731
+mfaCode 689258
+mfaCode 696409
+mfaCode 738390
+mfaCode 882257
+mfaCode 910007
+mfaCode 924034
+mfaCode 956760
+minimumPaySelector 160000
+minute *
+minute 0
+minute 00
+minute 25
+minute 30
+minute 58
+minute 59
+minute 7
+minute 9
+month 1
+month 9
+name ..
+name /plugins/OnePlayerSleep.jar
+name 0723
+name 1.19.4
+name 1.19.4 24h
+name Event-kentiku
+name Folia
+name Promised Lazy
+name Proxy
+name Re:Survival
+name Realiz
+name Survival
+name Vault.jar
+name Waterfall
+name Waterfall kakka
+name Waterfall kyuuri
+name Yes 24h
+name YestoTwo
+name backup
+name backup stop
+name chats.txt
+name fabric
+name fabric.jar
+name gorayan
+name gorayan core
+name hatsuboshi
+name hotal
+name htbs
+name hub
+name hub1
+name hub2
+name kakka
+name lobby
+name nginx
+name paper.jar
+name petal-1.19.2
+name plugin test 1.19.4
+name plugin test 1.20.1
+name plugins
+name plugins/CoreProtect-22.1.jar
+name plugins/Digger-1.0.jar
+name plugins/LWC-2.3.0.jar
+name proxy
+name purpur
+name realiz
+name realiz 24h
+name restart
+name server
+name server.jar
+name server.jar.jar
+name servers.jar
+name servesr.jar
+name start
+name stop
+name test
+name test1
+name test１
+name tw
+name twilight forest
+name uhc
+name velocity.jar
+name waterfall.jar
+name ごらやんサーバー
+name ほたまちBOT
+name ほたる
+name ほたるぅ
+name ルール
+name 報告BOT
+name 奥田 和紀
+name 建築サーバー　ほたるぅ (24h)
+name 検証環境
+name 蛍
+name_first hotal
+name_last mami
+newhost pterodactyl.wings
+number01 383242208086
+number01 478371581472
+number01 478397773372
+number01 489170282333
+oauth_access[description] 1
+oauth_access[description] IntelliJ IDEA GitHub integration plugins
+oauth_access[description] IntelliJ IDEA GitHub integration plugins2
+oauth_access[description] IntelliJ IDEA GitHub integration pluginｓ
+obj[adddomain1] benedict.ns.cloudflare.com
+obj[adddomain1] katelyn.ns.cloudflare.com
+obj[adddomain2] christina.ns.cloudflare.com
+obj[adddomain2] roan.ns.cloudflare.com
+obj[adddomain3] 03.dnsv.jp
+obj[adddomain4] 04.dnsv.jp
+onamaeId 90802600
+onamae_id 90802600
+organization[company_name] nemcsns@gmail.com
+organization[profile_bio] EvolveCraft開発リポジトリ
+organization[profile_email] nemcsns@gmail.com
+organization[profile_name] EvolveCraft-dev
+otherText cloudflare
+otherText1 Cloudflare
+p 24C48T
+p 5170213
+pDefaultStartupCommand java --add-modules=jdk.incubator.vector -Xms128M -Xmx{{SERVER_MEMORY}}M -Dterminal.jline=false -Dterminal.ansi=true -jar {{SERVER_JARFILE}}
+pDefaultStartupCommand java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true $( [[  ! -f unix_args.txt ]] && printf %s "-jar {{SERVER_JARFILE}}" || printf %s "@unix_args.txt" )
+pDefaultStartupCommand java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true -jar {{SERVER_JARFILE}}
+pDefaultStartupCommand java -Xms128M -Xmx{{SERVER_MEMORY}}M -jar {{SERVER_JARFILE}}
+path control
+payment[creditHolder] vandle user
+phone +81 8026183041
+phoneNumber 08026183041
+phone_number 8026183041
+postcode 5170213
+ppw-jpPointsBalanceSelection_partialPointsAmount 696
+price[] 2000
+priceall 1
+priceall 1000
+priceall 2000
+product[name] あなただけのMinecraftサーバー構築します！
+q 19045 x64
+q 25314
+q 25398
+q ChatGPT
+q Discord
+q Forgot Password
+q Windows 10
+q Windows 10 Pro
+q Windows 7
+q canary windows 11
+q maven-gpg-plugin
+q maven-javadoc-plugin
+q maven-shade-plugin
+q maven-source-plugin
+q 例外が発生しました。
+q 師であり、友であり
+q 情、得
+q 旧城
+react-aria-2 Alert
+react-aria-2 fishsell
+react-aria-2 noticebox
+react-aria-3 deathback
+redirect https://100.70.2.36:8006
+release[name] 1.2
+release[name] 1.3
+release[name] 1.4
+release[name] 1.5.1
+release[name] 1.6
+release[name] 5.4
+release[name] AutoWhitelistAdder 1.5
+release[name] Gunpowderblock release
+release[name] TNTremover 1.0
+release[name] TPM 1.4c
+release[name] TPM 1.5d
+release[name] TPM 1.5e
+release[name] TPM 1.6f
+release[name] TPM 1.7g
+release[name] TPM 1.8i
+release[name] TPM 1.9j
+release[name] TPM release
+release[name] TPM(TabPlayerManager) v1.1α
+release[name] TPM(TabPlayerManager) v1.2α
+release[name] TPM(TabPlayerManager) v1.3b
+release[name] TabPlayerManager(TPM) v1.0
+release[name] TabPlayerManager(TPM) v1.2
+release[name] Wipe 1.0
+release[name] beta
+release[name] beta 1.1
+release[name] beta 1.3
+release[name] beta release 0.5
+release[name] beta2-fishsell
+release[name] beta3-fishsell
+release[name] beta4-fishsell
+release[name] bug fix 1.1
+release[name] deathback release 1
+release[name] digger
+release[name] digger 1.0
+release[name] digger release
+release[name] digger　6.0
+release[name] final
+release[name] final 5.1
+release[name] final 5.3
+release[name] final release
+release[name] fishsell
+release[name] fishsell 1.2
+release[name] fishsell v1.0
+release[name] fishsell v1.1
+release[name] noticebox
+release[name] r1.2a
+release[name] r1.2c
+release[name] r1.2d
+release[name] r1.31
+release[name] rc1-fishsell
+release[name] release 1.-
+release[name] release 1.0
+release[name] release 1.0 
+release[name] release 1.1
+release[name] release 1.2
+release[name] release 1.3
+release[name] release 1.4
+release[name] release 1.5
+release[name] release 1.5.1
+release[name] release 1.5.2
+release[name] release 1.6
+release[name] release 1.7
+release[name] release 1.8
+release[name] release 1.9
+release[name] release 2.0
+release[name] release 2.0.1
+release[name] release 2.1
+release[name] release 2.2
+release[name] release 2.3
+release[name] release 2.4
+release[name] release 2.5
+release[name] release 2.6
+release[name] release 2.7
+release[name] release 2.8
+release[name] release 2.9
+release[name] release 3.0
+release[name] release 3.2
+release[name] release 3.3
+release[name] release 4.0
+release[name] release 4.1
+release[name] release 4.2
+release[name] release 4.3
+release[name] release 4.4
+release[name] release 4.6
+release[name] v1.1
+release[name] v1.5
+release[release_assets_attributes][][name] ActionBarMoney-1.0.jar
+release[release_assets_attributes][][name] ActionBarMoney-1.1.jar
+release[release_assets_attributes][][name] ActionBarMoney-1.2.jar
+release[release_assets_attributes][][name] AutoWhitelistAdder-1.5.jar
+release[release_assets_attributes][][name] Digger-1.0.jar
+release[release_assets_attributes][][name] Digger-2.0.jar
+release[release_assets_attributes][][name] Digger-2.1.jar
+release[release_assets_attributes][][name] Digger-2.2.jar
+release[release_assets_attributes][][name] Digger-2.3.jar
+release[release_assets_attributes][][name] Digger-2.4.jar
+release[release_assets_attributes][][name] Digger-2.5.jar
+release[release_assets_attributes][][name] Digger-2.6.jar
+release[release_assets_attributes][][name] Digger-2.8.jar
+release[release_assets_attributes][][name] Digger-3.0.jar
+release[release_assets_attributes][][name] Digger-3.2.jar
+release[release_assets_attributes][][name] Digger-3.3.jar
+release[release_assets_attributes][][name] Digger-4.0.jar
+release[release_assets_attributes][][name] Digger-4.1.jar
+release[release_assets_attributes][][name] Digger-4.3.jar
+release[release_assets_attributes][][name] Digger-4.4.jar
+release[release_assets_attributes][][name] Digger-4.6.jar
+release[release_assets_attributes][][name] Digger-5.1.jar
+release[release_assets_attributes][][name] Digger-5.3.jar
+release[release_assets_attributes][][name] Digger-5.4.jar
+release[release_assets_attributes][][name] Digger-5.5.jar
+release[release_assets_attributes][][name] Digger-6.0.jar
+release[release_assets_attributes][][name] LoginReward-1.0.jar
+release[release_assets_attributes][][name] LoginReward-1.1.jar
+release[release_assets_attributes][][name] LoginReward-1.3.jar
+release[release_assets_attributes][][name] LoginReward-1.5.jar
+release[release_assets_attributes][][name] LoginReward-1.6.jar
+release[release_assets_attributes][][name] LoginReward-1.7.jar
+release[release_assets_attributes][][name] LoginReward-1.8.jar
+release[release_assets_attributes][][name] LoginReward-1.9.jar
+release[release_assets_attributes][][name] LoginReward-2.3.jar
+release[release_assets_attributes][][name] LoginReward-2.5.jar
+release[release_assets_attributes][][name] LoginReward-3.0.jar
+release[release_assets_attributes][][name] LoginReward.jar
+release[release_assets_attributes][][name] MinuslotInventory-1.0.jar
+release[release_assets_attributes][][name] MyWorldmanager-1.0.jar
+release[release_assets_attributes][][name] MyWorldmanager-1.3.jar
+release[release_assets_attributes][][name] MyWorldmanager-1.4.jar
+release[release_assets_attributes][][name] TNTremover-1.0.jar
+release[release_assets_attributes][][name] TabPlayerManager-1.0.jar
+release[release_assets_attributes][][name] WaypointEffect-1.2.jar
+release[release_assets_attributes][][name] WaypointEffect-1.3.jar
+release[release_assets_attributes][][name] WaypointEffect-1.4.jar
+release[release_assets_attributes][][name] Wipe-1.0.jar
+release[release_assets_attributes][][name] Wipe-1.2.jar
+release[release_assets_attributes][][name] Wipe-1.3.jar
+release[release_assets_attributes][][name] config.yml
+release[release_assets_attributes][][name] deathback.releasev1.0.jar
+release[release_assets_attributes][][name] fishsell-1.0-SNAPSHOT.jar
+release[release_assets_attributes][][name] fishsell-1.0.jar
+release[release_assets_attributes][][name] gunpowderblock-1.0.jar
+release[release_assets_attributes][][name] noticebox-1.0.jar
+release[release_assets_attributes][][name] report-1.0.jar
+requestNo1 199169301822
+requestTitle Minecraft DDoS対策の依頼
+requestTitle Minecraft　新規プラグインの依頼
+requestTitle SSL代行について
+s 104.28.225.16
+s Miko Sniper
+schoolName-0 勢京ビジネス専門学校
+schoolName-1 勢京ビジネス専門学校
+search minamikana3
+search yuiwiz928@gmail.com
+search-bar__input locate
+serverName 153.120.65.103
+server_ip 219.103.79.207
+server_ip play.yestotwo.com
+server_jar folia-bundler-1.19.4-R0.1-SNAPSHOT-reobf.jar
+server_name YestoTwo
+server_path H:\マインクラフト\servers\Yes
+service _minecraft
+service.url 172.22.119.176
+service.url 172.22.119.176:8080
+service.url 172.29.42.128:8080
+service.url 192.168.2.111
+service.url 192.168.2.111:8080
+session[username_or_email] fw9l
+shipAddress10 24-17
+shipCity0 狭山市鵜ノ木
+shipFirstName0 そら
+shipLastName0 かめだ
+shipPhoneNumber0 09065007864
+shipPrefecture0 埼玉県
+shipZipCode0 350-1323
+shipZipCode0 3501323
+skinUser SUISEI_HOSHIMATI
+sms-factored-auth-input 504257
+sms_factored_user[tel] 08026183041
+startup java --add-modules=jdk.incubator.vector -Xms128M -Xmx{{SERVER_MEMORY}}M -Dterminal.jline=false -Dterminal.ansi=true -jar {{SERVER_JARFILE}}
+startup java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true $( [[  ! -f unix_args.txt ]] && printf %s "-jar {{SERVER_JARFILE}}" || printf %s "@unix_args.txt" )
+startup java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true -jar {{SERVER_JARFILE}}
+startup java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true run.bat
+startup java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true run.sh
+startup java -Xms128M -XX:MaxRAMPercentage=95.0 -jar {{SERVER_JARFILE}}
+startup java -Xms128M -Xmx{{SERVER_MEMORY}}M -Dterminal.jline=false -Dterminal.ansi=true $( [[  ! -f unix_args.txt ]] && printf %s "-jar {{SERVER_JARFILE}}" || printf %s "@unix_args.txt" )
+startup java -Xms128M -Xmx{{SERVER_MEMORY}}M -Dterminal.jline=false -Dterminal.ansi=true -jar {{SERVER_JARFILE}}
+startup java -Xms128M -Xmx{{SERVER_MEMORY}}M -XX:+UseG1GC -XX:G1HeapRegionSize=4M -XX:+UnlockExperimentalVMOptions -XX:+ParallelRefProcEnabled -XX:+AlwaysPreTouch -XX:MaxInlineLevel=15 -jar {{SERVER_JARFILE}}
+startup java -Xms128M -Xmx{{SERVER_MEMORY}}M -jar {{SERVER_JARFILE}}
+startup java -server -Xmx16G -Xms16G -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts
+startup java -server -Xmx16G -Xms16G -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts -jar server.jar
+startup java -server -Xmx16G -Xms16G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:MaxGCPauseMillis=50 -XX:G1NewSizePercent=20 -XX:G1MaxNewSizePercent=60 -XX:MetaspaceSize=512M -XX:MaxMetaspaceSize=512M -XX:+UseCompressedOops -XX:CompressedClassSpaceSize=512M -XX:G1HeapRegionSize=32M -XX:ParallelGCThreads=6 -XX:ConcGCThreads=2 -Xlog:gc*=info:file=/micrabk/log/gc_%t.log:time,uptime,level,tags:filecount=30,filesize=50M -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/tmp/heapdump/ -jar server.jar
+startup java -server -Xmx16G -Xms16G -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts -jar server.jar
+startup java -server -Xmx16G -Xms24G -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts -jar server.jar
+startup java -server -Xmx18G -Xms18G -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts 
+startup java -server -Xmx24G -Xms24G -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts -jar server.jar
+startup java -server -Xmx26G -Xms26G -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts -jar server.jar
+startup java -server -Xmx30G -Xms30G -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts -jar server.jar
+startup java -server -Xmx32G -Xms30G -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts -jar server.jar
+startup java -server -Xmx32G -Xms32G -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts -jar server.jar
+startup java -server-Xms128M -XX:MaxRAMPercentage=95.0 -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts -jar server.jar
+startup nginx -c /home/container/nginx/nginx.conf
+startup { /usr/sbin/mysqld & } && sleep 5 && mysql -u root
+state Mie
+streetAddress 1128番地2
+subject MySQLに接続できません
+swap -1
+swap 0
+swap 16384
+table_search 音楽
+targets[0].constraint.value panel.hotal.jp
+tel 09051087266
+term hotamachi
+text 887720
+text fw9
+text real_minamikana
+the-limited-sudo-user-to-be-created-for-the-linode linode_root
+the-ssh-public-key-that-will-be-used-to-access-the-linode-(recommended) linode_root
+uid_9 968412
+upload_size 500
+url https://discord.gg/2yysg8uRQC
+url tydsworld.net/*
+user Admin
+user hotal
+user hotamachisubaru
+user root
+user yuiwiz928_sub@yahoo.co.jp
+user[email] yuiwiz928_sub@yahoo.co.jp
+user[nickname] hotamachi
+user_id hotamachisubaru
+username 90802600
+username Minecraft Server
+username WcnhOf
+username admin
+username hotal
+username hotalmami1021
+username hotamachi
+username pofehaha@eay.jp
+username yuiwiz928_sub@yahoo.co.jp
+username はつクラ
+username ほたまちBOT
+username 報告BOT
+username_email minamiserver
+verification_field minamikana-git/Digger
+wc_name ほたるぅ
+web_cdkey_character ほたる
+year 1995
+yts_txtQuery Commando Assault miniclip
+zoneName hotal.jp
+zoneName hotamachi.net

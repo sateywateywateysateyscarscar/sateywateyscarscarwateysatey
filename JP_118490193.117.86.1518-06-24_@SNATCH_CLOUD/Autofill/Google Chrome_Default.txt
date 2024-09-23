@@ -1,0 +1,122 @@
+ADD2 足利市八幡町850-1
+EMAIL yuiwiz928_sub@yahoo.co.jp
+ESG250001BJP-11-01/nyuryokuKakuninYoMailAddr yuiwiz928_sub@yahoo.co.jp
+ESG250001BJP-11-01/nyuryokuMailAddr yuiwiz928_sub@yahoo.co.jp
+FAMILYNAME 仲松
+FAMILYNAMEKANA ナカマツ
+FIRSTNAME 新一
+FIRSTNAMEKANA シンイチ
+ID 1980298
+KEYWORDS rtx 4090
+OfferExpireDate 2023年03月02日
+PaymentAmountTmp 100000
+REEMAIL yuiwiz928_sub@yahoo.co.jp
+TEL 08026183041
+ZIP 3260824
+accountname hotalmami1021
+address1 磯部町穴川1128-2
+allocation_alias 103.112.3.105
+app:name 総合管理パネル
+auth_code 5934
+authid keionyuiazu@docomo.ne.jp
+bankCode 0155
+cardnumber 0192 4010 0909 699
+cc-exp-month 08
+cc-exp-year 2027
+ci100 897518
+ci206 志摩磯部
+ci206 近鉄名古屋
+ci206 鵜方
+ci209 伊勢市
+ci209 志摩磯部
+ci209 近鉄名古屋
+ci209 鵜方
+city 志摩市
+common_name tydsworld.com
+datetime 2023/03/01
+disk 102400
+domain_text tydsworld
+domain_text えふクラ
+email amg1560w@amigo.ne.jp
+email wings.kakka.blog
+email yuiwiz928_sub@yahoo.co.jp
+email_login yuiwiz928_sub@yahoo.co.jp
+exp-date 08 / 27
+field_email[und][0][value] yuiwiz928_sub@yahoo.co.jp
+field_name_first[und][0][value] カズキ
+field_name_last[und][0][value] オクダ
+field_tel[und][0][value] 08026183041
+firstname カズキ
+identifier yuiwiz928@gmail.com
+input_ip1 153
+input_ip2 120
+input_ip3 65
+input_ip4 103
+keywords crash  fever
+keywords magia record
+lastname オクダ
+local Shima-shi
+login holymami1021
+login horymami1021
+login hotalmami1021
+login minamikana1
+login yuiwiz928@gmail.com
+login yuiwiz928_sub@yahoo.co.jp
+login-username gyv50993
+loginId 90802600
+loginName 90802600
+mailAddress yuiwiz928_sub@yahoo.co.jp
+mailaddr yuiwiz928_sub@yahoo.co.jp
+memberid yuiwiz928_sub@yahoo.co.jp
+memory 26624
+memory 3072
+memory 30720
+memory 8192
+name 2023-08-08-7.log
+name tanpa1
+name ほたるぅ
+name サバイバルサーバー　ほたるぅ
+name 建築サーバー　ほたるぅ
+nickname ほたるぅ
+obj[adddomain1] deb.ns.cloudflare.com
+obj[adddomain2] yahir.ns.cloudflare.com
+okurijoNo 454694025940
+org Personal
+otp_input 5254
+pDefaultStartupCommand java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true -jar {{SERVER_JARFILE}}
+postcode yuiwiz928_sub@yahoo.co.jp
+price[] 2000
+q 1.19
+q 1.19 .4
+q 1.19.4
+q 1.19.4 
+q 23h2
+q is:is1.19.4sue is:open 
+query スターレイル
+reenter_email yuiwiz928_sub@yahoo.co.jp
+requestTitle MinecraftのPvPワールド作成依頼
+sc-01 478
+sc-01 710
+search minamikana3
+search yuiwiz928_sub@yahoo.co.jp
+secure_code 60623
+startup java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true -jar {{SERVER_JARFILE}}
+startup java -server -Xmx26G -Xms26G -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts -jar server.jar
+startup java -server -Xmx30G -Xms30G -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts -jar server.jar
+startup java -server -Xmx32G -Xms32G -XX:+IgnoreUnrecognizedVMOptions -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=12 -XX:+AggressiveOpts -jar server.jar
+state Mie
+state 三重県
+subject steam垢乗っ取られた件について
+telNo 080
+telNo 08026183041
+tx01 133511
+tx01 164349
+tx01 224446
+tx01 400698
+uid_15 695333
+unit None
+user[email] yuiwiz928_sub@yahoo.co.jp
+user[name] ほたるぅ
+username 90802600
+username HotalMami1021
+username yuiwiz928_sub@yahoo.co.jp
