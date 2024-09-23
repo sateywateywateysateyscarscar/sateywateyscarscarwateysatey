@@ -1,0 +1,12 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+address_line1: Jesus Gonzalez Ortega 725
+solicitudForm:email: kadenita.85@gmail.com
+solicitudForm:email_conf: kadenita.85@gmail.com

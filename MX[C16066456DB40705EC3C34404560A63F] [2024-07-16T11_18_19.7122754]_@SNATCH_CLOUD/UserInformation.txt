@@ -1,0 +1,37 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Build:
+IP: 187.161.140.122
+FileLocation: C:\Users\María del Carmen\AppData\Local\Temp\473804\RegAsm.exe
+UserName: María del Carmen
+MachineName: DESKTOP-RVSTFDO
+Country: MX
+Zip Code: 66603
+Location: Monterrey, Nuevo Leon
+HWID: C16066456DB40705EC3C34404560A63F
+Current Language: Spanish (Mexico)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC-06:00) Guadalajara, Ciudad de México, Monterrey
+Operation System: Windows 10 Pro x64
+Log date: 7/16/2024 11:18:19 AM
+
+Available KeyboardLayouts: 
+Spanish (Mexico)
+
+
+Hardwares: 
+Name: Total of RAM, 4014.51 Mb or 4209516544 bytes
+Name: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz, 4 Cores
+Name: Intel(R) HD Graphics 4600, 1073741824 bytes
+
+
+Anti-Viruses: 
+Windows Defender
+Avast Antivirus

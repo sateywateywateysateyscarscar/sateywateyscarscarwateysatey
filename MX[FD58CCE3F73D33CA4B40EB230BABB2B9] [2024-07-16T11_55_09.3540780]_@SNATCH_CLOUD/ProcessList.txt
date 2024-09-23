@@ -1,0 +1,252 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+ID: 7904, Name: csrss.exe,  CommandLine: 
+===============
+ID: 4880, Name: winlogon.exe,  CommandLine: 
+===============
+ID: 18612, Name: fontdrvhost.exe,  CommandLine: 
+===============
+ID: 18652, Name: dwm.exe,  CommandLine: 
+===============
+ID: 14856, Name: NVDisplay.Container.exe,  CommandLine: 
+===============
+ID: 8668, Name: sihost.exe,  CommandLine: sihost.exe
+===============
+ID: 12244, Name: nvcontainer.exe,  CommandLine: "C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe" -f "C:\ProgramData\NVIDIA\NvContainerUser%dSPUser.log" -d "C:\Program Files\NVIDIA Corporation\NvContainer\plugins\SPUser" -r -l 3 -p 30000 -st "C:\Program Files\NVIDIA Corporation\NvContainer\NvContainerTelemetryApi.dll" -c
+===============
+ID: 13672, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 1384, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 12204, Name: nvcontainer.exe,  CommandLine: "C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe" -f "C:\ProgramData\NVIDIA\NvContainerUser%d.log" -d "C:\Program Files\NVIDIA Corporation\NvContainer\plugins\User" -r -l 3 -p 30000 -st "C:\Program Files\NVIDIA Corporation\NvContainer\NvContainerTelemetryApi.dll"  -c
+===============
+ID: 11236, Name: taskhostw.exe,  CommandLine: taskhostw.exe logon
+===============
+ID: 11416, Name: taskhostw.exe,  CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 12680, Name: MSIAfterburner.exe,  CommandLine: 
+===============
+ID: 7140, Name: explorer.exe,  CommandLine: C:\WINDOWS\Explorer.EXE
+===============
+ID: 7528, Name: ctfmon.exe,  CommandLine: 
+===============
+ID: 14496, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 16872, Name: StartMenuExperienceHost.exe,  CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 3760, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 12644, Name: SearchApp.exe,  CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+===============
+ID: 8500, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 18220, Name: NVIDIA Web Helper.exe,  CommandLine: "C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe" index.js
+===============
+ID: 15680, Name: conhost.exe,  CommandLine: \??\C:\WINDOWS\system32\conhost.exe 0x4
+===============
+ID: 12432, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 11408, Name: PhoneExperienceHost.exe,  CommandLine: "C:\Program Files\WindowsApps\Microsoft.YourPhone_1.24062.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe" -ComServer:Background -Embedding
+===============
+ID: 14152, Name: RTSS.exe,  CommandLine: 
+===============
+ID: 3208, Name: EncoderServer.exe,  CommandLine: 
+===============
+ID: 5908, Name: RTSSHooksLoader64.exe,  CommandLine: 
+===============
+ID: 15492, Name: nvsphelper64.exe,  CommandLine: 
+===============
+ID: 9068, Name: NVIDIA Share.exe,  CommandLine: "C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe"
+===============
+ID: 6084, Name: NVIDIA Share.exe,  CommandLine: "C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe" --type=gpu-process --field-trial-handle=2024,16754920089899185072,1889219172879551045,131072 --disable-features=VizDisplayCompositor --no-sandbox --log-file="C:\Users\Campa\AppData\Local\NVIDIA Corporation\NVIDIA Share\debug.log" --lang=en-US --gpu-preferences=KAAAAAAAAACACwAAAQAAAAAAAAAAAGAAAAAAAAEAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --log-file="C:\Users\Campa\AppData\Local\NVIDIA Corporation\NVIDIA Share\debug.log" --service-request-channel-token=13726623777929708267 --mojo-platform-channel-handle=2116 /prefetch:2
+===============
+ID: 16444, Name: NVIDIA Share.exe,  CommandLine: "C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe" --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --log-file="C:\Users\Campa\AppData\Local\NVIDIA Corporation\NVIDIA Share\debug.log" --field-trial-handle=2024,16754920089899185072,1889219172879551045,131072 --disable-features=VizDisplayCompositor --service-pipe-token=5922311154680514373 --lang=en-US --log-file="C:\Users\Campa\AppData\Local\NVIDIA Corporation\NVIDIA Share\debug.log" --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=5922311154680514373 --renderer-client-id=3 --mojo-platform-channel-handle=2676 /prefetch:1
+===============
+ID: 14764, Name: SecurityHealthSystray.exe,  CommandLine: "C:\Windows\System32\SecurityHealthSystray.exe" 
+===============
+ID: 20476, Name: RtkAudUService64.exe,  CommandLine: "C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_b55ed36a9a78cc75\RtkAudUService64.exe" -background
+===============
+ID: 800, Name: OneDrive.exe,  CommandLine: "C:\Users\Campa\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+===============
+ID: 5340, Name: steam.exe,  CommandLine: "C:\Program Files (x86)\Steam\steam.exe" -silent
+===============
+ID: 17312, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" "-lang=es_ES" "-cachedir=C:\Users\Campa\AppData\Local\Steam\htmlcache" "-steampid=5340" "-buildid=1718904662" "-steamid=0" "-logdir=C:\Program Files (x86)\Steam\logs" "-uimode=7" "-startcount=0" "-userdatadir=C:\Users\Campa\AppData\Local\Steam\cefdata" "-steamuniverse=Public" "-realm=Global" "-clientui=C:\Program Files (x86)\Steam\clientui" "-steampath=C:\Program Files (x86)\Steam\steam.exe" "-launcher=0" --valve-enable-site-isolation --enable-smooth-scrolling --enable-direct-write "--log-file=C:\Program Files (x86)\Steam\logs\cef_log.txt" --disable-quick-menu "--disable-features=SpareRendererForSitePerProcess,DcheckIsFatal"
+===============
+ID: 5116, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=crashpad-handler /prefetch:7 --max-uploads=5 --max-db-size=20 --max-db-age=5 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Program Files (x86)\Steam\dumps" "--metrics-dir=C:\Users\Campa\AppData\Local\CEF\User Data" --url=https://crash.steampowered.com/submit --annotation=platform=win64 --annotation=product=cefwebhelper --annotation=version=1718904662 --initial-client-data=0x398,0x39c,0x3a0,0x374,0x3a4,0x7ff886fdee38,0x7ff886fdee48,0x7ff886fdee58
+===============
+ID: 20172, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=gpu-process --user-agent-product="Valve Steam Client" --lang=es-MX --user-data-dir="C:\Users\Campa\AppData\Local\Steam\cefdata" --buildid=1718904662 --steamid=0 --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --mojo-platform-channel-handle=1724 --field-trial-handle=1516,i,10826731793998728912,11637725653855551842,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:2
+===============
+ID: 2136, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start
+===============
+ID: 18436, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=es-419 --service-sandbox-type=none --user-agent-product="Valve Steam Client" --lang=es-MX --user-data-dir="C:\Users\Campa\AppData\Local\Steam\cefdata" --buildid=1718904662 --steamid=0 --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --mojo-platform-channel-handle=2320 --field-trial-handle=1516,i,10826731793998728912,11637725653855551842,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:8
+===============
+ID: 20328, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Campa\AppData\Local\Microsoft\Edge\User Data" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Campa\AppData\Local\Microsoft\Edge\User Data\Crashpad" "--metrics-dir=C:\Users\Campa\AppData\Local\Microsoft\Edge\User Data" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=126.0.6478.127 "--annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --annotation=plat=Win64 "--annotation=prod=Microsoft Edge" --annotation=ver=126.0.2592.102 --initial-client-data=0x2a0,0x2a4,0x2a8,0x29c,0x2b0,0x7ff886030148,0x7ff886030154,0x7ff886030160
+===============
+ID: 7480, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=gpu-process --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=2360,i,10721917340361287690,15367534660342504729,262144 --variations-seed-version --mojo-platform-channel-handle=2300 /prefetch:2
+===============
+ID: 20080, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=es-419 --service-sandbox-type=service --field-trial-handle=2812,i,10721917340361287690,15367534660342504729,262144 --variations-seed-version --mojo-platform-channel-handle=2828 /prefetch:8
+===============
+ID: 13712, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=es-419 --service-sandbox-type=service --user-agent-product="Valve Steam Client" --lang=es-MX --user-data-dir="C:\Users\Campa\AppData\Local\Steam\cefdata" --buildid=1718904662 --steamid=0 --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --mojo-platform-channel-handle=2576 --field-trial-handle=1516,i,10826731793998728912,11637725653855551842,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:8
+===============
+ID: 13808, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=renderer --user-agent-product="Valve Steam Client" --user-data-dir="C:\Users\Campa\AppData\Local\Steam\cefdata" --buildid=1718904662 --steamid=0 --first-renderer-process --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --lang=es-419 --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1721003749707196 --launch-time-ticks=139737306486 --mojo-platform-channel-handle=3040 --field-trial-handle=1516,i,10826731793998728912,11637725653855551842,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:1
+===============
+ID: 14024, Name: svchost.exe,  CommandLine: C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 3432, Name: Discord.exe,  CommandLine: "C:\Users\Campa\AppData\Local\Discord\app-1.0.9153\Discord.exe" 
+===============
+ID: 9972, Name: Discord.exe,  CommandLine: C:\Users\Campa\AppData\Local\Discord\app-1.0.9153\Discord.exe --type=crashpad-handler --user-data-dir=C:\Users\Campa\AppData\Roaming\discord /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\Campa\AppData\Roaming\discord\Crashpad --url=https://f.a.k/e --annotation=_productName=discord --annotation=_version=1.0.9153 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=30.1.0 --initial-client-data=0x530,0x528,0x534,0x478,0x538,0x7ff728cd9218,0x7ff728cd9224,0x7ff728cd9230
+===============
+ID: 10904, Name: Discord.exe,  CommandLine: "C:\Users\Campa\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=gpu-process --user-data-dir="C:\Users\Campa\AppData\Roaming\discord" --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=1904,i,15916790684161857208,9450956331331925181,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=1896 /prefetch:2
+===============
+ID: 17724, Name: Discord.exe,  CommandLine: "C:\Users\Campa\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=es-419 --service-sandbox-type=none --user-data-dir="C:\Users\Campa\AppData\Roaming\discord" --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --field-trial-handle=2116,i,15916790684161857208,9450956331331925181,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=1996 /prefetch:3
+===============
+ID: 2564, Name: CompPkgSrv.exe,  CommandLine: C:\Windows\System32\CompPkgSrv.exe -Embedding
+===============
+ID: 6528, Name: Discord.exe,  CommandLine: "C:\Users\Campa\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=renderer --user-data-dir="C:\Users\Campa\AppData\Roaming\discord" --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --app-user-model-id=com.squirrel.Discord.Discord --app-path="C:\Users\Campa\AppData\Local\Discord\app-1.0.9153\resources\app.asar" --no-sandbox --no-zygote --autoplay-policy=no-user-gesture-required --lang=es-419 --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1721003749707864 --launch-time-ticks=139909803980 --field-trial-handle=3800,i,15916790684161857208,9450956331331925181,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=3792 --enable-node-leakage-in-renderers /prefetch:1
+===============
+ID: 17456, Name: Discord.exe,  CommandLine: "C:\Users\Campa\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=es-419 --service-sandbox-type=audio --user-data-dir="C:\Users\Campa\AppData\Roaming\discord" --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --field-trial-handle=3812,i,15916790684161857208,9450956331331925181,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=3844 /prefetch:8
+===============
+ID: 9900, Name: TextInputHost.exe,  CommandLine: "C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca
+===============
+ID: 11340, Name: steamwebhelper.exe,  CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=renderer --user-agent-product="Valve Steam Client" --user-data-dir="C:\Users\Campa\AppData\Local\Steam\cefdata" --buildid=1718904662 --steamid=0 --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --lang=es-419 --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=10 --time-ticks-at-unix-epoch=-1721003749707196 --launch-time-ticks=139942393399 --mojo-platform-channel-handle=4368 --field-trial-handle=1516,i,10826731793998728912,11637725653855551842,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:1
+===============
+ID: 15648, Name: ApplicationFrameHost.exe,  CommandLine: C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 612, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k DevicesFlow -s DevicesFlowUserSvc
+===============
+ID: 7616, Name: UserOOBEBroker.exe,  CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 18384, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe"
+===============
+ID: 9144, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=2028 -parentBuildID 20240704121409 -prefsHandle 1956 -prefMapHandle 1856 -prefsLen 35186 -prefMapSize 257391 -appDir "C:\Program Files\Mozilla Firefox\browser" - {ef8e2c9b-36f1-4d07-b640-8600c9376ded} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" gpu
+===============
+ID: 16712, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=2396 -parentBuildID 20240704121409 -prefsHandle 2392 -prefMapHandle 2388 -prefsLen 35186 -prefMapSize 257391 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {f678265b-9c50-4eca-b937-334a06e71d9a} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" socket
+===============
+ID: 1636, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=3080 -childID 1 -isForBrowser -prefsHandle 3056 -prefMapHandle 2948 -prefsLen 35400 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {6c848f9b-7865-4bce-b6a2-519e4e53049c} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 2948, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=4416 -childID 2 -isForBrowser -prefsHandle 4284 -prefMapHandle 4288 -prefsLen 41115 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {df74395f-1978-4526-b1c3-495e142d482e} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 7164, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=5596 -parentBuildID 20240704121409 -sandboxingKind 0 -prefsHandle 5480 -prefMapHandle 5208 -prefsLen 41291 -prefMapSize 257391 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {1e256458-b474-467f-a989-109292369a40} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" utility
+===============
+ID: 1980, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=5828 -childID 3 -isForBrowser -prefsHandle 5820 -prefMapHandle 5816 -prefsLen 33917 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {2aa14244-195f-4aeb-8d94-4a0c374e3a23} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 7724, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=5884 -childID 5 -isForBrowser -prefsHandle 5876 -prefMapHandle 5872 -prefsLen 33917 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {306018ec-f4ca-45b5-8e71-3b8d154efdc2} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 19616, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=6724 -childID 6 -isForBrowser -prefsHandle 6520 -prefMapHandle 4216 -prefsLen 34102 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {638e9789-20b9-451b-9646-546ee85f5559} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 9060, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=5372 -childID 7 -isForBrowser -prefsHandle 5524 -prefMapHandle 6912 -prefsLen 34102 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {05f4805a-641d-48b1-9710-315223e48559} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 1812, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=6688 -parentBuildID 20240704121409 -prefsHandle 6564 -prefMapHandle 7792 -prefsLen 41498 -prefMapSize 257391 -appDir "C:\Program Files\Mozilla Firefox\browser" - {00ee7ffa-bd15-4ae2-9222-398b0b680b7d} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" rdd
+===============
+ID: 10300, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=7360 -parentBuildID 20240704121409 -sandboxingKind 1 -prefsHandle 7824 -prefMapHandle 6636 -prefsLen 41498 -prefMapSize 257391 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {77563da4-d7d9-4437-9c56-f5218639f018} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" utility
+===============
+ID: 18244, Name: rundll32.exe,  CommandLine: "C:\WINDOWS\system32\rundll32.exe" -localserver 22d8c27b-47a1-48d1-ad08-7da7abd79617
+===============
+ID: 13300, Name: LauncherPatcher.exe,  CommandLine: "D:\Launcher\LauncherPatcher.exe" 
+===============
+ID: 9580, Name: Launcher.exe,  CommandLine: "D:\Launcher\Launcher.exe" 
+===============
+ID: 2736, Name: RockstarErrorHandler.exe,  CommandLine: D:\Launcher\ThirdParty//Crashpad//RockstarErrorHandler.exe --no-rate-limit "--attachment=attachment_launcher.log=C:\Users\Campa\AppData\Local\Rockstar Games\Launcher\CrashLogs\launcher.log" "--attachment=attachment_socialclub_launcher.log=C:\Users\Campa\Documents\Rockstar Games\Social Club\socialclub_launcher.log" "--database=C:\Users\Campa\AppData\Local\Rockstar Games\Launcher\CrashLogs\\" "--metrics-dir=C:\Users\Campa\AppData\Local\Rockstar Games\Launcher\CrashLogs\\" --url=https://submit.backtrace.io/bob/bcfcd610a5e9090722c12fe93ce88c188c7fb147d47b352462faca8e1e88a176/minidump --annotation=format=minidump --annotation=token=bcfcd610a5e9090722c12fe93ce88c188c7fb147d47b352462faca8e1e88a176 --initial-client-data=0x318,0x31c,0x320,0x2f4,0x324,0x7ff6743d88f8,0x7ff6743d8910,0x7ff6743d8928
+===============
+ID: 12968, Name: SocialClubHelper.exe,  CommandLine: "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe"  --no-proxy-server --allow-file-access-from-files --disable-spell-checking --disable-extensions --gpu-rasterization-msaa-sample-count=0 --canvas-msaa-sample-count=0 --lang=es --off-screen-rendering-enabled --rgsc-product-version=RockstarGames/2.3.3.1/1.0.92.2003/launcher/PC --rgsc-pid=9580 --rgsc-ipc-channel-name=rgsc_ipc_256c_channel_0 --rgsc-home-dir="C:\Users\Campa\Documents\Rockstar Games\Social Club\Launcher\Renderer\\"
+===============
+ID: 13784, Name: SocialClubHelper.exe,  CommandLine: "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=gpu-process --no-sandbox --log-severity=disable --user-agent-product="Chrome/109.0.5414.120 RockstarGames/2.3.3.1/1.0.92.2003/launcher/PC" --lang=es --user-data-dir="C:\Users\Campa\AppData\Local\CEF\User Data" --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --mojo-platform-channel-handle=1628 --field-trial-handle=1700,i,17545130933563582918,7445546536074250321,131072 --disable-features=SpareRendererForSitePerProcess /prefetch:2
+===============
+ID: 4408, Name: SocialClubHelper.exe,  CommandLine: "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=es --service-sandbox-type=service --no-sandbox --log-severity=disable --user-agent-product="Chrome/109.0.5414.120 RockstarGames/2.3.3.1/1.0.92.2003/launcher/PC" --lang=es --user-data-dir="C:\Users\Campa\AppData\Local\CEF\User Data" --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --mojo-platform-channel-handle=2080 --field-trial-handle=1700,i,17545130933563582918,7445546536074250321,131072 --disable-features=SpareRendererForSitePerProcess /prefetch:8
+===============
+ID: 18800, Name: SocialClubHelper.exe,  CommandLine: "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=es --service-sandbox-type=none --no-sandbox --log-severity=disable --user-agent-product="Chrome/109.0.5414.120 RockstarGames/2.3.3.1/1.0.92.2003/launcher/PC" --lang=es --user-data-dir="C:\Users\Campa\AppData\Local\CEF\User Data" --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --mojo-platform-channel-handle=2120 --field-trial-handle=1700,i,17545130933563582918,7445546536074250321,131072 --disable-features=SpareRendererForSitePerProcess /prefetch:8
+===============
+ID: 9312, Name: SocialClubHelper.exe,  CommandLine: "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=renderer --log-severity=disable --user-agent-product="Chrome/109.0.5414.120 RockstarGames/2.3.3.1/1.0.92.2003/launcher/PC" --disable-extensions --disable-spell-checking --user-data-dir="C:\Users\Campa\AppData\Local\CEF\User Data" --rgsc-is-launcher=1 --first-renderer-process --no-sandbox --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --lang=es --device-scale-factor=1 --num-raster-threads=4 --gpu-rasterization-msaa-sample-count=0 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1721003749757795 --launch-time-ticks=149310574623 --mojo-platform-channel-handle=2680 --field-trial-handle=1700,i,17545130933563582918,7445546536074250321,131072 --disable-features=SpareRendererForSitePerProcess /prefetch:1
+===============
+ID: 20032, Name: SocialClubHelper.exe,  CommandLine: "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=es --service-sandbox-type=audio --no-sandbox --log-severity=disable --user-agent-product="Chrome/109.0.5414.120 RockstarGames/2.3.3.1/1.0.92.2003/launcher/PC" --lang=es --user-data-dir="C:\Users\Campa\AppData\Local\CEF\User Data" --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --mojo-platform-channel-handle=3136 --field-trial-handle=1700,i,17545130933563582918,7445546536074250321,131072 --disable-features=SpareRendererForSitePerProcess /prefetch:8
+===============
+ID: 4044, Name: XboxPcAppFT.exe,  CommandLine: "C:\Program Files\WindowsApps\Microsoft.GamingApp_2406.1001.20.0_x64__8wekyb3d8bbwe\XboxPcAppFT.exe" -Embedding
+===============
+ID: 16476, Name: FileCoAuth.exe,  CommandLine: "C:\Users\Campa\AppData\Local\Microsoft\OneDrive\24.126.0623.0001\FileCoAuth.exe" -Embedding
+===============
+ID: 12572, Name: taskhostw.exe,  CommandLine: 
+===============
+ID: 19492, Name: dllhost.exe,  CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 776, Name: CalculatorApp.exe,  CommandLine: "C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_11.2405.2.0_x64__8wekyb3d8bbwe\CalculatorApp.exe" 
+===============
+ID: 2392, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 17148, Name: HxOutlook.exe,  CommandLine: "C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.21998.0_x64__8wekyb3d8bbwe\HxOutlook.exe" -ServerName:microsoft.windowslive.mail.AppXfbjsbkxvprcgqg6q4c9jfr0pn3kv9x5s.mca
+===============
+ID: 16744, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 6564, Name: HxTsr.exe,  CommandLine: "C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.21998.0_x64__8wekyb3d8bbwe\HxTsr.exe" -ServerName:Hx.IPC.Server
+===============
+ID: 6620, Name: Stand.Launchpad.exe,  CommandLine: "C:\Users\Campa\Downloads\Stand.Launchpad.exe" 
+===============
+ID: 19132, Name: smartscreen.exe,  CommandLine: C:\Windows\System32\smartscreen.exe -Embedding
+===============
+ID: 17344, Name: ShellExperienceHost.exe,  CommandLine: "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 9364, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 10284, Name: SecHealthUI.exe,  CommandLine: "C:\Windows\SystemApps\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy\SecHealthUI.exe" -ServerName:SecHealthUI.AppXep4x2tbtjws1v9qqs0rmb3hxykvkpqtn.mca
+===============
+ID: 10268, Name: SecurityHealthHost.exe,  CommandLine: C:\Windows\System32\SecurityHealthHost.exe {E041C90B-68BA-42C9-991E-477B73A75C90} -Embedding
+===============
+ID: 14968, Name: msedge.exe,  CommandLine: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=es-419 --service-sandbox-type=none --field-trial-handle=4384,i,10721917340361287690,15367534660342504729,262144 --variations-seed-version --mojo-platform-channel-handle=4252 /prefetch:3
+===============
+ID: 18720, Name: GTA5.exe,  CommandLine: "F:\Grand Theft Auto V\GTA5.exe" @commandline.txt -enableCrashpad -scCommerceProvider=4 -rglLanguage=es-MX
+===============
+ID: 4240, Name: Discord.exe,  CommandLine: C:\Users\Campa\AppData\Local\Discord\app-1.0.9153\Discord.exe --overlay-host
+===============
+ID: 16420, Name: Discord.exe,  CommandLine: "C:\Users\Campa\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=gpu-process --user-data-dir="C:\Users\Campa\AppData\Roaming\discord" --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --use-gl=angle --use-angle=swiftshader-webgl --field-trial-handle=1816,i,8007057946621965424,10691226749243100294,262144 --enable-features=kWebSQLAccess --disable-features=SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=1800 /prefetch:2
+===============
+ID: 724, Name: Discord.exe,  CommandLine: "C:\Users\Campa\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=es-419 --service-sandbox-type=none --user-data-dir="C:\Users\Campa\AppData\Roaming\discord" --field-trial-handle=2128,i,8007057946621965424,10691226749243100294,262144 --enable-features=kWebSQLAccess --disable-features=SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=2124 /prefetch:3
+===============
+ID: 9980, Name: Discord.exe,  CommandLine: "C:\Users\Campa\AppData\Local\Discord\app-1.0.9153\Discord.exe" --type=renderer --user-data-dir="C:\Users\Campa\AppData\Roaming\discord" --app-user-model-id=com.squirrel.Discord.Discord --app-path="C:\Users\Campa\AppData\Local\Discord\app-1.0.9153\resources\app.asar" --no-sandbox --no-zygote --autoplay-policy=no-user-gesture-required --disable-gpu-compositing --lang=es-419 --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1721003749764025 --launch-time-ticks=151797164552 --field-trial-handle=2932,i,8007057946621965424,10691226749243100294,262144 --enable-features=kWebSQLAccess --disable-features=SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=2928 /prefetch:1
+===============
+ID: 13608, Name: SocialClubHelper.exe,  CommandLine: "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe"  --no-proxy-server --allow-file-access-from-files --disable-spell-checking --disable-extensions --gpu-rasterization-msaa-sample-count=0 --canvas-msaa-sample-count=0 --lang=es --off-screen-rendering-enabled --rgsc-product-version=RockstarGames/2.3.3.1/1.0.3258.0/gta5/PC --rgsc-pid=18720 --rgsc-ipc-channel-name=rgsc_ipc_4920_channel_0 --rgsc-home-dir="C:\Users\Campa\Documents\Rockstar Games\Social Club\Renderer\\"
+===============
+ID: 16336, Name: SocialClubHelper.exe,  CommandLine: "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=gpu-process --no-sandbox --log-severity=disable --user-agent-product="Chrome/109.0.5414.120 RockstarGames/2.3.3.1/1.0.3258.0/gta5/PC" --lang=es --user-data-dir="C:\Users\Campa\AppData\Local\CEF\User Data" --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --mojo-platform-channel-handle=1660 --field-trial-handle=1680,i,14671010792375997048,18325851131214791724,131072 --disable-features=SpareRendererForSitePerProcess /prefetch:2
+===============
+ID: 12684, Name: SocialClubHelper.exe,  CommandLine: "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=es --service-sandbox-type=none --no-sandbox --log-severity=disable --user-agent-product="Chrome/109.0.5414.120 RockstarGames/2.3.3.1/1.0.3258.0/gta5/PC" --lang=es --user-data-dir="C:\Users\Campa\AppData\Local\CEF\User Data" --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --mojo-platform-channel-handle=2088 --field-trial-handle=1680,i,14671010792375997048,18325851131214791724,131072 --disable-features=SpareRendererForSitePerProcess /prefetch:8
+===============
+ID: 17072, Name: SocialClubHelper.exe,  CommandLine: "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=es --service-sandbox-type=service --no-sandbox --log-severity=disable --user-agent-product="Chrome/109.0.5414.120 RockstarGames/2.3.3.1/1.0.3258.0/gta5/PC" --lang=es --user-data-dir="C:\Users\Campa\AppData\Local\CEF\User Data" --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --mojo-platform-channel-handle=2336 --field-trial-handle=1680,i,14671010792375997048,18325851131214791724,131072 --disable-features=SpareRendererForSitePerProcess /prefetch:8
+===============
+ID: 17824, Name: SocialClubHelper.exe,  CommandLine: "C:\Program Files\Rockstar Games\Social Club\SocialClubHelper.exe" --type=renderer --log-severity=disable --user-agent-product="Chrome/109.0.5414.120 RockstarGames/2.3.3.1/1.0.3258.0/gta5/PC" --disable-extensions --disable-spell-checking --user-data-dir="C:\Users\Campa\AppData\Local\CEF\User Data" --rgsc-is-launcher=0 --first-renderer-process --no-sandbox --log-file="C:\Program Files\Rockstar Games\Social Club\debug.log" --lang=es --device-scale-factor=1 --num-raster-threads=4 --gpu-rasterization-msaa-sample-count=0 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1721003749764228 --launch-time-ticks=151798970949 --mojo-platform-channel-handle=2616 --field-trial-handle=1680,i,14671010792375997048,18325851131214791724,131072 --disable-features=SpareRendererForSitePerProcess /prefetch:1
+===============
+ID: 17016, Name: GameBarPresenceWriter.exe,  CommandLine: "C:\Windows\System32\GameBarPresenceWriter.exe" -ServerName:Windows.Gaming.GameBar.Internal.PresenceWriterServer
+===============
+ID: 19192, Name: svchost.exe,  CommandLine: C:\WINDOWS\system32\svchost.exe -k BcastDVRUserService -s BcastDVRUserService
+===============
+ID: 16884, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=7920 -childID 48 -isForBrowser -prefsHandle 8532 -prefMapHandle 6536 -prefsLen 34229 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {be36e879-2f66-4f2e-baed-43536a058d64} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 11008, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=10512 -childID 49 -isForBrowser -prefsHandle 10812 -prefMapHandle 10808 -prefsLen 34229 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {4bb9d791-3c53-4966-b472-789fd84fe101} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 14212, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=3988 -childID 51 -isForBrowser -prefsHandle 7600 -prefMapHandle 4624 -prefsLen 34229 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {7ac39d20-bd94-4eb2-94ef-914b93ac14e2} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 14884, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=6060 -childID 52 -isForBrowser -prefsHandle 6284 -prefMapHandle 10872 -prefsLen 34229 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {e0ced746-3425-4313-becc-6efc7b45f34e} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 16012, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=1492 -childID 53 -isForBrowser -prefsHandle 8960 -prefMapHandle 8936 -prefsLen 34229 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {6ca46bd2-7361-4c4c-b9ea-1dc6267a3888} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 16536, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=9432 -childID 54 -isForBrowser -prefsHandle 11088 -prefMapHandle 10116 -prefsLen 34229 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {da3ef382-80fd-4dcc-97f4-9646fce51b7f} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 8820, Name: firefox.exe,  CommandLine: "C:\Program Files\Mozilla Firefox\firefox.exe" -contentproc --channel=9512 -childID 55 -isForBrowser -prefsHandle 11172 -prefMapHandle 11084 -prefsLen 34229 -prefMapSize 257391 -jsInitHandle 1628 -jsInitLen 234780 -parentBuildID 20240704121409 -win32kLockedDown -appDir "C:\Program Files\Mozilla Firefox\browser" - {d5a2cb1e-5f41-480b-bb89-36c6861cabb4} 18384 "\\.\pipe\gecko-crash-server-pipe.18384" tab
+===============
+ID: 9028, Name: SearchProtocolHost.exe,  CommandLine: "C:\WINDOWS\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-1869401763-282401546-2548601674-100123_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-1869401763-282401546-2548601674-100123 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"  "1"
+===============
+ID: 168, Name: WinRAR.exe,  CommandLine: "C:\Program Files\WinRAR\WinRAR.exe" "C:\Users\Campa\Desktop\FunLoader.rar"
+===============
+ID: 9684, Name: SecurityHealthHost.exe,  CommandLine: 
+===============
+ID: 1620, Name: NvOAWrapperCache.exe,  CommandLine: "C:\Users\Campa\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\NvOAWrapperCache.exe"
+===============
+ID: 720, Name: RuntimeBroker.exe,  CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 16320, Name: conhost.exe,  CommandLine: \??\C:\WINDOWS\system32\conhost.exe 0x4
+===============
+ID: 4476, Name: MSBuild.exe,  CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"

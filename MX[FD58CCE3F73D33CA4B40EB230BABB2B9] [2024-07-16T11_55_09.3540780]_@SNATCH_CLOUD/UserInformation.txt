@@ -1,0 +1,36 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Build:
+IP: 187.187.229.180
+FileLocation: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+UserName: Campa
+MachineName: DESKTOP-FAD6O55
+Country: MX
+Zip Code: 24119
+Location: Ciudad del Carmen, Campeche
+HWID: FD58CCE3F73D33CA4B40EB230BABB2B9
+Current Language: Spanish (Mexico)
+ScreenSize: {Width=2560, Height=1440}
+TimeZone: (UTC-06:00) Guadalajara, Ciudad de México, Monterrey
+Operation System: Windows 10 Pro x64
+Log date: 7/16/2024 11:55:09 AM
+
+Available KeyboardLayouts: 
+Spanish (Mexico)
+
+
+Hardwares: 
+Name: Total of RAM, 32697.6 Mb or 34285920256 bytes
+Name: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz, 6 Cores
+Name: NVIDIA GeForce RTX 3060 Ti, 4293918720 bytes
+
+
+Anti-Viruses: 
+Windows Defender
