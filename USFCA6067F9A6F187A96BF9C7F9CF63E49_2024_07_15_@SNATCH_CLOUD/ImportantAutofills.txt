@@ -1,0 +1,49 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+email: 5307211021
+login_email: 5307211021
+checkout[shipping_address][zip]: 96150
+checkout[email]: endowhite384@gmail.com
+checkout[shipping_address][phone]: (530) 721-1021
+checkout[shipping_address][first_name]: Enzo
+checkout[shipping_address][last_name]: White
+checkout[shipping_address][province]: CA
+checkout[shipping_address][address1]: 812 Tahoe Keys Boulevard,
+checkout[shipping_address][city]: South Lake Tahoe
+checkout[shipping_address][country]: US
+reenter_email: kentrail.lyman@eledeen.org
+uv-address: chromebook games
+emailInput: 28en
+emailField: endowhite384@gmail.com
+login-email-input: 28enzo
+student[teacher_email]: therenda@ltusd.org
+input_email: endowhite384@gmail.com
+emailAddress: endowhite384@gmail.com
+dob_day: 30
+dob_year: 2000
+email-2: endowhite384@gmail.com
+first_name: Enzo
+dob: 03/30/2000
+last_name: White
+firstName: Enzo
+lastName: White
+login_user_email: swessell2018@outlook.com
+forgot_email: endowhite384@gmail.com
+conversations_create_session_form[email]: endowhite384@gmail.com
+forgot_password_form[email_or_username]: endowhite384@gmail.com
+conversations_email_tfa_required_form[code]: 080319
+shipping.first_name: enzo
+shipping.last_name: white
+shipping.city: South Lake Tahoe
+shipping.postal_code: 96150-4454
+shipping.phone: 5307211021
+reg_email__: e8468797@gmail.com
+reg_email_confirmation__: e8468797@gmail.com
+phone_number: 15307211021

@@ -1,0 +1,347 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: uv-address
+Value: chromebook games
+===============
+Name: uv-address
+Value: google
+===============
+Name: emailInput
+Value: 28en
+===============
+Name: l
+Value: 11
+===============
+Name: w
+Value: 6
+===============
+Name: h
+Value: 2
+===============
+Name: l
+Value: 8
+===============
+Name: w
+Value: 7
+===============
+Name: h
+Value: 4
+===============
+Name: a
+Value: 10
+===============
+Name: b
+Value: 24
+===============
+Name: c
+Value: 26
+===============
+Name: h
+Value: 10
+===============
+Name: r
+Value: 6
+===============
+Name: h
+Value: 9
+===============
+Name: pi
+Value: 3.14
+===============
+Name: r
+Value: 3
+===============
+Name: h
+Value: 7
+===============
+Name: r
+Value: .3
+===============
+Name: h
+Value: .75
+===============
+Name: l
+Value: .6
+===============
+Name: w
+Value: .7
+===============
+Name: r
+Value: .5
+===============
+Name: l
+Value: 0..5
+===============
+Name: l
+Value: 0.5
+===============
+Name: r
+Value: 0.25
+===============
+Name: c
+Value: 235.5
+===============
+Name: c
+Value: 180
+===============
+Name: _username
+Value: e_doge3
+===============
+Name: y12
+Value: -1
+===============
+Name: x11
+Value: -5
+===============
+Name: x12
+Value: 0
+===============
+Name: emailField
+Value: endowhite384@gmail.com
+===============
+Name: x12
+Value: 3
+===============
+Name: x11
+Value: -.5
+===============
+Name: searchword
+Value: roblox
+===============
+Name: y11
+Value: -2
+===============
+Name: y11
+Value: 0
+===============
+Name: -137658890
+Value: 3x+2y=0
+===============
+Name: 58854615
+Value: y=-3/2x
+===============
+Name: y12
+Value: 1
+===============
+Name: y12
+Value: -9
+===============
+Name: q
+Value: getting over it
+===============
+Name: vx
+Value: 4
+===============
+Name: n_1
+Value: 11
+===============
+Name: n_1
+Value: 5
+===============
+Name: d_1
+Value: 3
+===============
+Name: n_1
+Value: -2
+===============
+Name: location
+Value: lake tahoe
+===============
+Name: email
+Value: rostam.paco@my2ducks.com
+===============
+Name: d_1
+Value: 8
+===============
+Name: n_2
+Value: 1
+===============
+Name: vb
+Value: 74
+===============
+Name: url
+Value: roblox
+===============
+Name: kw
+Value: call of duty
+===============
+Name: location
+Value: los angles
+===============
+Name: url
+Value: majic slides
+===============
+Name: vc
+Value: 28
+===============
+Name: vz
+Value: 1
+===============
+Name: login-email-input
+Value: 28enzo
+===============
+Name: url
+Value: 123movies
+===============
+Name: email
+Value: hobbes.york@moabuild.com
+===============
+Name: d_2
+Value: 4
+===============
+Name: FIRST_NAME
+Value: Enzo
+===============
+Name: d_2
+Value: 2
+===============
+Name: kw
+Value: gta 4
+===============
+Name: n_1
+Value: 1
+===============
+Name: url
+Value: twitter.com
+===============
+Name: email
+Value: endowhite384@gmail.com
+===============
+Name: email
+Value: end
+===============
+Name: email
+Value: derrell.adhiraj@moabuild.com
+===============
+Name: kw
+Value: call of duty black ops 2
+===============
+Name: n_2
+Value: 3
+===============
+Name: student[teacher_email]
+Value: therenda@ltusd.org
+===============
+Name: PHONE_NUMBER
+Value: 5303070657
+===============
+Name: d_2
+Value: 6
+===============
+Name: LAST_NAME
+Value: White
+===============
+Name: vy
+Value: 2
+===============
+Name: identifier
+Value: 28enzow0330@ltusd.org
+===============
+Name: global_name
+Value: peepeepoopoop
+===============
+Name: identifier
+Value: endowhite384@gmail.com
+===============
+Name: s
+Value: gta
+===============
+Name: shareCodeField
+Value: g4p3wb
+===============
+Name: username
+Value: ewhite19583
+===============
+Name: accountIdentifier
+Value: endowhite384@gmail.com
+===============
+Name: edu-search
+Value: ungifted
+===============
+Name: shareCodeField
+Value: jkl3xf
+===============
+Name: n_1
+Value: 2
+===============
+Name: n_2
+Value: 5
+===============
+Name: d_2
+Value: 7
+===============
+Name: d_1
+Value: 9
+===============
+Name: email
+Value: endo
+===============
+Name: n_2
+Value: 4
+===============
+Name: n_1
+Value: 8
+===============
+Name: d_1
+Value: 5
+===============
+Name: og_reg_key
+Value: Hvghes94546
+===============
+Name: p
+Value: t
+===============
+Name: query
+Value: the articles let congress create this but not pay for it
+===============
+Name: p
+Value: i
+===============
+Name: og_reg_key
+Value: hvghes94546
+===============
+Name: query
+Value: the articles of Confederation Was americas first plan for
+===============
+Name: og_reg_key
+Value: hvghes94s46
+===============
+Name: og_reg_key
+Value: Hughes94546
+===============
+Name: og_reg_key
+Value: hughes94546
+===============
+Name: query
+Value: under the articles america did not have one of these
+===============
+Name: username
+Value: endowhite384@gmail.com
+===============
+Name: 171854020
+Value: okay
+===============
+Name: input_email
+Value: endowhite384@gmail.com
+===============
+Name: student[teacher_email]
+Value: Enzow
+===============
+Name: emailAddress
+Value: endowhite384@gmail.com
+===============
+Name: student[username]
+Value: Enzow
+===============
+Name: portalAccountUsernameLabel
+Value: 28enzow0330@ltusd.org
+===============
+Name: portalAccountUsername
+Value: 28enzow0330@ltusd.org

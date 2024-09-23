@@ -1,0 +1,4 @@
+PDD: 
+[BANKS] ally.com (3), [MONEY] coinbase.com (2), [PayPal] paypal.com (3), [GAMES] store.steampowered.com (1), [GAMES] epicgames.com (1), [GAMES] rockstargames.com (1)
+CDD: 
+[BANKS] ally.com (3), [MONEY] kraken.com (10), [MONEY] coinbase.com (5), [PayPal] paypal.com (43), [Amazon] amazon.com (38), [GAMES] store.steampowered.com (12), [GAMES] epicgames.com (13), [GAMES] rockstargames.com (3)

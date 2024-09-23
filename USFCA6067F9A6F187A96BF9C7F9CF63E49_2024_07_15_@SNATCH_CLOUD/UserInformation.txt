@@ -1,0 +1,37 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+@SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+IP: 47.36.115.29
+FileLocation: C:\Users\Admin\AppData\Local\Temp\567196\RegAsm.exe
+UserName: Admin
+MachineName: Desktop-KNHL3
+Country: US
+Zip Code: 96150
+Location: South Lake Tahoe, California
+HWID: FCA6067F9A6F187A96BF9C7F9CF63E49
+Current Language: English (United States)
+ScreenSize: {Width=1920, Height=1080}
+TimeZone: (UTC-08:00) Pacific Time (US & Canada)
+Operation System: Windows 11 Home x64
+Log date: 7/15/2024 11:08:57 PM
+
+Available KeyboardLayouts: 
+English (United States)
+
+
+Hardwares: 
+Name: Total of RAM, 16341.58 Mb or 17135386624 bytes
+Name: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, 4 Cores
+Name: NVIDIA GeForce RTX 2060, 4293918720 bytes
+
+
+Anti-Viruses: 
+Avira Security
+Windows Defender
