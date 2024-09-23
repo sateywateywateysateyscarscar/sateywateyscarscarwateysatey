@@ -1,0 +1,188 @@
+URL: https://www.youtube.com/
+TITLE: YouTube - Parent Settings
+TIME: 01.01.1601 02:30:17
+
+URL: https://www.onenote.com/notebooks?auth=2&nf=1
+TITLE: Notebooks
+TIME: 01.01.1601 02:30:17
+
+URL: https://unblockeds-games.com/sprinter-heroes
+TITLE: Sprinter Heroes Unblocked
+TIME: 01.01.1601 02:30:17
+
+URL: https://wordlegame.org/wordle-games
+TITLE: 395 Wordle Games - Play Wordle Spinoffs
+TIME: 01.01.1601 02:30:17
+
+URL: https://word.tips/wordle/
+TITLE: Wordle Answer Finder - Word Finder
+TIME: 01.01.1601 02:30:17
+
+URL: https://gx.games/
+TITLE: GX.games
+TIME: 01.01.1601 02:30:17
+
+URL: https://gxcorner.games/
+TITLE: GX Corner
+TIME: 06.07.2024 02:44:58
+
+URL: https://www.roblox.com/games/15917751894/Prota-Simulator
+TITLE: Prota Simulator - Roblox
+TIME: 06.07.2024 02:43:48
+
+URL: https://www.google.com/search?client=opera-gx&q=teleport+plays+to+part&sourceid=opera&ie=UTF-8&oe=UTF-8
+TITLE: teleport plays to part - Google Search
+TIME: 06.07.2024 02:44:18
+
+URL: https://www.google.com/search?client=opera-gx&hs=SQc&sca_esv=30c966e18241129c&q=teleport+player+to+part&spell=1&sa=X&ved=2ahUKEwjqtvnziZGHAxXR2TgGHb2oDyoQBSgAegQIBhAB
+TITLE: teleport player to part - Google Search
+TIME: 06.07.2024 02:44:20
+
+URL: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwijqa71iZGHAxVv8DgGHaYFCGsQFnoECBIQAQ&url=https%3A%2F%2Fdevforum.roblox.com%2Ft%2Fhow-to-teleport-a-specific-player-to-a-part%2F1239229&usg=AOvVaw2hYengh45NrGt81rPT3Zpt&opi=89978449
+TITLE: How to teleport a specific player to a part - Help and Feedback / Scripting Support - Developer Forum | Roblox
+TIME: 06.07.2024 02:44:23
+
+URL: https://devforum.roblox.com/t/how-to-teleport-a-specific-player-to-a-part/1239229
+TITLE: How to teleport a specific player to a part - Help and Feedback / Scripting Support - Developer Forum | Roblox
+TIME: 06.07.2024 02:44:25
+
+URL: https://devforum.roblox.com/t/how-to-teleport-a-specific-player-to-a-part/1239229/3
+TITLE: How to teleport a specific player to a part - Help and Feedback / Scripting Support - Developer Forum | Roblox
+TIME: 06.07.2024 02:44:36
+
+URL: https://www.google.com/search?client=opera-gx&q=HumanoidRootPart+path&sourceid=opera&ie=UTF-8&oe=UTF-8
+TITLE: HumanoidRootPart path - Google Search
+TIME: 06.07.2024 02:48:35
+
+URL: https://www.google.com/url?sa=t&source=web&cd=&ved=2ahUKEwjJmvTuipGHAxVhxDgGHYjVBdAQFnoECCAQAQ&url=https%3A%2F%2Fdevforum.roblox.com%2Ft%2Fhow-to-access-the-humanoidrootpart%2F997315&usg=AOvVaw29_X4vkzxa0EyjKHC-bCZO&opi=89978449
+TITLE: How to access the "humanoidrootpart" - Help and Feedback / Scripting Support - Developer Forum | Roblox
+TIME: 06.07.2024 02:48:38
+
+URL: https://devforum.roblox.com/t/how-to-access-the-humanoidrootpart/997315
+TITLE: How to access the "humanoidrootpart" - Help and Feedback / Scripting Support - Developer Forum | Roblox
+TIME: 06.07.2024 02:48:44
+
+URL: https://devforum.roblox.com/t/how-to-access-the-humanoidrootpart/997315/2
+TITLE: How to access the "humanoidrootpart" - Help and Feedback / Scripting Support - Developer Forum | Roblox
+TIME: 06.07.2024 02:48:55
+
+URL: https://devforum.roblox.com/t/how-to-access-the-humanoidrootpart/997315/3
+TITLE: How to access the "humanoidrootpart" - Help and Feedback / Scripting Support - Developer Forum | Roblox
+TIME: 06.07.2024 02:49:04
+
+URL: https://create.roblox.com/docs/luau/functions
+TITLE: Functions | Documentation - Roblox Creator Hub
+TIME: 06.07.2024 02:55:05
+
+URL: https://create.roblox.com/docs/assistant
+TITLE: Assistant | Documentation
+TIME: 06.07.2024 03:02:44
+
+URL: https://www.google.com/search?client=opera-gx&q=give+sword+roblox+script&sourceid=opera&ie=UTF-8&oe=UTF-8
+TITLE: give sword roblox script - Google Search
+TIME: 06.07.2024 04:23:18
+
+URL: https://devforum.roblox.com/t/script-to-give-player-a-tool-sword/1649258
+TITLE: Script to give player a tool (sword) - Help and Feedback / Scripting Support - Developer Forum | Roblox
+TIME: 06.07.2024 04:25:00
+
+URL: https://devforum.roblox.com/t/script-to-give-player-a-tool-sword/1649258/3
+TITLE: Script to give player a tool (sword) - Help and Feedback / Scripting Support - Developer Forum | Roblox
+TIME: 06.07.2024 04:24:19
+
+URL: https://devforum.roblox.com/t/script-to-give-player-a-tool-sword/1649258/5
+TITLE: Script to give player a tool (sword) - Help and Feedback / Scripting Support - Developer Forum | Roblox
+TIME: 06.07.2024 04:24:38
+
+URL: https://www.google.com/search?client=opera-gx&q=where+is+the+meshid+in+the+classicsword&sourceid=opera&ie=UTF-8&oe=UTF-8
+TITLE: where is the meshid in the classicsword - Google Search
+TIME: 06.07.2024 10:45:00
+
+URL: https://www.google.com/search?client=opera-gx&hs=NGP&sca_esv=fb66578b5446bfc0&q=where+is+the+meshid+in+the+classic+sword&spell=1&sa=X&ved=2ahUKEwjA3P2t9ZGHAxUYsFYBHfsEA6kQBSgAegQICBAB&biw=1196&bih=542&dpr=1.56
+TITLE: where is the meshid in the classic sword - Google Search
+TIME: 06.07.2024 10:45:03
+
+URL: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiS3quv9ZGHAxWRr1YBHSJsB7UQFnoECBoQAQ&url=https%3A%2F%2Fdevforum.roblox.com%2Ft%2Fsword-mesh-and-textures%2F321116&usg=AOvVaw2JMjwUAsL1qlzm7KTFII4B&opi=89978449
+TITLE: Sword Mesh and Textures - Help and Feedback / Game Design Support - Developer Forum | Roblox
+TIME: 06.07.2024 10:45:07
+
+URL: https://devforum.roblox.com/t/sword-mesh-and-textures/321116
+TITLE: Sword Mesh and Textures - Help and Feedback / Game Design Support - Developer Forum | Roblox
+TIME: 06.07.2024 10:45:08
+
+URL: https://www.google.com/search?client=opera-gx&q=roblox+function+for+enterng+text+in+textbox&sourceid=opera&ie=UTF-8&oe=UTF-8
+TITLE: roblox function for entering text in textbox - Google Search
+TIME: 06.07.2024 11:33:02
+
+URL: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiW5YqMgJKHAxUyk1YBHVVoDlUQFnoECBoQAQ&url=https%3A%2F%2Fcreate.roblox.com%2Fdocs%2Fui%2Ftext-input&usg=AOvVaw0gnixhjzsieqCCfHJ_DNbs&opi=89978449
+TITLE: Text Input | Documentation - Roblox Creator Hub
+TIME: 06.07.2024 11:33:12
+
+URL: https://create.roblox.com/docs/ui/text-input
+TITLE: Text Input | Documentation - Roblox Creator Hub
+TIME: 06.07.2024 11:33:13
+
+URL: https://www.google.com/search?client=opera-gx&q=sword+texture&sourceid=opera&ie=UTF-8&oe=UTF-8
+TITLE: sword texture - Google Search
+TIME: 06.07.2024 11:35:06
+
+URL: https://www.google.com/search?q=sword+texture+roblox&client=opera-gx&hs=TN5&sca_esv=29daae17b33f96b8&ei=WgGJZpLhFaHf2roP_8iEGA&ved=0ahUKEwiS9pPHgJKHAxWhr1YBHX8kAQMQ4dUDCA8&uact=5&oq=sword+texture+roblox&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHN3b3JkIHRleHR1cmUgcm9ibG94MgUQABiABDIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI4AtQ3QNY2QpwAXgBkAEAmAH8AaABqQmqAQUwLjQuMrgBA8gBAPgBAZgCB6AC1wnCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAAGIAEGEMYigXCAggQABiABBiiBJgDAIgGAZAGCpIHBTEuNC4yoAfzHg&sclient=gws-wiz-serp
+TITLE: sword texture roblox - Google Search
+TIME: 06.07.2024 11:35:27
+
+URL: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjArtzJgJKHAxXoklYBHRBND_8QFnoECCQQAQ&url=https%3A%2F%2Fdevforum.roblox.com%2Ft%2Fhow-do-i-retexture-robloxs-texture%2F1411713&usg=AOvVaw3g4FE8KHwE77y7PNFGFCJE&opi=89978449
+TITLE: How do I retexture roblox's texture? - Help and Feedback / Art Design Support - Developer Forum | Roblox
+TIME: 06.07.2024 11:35:16
+
+URL: https://devforum.roblox.com/t/how-do-i-retexture-robloxs-texture/1411713
+TITLE: How do I retexture roblox's texture? - Help and Feedback / Art Design Support - Developer Forum | Roblox
+TIME: 06.07.2024 11:35:17
+
+URL: https://www.roblox.com/users/5820683309/profile
+TITLE: CronusDev - Roblox
+TIME: 06.07.2024 11:36:00
+
+URL: https://www.roblox.com/catalog
+TITLE: Catalog - Roblox
+TIME: 06.07.2024 11:36:27
+
+URL: https://www.roblox.com/catalog?Category=1&salesTypeFilter=1
+TITLE: Catalog - Roblox
+TIME: 06.07.2024 11:36:31
+
+URL: https://www.roblox.com/catalog/17651255346/
+TITLE: Man Face Chicken Nugget V2 - Roblox
+TIME: 06.07.2024 11:36:37
+
+URL: https://www.roblox.com/catalog/17651255346/Man-Face-Chicken-Nugget-V2
+TITLE: Man Face Chicken Nugget V2 - Roblox
+TIME: 06.07.2024 11:36:37
+
+URL: https://www.roblox.com/home
+TITLE: Home - Roblox
+TIME: 06.07.2024 11:43:52
+
+URL: https://www.google.com/search?client=opera-gx&q=solara+downloadl&sourceid=opera&ie=UTF-8&oe=UTF-8
+TITLE: solara downloadl - Google Search
+TIME: 06.07.2024 11:44:04
+
+URL: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi-1-bHgpKHAxWvqFYBHSUyDOoQFnoECBMQAQ&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fsolara-v2-download&usg=AOvVaw2hprdO9Mwe8cKIqQaNIJUA&opi=89978449
+TITLE: solara-v2-download · GitHub Topics · GitHub
+TIME: 06.07.2024 11:44:06
+
+URL: https://github.com/topics/solara-v2-download
+TITLE: solara-v2-download · GitHub Topics · GitHub
+TIME: 06.07.2024 11:44:12
+
+URL: https://github.com/TheresiaAurelly
+TITLE: TheresiaAurelly · GitHub
+TIME: 06.07.2024 11:44:12
+
+URL: https://github.com/TheresiaAurelly/Solara-executor
+TITLE: GitHub - TheresiaAurelly/Solara-executor: Solara Executor redefines Windows exploitation with its user-friendly design and advanced features. Developed by expert reverse engineers, Solara ensures a seamless gaming experience. With awesome functions it simplifies script management. Experience instant updates and keyless operation, making Solara the top choice for Roblox enthusiasts
+TIME: 06.07.2024 11:44:16
+
+URL: https://github.com/TheresiaAurelly/Solara-executor?tab=readme-ov-file
+TITLE: GitHub - TheresiaAurelly/Solara-executor: Solara Executor redefines Windows exploitation with its user-friendly design and advanced features. Developed by expert reverse engineers, Solara ensures a seamless gaming experience. With awesome functions it simplifies script management. Experience instant updates and keyless operation, making Solara the top choice for Roblox enthusiasts
+TIME: 06.07.2024 11:44:23
+

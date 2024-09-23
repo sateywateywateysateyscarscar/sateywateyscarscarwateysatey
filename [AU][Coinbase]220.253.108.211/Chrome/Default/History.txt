@@ -1,0 +1,2588 @@
+URL: https://www.blooket.com/
+TITLE: Blooket
+TIME: 24.05.2024 02:49:30
+
+URL: https://id.blooket.com/login
+TITLE: Login | Blooket
+TIME: 24.05.2024 02:47:53
+
+URL: https://dashboard.blooket.com/
+TITLE: Dashboard | Blooket
+TIME: 11.03.2024 07:05:00
+
+URL: https://dashboard.blooket.com/my-sets
+TITLE: Dashboard | Blooket
+TIME: 11.03.2024 07:05:01
+
+URL: https://play.blooket.com/play
+TITLE: Play Blooket
+TIME: 15.03.2024 05:26:58
+
+URL: https://dashboard.blooket.com/discover
+TITLE: Discover Sets | Blooket
+TIME: 11.03.2024 07:05:04
+
+URL: https://goldquest.blooket.com/play/register
+TITLE: Play Blooket
+TIME: 15.03.2024 05:28:18
+
+URL: https://goldquest.blooket.com/play/lobby
+TITLE: Play Blooket
+TIME: 15.03.2024 05:29:18
+
+URL: https://goldquest.blooket.com/play/gold
+TITLE: Play Gold Quest | Blooket
+TIME: 15.03.2024 05:29:52
+
+URL: https://goldquest.blooket.com/play/gold/final
+TITLE: Play Blooket
+TIME: 15.03.2024 05:36:52
+
+URL: https://towerdefense2.blooket.com/play/defense2/load
+TITLE: Load Tower Defense 2 | Blooket
+TIME: 11.03.2024 07:06:03
+
+URL: https://towerdefense2.blooket.com/play/defense2
+TITLE: Play Tower Defense 2 | Blooket
+TIME: 11.03.2024 07:06:06
+
+URL: https://qed07.instructure.com/login
+TITLE: Sign In - Department of Education Queensland
+TIME: 27.05.2024 06:43:18
+
+URL: https://qed07.instructure.com/login/trust
+TITLE: Sign In - Department of Education Queensland
+TIME: 27.05.2024 06:43:18
+
+URL: https://qlearn.eq.edu.au/cross_domain_login?referer=https%3A%2F%2Fqed07.instructure.com%2F
+TITLE: FA2 - FINAL - Student Experiment - DUE Term 2 Week 7
+TIME: 27.05.2024 06:43:38
+
+URL: https://qlearn.eq.edu.au/login
+TITLE: Sign In - Department of Education Queensland
+TIME: 27.05.2024 06:43:18
+
+URL: https://qlearn.eq.edu.au/login/saml
+TITLE: Sign In - Department of Education Queensland
+TIME: 27.05.2024 06:43:18
+
+URL: https://sso.canvaslms.com/delegated_auth_pass_through?target=https%3A%2F%2Fqlearn.eq.edu.au%2Fcross_domain_login%3Freferer%3Dhttps%253A%252F%252Fqed07.instructure.com%252F
+TITLE: FA2 - FINAL - Student Experiment - DUE Term 2 Week 7
+TIME: 27.05.2024 06:43:38
+
+URL: https://www.google.com/search?q=qcaa&oq=qcaa&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyEwgBEC4YrwEYxwEYsQMYgAQYjgUyEwgCEC4YrwEYxwEYsQMYgAQYjgUyCggDEAAYsQMYgAQyCggEEAAYsQMYgAQyCggFEAAYsQMYgAQyBwgGEAAYgAQyBwgHEAAYgAQyDQgIEC4Y1AIYsQMYgAQyEAgJEC4YgwEYsQMYgAQYigXSAQc2MjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: qcaa - Google Search
+TIME: 11.03.2024 03:21:54
+
+URL: https://www.qcaa.qld.edu.au/
+TITLE: Home | Queensland Curriculum and Assessment Authority
+TIME: 11.03.2024 03:31:21
+
+URL: https://myqce.qcaa.qld.edu.au/
+TITLE: myQCE
+TIME: 11.03.2024 03:31:27
+
+URL: https://www.qcaa.qld.edu.au/student/home/openid_connect_login?identifier=student
+TITLE: Student Portal
+TIME: 11.03.2024 03:35:23
+
+URL: https://studentprodqcaa.b2clogin.com/studentprodqcaa.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1A_QCAA_prod_production_student_signin&response_type=code&client_id=c3c27a78-dcb1-4213-9ae6-79b0ecabbb7c&scope=openid+offline_access+https%3A%2F%2Fstudentprodqcaa.onmicrosoft.com%2Fportal-web-api%2Faccess+email&redirect_uri=https%3A%2F%2Fwww.qcaa.qld.edu.au%2Fstudent%2Fhome%2Fopenid_connect_login&nonce=2011a0602dd4b&state=26180bfad4ba6
+TITLE: Student Portal Log in
+TIME: 11.03.2024 03:28:23
+
+URL: https://www.google.com/search?q=usi&oq=USI&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyCggBEAAYsQMYgAQyCggCEAAYsQMYgAQyCggDEAAYsQMYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEAUYQNIBBzYwOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: usi - Google Search
+TIME: 11.03.2024 03:22:22
+
+URL: https://www.usi.gov.au/
+TITLE: Home page | Unique Student Identifier
+TIME: 11.03.2024 03:22:22
+
+URL: https://www.usi.gov.au/help/login-to-usi-registry
+TITLE: Login to the USI Registry System | Unique Student Identifier
+TIME: 11.03.2024 03:22:29
+
+URL: https://www.google.com/search?q=forgot+usi&oq=forgot+usi&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyCggCEAAYDxgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIKCAUQABgPGBYYHjIKCAYQABgPGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCDI4NTRqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: forgot usi - Google Search
+TIME: 11.03.2024 03:22:39
+
+URL: https://www.usi.gov.au/students/find-your-usi
+TITLE: Find your USI | Unique Student Identifier
+TIME: 11.03.2024 03:22:40
+
+URL: https://portal.usi.gov.au/student/TermsAndConditions?ReturnUrl=%252fstudent%252fUsi%252fForgotten%252fSuccess
+TITLE: USI Student Portal - Terms and Conditions
+TIME: 11.03.2024 03:22:47
+
+URL: https://portal.usi.gov.au/student/Usi/Forgotten/Success
+TITLE: USI Student Portal - USI Student Portal
+TIME: 11.03.2024 03:22:49
+
+URL: https://portal.usi.gov.au/student/Home/Login
+TITLE: USI Student Portal - USI Student Portal
+TIME: 11.03.2024 03:23:46
+
+URL: https://www.qcaa.qld.edu.au/student/home/landing/#/:/register
+TITLE: Student Portal
+TIME: 11.03.2024 03:31:53
+
+URL: https://www.qcaa.qld.edu.au/student/home/landing/#/:/auth/forgot-password
+TITLE: Student Portal
+TIME: 11.03.2024 03:27:04
+
+URL: https://www.google.com/search?q=qcaa&oq=qcaa&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMhMIARAuGK8BGMcBGLEDGIAEGI4FMg8IAhAAGBQYhwIYsQMYgAQyDAgDEAAYFBiHAhiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDIxNDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: qcaa - Google Search
+TIME: 11.03.2024 03:31:20
+
+URL: https://studentprodqcaa.b2clogin.com/studentprodqcaa.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1A_QCAA_prod_production_student_signin&response_type=code&client_id=c3c27a78-dcb1-4213-9ae6-79b0ecabbb7c&scope=openid+offline_access+https%3A%2F%2Fstudentprodqcaa.onmicrosoft.com%2Fportal-web-api%2Faccess+email&redirect_uri=https%3A%2F%2Fwww.qcaa.qld.edu.au%2Fstudent%2Fhome%2Fopenid_connect_login&nonce=377100f8d522b&state=16641eab52ff1
+TITLE: Student Portal Log in
+TIME: 11.03.2024 03:31:30
+
+URL: https://www.google.com/search?q=office+365&oq=office+3&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyDQgBEAAYgwEYsQMYgAQyBggCEEUYOTIHCAMQABiABDINCAQQABiDARixAxiABDIKCAUQABixAxiABDIKCAYQABixAxiABDIGCAcQBRhAqAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: office 365 - Google Search
+TIME: 11.03.2024 03:33:36
+
+URL: https://www.office.com/
+TITLE: Working...
+TIME: 07.06.2024 01:55:20
+
+URL: https://www.google.com/search?q=office+365&oq=office+3&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyDQgBEAAYgwEYsQMYgAQyBggCEEUYOTIHCAMQABiABDINCAQQABiDARixAxiABDIKCAUQABixAxiABDIKCAYQABixAxiABDIGCAcQBRhAqAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+TITLE: office 365 - Google Search
+TIME: 11.03.2024 03:33:46
+
+URL: https://www.google.com/search?sca_esv=c31902b3999a3364&sxsrf=ACQVn0925hcfcJIXhxi0wcYkWv_zyKZRGA:1710117200791&q=Microsoft+Outlook&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDSvSM4wEsrNTC7KL85PK1EoKMpPL0rMLY7iyk9Ly0xOVTA2Mz3FiFB7ipFXP13f0DDZNMnYIrkw7xQjB0jO1KiyDC5VnGSUXmhQcIqRCyRlVGRsVG4IVZdtXpYD11JSBGdWJUFVGyebpVvmQG00NUpPL_vFKOSL4bxFrIIIQf_Skpz8_OxbbJIMblJrY7Qv7er5XB9VV2_XarJJLvFR1RWPpQB6kwMB8AAAAA&sa=X&sqi=2&ved=2ahUKEwjH4JuC--qEAxUc9DgGHZbBCUQQs9oBKAB6BAgjEAI&biw=1536&bih=739&dpr=1.25
+TITLE: Microsoft Outlook - Google Search
+TIME: 11.03.2024 03:33:50
+
+URL: https://www.office.com/login?ru=%2f
+TITLE: Sign in to your account
+TIME: 11.03.2024 03:34:01
+
+URL: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638457140340315801.OGY3MTQxNDktOGE1Zi00ZjI1LTgwOGItYWZlOTQ4YTI4NjllODA3NTk5ODctYTE0Mi00MzZmLWI5M2QtZjQ2YmFmMWNjM2U5&ui_locales=en-US&mkt=en-US&client-request-id=ca6b4add-8cf1-40be-9874-ce2ffaafccbe&state=e4ghan3lLTshV8IYJkjtKbH8I-_An56oFqLMhznJ9tpDRk7dMvIqW64fYvlr5NlKrY2e-Jhb4dfktmigUTeHszXnounbVPQW8KigjYLFwbeo8X_K3DqnU5bid6AuuJTpqbneJlXgJDzSjhIMt38MBHWK0pbZTUHrSkubzu4BqB4ZcwZYttsQZuIPZDd0HGBOFfIch_6Vj7IubJTxGYXDoRS5wU9M00W5QqhmM9vwXbbAGivrHFWP0DLbPuhtvEEgoKLFEQ4wNGb2-jH1EAGI5A&x-client-SKU=ID_NET6_0&x-client-ver=7.3.1.0
+TITLE: Sign in to your account
+TIME: 11.03.2024 03:34:12
+
+URL: https://fed.education.qld.gov.au/idp/eyJ2c2lkIjoidXJpOnNjaG9vbDplcS5lZHUuYXUifQ==/prp.wsf?client-request-id=ca6b4add-8cf1-40be-9874-ce2ffaafccbe&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=LoginOptions%3D3%26estsredirect%3d2%26estsrequest%3drQQIARAAhZJLiON0HMebdqYzU9QZV5H1NqCCODbNu-nAwnZMmkebppkmkyaXkqRpkzTJv81z6U3w4EFhTiJz9OBhEF-HRT0sngeRPS_sxYOHFcTHZfFk1fMifPny_fL93X6fxl4bxmEURt6qYTBy-jrRpkiCIO0mjjlUk-jYSJPGXaqJzjr4dsLalGMltxpHj8Xlze8fPLj7cfZj668vfnhwDR17WbZKT1utsixhMJ_7jgs7IGqFVjzz40WBfQNBDyHoqrrrxk1tfF1NKZwmyDZKIPhWKEkjKCxzBi6pyr0hs8xkjkVNH0HMQEAH6qKUOSEzdDOUVYUwVIEYBmEoM118qC5JmXEyQ2URaXsvbcxooAukhCmZGSiYEfUiSR8GEqaRj6qHcjfPPOwfA4m_cf-oHsxBEk1XIM2uah9VXWLhWTEeDtTUu6AFQ1wGWd_maaE57cYkBXrrgeRtYrGTrZjzZXsmFcJap4i5UYQJOQz7iYG5TdGzidl8mUX-QlNdPt1MYpDH9sVI0em-vwiMQa-0XUBPpn2cWccaafszqpvnorpa27ErhpOFyGzGgSdIGU5LZ7zeR1a2qWp8Ml7m9iYnztZnhOmUppFlqWLmwshkZgjPncm9ueB4U-oiaAu5Lar3OGPCgPMxWWodCUF0Ull7kdQpyoltdzm_SPiePkKYgT3Kvaxg2QXoD3qsQpRDzsaaAY-yXU4gu9e1V5_x3gL7ulbfhgjEN7U2WLmxPzteJWDuh-6zkCiwlvxv40Hkwt0w_Kn2opWCPCPJu-4admc5bOUPd6AnO6_s7x3VbkPHlTdfRmqn-_uNo8rtynHl6Q70ye6Wwje-vbqf__wee_-rw19eG48qN7utUNd8XJjYfdGaRNZJqrcWbK5qJ1zUUZT54IR6hw4tviMj7eUd-hS9rEOX9fpN_UBgpkNWpabIb3Xo_b3Kdwf_y_Oj515qNHJ_GgLHCt301n9cf_985ekLn7774Z-ff3b5K__k8O0QELxjoh4IXZ-MzluoaRftlFjHxOY8mRW6OXasGNNcegzufHlU-Rs1&cbcxt=&username=asout55%40eq.edu.au&mkt=en-US&lc=
+TITLE: Managed Internet Service
+TIME: 11.03.2024 03:34:14
+
+URL: https://fed.education.qld.gov.au/idp/j2Jqe/resume/idp/prp.ping
+TITLE: Working...
+TIME: 11.03.2024 03:34:22
+
+URL: https://login.microsoftonline.com/login.srf
+TITLE: Sign in to your account
+TIME: 11.03.2024 03:34:22
+
+URL: https://login.microsoftonline.com/kmsi
+TITLE: Working...
+TIME: 11.03.2024 03:34:25
+
+URL: https://www.office.com/?auth=2
+TITLE: Home | Microsoft 365
+TIME: 07.06.2024 01:55:22
+
+URL: https://outlook.office.com/owa/?realm=eq.edu.au&exsvurl=1&ll-cc=1033&modurl=0&login_hint=asout55@eq.edu.au
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 24.05.2024 04:52:05
+
+URL: https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&login_hint=asout55%40eq.edu.au&client-request-id=133ac4dc-e657-943b-175d-eafb6b51ab38&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=eq.edu.au&nonce=638457140652537971.d9856058-0e02-452c-9dd1-b989d29516e9&state=PYtLDsIgFABB78KOlk8f8BZEj-ANDBaiTWiJbVGPL25czCwmGUoIOTYODSqaiDXaDWDlIAwo0Bat7CI6MAIcF0koPoAaOcYo-Q0dRoUgTULa3ktf3qE_rSnk2adnl2LtQmXps73qmr1kOfNx9FJozeYSf02wXO7Tcn1My-7DVuoOcP6vXw
+TITLE: Working...
+TIME: 11.03.2024 03:34:32
+
+URL: https://outlook.office.com/mail/
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 27.05.2024 03:43:29
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQAELnImJo4wtDpzo1us5608k%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 11.03.2024 03:34:37
+
+URL: https://studentprodqcaa.b2clogin.com/studentprodqcaa.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1A_QCAA_prod_production_student_signin&response_type=code&client_id=c3c27a78-dcb1-4213-9ae6-79b0ecabbb7c&scope=openid+offline_access+https%3A%2F%2Fstudentprodqcaa.onmicrosoft.com%2Fportal-web-api%2Faccess+email&redirect_uri=https%3A%2F%2Fwww.qcaa.qld.edu.au%2Fstudent%2Fhome%2Fopenid_connect_login&nonce=15a6f9f4d8b2a&state=1a0903f9b57a9
+TITLE: Student Portal
+TIME: 11.03.2024 03:35:23
+
+URL: https://studentprodqcaa.b2clogin.com/studentprodqcaa.onmicrosoft.com/B2C_1A_QCAA_prod_production_student_signin/api/SelfAsserted/confirmed?csrf_token=bkdEQVR0S0NiWFJHSXpFT21PaC9NMTFqL1F4YnV5VFdwbmMzVHIwZWNZMnZYL3hyWW1jd1RhZld1aGhsVy9pckpvMENjTUtBelp1RUNnazZrcmJmaFE9PTsyMDI0LTAzLTExVDAwOjM1OjE1LjcxMjYyMjZaO1B4bGk2NyszQWVVcDMwWnNvU1djV3c9PTt7IlRhcmdldEVudGl0eSI6IkxvY2FsQWNjb3VudFNpZ25pbkVtYWlsRXhjaGFuZ2UiLCJPcmNoZXN0cmF0aW9uU3RlcCI6MX0=&tx=StateProperties=eyJUSUQiOiI4ODVkOWNmMC1iNWFiLTRlM2QtYTIzNC0zZTNlM2Y3YTBjZTAifQ&p=B2C_1A_QCAA_prod_production_student_signin&diags=%7B%22pageViewId%22%3A%223c4576a1-dd1f-4312-9c32-8b0524b01b85%22%2C%22pageId%22%3A%22SelfAsserted%22%2C%22trace%22%3A%5B%7B%22ac%22%3A%22T005%22%2C%22acST%22%3A1710117322%2C%22acD%22%3A1%7D%2C%7B%22ac%22%3A%22T021%20-%20URL%3Ahttps%3A%2F%2Fportalprodqcaa.blob.core.windows.net%2Fb2c%2Fprod-production-student-login.html%22%2C%22acST%22%3A1710117322%2C%22acD%22%3A7%7D%2C%7B%22ac%22%3A%22T029%22%2C%22acST%22%3A1710117323%2C%22acD%22%3A13%7D%2C%7B%22ac%22%3A%22T004%22%2C%22acST%22%3A1710117323%2C%22acD%22%3A3%7D%2C%7B%22ac%22%3A%22T019%22%2C%22acST%22%3A1710117323%2C%22acD%22%3A42%7D%2C%7B%22ac%22%3A%22T003%22%2C%22acST%22%3A1710117323%2C%22acD%22%3A2%7D%2C%7B%22ac%22%3A%22T017T010%22%2C%22acST%22%3A1710117337%2C%22acD%22%3A557%7D%2C%7B%22ac%22%3A%22T002%22%2C%22acST%22%3A0%2C%22acD%22%3A0%7D%5D%7D
+TITLE: Student Portal
+TIME: 11.03.2024 03:35:39
+
+URL: https://www.qcaa.qld.edu.au/student/home/openid_connect_login?state=1a0903f9b57a9&code=eyJraWQiOiJyZG9McnREY2Rfc0l2SlVSRGZDY1NTT2F6MFV6NXgzZzNoRng4U3k4OWJjIiwidmVyIjoiMS4wIiwiemlwIjoiRGVmbGF0ZSIsInNlciI6IjEuMCJ9.g_Qz2cmg9siXebya1KeBOpJ92Dd8Uhb-6198zWvHRIY1vuxKSFGR6Js_f56hlnU4tKkrwzRDHoAZdIbTeSK50NVtngU5idTi-btoQrFG-Oq6pUMknEZLvODeLNEHXavzDjHzCL9NX7lidDdyErvdrbR2hHFGSiyjFuxfvrDDIRo44neTmtkXVHRoeqA38T74Xls75_rmxnC6c0mJzF0ZG88fCSu9F-vbqyLh7m-44eaB_fdNTcg71pCJyfEtC2REIRUPil0dNhHeLLVpkuH-bCLLBGLsyHKRvdKK8kL2ICpMHqxJwByXEfzw5G_8DVutY0JxyUen9uTctl5TUq_cdw.tnib1K-N9j20S9TG.-Rkgt2LjxwGU4CGpseX3MGjwIlYA83_9Z-39wGfvFt_5hFSVdHcQNW471x5vvZruYcIn7aF3DCZj2iV8n1jbhSTLiateyL9F0nKpwjEGpCX57NZbSdWxwrDfNIW237-uh8Aib9gjftX5qBFW_QiSVNQysUsNSzoiwWxSxryNMZjguAI9o3GvriLPLg_5tMCjI4a3DXKo47WWo46Vl7eXIebsE7eF12-np37JCPSLWZ4gEE3ucBnnZaBRakuhv4EJivqtuE4rLvnLloutuju6kXU9XqlnFC1R45eDqb1VKb6p5Q8duC_Jf_7W-hzM9Uj3uovcQofFGlX-ql73s4QMTLN7u-Th9k5raxbncu-Gfv4cM6vuibVgR4dTADy1uptz8L9Z76M6Wj6xYt3YLgfTRU_s5En3_gzduIP3ySyTLduzVWGBzbuZlRn8cryRXWvyPcT7gWPX_pcbR2fU0ElICmwN_Bhbf97JXqR2yZ8WcdR9iBv3DKCKIqdMLQXIV1XbZYP2Buotomk4PYlg_e7iN7fW1VynlBGnds3tCtms7dPX5N0GcYVO7wDXNtGJinegMOPxhv1_TBhZTubdkgLdGSzI-ICRouFF_Jwbyq2HEZp2DLaQ2SYpUcyi-3C8mePkbhqQUq4YLf3avGh2YICfc_oWZrUGqtbjLkS4J0YjTi43uqfXiqWyPATh2SV0dUvz0rMQl-RI8Rlzh7vT_Cyy3Z8IoPr1QpZ0oQcOuR30GdAwNtAyrU5V-w.nBhOHqXZKONm1Q12Dw9EwA
+TITLE: Student Portal
+TIME: 11.03.2024 03:35:39
+
+URL: https://www.qcaa.qld.edu.au/student/home/#
+TITLE: Student Portal
+TIME: 11.03.2024 03:35:39
+
+URL: https://www.qcaa.qld.edu.au/student/home/#/
+TITLE: Student Portal
+TIME: 11.03.2024 03:35:40
+
+URL: https://www.qcaa.qld.edu.au/student/home/#/home
+TITLE: Home - Student Portal
+TIME: 11.03.2024 03:35:40
+
+URL: https://www.qcaa.qld.edu.au/student/home/rest/portlet/launch/74
+TITLE: My Online Learning
+TIME: 11.03.2024 03:36:14
+
+URL: https://www.qcaa.qld.edu.au/student/studentonlinelearning/ui
+TITLE: My Online Learning
+TIME: 11.03.2024 03:36:14
+
+URL: https://www.qcaa.qld.edu.au/student/studentonlinelearning/ui/category
+TITLE: My Online Learning
+TIME: 11.03.2024 03:36:14
+
+URL: https://www.qcaa.qld.edu.au/student/home/rest/portlet/launch/139
+TITLE: My AARA
+TIME: 11.03.2024 03:36:01
+
+URL: https://www.qcaa.qld.edu.au/student/studentaara/ui
+TITLE: My AARA
+TIME: 11.03.2024 03:36:01
+
+URL: https://www.qcaa.qld.edu.au/student/studentaara/ui/my-applications
+TITLE: My AARA
+TIME: 11.03.2024 03:36:02
+
+URL: https://www.qcaa.qld.edu.au/student/home/rest/portlet/launch/138
+TITLE: My timetable
+TIME: 11.03.2024 03:36:05
+
+URL: https://www.qcaa.qld.edu.au/student/studenttimetable/ui
+TITLE: My timetable
+TIME: 11.03.2024 03:36:05
+
+URL: https://www.qcaa.qld.edu.au/student/studenttimetable/ui/my-timetable
+TITLE: My timetable
+TIME: 11.03.2024 03:36:05
+
+URL: https://www.qcaa.qld.edu.au/student/home/rest/portlet/launch/75
+TITLE: My Learning Account
+TIME: 11.03.2024 03:36:09
+
+URL: https://www.qcaa.qld.edu.au/student/learningaccount/ui
+TITLE: My Learning Account
+TIME: 11.03.2024 03:36:09
+
+URL: https://www.qcaa.qld.edu.au/student/learningaccount/ui/registration
+TITLE: My Learning Account
+TIME: 11.03.2024 03:36:09
+
+URL: https://www.qcaa.qld.edu.au/student/studentonlinelearning/ui/category/1
+TITLE: My Online Learning
+TIME: 11.03.2024 03:43:22
+
+URL: https://www.qcaa.qld.edu.au/student/studentonlinelearning/ui/category/1/course/1/activity-course/5
+TITLE: My Online Learning
+TIME: 11.03.2024 03:36:20
+
+URL: https://www.qcaa.qld.edu.au/media/student_online_learning/stage1/course1/course1_2/index.html?endpoint=https://www.qcaa.qld.edu.au/student/studentonlinelearning/rest/xapi/course&auth=Basic%20YmQyMjdjMmNlMTRiYmVkMGRlNmQxZTk3ZDU2OTA2YzFiMjc4Njk5Yzo3ZjZhYThjNzZmODUxOTQ0NTQwZTM2YjAwY2E2ODEyNThiZDc3MjQw&actor={%22objectType%22:%22Agent%22,%22account%22:{%22name%22:%221000204097%22,%22homePage%22:%22http://www.qcaa.qld.edu.au/user%22},%22name%22:%22Alexander%20Souter-Robertson%22}&registration=00000001-0001-0005-ac01-000000713237&grouping=http://www.qcaa.qld.edu.au/course&activity_platform=1&participantCourseFileId=713237#/lessons/u8A5aHo5HX7LvpmGOc4HXXmXXaEotIqP
+TITLE: My Online Learning
+TIME: 11.03.2024 03:36:23
+
+URL: https://www.qcaa.qld.edu.au/media/student_online_learning/stage1/course1/course1_2/index.html?endpoint=https://www.qcaa.qld.edu.au/student/studentonlinelearning/rest/xapi/course&auth=Basic%20YmQyMjdjMmNlMTRiYmVkMGRlNmQxZTk3ZDU2OTA2YzFiMjc4Njk5Yzo3ZjZhYThjNzZmODUxOTQ0NTQwZTM2YjAwY2E2ODEyNThiZDc3MjQw&actor={%22objectType%22:%22Agent%22,%22account%22:{%22name%22:%221000204097%22,%22homePage%22:%22http://www.qcaa.qld.edu.au/user%22},%22name%22:%22Alexander%20Souter-Robertson%22}&registration=00000001-0001-0005-ac01-000000713237&grouping=http://www.qcaa.qld.edu.au/course&activity_platform=1&participantCourseFileId=713237#/lessons/Ss66E8p0F39E2TDBdEDvo9acWrUqi61P
+TITLE: My Online Learning
+TIME: 11.03.2024 03:36:31
+
+URL: https://www.qcaa.qld.edu.au/media/student_online_learning/stage1/course1/course1_2/index.html?endpoint=https://www.qcaa.qld.edu.au/student/studentonlinelearning/rest/xapi/course&auth=Basic%20YmQyMjdjMmNlMTRiYmVkMGRlNmQxZTk3ZDU2OTA2YzFiMjc4Njk5Yzo3ZjZhYThjNzZmODUxOTQ0NTQwZTM2YjAwY2E2ODEyNThiZDc3MjQw&actor={%22objectType%22:%22Agent%22,%22account%22:{%22name%22:%221000204097%22,%22homePage%22:%22http://www.qcaa.qld.edu.au/user%22},%22name%22:%22Alexander%20Souter-Robertson%22}&registration=00000001-0001-0005-ac01-000000713237&grouping=http://www.qcaa.qld.edu.au/course&activity_platform=1&participantCourseFileId=713237#/lessons/Gtx2BI140oH20ALFkLYaFtyI0hjKC9oI
+TITLE: My Online Learning
+TIME: 11.03.2024 03:36:41
+
+URL: https://www.qcaa.qld.edu.au/media/student_online_learning/stage1/course1/course1_2/index.html?endpoint=https://www.qcaa.qld.edu.au/student/studentonlinelearning/rest/xapi/course&auth=Basic%20YmQyMjdjMmNlMTRiYmVkMGRlNmQxZTk3ZDU2OTA2YzFiMjc4Njk5Yzo3ZjZhYThjNzZmODUxOTQ0NTQwZTM2YjAwY2E2ODEyNThiZDc3MjQw&actor={%22objectType%22:%22Agent%22,%22account%22:{%22name%22:%221000204097%22,%22homePage%22:%22http://www.qcaa.qld.edu.au/user%22},%22name%22:%22Alexander%20Souter-Robertson%22}&registration=00000001-0001-0005-ac01-000000713237&grouping=http://www.qcaa.qld.edu.au/course&activity_platform=1&participantCourseFileId=713237#/lessons/OtHB3zTc9oOYE24JsZYA13CU__WcbUbz
+TITLE: My Online Learning
+TIME: 11.03.2024 03:36:48
+
+URL: https://www.qcaa.qld.edu.au/media/student_online_learning/stage1/course1/course1_2/index.html?endpoint=https://www.qcaa.qld.edu.au/student/studentonlinelearning/rest/xapi/course&auth=Basic%20YmQyMjdjMmNlMTRiYmVkMGRlNmQxZTk3ZDU2OTA2YzFiMjc4Njk5Yzo3ZjZhYThjNzZmODUxOTQ0NTQwZTM2YjAwY2E2ODEyNThiZDc3MjQw&actor={%22objectType%22:%22Agent%22,%22account%22:{%22name%22:%221000204097%22,%22homePage%22:%22http://www.qcaa.qld.edu.au/user%22},%22name%22:%22Alexander%20Souter-Robertson%22}&registration=00000001-0001-0005-ac01-000000713237&grouping=http://www.qcaa.qld.edu.au/course&activity_platform=1&participantCourseFileId=713237#/lessons/ozs3z_q-W9UNJ-6YO1bCXOUHCHXCwHd1
+TITLE: My Online Learning
+TIME: 11.03.2024 03:37:12
+
+URL: https://www.qcaa.qld.edu.au/media/student_online_learning/stage1/course1/course1_2/index.html?endpoint=https://www.qcaa.qld.edu.au/student/studentonlinelearning/rest/xapi/course&auth=Basic%20YmQyMjdjMmNlMTRiYmVkMGRlNmQxZTk3ZDU2OTA2YzFiMjc4Njk5Yzo3ZjZhYThjNzZmODUxOTQ0NTQwZTM2YjAwY2E2ODEyNThiZDc3MjQw&actor={%22objectType%22:%22Agent%22,%22account%22:{%22name%22:%221000204097%22,%22homePage%22:%22http://www.qcaa.qld.edu.au/user%22},%22name%22:%22Alexander%20Souter-Robertson%22}&registration=00000001-0001-0005-ac01-000000713237&grouping=http://www.qcaa.qld.edu.au/course&activity_platform=1&participantCourseFileId=713237#/lessons/5FEGechGj2Psvr6CmwIFunN0h2FMBs0x
+TITLE: My Online Learning
+TIME: 11.03.2024 03:37:29
+
+URL: https://www.qcaa.qld.edu.au/media/student_online_learning/stage1/course1/course1_2/index.html?endpoint=https://www.qcaa.qld.edu.au/student/studentonlinelearning/rest/xapi/course&auth=Basic%20YmQyMjdjMmNlMTRiYmVkMGRlNmQxZTk3ZDU2OTA2YzFiMjc4Njk5Yzo3ZjZhYThjNzZmODUxOTQ0NTQwZTM2YjAwY2E2ODEyNThiZDc3MjQw&actor={%22objectType%22:%22Agent%22,%22account%22:{%22name%22:%221000204097%22,%22homePage%22:%22http://www.qcaa.qld.edu.au/user%22},%22name%22:%22Alexander%20Souter-Robertson%22}&registration=00000001-0001-0005-ac01-000000713237&grouping=http://www.qcaa.qld.edu.au/course&activity_platform=1&participantCourseFileId=713237#/lessons/OS_Ng4wuVDLMfIfREjKKTp7-zzcHsFM2
+TITLE: My Online Learning
+TIME: 11.03.2024 03:37:33
+
+URL: https://www.qcaa.qld.edu.au/media/student_online_learning/stage1/course1/course1_2/index.html?endpoint=https://www.qcaa.qld.edu.au/student/studentonlinelearning/rest/xapi/course&auth=Basic%20YmQyMjdjMmNlMTRiYmVkMGRlNmQxZTk3ZDU2OTA2YzFiMjc4Njk5Yzo3ZjZhYThjNzZmODUxOTQ0NTQwZTM2YjAwY2E2ODEyNThiZDc3MjQw&actor={%22objectType%22:%22Agent%22,%22account%22:{%22name%22:%221000204097%22,%22homePage%22:%22http://www.qcaa.qld.edu.au/user%22},%22name%22:%22Alexander%20Souter-Robertson%22}&registration=00000001-0001-0005-ac01-000000713237&grouping=http://www.qcaa.qld.edu.au/course&activity_platform=1&participantCourseFileId=713237#/lessons/14NXwjaDAj1qOvh25ZCa9cZrZVZM5QAX
+TITLE: My Online Learning
+TIME: 11.03.2024 03:41:48
+
+URL: https://www.qcaa.qld.edu.au/media/student_online_learning/stage1/course1/course1_2/index.html?endpoint=https://www.qcaa.qld.edu.au/student/studentonlinelearning/rest/xapi/course&auth=Basic%20YmQyMjdjMmNlMTRiYmVkMGRlNmQxZTk3ZDU2OTA2YzFiMjc4Njk5Yzo3ZjZhYThjNzZmODUxOTQ0NTQwZTM2YjAwY2E2ODEyNThiZDc3MjQw&actor={%22objectType%22:%22Agent%22,%22account%22:{%22name%22:%221000204097%22,%22homePage%22:%22http://www.qcaa.qld.edu.au/user%22},%22name%22:%22Alexander%20Souter-Robertson%22}&registration=00000001-0001-0005-ac01-000000713237&grouping=http://www.qcaa.qld.edu.au/course&activity_platform=1&participantCourseFileId=713237#/lessons/6IC6VNo9hd3y5jMw2OB0sFGQYNYxggzX
+TITLE: My Online Learning
+TIME: 11.03.2024 03:43:17
+
+URL: https://www.qcaa.qld.edu.au/student/studentonlinelearning/ui/category/1/course/1
+TITLE: My Online Learning
+TIME: 11.03.2024 03:43:22
+
+URL: https://fed.education.qld.gov.au/idp/SSO.saml2?SAMLRequest=fVLJTsMwEL3zFZHvcZa2ibDaSoUKUQlo1RQOXJBjT4olx069sPw9TgqiHOj1%2BW0z46mlrezIwrtXtYWDB%2Buij1YqS4aHGfJGEU2tsETRFixxjFSL%2BzuS45R0RjvNtEQnkvMKai0YJ7RC0Wo5Qy8pK5pxnZfxZdFM4jEUNK7rSR1PijEvM14WRVmi6AmMDZoZChZBaK2HlbKOKhegNB%2FH6SjOsl06IqOUTMpnFC3DHEJRN6henessSZIGOAbu2QDjg%2BR4r98w9YngXVJVa9z3z1G0%2BCl5rZX1LZgKzJtg8Li9%2BzU7SKBGYTj0lr2J1Huhkt4CRZvvxVwJxYXan99JfSRZcrvbbeLNutqh%2BbT3IcOkZt5H9omhvghjG8%2BcN4CZboe4fJqcsqfHiz6EnNVyo6Vgn9GNNi11%2F9fIcDYggsfNQCVe2Q6YaATwsBAp9fu1AepghkI%2BoGR%2BDP37c%2BYXXw%3D%3D
+TITLE: Sign In - Department of Education Queensland
+TIME: 11.03.2024 06:31:04
+
+URL: https://fed.education.qld.gov.au/idp/cTppw/resumeSAML20/idp/SSO.ping
+TITLE: Submit Form
+TIME: 11.03.2024 06:31:17
+
+URL: https://sso.canvaslms.com/delegated_auth_pass_through?target=https%3A%2F%2Fqlearn.eq.edu.au%2F%3Flogin_success%3D1
+TITLE: Dashboard
+TIME: 23.05.2024 03:44:24
+
+URL: https://qlearn.eq.edu.au/?login_success=1
+TITLE: Dashboard
+TIME: 23.05.2024 03:44:24
+
+URL: https://qlearn.eq.edu.au/courses/18970~72509
+TITLE: ENG11A_2024
+TIME: 23.05.2024 03:44:39
+
+URL: https://qed07.instructure.com/courses/18970~72509?cross_domain_login=qlearn.eq.edu.au
+TITLE: ENG11A_2024
+TIME: 23.05.2024 03:44:39
+
+URL: https://qlearn.eq.edu.au/cross_domain_login?referer=https%3A%2F%2Fqed07.instructure.com%2Fcourses%2F18970~72509
+TITLE: ENG11A_2024
+TIME: 23.05.2024 03:44:39
+
+URL: https://qed07.instructure.com/courses/18970~72509?session_token=eyJjcmVhdGVkX2F0IjoxNzEwMTI3OTAyLCJwc2V1ZG9ueW1faWQiOjE4OTYzMDAwMDAwMDM5Mjk2MywiY3VycmVudF91c2VyX2lkIjpudWxsLCJ1c2VkX3JlbWVtYmVyX21lX3Rva2VuIjpudWxsLCJzaWduYXR1cmUiOnsiX2JpbmFyeSI6IlpXRTJNakUxTkRJMU9UazJPRFptTlRBNFpXTmtZV1ZpTmpOaVpUZ3pOR0ZoTmpjNE5EWTRPQT09XG4ifX0
+TITLE: ENG11A_2024
+TIME: 11.03.2024 06:31:51
+
+URL: https://qed07.instructure.com/courses/18970~72509
+TITLE: ENG11A_2024
+TIME: 23.05.2024 03:44:40
+
+URL: https://qed07.instructure.com/courses/72509/modules
+TITLE: Course Modules: ENG11A_2024
+TIME: 24.05.2024 04:47:20
+
+URL: https://qed07.instructure.com/courses/72509/modules/items/761806
+TITLE: Assignment 1 - DRAFT - assessment technique - DUE 1/3/2024
+TIME: 11.03.2024 06:32:17
+
+URL: https://qed07.instructure.com/courses/72509/assignments/107513?module_item_id=761806
+TITLE: Assignment 1 - DRAFT - assessment technique - DUE 1/3/2024
+TIME: 11.03.2024 06:32:17
+
+URL: https://qed07.instructure.com/courses/72509/modules/items/761775
+TITLE: FIA1 - DRAFT - Feature Article - DUE 1st March 2024
+TIME: 15.03.2024 05:01:43
+
+URL: https://qed07.instructure.com/courses/72509/assignments/107522?module_item_id=761775
+TITLE: FIA1 - DRAFT - Feature Article - DUE 1st March 2024
+TIME: 15.03.2024 05:01:43
+
+URL: https://www.google.com/search?q=ultron+marvel&oq=ultron+mar&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: ultron marvel - Google Search
+TIME: 11.03.2024 06:43:39
+
+URL: https://www.google.com/search?q=batman+failsafe&sca_esv=1a8ff9d288a21f85&sxsrf=ACQVn0_mLCAsVnejR815dMudkrKNq1TRpA%3A1710128610955&ei=4n3uZbP3OdPYseMPytaS8AM&ved=0ahUKEwiz8IDDpeuEAxVTbGwGHUqrBD4Q4dUDCBE&uact=5&oq=batman+failsafe&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2JhdG1hbiBmYWlsc2FmZTIFEC4YgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyFBAuGIAEGJcFGNwEGN4EGOAE2AECSIItUKoFWPwmcAJ4AZABAJgB7QGgAYUYqgEGMC4xMi40uAEDyAEA-AEBmAISoALeGagCEsICBxAjGOoCGCfCAhQQABiABBjjBBjpBBjqAhi0AtgBAcICFxAuGIAEGOMEGOkEGNQCGOoCGLQC2AEBwgIKECMYgAQYigUYJ8ICBBAjGCfCAgsQABiABBiKBRiRAsICCxAuGIAEGIoFGJECwgIREC4YgwEYxwEYsQMY0QMYgATCAhEQLhiABBixAxiDARjHARjRA8ICCxAAGIAEGLEDGIMBwgIIEC4YgAQYsQPCAgsQLhiDARixAxiABMICCBAuGIAEGNQCwgIUEAAYgAQYigUYkQIYsQMYgwEYyQPCAg4QLhiABBiKBRiRAhixA8ICCxAAGIAEGIoFGJIDwgIEEAAYA8ICCBAAGIAEGLEDwgIOEC4YkQIYsQMYgAQYigXCAgsQLhiABBixAxiDAcICERAuGIMBGJECGLEDGIAEGIoFwgIUEC4YgAQYigUYkQIYsQMYgwEY1ALCAhQQLhiDARiRAhjUAhixAxiABBiKBcICJhAuGJECGLEDGIAEGIoFGJcFGNwEGN4EGOAEGPQDGPEDGPUD2AECwgIOEAAYgAQYigUYsQMYgwHCAiYQLhiABBixAxiDARiXBRjcBBjeBBjgBBj0AxjxAxj1Axj2A9gBAsICBxAuGA0YgATCAgcQABiABBgNwgIWEC4YDRiABBiXBRjcBBjeBBjgBNgBApgDGLoGBggBEAEYAboGBggCEAEYFJIHBTIuOS43oAfXygE&sclient=gws-wiz-serp
+TITLE: batman failsafe - Google Search
+TIME: 11.03.2024 06:43:54
+
+URL: https://www.google.com/search?sca_esv=1a8ff9d288a21f85&sxsrf=ACQVn0-iGiw-rKRaN7QPF5enKhGlzT8OXA:1710128626034&q=batman+failsafe&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiPnJnKpeuEAxUfh1YBHf2QDNUQ0pQJegQIDRAB&biw=1536&bih=739&dpr=1.25
+TITLE: batman failsafe - Google Search
+TIME: 11.03.2024 06:43:58
+
+URL: https://www.google.com/search?sca_esv=1a8ff9d288a21f85&sxsrf=ACQVn0-iGiw-rKRaN7QPF5enKhGlzT8OXA:1710128626034&q=batman+failsafe&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiPnJnKpeuEAxUfh1YBHf2QDNUQ0pQJegQIDRAB&biw=1536&bih=739&dpr=1.25#imgrc=QSOJ1Jr1BERXRM
+TITLE: batman failsafe - Google Search
+TIME: 11.03.2024 06:44:02
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQAI0tiHWS0IREgBULyOMLGdI%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 11.03.2024 06:44:57
+
+URL: https://www.google.com/search?q=batman+robot&tbm=isch&ved=2ahUKEwjClarMpeuEAxWK3DgGHY1BA2EQ2-cCegQIABAA&oq=ba&gs_lp=EgNpbWciAmJhKgIIAjIEECMYJzINEAAYgAQYigUYQxixAzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIQEAAYgAQYigUYQxixAxiDATIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQ0iBNVDOBVjfG3ABeACQAQSYAbgCoAH3C6oBBzAuNS4yLjG4AQHIAQD4AQGKAgtnd3Mtd2l6LWltZ6gCCsICBxAAGIAEGBjCAgcQIxjqAhgniAYB&sclient=img&ei=9n3uZcLCHoq54-EPjYONiAY&bih=739&biw=1536
+TITLE: batman robot - Google Search
+TIME: 11.03.2024 06:45:36
+
+URL: https://www.google.com/search?q=batman+robot&tbm=isch&ved=2ahUKEwjClarMpeuEAxWK3DgGHY1BA2EQ2-cCegQIABAA&oq=ba&gs_lp=EgNpbWciAmJhKgIIAjIEECMYJzINEAAYgAQYigUYQxixAzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIQEAAYgAQYigUYQxixAxiDATIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQ0iBNVDOBVjfG3ABeACQAQSYAbgCoAH3C6oBBzAuNS4yLjG4AQHIAQD4AQGKAgtnd3Mtd2l6LWltZ6gCCsICBxAAGIAEGBjCAgcQIxjqAhgniAYB&sclient=img&ei=9n3uZcLCHoq54-EPjYONiAY&bih=739&biw=1536#imgrc=hIihffgTaua2AM
+TITLE: batman robot - Google Search
+TIME: 11.03.2024 06:45:39
+
+URL: https://www.google.com/search?q=strongest+superhero&oq=strongest+superhero&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIMCAMQABgUGIcCGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINjExM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: strongest superhero - Google Search
+TIME: 11.03.2024 06:47:36
+
+URL: https://www.google.com/search?q=doctor+manhattan&oq=Doctor+Manhattan&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgASoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: doctor manhattan - Google Search
+TIME: 11.03.2024 06:46:03
+
+URL: https://www.google.com/search?q=Mr.+Majestic&oq=Mr.+Majestic&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzgxNWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: Mr. Majestic - Google Search
+TIME: 11.03.2024 06:46:24
+
+URL: https://www.google.com/search?q=Mr.+Majestic+superhero&sca_esv=1a8ff9d288a21f85&sxsrf=ACQVn089AmVwoH2hvXvgdvY5OCQscGWuBg%3A1710128774842&ei=hn7uZcGBM8yp2roPjsqw8AQ&ved=0ahUKEwjB3JORpuuEAxXMlFYBHQ4lDE4Q4dUDCBE&uact=5&oq=Mr.+Majestic+superhero&gs_lp=Egxnd3Mtd2l6LXNlcnAiFk1yLiBNYWplc3RpYyBzdXBlcmhlcm8yBhAAGBYYHjILEAAYgAQYigUYhgNIvytQkQxYoilwAXgBkAEAmAHCB6ABlxaqAQswLjYuMi4xLjYtMbgBA8gBAPgBAZgCC6AC1RbCAgoQABhHGNYEGLADwgILEAAYgAQYigUYkQLCAgUQABiABMICBRAuGIAEmAMAiAYBkAYIkgcLMS41LjMuMS42LTGgB_Us&sclient=gws-wiz-serp
+TITLE: Mr. Majestic superhero - Google Search
+TIME: 11.03.2024 06:46:33
+
+URL: https://www.google.com/search?sca_esv=1a8ff9d288a21f85&sxsrf=ACQVn084Y-a4FPa_DMj2JtcbJ4DU6yjGoQ:1710128784989&q=Mr.+Majestic+superhero&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj09_6VpuuEAxVuplYBHd_OBVYQ0pQJegQIDRAB&biw=1536&bih=739&dpr=1.25
+TITLE: Mr. Majestic superhero - Google Search
+TIME: 11.03.2024 06:46:42
+
+URL: https://www.google.com/search?sca_esv=1a8ff9d288a21f85&sxsrf=ACQVn084Y-a4FPa_DMj2JtcbJ4DU6yjGoQ:1710128784989&q=Mr.+Majestic+superhero&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj09_6VpuuEAxVuplYBHd_OBVYQ0pQJegQIDRAB&biw=1536&bih=739&dpr=1.25#imgrc=UAW_cAV3CPrj-M
+TITLE: Mr. Majestic superhero - Google Search
+TIME: 11.03.2024 06:46:45
+
+URL: https://www.google.com/search?q=Superboy-Prime&oq=Superboy-Prime&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM0NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: Superboy-Prime - Google Search
+TIME: 11.03.2024 06:46:59
+
+URL: https://www.looper.com/632413/strongest-superheroes-in-history-ranked/
+TITLE: 20 Strongest Superheroes Ever, Ranked
+TIME: 11.03.2024 06:47:34
+
+URL: https://www.google.com/search?q=unstoppable+superhero&sca_esv=1a8ff9d288a21f85&sxsrf=ACQVn0_fwEZWcAKxhGGjzxviyWUmKiTkAA%3A1710128744055&ei=aH7uZfn_AuuZseMPua-FoAc&oq=unstop+superhero&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHVuc3RvcCBzdXBlcmhlcm8qAggAMgYQABgHGB4yCBAAGAUYBxgeMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgNI-UVQmCVYkDlwBHgBkAEAmAGSAqABuRGqAQUwLjYuNbgBAcgBAPgBAZgCCKAC1gbCAgoQABhHGNYEGLADwgIHECMYsAIYJ8ICERAAGIAEGIoFGJECGLEDGIMBwgIOEAAYgAQYigUYkQIYsQPCAgsQABiABBiKBRiRAsICBRAuGIAEwgIFEAAYgASYAwCIBgGQBgiSBwU0LjIuMqAHxUI&sclient=gws-wiz-serp
+TITLE: unstoppable superhero - Google Search
+TIME: 11.03.2024 06:47:52
+
+URL: https://www.google.com/search?q=The+Juggernaut+superhero&oq=The+Juggernaut+superhero&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigXSAQgzODkxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: The Juggernaut superhero - Google Search
+TIME: 11.03.2024 06:48:20
+
+URL: https://www.google.com/search?q=The+Juggernaut+superhero&oq=The+Juggernaut+superhero&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigXSAQgzODkxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#vhid=yN7-nJAw7PFLgM&vssid=l
+TITLE: The Juggernaut superhero - Google Search
+TIME: 11.03.2024 06:48:16
+
+URL: https://www.google.com/search?q=Phantom+Stranger&oq=Phantom+Stranger&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQ4OGowajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: Phantom Stranger - Google Search
+TIME: 11.03.2024 06:49:11
+
+URL: https://www.google.com/search?q=Jenny+Quantum&oq=Jenny+Quantum&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQ4MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: Jenny Quantum - Google Search
+TIME: 11.03.2024 06:49:30
+
+URL: https://www.google.com/search?q=mclaren+p1&oq=mclaren+p1&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyDQgBEAAYgwEYsQMYgAQyCggCEAAYsQMYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg4MjA3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: mclaren p1 - Google Search
+TIME: 11.03.2024 06:50:02
+
+URL: https://www.google.com/search?q=mclaren+570s&sca_esv=1a8ff9d288a21f85&sxsrf=ACQVn0-3ynVVRNlfKAQ2qklPkb7BcAU5OQ%3A1710128994415&ei=Yn_uZff_GI-K4-EP8oeDUA&oq=mclaren+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCG1jbGFyZW4gKgIICTIKECMYgAQYigUYJzIOEAAYgAQYigUYkQIYsQMyERAAGIAEGIoFGJECGLEDGIMBMgsQABiABBiKBRiRAjILEAAYgAQYigUYkQIyCxAuGIAEGLEDGIMBMggQABiABBixAzIOEAAYgAQYigUYsQMYgwEyCxAAGIAEGLEDGIMBMggQABiABBixA0iCG1DRA1iFBXABeAGQAQCYAdsBoAGfA6oBBTAuMS4xuAEByAEA-AEBmAICoALxAcICChAAGEcY1gQYsAOYAwCIBgGQBgiSBwUxLjAuMaAH-Q4&sclient=gws-wiz-serp
+TITLE: mclaren 570s - Google Search
+TIME: 11.03.2024 06:50:09
+
+URL: https://www.google.com/search?sca_esv=1a8ff9d288a21f85&sxsrf=ACQVn08rfaPj8wKY2oaOfVkPUAyoZxsMKQ:1710129001186&q=mclaren+570s&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj00Ir9puuEAxXqk1YBHYhzBGIQ0pQJegQIDBAB&biw=1536&bih=739&dpr=1.25
+TITLE: mclaren 570s - Google Search
+TIME: 11.03.2024 06:50:11
+
+URL: https://www.google.com/search?q=hellcat+widebody+brown&tbm=isch&ved=2ahUKEwiuto7-puuEAxWI6jgGHa5oDJ8Q2-cCegQIABAA&oq=hellcat+widebody+brown&gs_lp=EgNpbWciFmhlbGxjYXQgd2lkZWJvZHkgYnJvd25IzFtQnQZY2llwAngAkAEEmAGHAqAB4i-qAQcwLjE3LjE0uAEDyAEA-AEBigILZ3dzLXdpei1pbWeoAgrCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgIHECMY6gIYJ8ICCBAAGIAEGLEDwgINEAAYgAQYigUYQxixA8ICBBAAGB7CAgYQABgFGB6IBgE&sclient=img&ei=a3_uZe7UFIjV4-EPrtGx-Ak&bih=739&biw=1536
+TITLE: hellcat widebody brown - Google Search
+TIME: 11.03.2024 06:50:31
+
+URL: https://www.google.com/search?q=zendaya+fortnite+skin&oq=zendaya+for&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: zendaya fortnite skin - Google Search
+TIME: 11.03.2024 06:51:29
+
+URL: https://www.google.com/search?sca_esv=1a8ff9d288a21f85&sxsrf=ACQVn0-ODevpqedI94smMuoya9V3_QwR8g:1710129079094&q=zendaya+fortnite+skin&tbm=vid&source=lnms&sa=X&sqi=2&ved=2ahUKEwjc6p2ip-uEAxVAyjgGHWNACY4Q0pQJegQICxAB&biw=1536&bih=739&dpr=1.25
+TITLE: zendaya fortnite skin - Google Search
+TIME: 11.03.2024 06:51:38
+
+URL: https://www.google.com/search?q=zendaya+fortnite+skin&sca_esv=1a8ff9d288a21f85&tbm=isch&sxsrf=ACQVn0_FRM5oF2yTDTlsL4zKhfUsmRlweQ:1710129089829&source=lnms&sa=X&ved=2ahUKEwiT-aynp-uEAxXFnK8BHQ6SAPMQ0pQJegQICBAE&biw=1536&bih=739&dpr=1.25
+TITLE: zendaya fortnite skin - Google Search
+TIME: 11.03.2024 06:51:41
+
+URL: https://www.google.com/search?q=zendaya+fortnite+skin&sca_esv=1a8ff9d288a21f85&tbm=isch&sxsrf=ACQVn0_FRM5oF2yTDTlsL4zKhfUsmRlweQ:1710129089829&source=lnms&sa=X&ved=2ahUKEwiT-aynp-uEAxXFnK8BHQ6SAPMQ0pQJegQICBAE&biw=1536&bih=739&dpr=1.25#imgrc=0ZNlt2VecC-gVM
+TITLE: zendaya fortnite skin - Google Search
+TIME: 11.03.2024 06:51:46
+
+URL: https://www.google.com/search?q=zendaya+fortnite+skin&sca_esv=1a8ff9d288a21f85&tbm=isch&sxsrf=ACQVn0_FRM5oF2yTDTlsL4zKhfUsmRlweQ:1710129089829&source=lnms&sa=X&ved=2ahUKEwiT-aynp-uEAxXFnK8BHQ6SAPMQ0pQJegQICBAE&biw=1536&bih=739&dpr=1.25#imgrc=ToC-o1ys10N6zM
+TITLE: zendaya fortnite skin - Google Search
+TIME: 11.03.2024 06:51:53
+
+URL: https://www.google.com/search?q=teen+titioans&oq=teen+titioans&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgNGIMBGNQCGLEDGIAEMhIIAhAuGA0YgwEY1AIYsQMYgAQyCQgDEAAYDRiABDIJCAQQLhgNGIAEMgkIBRAuGA0YgAQyCQgGEAAYDRiABDIMCAcQLhgNGNQCGIAE0gEJMzQ2NTBqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: teen titioans - Google Search
+TIME: 11.03.2024 06:52:56
+
+URL: https://www.google.com/search?sca_esv=1a8ff9d288a21f85&sxsrf=ACQVn0-Sdveyj0c9TxKaFTM6tVlrD-BBHA:1710129168039&q=Cyborg+(DC+Comics)&stick=H4sIAAAAAAAAAONgFuLUz9U3MM6ytExXgjCNDAsztGSyk630S8qAKL6gKD-9KDHXKjkjsSgxuSS1qHgRq5BzZVJ-UbqChouzgnN-bmZyseYOVkYAqtrXHU4AAAA&sa=X&ved=2ahUKEwjtu9LMp-uEAxVdr1YBHQy4DJ4QgOQBegQIMRAU&biw=1536&bih=739&dpr=1.25
+TITLE: Cyborg (DC Comics) - Google Search
+TIME: 11.03.2024 06:53:21
+
+URL: https://www.google.com/search?sa=X&sca_esv=1a8ff9d288a21f85&biw=1536&bih=739&sxsrf=ACQVn08tFnQrRQ4HQKo4xSDiMQqNeY9GOw:1710129175631&q=Raven+(DC+Comics)&stick=H4sIAAAAAAAAAONgFuLUz9U3MM6ytExXgjCNK4pytGSyk630S8qAKL6gKD-9KDHXKjkjsSgxuSS1qHgRq2BQYllqnoKGi7OCc35uZnKx5g5WxglsjACRhW6CUAAAAA&lei=F4DuZa6bJryMvr0P5L-0iAc
+TITLE: Raven (DC Comics)
+TIME: 11.03.2024 06:53:28
+
+URL: https://www.google.com/search?sa=X&sca_esv=1a8ff9d288a21f85&biw=1536&bih=739&sxsrf=ACQVn08tFnQrRQ4HQKo4xSDiMQqNeY9GOw:1710129175631&q=Starfire&stick=H4sIAAAAAAAAAONgFuLUz9U3MM6ytExXgjBNTQyTtWSyk630S8qAKL6gKD-9KDHXKjkjsSgxuSS1qHgRK0dwSWJRWmZR6g5WxglsjACcFwV2RwAAAA&lei=KoDuZfrRFrHv2roPpaaz8AU
+TITLE: Starfire
+TIME: 11.03.2024 06:53:28
+
+URL: https://www.google.com/search?sa=X&sca_esv=1a8ff9d288a21f85&cs=0&sxsrf=ACQVn09xm5JTd9qQm2f6nm-rlXtzzI4Unw:1710129201632&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXnm-YvP6i7qRBrOe0rhXLyy_XiN0Hu5l_bR5r__igTFjeSwImng-A7KeAKvEiNeIVEZybvUHdkOPggEy_e693NZrGMvr_MQwVFkksSrpVJ4_w_514_K2NwbnYezzXOS6jl1CGcv36t2ROmQzYBaXaX3r50TavE0opGOrBzLxyYtm8wiKrx58Zd48gsbZ9-Q_KQFU7rI7DJBjVNVeJYDYEmjF-uhkcyhdm2sD7ArfvqgryNfJpTNJ5ZYkaNoiCxW-FC0dsuE%3D&q=Beast+Boy&ved=2ahUKEwiRvtTcp-uEAxXCZ_UHHftoCuQQs9oBKAF6BAgdEAM&biw=1536&bih=739&dpr=1.25
+TITLE: Beast Boy - Google Search
+TIME: 11.03.2024 06:53:40
+
+URL: https://www.google.com/search?sa=X&sca_esv=1a8ff9d288a21f85&cs=0&sxsrf=ACQVn0_tgHPElnpXc8q_cPNvzjRykv8zEA:1710129212344&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rk_8dmv34ghTBP5yROSLRNiYqtU6l595w0lZbybackRpJgBN2-VRrgMy5Q8rbvSamMaCL6whjOPF1mTPK1OYLMTso_P-K7sNFXXl8lTs7f09nJGqEGZ4AUS6OjHrJhoO6NXeS3CMM7lUjzmKpU6tgNAGvlERQMqWC1wZUyRY71O_705zhJZEFHUo5rrUSPZbQ8TCi6YS6DHhl8gem4WRK0s0M9tRKjawX69RfhKq2dZeLSUfHaDxkTAUCVtrWasjApprlnQ%3D&q=Robin+(character)&ved=2ahUKEwjK2-Lhp-uEAxUsl1YBHfqJApkQs9oBKAN6BAgmEAU&biw=1536&bih=739&dpr=1.25
+TITLE: Robin (character) - Google Search
+TIME: 11.03.2024 06:53:57
+
+URL: https://www.google.com/search?sa=X&sca_esv=1a8ff9d288a21f85&cs=0&biw=1536&bih=739&sxsrf=ACQVn09JBeGbrQGpUZfJScJJvLKf2Xf1pQ:1710129221923&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXiKc4yOyQ2LboX1VAdrjJosdaFA5vp6L4daErs1EuF6TlfqMdH1ogHvHoc6kibF3QiSCywev9mty8Q0SHIxRK9-cYQC16w8wj8bA8OJGPTKo2UH7hjQCCDY-2vWlW4obCeNVj_EkiVuTIY7ygRnEjN3HvHnAccrSD9AbffXP7Is1dL9MbpC8RH3kDS87-zmNrBhv8Exm1nYKpqcC0Y2FrrbGkZTYztz0GaUQxfn1UdYNKa-DP7V7r0d_wbw4qbxsRDgBk4cCA5fLYuNR6b58Nu0B_V8rCOmDgq9Yn90nQ4akMTQCAg%3D%3D&q=Slade+Wilson&lei=RYDuZb32N6qovr0PhMSBgAY
+TITLE: Slade Wilson
+TIME: 11.03.2024 06:53:57
+
+URL: https://www.google.com/search?q=smartest+man+alive&sca_esv=1a8ff9d288a21f85&cs=0&biw=1536&bih=739&sxsrf=ACQVn09JBeGbrQGpUZfJScJJvLKf2Xf1pQ%3A1710129221923&ei=RYDuZb32N6qovr0PhMSBgAY&udm=&ved=0ahUKEwj9rKvmp-uEAxUqlK8BHQRiAGAQ4dUDCBE&uact=5&oq=smartest+man+alive&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnNtYXJ0ZXN0IG1hbiBhbGl2ZTIFEAAYgAQyBRAuGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIsVNQtQNYgVJwAngCkAEEmAHJBaABniqqAQwwLjguMTIuMS42LTG4AQPIAQD4AQGYAhSgApkkqAISwgIKEAAYRxjWBBiwA8ICChAjGIAEGIoFGCfCAgsQABiABBiKBRiRAsICBxAjGOoCGCfCAhQQABiABBjjBBjpBBjqAhi0AtgBAcICERAuGIAEGLEDGIMBGMcBGNEDwgILEAAYgAQYsQMYgwHCAg4QABiABBiKBRixAxiDAcICCBAAGIAEGLEDwgILEC4YgAQYsQMYgwHCAgsQLhiABBjHARivAZgDB4gGAZAGCLoGBggBEAEYAZIHDDIuNS4xMS4wLjEuMaAHwbcB&sclient=gws-wiz-serp
+TITLE: smartest man alive - Google Search
+TIME: 11.03.2024 06:54:24
+
+URL: https://www.google.com/search?q=test&sca_esv=1a8ff9d288a21f85&cs=0&biw=1536&bih=739&sxsrf=ACQVn091x3gmtcqiBMNTjgDdu8UouKYKFQ%3A1710129255945&ei=Z4DuZfWiOZq5vr0PrJeqmAs&ved=0ahUKEwi18sf2p-uEAxWanK8BHayLCrMQ4dUDCBE&uact=5&oq=test&gs_lp=Egxnd3Mtd2l6LXNlcnAiBHRlc3QyCxAAGIAEGIoFGJECMhcQLhiABBiKBRiRAhixAxiDARjHARjRAzILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMggQABiABBixAzILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMggQABiABBixAzILEAAYgAQYsQMYgwEyDhAuGIAEGIoFGLEDGIMBSNKrA1DDgwNY5qoDcAR4AZABAJgBiQKgAfwJqgEFMC4zLjO4AQPIAQD4AQGYAgqgAuYKqAISwgIHECMY6gIYJ8ICFBAAGIAEGOMEGOkEGOoCGLQC2AEBwgIKECMYgAQYigUYJ8ICBBAjGCfCAhEQABiABBiKBRiRAhixAxiDAcICDhAuGIAEGLEDGMcBGNEDwgILEC4YgAQYsQMYgwHCAggQLhiABBixA8ICDhAuGIAEGIoFGJECGLEDwgIOEAAYgAQYigUYsQMYgwHCAh0QLhiABBiKBRiRAhixAxiXBRjcBBjeBBjgBNgBAsICBRAAGIAEwgIOEC4YgAQYigUYkQIY1ALCAgsQLhiABBiKBRiRAsICERAuGIAEGLEDGIMBGMcBGNEDmAMRugYGCAEQARgBugYGCAIQARgUkgcFNC4yLjSgB9pI&sclient=gws-wiz-serp
+TITLE: test - Google Search
+TIME: 11.03.2024 06:55:25
+
+URL: https://www.google.com/search?q=reaction+time+test&sca_esv=1a8ff9d288a21f85&cs=0&biw=1536&bih=739&sxsrf=ACQVn09kTwzN1tgJ4_ydxN4-FCZzS0Or7w%3A1710129317500&ei=pYDuZZeGHsLg2roPv5CosAI&gs_ssp=eJzj4tVP1zc0zEqvNMxNMsowYPQSKkpNTC7JzM9TKMnMTVUoSS0uAQDFQAu0&oq=reaction+time+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDnJlYWN0aW9uIHRpbWUgKgIIADIREC4YgAQYigUYkQIYsQMYgwEyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAuGIAEMgUQABiABDIFEAAYgAQyIBAuGIAEGIoFGJECGLEDGIMBGJcFGNwEGN4EGOAE2AEDSMo1UNQCWNorcAJ4AZABApgBmQKgAZocqgEFMC44Ljm4AQHIAQD4AQGYAhKgAokjqAISwgIKEAAYRxjWBBiwA8ICERAAGIAEGIoFGJECGLEDGIMBwgIaEC4YgAQYigUYkQIYsQMYgwEYyQMYxwEY0QPCAgsQABiABBiKBRiSA8ICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAgcQIxjqAhgnwgIUEAAYgAQY4wQY6QQY6gIYtALYAQHCAg8QIxiABBiKBRgnGEYY-QHCAgoQIxiABBiKBRgnwgILEAAYgAQYigUYkQLCAg4QLhjHARixAxjRAxiABMICCxAuGIAEGLEDGIMBwgIOEAAYgAQYigUYsQMYgwHCAicQABiABBiKBRhGGPkBGJcFGIwFGN0EGEYY-QEY9AMY9QMY9gPYAQLCAgoQLhiABBgUGIcCwgIOEAAYgAQYsQMYgwEYyQPCAg4QABiABBixAxiDARiSA8ICCBAuGIAEGLEDwgIOEC4YgAQYxwEYrwEYjgXCAggQLhixAxiABMICBBAAGAOYAxCIBgGQBgi6BgYIARABGAG6BgYIAhABGBO6BgYIAxABGBSSBwkyLjcuOC43LTGgB4HTAQ&sclient=gws-wiz-serp
+TITLE: reaction time test - Google Search
+TIME: 11.03.2024 06:57:22
+
+URL: https://humanbenchmark.com/tests/reactiontime
+TITLE: Human Benchmark - Reaction Time Test
+TIME: 15.03.2024 05:12:12
+
+URL: https://www.justpark.com/creative/reaction-time-test/
+TITLE: The Reaction Time Test | JustPark
+TIME: 11.03.2024 06:57:24
+
+URL: https://humanbenchmark.com/dashboard
+TITLE: Human Benchmark - Dashboard - Guest user
+TIME: 15.03.2024 05:12:15
+
+URL: https://humanbenchmark.com/users/65ee80b6e878e20008934342/verbal-memory
+TITLE: Human Benchmark - Dashboard - Guest user
+TIME: 11.03.2024 06:58:30
+
+URL: https://humanbenchmark.com/users/65ee80b6e878e20008934342/typing
+TITLE: Human Benchmark - Dashboard - Guest user
+TIME: 11.03.2024 06:58:32
+
+URL: https://humanbenchmark.com/tests/typing
+TITLE: Human Benchmark - Typing Test - WPM
+TIME: 15.03.2024 05:14:33
+
+URL: https://humanbenchmark.com/users/65ee80b6e878e20008934342/chimp
+TITLE: Human Benchmark - Dashboard - Guest user
+TIME: 11.03.2024 07:00:13
+
+URL: https://humanbenchmark.com/tests/chimp
+TITLE: Human Benchmark - Chimp Test
+TIME: 11.03.2024 07:00:17
+
+URL: https://humanbenchmark.com/users/65ee80b6e878e20008934342/memory
+TITLE: Human Benchmark - Dashboard - Guest user
+TIME: 11.03.2024 07:00:22
+
+URL: https://humanbenchmark.com/tests/memory
+TITLE: Human Benchmark - Visual Memory Test
+TIME: 11.03.2024 07:00:25
+
+URL: https://www.google.com/search?gs_ssp=eJzj4tVP1zc0LCrMSTcwLckzYPQSLKksSFUoyUhVSMwpyEhMSi0BALpBC0w&q=type+the+alphabet&oq=type+the+&gs_lcrp=EgZjaHJvbWUqCggBEC4YsQMYgAQyBggAEEUYOTIKCAEQLhixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDM0NjlqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: type the alphabet - Google Search
+TIME: 11.03.2024 07:02:31
+
+URL: https://www.speedtypingonline.com/games/type-the-alphabet.php
+TITLE: Type the Alphabet - SpeedTypingOnline
+TIME: 11.03.2024 07:01:34
+
+URL: https://www.google.com/search?q=test&sca_esv=946c7383e35f7723&sxsrf=ACQVn097Z-iO1R6atTujV7ycYTKqkyKVyg%3A1710129684593&ei=FILuZfPfI6CD2roP-8qcmAU&ved=0ahUKEwjzufrCqeuEAxWggVYBHXslB1MQ4dUDCBE&uact=5&oq=test&gs_lp=Egxnd3Mtd2l6LXNlcnAiBHRlc3QyChAjGIAEGIoFGCcyCxAAGIAEGIoFGJECMhAQABiABBgUGIcCGLEDGIMBMg0QABiABBgUGIcCGLEDMhEQLhiABBixAxiDARjHARjRAzILEAAYgAQYsQMYgwEyCxAAGIAEGIoFGJIDMgsQABiABBixAxiDATIIEAAYgAQYsQMyCxAAGIAEGLEDGIMBSN4ZUNoBWI0ZcAJ4AJABBJgBhwKgAZUOqgEFMC42LjO4AQPIAQD4AQGYAgagArIHqAISwgIKEAAYRxjWBBiwA8ICChAuGIAEGIoFGCfCAgUQABiABMICBxAjGOoCGCfCAgcQLhjqAhgnwgIUEC4YgAQY4wQY6QQY6gIYtALYAQHCAhQQABiABBjjBBjpBBjqAhi0AtgBAcICBBAjGCfCAgsQLhiABBiKBRiRAsICDhAuGIAEGLEDGMcBGNEDwgIREAAYgAQYigUYkQIYsQMYgwGYAxKIBgGQBgi6BgYIARABGAGSBwUyLjEuM6AH2Wc&sclient=gws-wiz-serp
+TITLE: test - Google Search
+TIME: 11.03.2024 07:02:38
+
+URL: https://www.google.com/search?q=f1+test&sca_esv=946c7383e35f7723&sxsrf=ACQVn0_x4HeQf4rRGbXjQ3bHknNl1xcPyQ%3A1710129750591&ei=VoLuZcHLI5vp2roPy7WLsAk&ved=0ahUKEwjBzrbiqeuEAxWbtFYBHcvaApYQ4dUDCBE&uact=5&oq=f1+test&gs_lp=Egxnd3Mtd2l6LXNlcnAiB2YxIHRlc3QyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBxAAGIAEGApI0DZQmg9YjDZwBXgBkAEDmAH9AaAB-xOqAQUwLjQuOLgBA8gBAPgBAZgCDqAC0w-oAhLCAgoQABhHGNYEGLADwgIKECMYgAQYigUYJ8ICCxAAGIAEGIoFGJECwgIQEAAYgAQYFBiHAhixAxiDAcICDRAAGIAEGBQYhwIYsQPCAhEQLhiABBixAxiDARjHARjRA8ICCxAAGIAEGLEDGIMBwgILEAAYgAQYigUYkgPCAggQABiABBixA8ICBxAjGOoCGCfCAgcQLhjqAhgnwgIUEAAYgAQY4wQY6QQY6gIYtALYAQHCAg4QLhiABBiKBRixAxiDAcICCxAuGIMBGLEDGIAEwgIREC4YgAQYigUYkQIYsQMYgwHCAgsQLhiABBixAxiDAcICLBAuGIAEGIoFGJECGLEDGIMBGJcFGNwEGN4EGOAEGPQDGPEDGPUDGPYD2AECwgIOEAAYgAQYigUYsQMYgwHCAhEQABiABBiKBRiRAhixAxiDAZgDD4gGAZAGCLoGBggBEAEYAboGBggCEAEYFJIHBTUuMy42oAfOfQ&sclient=gws-wiz-serp
+TITLE: f1 test - Google Search
+TIME: 11.03.2024 07:02:52
+
+URL: https://www.formula1.com/en/racing/2024/Pre-Season-Testing.html
+TITLE: 2024 F1 Pre-Season Testing - Bahrain
+TIME: 11.03.2024 07:02:49
+
+URL: https://www.google.com/search?q=f1+test+reaction&sca_esv=946c7383e35f7723&sxsrf=ACQVn0_cwf3mWcPI13FUwEzXPPcPoaB7Eg%3A1710129759361&ei=X4LuZd6zFdia0-kP7eC5wAc&oq=f1+test&gs_lp=Egxnd3Mtd2l6LXNlcnAiB2YxIHRlc3QqAggAMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSIkMUABYAHABeACQAQCYAbIBoAGyAaoBAzAuMbgBAcgBAJgCAaACDJgDAIgGAZAGCJIHATGgB_cE&sclient=gws-wiz-serp
+TITLE: f1 test reaction - Google Search
+TIME: 11.03.2024 07:03:18
+
+URL: https://www.yasmarinacircuit.com/en/yas-in-school/race-reaction-tester
+TITLE: RACE REACTION TESTER
+TIME: 11.03.2024 07:03:21
+
+URL: https://www.yasmarinacircuit.com/en/yas-in-school/race-reaction-tester#
+TITLE: RACE REACTION TESTER
+TIME: 11.03.2024 07:04:15
+
+URL: https://www.google.com/search?q=infinite+craft&oq=infin&gs_lcrp=EgZjaHJvbWUqDQgCEAAYgwEYsQMYgAQyBggAEEUYOTINCAEQLhiDARixAxiABDINCAIQABiDARixAxiABDIKCAMQABixAxiABDIQCAQQABiDARixAxiABBiKBTIHCAUQABiABDIHCAYQABiABDIKCAcQLhixAxiABDIQCAgQABiDARixAxiABBiKBTIQCAkQABiDARixAxiABBiKBdIBCDI2MjFqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: infinite craft - Google Search
+TIME: 11.03.2024 07:04:22
+
+URL: https://www.google.com/search?sca_esv=946c7383e35f7723&sxsrf=ACQVn0-VypFdB2Ln5lao0Y_9iiSegcBwaA:1710129854696&q=infinite+craft&tbm=shop&source=lnms
+TITLE: infinite craft - Google Shopping
+TIME: 11.03.2024 07:04:24
+
+URL: https://www.google.com/url?url=/search%3Fq%3Dinfinite%2Bcraft%26sca_esv%3D946c7383e35f7723%26sxsrf%3DACQVn0_Nty3Xnz-LcLxeDrffHXgRx86o1w:1710129855584%26source%3Dlnms&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiXzr6UquuEAxXFs1YBHQ_pCGwQi6AMCKYI&usg=AOvVaw2Rr2spDIOQVrG36KbetXO-
+TITLE: infinite craft - Google Search
+TIME: 11.03.2024 07:04:26
+
+URL: https://www.google.com/search?q=infinite+craft&sca_esv=946c7383e35f7723&sxsrf=ACQVn0_Nty3Xnz-LcLxeDrffHXgRx86o1w:1710129855584&source=lnms
+TITLE: infinite craft - Google Search
+TIME: 11.03.2024 07:04:30
+
+URL: https://accounts.google.com/gsi/select?client_id=366017072728-fih7d2fq1jtgpj9ctrbg5mmp95r3gf7n.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=aL6sqMbvfq%2BIkxbFdL2awg&channel_id=95046e555124d4646e91cd69675317459ff911ac2c97260be98eb8650e69cf9b&origin=https%3A%2F%2Fid.blooket.com
+TITLE: Sign In - Google Accounts
+TIME: 11.03.2024 07:04:57
+
+URL: https://dashboard.blooket.com/discover?s=brain%20rot
+TITLE: Discover Sets | Blooket
+TIME: 11.03.2024 07:05:42
+
+URL: https://dashboard.blooket.com/set/646d1a294599263d0c27d034
+TITLE: Brain-rot | Blooket
+TIME: 11.03.2024 07:05:25
+
+URL: https://dashboard.blooket.com/set/639b8454917516040b13bf71
+TITLE: BRAIN ROT | Blooket
+TIME: 11.03.2024 07:05:36
+
+URL: https://dashboard.blooket.com/discover?s=skibti
+TITLE: Discover Sets | Blooket
+TIME: 11.03.2024 07:05:47
+
+URL: https://dashboard.blooket.com/set/6532a8a5602f279ea2a4b769
+TITLE: skibti toilet | Blooket
+TIME: 11.03.2024 07:05:50
+
+URL: https://play.blooket.com/solo?id=6532a8a5602f279ea2a4b769
+TITLE: Play Solo | Blooket
+TIME: 11.03.2024 07:05:54
+
+URL: https://towerdefense2.blooket.com/defense2/play/landing?t=65ee832169217e22e431fddd
+TITLE: Play Blooket
+TIME: 11.03.2024 07:06:01
+
+URL: https://www.google.com/search?q=how+does+your+body+know+how+to+breathe&oq=how+does+your+body+know+how+to+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTExMTQ0ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: how does your body know how to breathe - Google Search
+TIME: 11.03.2024 07:07:49
+
+URL: https://www.google.com/search?q=who+made+skibidi+toilet&oq=who+made+skibi&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: who made skibidi toilet - Google Search
+TIME: 11.03.2024 07:08:06
+
+URL: https://www.google.com/search?q=face+next+to+moon&oq=face+next+to+moon&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgATSAQkxNzc5MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: face next to moon - Google Search
+TIME: 11.03.2024 07:08:29
+
+URL: https://www.google.com/search?sca_esv=946c7383e35f7723&sxsrf=ACQVn0-7UKe5VvEusVc0znIrOrlpQjlkRw:1710130101440&q=face+next+to+moon&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwji8NyJq-uEAxVc1DgGHciHCoYQ0pQJegQIDBAB&biw=1536&bih=739&dpr=1.25
+TITLE: face next to moon - Google Search
+TIME: 11.03.2024 07:08:34
+
+URL: https://www.google.com/search?sca_esv=946c7383e35f7723&sxsrf=ACQVn0-7UKe5VvEusVc0znIrOrlpQjlkRw:1710130101440&q=face+next+to+moon&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwji8NyJq-uEAxVc1DgGHciHCoYQ0pQJegQIDBAB&biw=1536&bih=739&dpr=1.25#imgrc=ldPrp-TEivwRTM
+TITLE: face next to moon - Google Search
+TIME: 11.03.2024 07:08:38
+
+URL: https://www.google.com/search?sca_esv=946c7383e35f7723&sxsrf=ACQVn0-7UKe5VvEusVc0znIrOrlpQjlkRw:1710130101440&q=face+next+to+moon&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwji8NyJq-uEAxVc1DgGHciHCoYQ0pQJegQIDBAB&biw=1536&bih=739&dpr=1.25#imgrc=0AV7NtJIlQftfM
+TITLE: face next to moon - Google Search
+TIME: 11.03.2024 07:08:45
+
+URL: https://www.google.com/search?q=is+santa+real&oq=is+santa+&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: is santa real - Google Search
+TIME: 11.03.2024 07:09:05
+
+URL: https://www.google.com/search?q=unblocked+games&oq=unblock&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgcIARAuGIAEMgYIAhBFGDkyCggDEAAYsQMYgAQyCggEEAAYsQMYgAQyCggFEAAYsQMYgAQyDQgGEAAYgwEYsQMYgAQyDQgHEAAYgwEYsQMYgAQyDwgIEAAYFBiHAhixAxiABDINCAkQABiDARixAxiABKgCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: unblocked games - Google Search
+TIME: 11.03.2024 07:10:18
+
+URL: https://en.blog.symbaloo.com/webmixes/4/unblocked-games
+TITLE: 80+ Free Unblocked Games
+TIME: 27.05.2024 03:59:45
+
+URL: https://blog.symbaloo.com/webmixes/4/unblocked-games
+TITLE: 80+ Free Unblocked Games
+TIME: 27.05.2024 03:59:45
+
+URL: https://blog.symbaloo.com/webmixes/4/unblocked-games#cat_12
+TITLE: 80+ Free Unblocked Games
+TIME: 27.05.2024 03:59:50
+
+URL: https://fun.symbaloo.com/?utm_source=unblocked_games&utm_id=en_blog
+TITLE: Fun @ Symbaloo | The leading visual resource management tool to organise and share your favourites
+TIME: 27.05.2024 04:00:21
+
+URL: https://fun.symbaloo.com/home/mix/13ePLZL7ZG
+TITLE: Fun @ Symbaloo | The leading visual resource management tool to organise and share your favourites
+TIME: 27.05.2024 04:00:23
+
+URL: https://www.symbaloo.com/out.do?smarkId=771755807&desktopId=1000007047069854
+TITLE: Fun @ Symbaloo | The leading visual resource management tool to organise and share your favourites
+TIME: 11.03.2024 07:11:00
+
+URL: https://fun.symbaloo.com/home/mix/13ePLYG58d
+TITLE: Fun @ Symbaloo | The leading visual resource management tool to organise and share your favourites
+TIME: 11.03.2024 07:11:00
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQAI0tiHWS0IREgBULyOMLGdI%3D?authRedirect=true&login_hint=asout55%40eq.edu.au&state=0
+TITLE: Working...
+TIME: 14.03.2024 01:59:59
+
+URL: https://outlook.office.com/owa/?login_hint=asout55%40eq.edu.au&state=1&redirectTo=aHR0cHM6Ly9vdXRsb29rLm9mZmljZS5jb20vbWFpbC9pbmJveC9pZC9BQVFrQURRd1pUTmlaR0l6TFRKaVl6SXRORE00WlMxaU9XWTFMVFV3TTJGaE1UWm1OVFJsTkFBUUFJMHRpSFdTMElSRWdCVUx5T01MR2RJPQ
+TITLE: Working...
+TIME: 14.03.2024 01:59:59
+
+URL: https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&login_hint=asout55%40eq.edu.au&client-request-id=70000b04-1c27-af3f-dd43-ca2809f1d94e&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=eq.edu.au&nonce=638459675866975899.4102ea30-6986-45c3-bb51-42a06176c991&state=DYtBb4IwGEBh-y3zBrZAq9-BLNHYGSZxlhaIl6WFZtMVYYDO_dX9mnF4752e6zjO48TDhIsmOQsaLiMCdEGWlMJkAD_CKDAqRB6FJfUiUoWe1gR7UaAQxQtaAWB3ev_cefuj5s-2_Thd3j9PlzFWQ3sdCXmKkPn2TX311XU2jGo0MZ71pj71phpFG6stR9U2pbtfuNUlH3QA_a6B5tjY8zEjZx2gmy5Yp9fQ6Sa5manHNawOOesPkvMad1I0VnFkqWD8VeWWZiXf8w1ChU3vSkJZCJbmLA-FSF7UBsuiwfucJYP4YispWZJueZexWqQbm_GiXufyTgTCKQ948nb4Bw
+TITLE: Working...
+TIME: 14.03.2024 01:59:59
+
+URL: https://qed07.instructure.com/courses/79296
+TITLE: Year 11: Certificate II in Skills for Work and Vocational Pathways 2024-2025
+TIME: 14.03.2024 02:00:33
+
+URL: https://fed.education.qld.gov.au/idp/SSO.saml2?SAMLRequest=fVJbT8IwFH73Vyx9Xze2EaABEoQYSVAImz74Yrr1DJp07egF9d%2FbDY34oK9fv9s5p1NDG9GShbNHuYeTA2OD90ZIQ%2FqHGXJaEkUNN0TSBgyxFckXDxuS4Ji0WllVKYGuJP8rqDGgLVcSBevVDL3WI6DDSZmGbAgQZmyUhWVaj8NynEFM4ySOR2MUPIM2XjND3sILjXGwlsZSaT0UJ1kYp%2BEgLZKEDCckm7ygYOXn4JLaXnW0tjUkimpgGJirehifBMMHdcbURZy1UZ5vcdc%2FQcHiu%2BRSSeMa0DnoM6%2Fgab%2F5MTsJoFpiOHWWnYlQBy6jzgIFu6%2FF3HLJuDz8v5PyQjLkvih24W6bF2g%2B7XxIP6med5Fdoq%2FP%2FdjaVdZpwJVq%2BrhkGl2zp5eLPvqc9WqnBK8%2BgjulG2r%2FrjHAgx7hLKx7KnHStFDxmgPzCxFCvS01UAsz5PMBRfNL6O%2BfM7%2F5BA%3D%3D
+TITLE: Sign In - Department of Education Queensland
+TIME: 14.03.2024 01:59:59
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQAI0tiHWS0IREgBULyOMLGdI%3d
+TITLE: Outlook
+TIME: 14.03.2024 02:00:04
+
+URL: https://fed.education.qld.gov.au/idp/SBCaY/resumeSAML20/idp/SSO.ping
+TITLE: Submit Form
+TIME: 14.03.2024 02:00:18
+
+URL: https://qed07.instructure.com/?session_token=eyJjcmVhdGVkX2F0IjoxNzEwMzcwODA4LCJwc2V1ZG9ueW1faWQiOjE4OTYzMDAwMDAwMDM5Mjk2MywiY3VycmVudF91c2VyX2lkIjpudWxsLCJ1c2VkX3JlbWVtYmVyX21lX3Rva2VuIjpudWxsLCJzaWduYXR1cmUiOnsiX2JpbmFyeSI6Ik5USTVZMlk1TVRFek5tSXpNbUV4TURneE4yRXpOekZqTXpZek1UWmpOMkV5WWpJNE5EWm1Ndz09XG4ifX0
+TITLE: Year 11: Certificate II in Skills for Work and Vocational Pathways 2024-2025
+TIME: 14.03.2024 02:00:20
+
+URL: https://qed07.instructure.com/courses/79296/grades
+TITLE: Marks for Alexander Souter-Robertson: Year 11: Certificate II in Skills for Work and Vocational Pathways 2024-2025
+TIME: 14.03.2024 02:00:26
+
+URL: https://qed07.instructure.com/courses/72354
+TITLE: DES11A_2024
+TIME: 14.03.2024 02:00:43
+
+URL: https://qed07.instructure.com/courses/72357
+TITLE: DIS11A_2024
+TIME: 25.03.2024 14:50:34
+
+URL: https://qed07.instructure.com/courses/72357/assignments
+TITLE: Assignments: DIS11A_2024
+TIME: 25.03.2024 14:50:38
+
+URL: https://qed07.instructure.com/courses/72357/assignments/103697
+TITLE: FA1 - DRAFT - DUE 01/03/2024
+TIME: 14.03.2024 02:00:55
+
+URL: file:///C:/Users/xande/Downloads/annotated-Digitalassesment%2520new%255BAutosaved%255D.pptx.pdf
+TITLE: PowerPoint Presentation
+TIME: 14.03.2024 02:02:00
+
+URL: https://www.google.com/search?q=5+useability+principles&oq=5+usea&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDINCAIQABiGAxiABBiKBTINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBdIBCDU0NDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: 5 useability principles - Google Search
+TIME: 14.03.2024 02:11:19
+
+URL: https://digisoln.com/sample_documentation/UI%20useability%20principles.html
+TITLE: Digital Solutions
+TIME: 14.03.2024 02:11:20
+
+URL: https://qed07.instructure.com/courses/72357/modules
+TITLE: Course Modules: DIS11A_2024
+TIME: 25.03.2024 14:50:45
+
+URL: https://qed07.instructure.com/courses/72357/modules/items/875701
+TITLE: Usability Principles: DIS11A_2024
+TIME: 14.03.2024 02:11:52
+
+URL: https://qed07.instructure.com/courses/72357/pages/usability-principles?module_item_id=875701
+TITLE: Usability Principles: DIS11A_2024
+TIME: 14.03.2024 02:11:53
+
+URL: https://www.google.com/search?q=what%27s+css+for&oq=whats+css+&gs_lcrp=EgZjaHJvbWUqCQgDEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQABgKGIAE0gEINTcxMWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: what's css for - Google Search
+TIME: 14.03.2024 02:16:36
+
+URL: https://www.google.com/search?q=what%27s+html+for&sca_esv=9b74a4c0b9e67cb5&sxsrf=ACQVn09JltaSkgC1gatnWDLQ72abstkEKQ%3A1710371785010&ei=yTPyZYchzsGO4w_B2o_IAQ&ved=0ahUKEwjHqbe1r_KEAxXOoGMGHUHtAxkQ4dUDCBA&uact=5&oq=what%27s+html+for&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3doYXQncyBodG1sIGZvcjIGEAAYBxgeMgYQABgHGB4yCBAAGAcYHhgPMgUQABiABDIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkiPFVDjA1iyEnABeAGQAQCYAeMBoAGoCqoBBTAuNi4xuAEDyAEA-AEBmAIEoALbBMICChAAGEcY1gQYsAPCAggQABgHGB4YCsICCRAAGIAEGA0YCsICCBAAGAgYBxgewgIIEAAYgAQYsQPCAgUQLhiABJgDAIgGAZAGCJIHBTEuMi4xoAflPw&sclient=gws-wiz-serp
+TITLE: what's html for - Google Search
+TIME: 14.03.2024 02:17:40
+
+URL: https://www.google.com/search?q=what+javascript+is+used+for&sca_esv=9b74a4c0b9e67cb5&sxsrf=ACQVn0_p0LpmZpAzoHbh9ZV66lXcp-Ac4A%3A1710371849984&ei=CTTyZfHXO9mU4-EPuIW1gAI&oq=what%27s+Java+for&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3doYXQncyBKYXZhIGZvcioCCAAyBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBRAAGIAEMggQABgIGAcYHjIIEAAYCBgHGB4yCBAAGAgYBxgeMgQQABgeMgYQABgIGB4yCBAAGAgYHhgKSOA4UIwRWJstcAV4AZABAJgB2QKgAeUQqgEHMC41LjQuMbgBAcgBAPgBAZgCC6AC7wrCAgoQABhHGNYEGLADwgIIEAAYBxgeGA_CAggQABiABBixA8ICBRAuGIAEmAMAiAYBkAYIkgcHNS40LjEuMaAH9V0&sclient=gws-wiz-serp
+TITLE: what javascript is used for - Google Search
+TIME: 14.03.2024 02:18:18
+
+URL: https://www.google.com/search?q=soccer+game+unblocked+76&oq=soccer+game+unblocked+&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEIODgwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: soccer game unblocked 76 - Google Search
+TIME: 14.03.2024 02:45:54
+
+URL: https://amongus2.io/retro-bowl-unblocked-76
+TITLE: Retro Bowl Unblocked 76
+TIME: 14.03.2024 02:46:00
+
+URL: https://www.google.com/search?gs_ssp=eJzj4tVP1zc0zDJNyjUqNCs0YPTiLc5PTk4tUihKzEvJzwUAifwJnw&q=soccer+random&oq=soccer+&gs_lcrp=EgZjaHJvbWUqDQgCEC4YgwEYsQMYgAQyDggAEEUYJxg7GIAEGIoFMgYIARBFGDkyDQgCEC4YgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyBwgEEAAYgAQyEAgFEAAYgwEYsQMYgAQYigUyCggGEAAYsQMYgAQyDQgHEAAYgwEYsQMYgAQyBwgIEAAYgAQyDQgJEAAYgwEYsQMYgATSAQgzODQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: soccer random - Google Search
+TIME: 14.03.2024 02:49:49
+
+URL: https://soccerrandom.io/
+TITLE: Soccer Random
+TIME: 15.03.2024 04:58:04
+
+URL: https://soccerrandom.io/kwiki-soccer
+TITLE: Kwiki Soccer
+TIME: 15.03.2024 04:57:42
+
+URL: https://soccerrandom.io/dream-soccer-3d-game
+TITLE: Dream Soccer 3D Game
+TIME: 15.03.2024 04:56:12
+
+URL: https://soccerrandom.io/liverpool-vs-real-madrid
+TITLE: Liverpool vs. Real Madrid
+TIME: 14.03.2024 02:51:29
+
+URL: https://soccerrandom.io/basketball-stars-2-player-game
+TITLE: Basketball Stars 2 Player Game
+TIME: 14.03.2024 02:52:20
+
+URL: http://psytoolkit.org/experiment-library/stroop.html
+TITLE: Stroop task
+TIME: 15.03.2024 04:50:33
+
+URL: https://psytoolkit.org/experiment-library/stroop.html
+TITLE: Stroop task
+TIME: 15.03.2024 04:50:33
+
+URL: http://psytoolkit.org/experiment-library/experiment_stroop.html
+TITLE: PsyToolkit run experiment
+TIME: 15.03.2024 04:53:20
+
+URL: https://soccerrandom.io/goal-finger-football
+TITLE: Goal Finger Football
+TIME: 15.03.2024 04:56:35
+
+URL: https://soccerrandom.io/football-world-cup-2019
+TITLE: Football World Cup 2019 Game
+TIME: 15.03.2024 04:56:42
+
+URL: https://soccerrandom.io/football-blaze-kick
+TITLE: Football: Blaze Kick
+TIME: 15.03.2024 04:56:47
+
+URL: https://soccerrandom.io/egg-adventure
+TITLE: Egg Adventure
+TIME: 15.03.2024 04:58:16
+
+URL: https://soccerrandom.io/clicker.games
+TITLE: Clicker
+TIME: 15.03.2024 04:58:26
+
+URL: https://soccerrandom.io/soccer-training
+TITLE: Soccer Training
+TIME: 15.03.2024 04:58:32
+
+URL: https://www.google.com/search?q=unblocked+games&oq=unblocked+&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgcIARAuGIAEMgYIAhBFGEAyBggDEEUYOTIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPKgCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: unblocked games - Google Search
+TIME: 15.03.2024 04:58:43
+
+URL: https://www.google.com/search?q=unblocked+games&oq=unblocked+&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgcIARAuGIAEMgYIAhBFGEAyBggDEEUYOTIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPKgCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+TITLE: unblocked games - Google Search
+TIME: 15.03.2024 04:58:53
+
+URL: https://unblockedgames621.net/
+TITLE: Free Unblocked Games - Chrome Online Games - UnblockedGames621
+TIME: 15.03.2024 04:58:57
+
+URL: https://unblockedgames621.net/game/run3.html
+TITLE: Run 3 - Unblocked Games 621
+TIME: 15.03.2024 04:59:10
+
+URL: https://unblockedgames621.net/game/crossyroad.html
+TITLE: 
+TIME: 15.03.2024 04:59:25
+
+URL: https://qed07.instructure.com/courses/72509
+TITLE: ENG11A_2024
+TIME: 15.03.2024 05:01:32
+
+URL: https://fed.education.qld.gov.au/idp/SSO.saml2?SAMLRequest=fVLLTgIxFN37FZPup%2FNgEGiABCFGEhTCoAs3prQXaNJphz5Q%2F97OoBEXsj09r3tvh5ZWsiYT7w5qDUcP1kUflVSWtA8j5I0imlphiaIVWOIYKSePC5LjlNRGO820RBeS6wpqLRgntELRfDZCb71uh24HdBAX3T7ERW%2BQxZT1i5jl6S0FyHjBMxS9gLFBM0LBIgit9TBX1lHlApTmRZx24qy7SXOSZiTtvKJoFuYQirpWdXCutiRJdsAxcM9aGB8lx3t9wtQngtdJWS5x0z9H0eSn5FQr6yswJZiTYPC8XvyaHSVQozAcG8vGROq9UEljgaLV92LuhOJC7a%2FvZHsmWfKw2azi1bLcoPGw8SHtpGbcRDaJob4IYxvPnDeAma7auHyYXLKH54s%2BhZz5bKWlYJ%2FRvTYVdf%2FXyHDWIoLHu5ZKvLI1MLETwMNCpNTvUwPUwQiFfEDJ%2BBz69%2BeMb74A
+TITLE: Sign In - Department of Education Queensland
+TIME: 15.03.2024 05:01:15
+
+URL: https://fed.education.qld.gov.au/idp/ytdIM/resumeSAML20/idp/SSO.ping
+TITLE: Submit Form
+TIME: 15.03.2024 05:01:25
+
+URL: https://qed07.instructure.com/?session_token=eyJjcmVhdGVkX2F0IjoxNzEwNDY4MDc0LCJwc2V1ZG9ueW1faWQiOjE4OTYzMDAwMDAwMDM5Mjk2MywiY3VycmVudF91c2VyX2lkIjpudWxsLCJ1c2VkX3JlbWVtYmVyX21lX3Rva2VuIjpudWxsLCJzaWduYXR1cmUiOnsiX2JpbmFyeSI6IlpqbGpZamhrT0dKaU9XUTJOakEzT1RjM01qTXhaVFE0T1RZNU5UUmxNMk0yWVRJNU5qazBOUT09XG4ifX0
+TITLE: ENG11A_2024
+TIME: 15.03.2024 05:01:27
+
+URL: https://www.google.com/search?q=animal+kingdom+moive&oq=animal+kingdom+moive&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQLhixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQLhiABNIBCDYzMjlqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: animal kingdom moive - Google Search
+TIME: 15.03.2024 05:03:19
+
+URL: https://qed07.instructure.com/courses/72509/modules/items/761776
+TITLE: FIA1 - FINAL- Feature Article - DUE 15th March 2024
+TIME: 15.03.2024 05:10:15
+
+URL: https://qed07.instructure.com/courses/72509/assignments/107525?module_item_id=761776
+TITLE: FIA1 - FINAL- Feature Article - DUE 15th March 2024
+TIME: 15.03.2024 05:10:15
+
+URL: https://humanbenchmark.com/tests/aim
+TITLE: Human Benchmark - Aim Trainer
+TIME: 15.03.2024 05:12:29
+
+URL: https://humanbenchmark.com/
+TITLE: Human Benchmark
+TIME: 15.03.2024 05:18:23
+
+URL: https://humanbenchmark.com/tests/sequence
+TITLE: Human Benchmark - Sequence Memory Test
+TIME: 15.03.2024 05:13:16
+
+URL: https://www.google.com/search?q=is+tiktok+getting+banned&oq=is+tiktok&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyBggBEEUYOTINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDIGCAUQABgDMg0IBhAAGIMBGLEDGIAEMg0IBxAAGIMBGLEDGIAEMgcICBAAGIAEMgYICRAAGAPSAQg5NjkzajBqNKgCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: is tiktok getting banned - Google Search
+TIME: 15.03.2024 05:18:41
+
+URL: https://play.blooket.com/
+TITLE: Play Blooket
+TIME: 15.03.2024 05:26:58
+
+URL: https://goldquest.blooket.com/gold/play/landing?t=65f3b235d752eb296a0f75d3
+TITLE: Play Blooket
+TIME: 15.03.2024 05:28:17
+
+URL: https://www.google.com/search?q=number+for+murder&oq=number+for+murder&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQyODRqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: number for murder - Google Search
+TIME: 15.03.2024 05:28:38
+
+URL: https://goldquest.blooket.com/play/instructions
+TITLE: Play Blooket
+TIME: 15.03.2024 05:29:49
+
+URL: https://www.google.com/search?q=ivid+personal+memories+of+receiving+the+news+of+some+momentous+(and+usually+emotional)+event.&oq=ivid+personal+memories+of+receiving+the+news+of+some+momentous+(and+usually+emotional)+event.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM2NWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: ivid personal memories of receiving the news of some momentous (and usually emotional) event. - Google Search
+TIME: 15.03.2024 05:33:34
+
+URL: https://www.google.com/search?q=pitch+black+man&oq=pitch+black+man&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDkxMDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: pitch black man - Google Search
+TIME: 15.03.2024 05:38:12
+
+URL: https://www.google.com/search?q=color+skins&oq=color+skins&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDIMCAIQABgUGIcCGIAEMgwIAxAAGBQYhwIYgAQyCggEEAAYsQMYgAQyDQgFEAAYgwEYsQMYgAQyDQgGEC4Y1AIYsQMYgAQyDQgHEC4Y1AIYsQMYgAQyDQgIEC4Y1AIYsQMYgAQyCggJEAAYsQMYgATSAQg3MzQ1ajBqOagCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: color skins - Google Search
+TIME: 15.03.2024 05:38:29
+
+URL: https://www.google.com/search?q=color+skins&oq=color+skins&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDIMCAIQABgUGIcCGIAEMgwIAxAAGBQYhwIYgAQyCggEEAAYsQMYgAQyDQgFEAAYgwEYsQMYgAQyDQgGEC4Y1AIYsQMYgAQyDQgHEC4Y1AIYsQMYgAQyDQgIEC4Y1AIYsQMYgAQyCggJEAAYsQMYgATSAQg3MzQ1ajBqOagCALACAA&sourceid=chrome&ie=UTF-8#vhid=SqiudQqQezmUdM&vssid=l
+TITLE: color skins - Google Search
+TIME: 15.03.2024 05:38:31
+
+URL: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FLOral-skin-color-chart-used-for-skin-color-identification-Lightness-decreases-from-left_fig5_338853345&psig=AOvVaw2RBI5XjSAIXrMbPtUQUd03&ust=1710556698712000&source=images&cd=vfe&opi=89978449&ved=0CAUQjB1qFwoTCIijjLqe9YQDFQAAAAAdAAAAABAE
+TITLE: L'Oral skin color chart used for skin color identification. Lightness... | Download Scientific Diagram
+TIME: 15.03.2024 05:38:34
+
+URL: https://www.researchgate.net/figure/LOral-skin-color-chart-used-for-skin-color-identification-Lightness-decreases-from-left_fig5_338853345
+TITLE: L'Oral skin color chart used for skin color identification. Lightness... | Download Scientific Diagram
+TIME: 15.03.2024 05:38:34
+
+URL: https://www.google.com/search?q=911+flappy+bird&oq=911+fl&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyBwgBEAAYgAQyDAgCEAAYFBiHAhiABDIHCAMQABiABDIGCAQQRRg5MgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAEqAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: 911 flappy bird - Google Search
+TIME: 15.03.2024 05:40:34
+
+URL: http://71.19.146.161/
+TITLE: Cannot Access Web Address
+TIME: 15.03.2024 05:39:45
+
+URL: https://71.19.146.161/
+TITLE: Cannot Access Web Address
+TIME: 15.03.2024 05:39:45
+
+URL: https://flappycreator.com/flappy.php?id=5fe97557c589d
+TITLE: 911 - Flappy Creator
+TIME: 15.03.2024 05:39:49
+
+URL: https://www.google.com/search?q=what+devices+are+near+me&oq=what+devices+are+near+me&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigXSAQg4MjAxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: what devices are near me - Google Search
+TIME: 15.03.2024 05:41:20
+
+URL: https://www.thingsquare.com/docs/proximity/
+TITLE: Nearby device detection - Thingsquare IoT platform docs
+TIME: 15.03.2024 05:41:19
+
+URL: https://www.thingsquare.com/docs/proximity/#
+TITLE: Nearby device detection - Thingsquare IoT platform docs
+TIME: 15.03.2024 05:41:17
+
+URL: https://www.google.com/search?q=what+devices+are+near+me&oq=what+devices+are+near+me&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigXSAQg4MjAxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+TITLE: what devices are near me - Google Search
+TIME: 15.03.2024 05:41:25
+
+URL: https://www.google.com/search?q=how+long+do+you+have+to+be+in+the+army+to+get+a+hellcat&oq=how+long+do+you+have+to+be+in+the+army+to+get+a+hell&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTE5MjIxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: how long do you have to be in the army to get a hellcat - Google Search
+TIME: 15.03.2024 05:42:26
+
+URL: https://www.armyprt.com/us-army/do-you-get-a-hellcat-if-you-join-the-army/
+TITLE: Do you get a Hellcat if you join the Army?
+TIME: 15.03.2024 05:42:14
+
+URL: https://www.google.com/search?q=can+you+jin+the+army+but+not+go+to+wa&oq=can+you+jin+the+army+but+not+go+to+wa&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMg0IBRAAGIYDGIAEGIoFMg0IBhAAGIYDGIAEGIoF0gEIODk2MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: can you join the army but not go to wa - Google Search
+TIME: 15.03.2024 05:43:22
+
+URL: https://www.google.com/search?q=number+for+money&sca_esv=483c85010fc377d1&sxsrf=ACQVn09o8MTAbARv5At-abmU0RMINP1jCA%3A1710470590199&ei=vrXzZd3pC7WfseMPmfKdkAk&ved=0ahUKEwjdwLW_n_WEAxW1T2wGHRl5B5IQ4dUDCBA&uact=5&oq=number+for+money&gs_lp=Egxnd3Mtd2l6LXNlcnAiEG51bWJlciBmb3IgbW9uZXkyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESLV8UNY7WIx7cAV4AZABAJgBmgKgAcYeqgEGMC43LjExuAEDyAEA-AEBmAIXoAKTIKgCFMICBxAjGOoCGCfCAhYQABgDGI8BGOUCGOoCGLQCGIwD2AEBwgIWEC4YAxiPARjlAhjqAhi0AhiMA9gBAcICChAjGIAEGIoFGCfCAgsQABiABBiKBRiRAsICDhAuGIAEGLEDGMcBGNEDwgIREC4YgAQYsQMYgwEYxwEY0QPCAg4QLhiABBiKBRixAxiDAcICDhAAGIAEGIoFGJECGLEDwgIKEAAYgAQYFBiHAsICERAAGIAEGIoFGJECGLEDGIMBwgIOEC4YgAQYxwEYrwEYjgXCAgsQABiABBixAxiDAcICDhAAGIAEGIoFGLEDGIMBwgILEC4YgAQYsQMYgwHCAggQABiABBixA8ICCBAuGIAEGLEDwgIEECMYJ8ICEBAAGIAEGBQYhwIYsQMYgwHCAg0QABiABBgUGIcCGLEDwgIFEC4YgATCAgsQLhiABBjHARivAcICCxAuGIAEGIoFGJECwgIOEC4YgAQYsQMYgwEY1ALCAhEQLhiABBiKBRiRAhixAxiDAcICBxAuGIAEGAqYAxziAwUSATEgQLoGBggBEAEYC5IHBjUuNS4xM6AHtNAB&sclient=gws-wiz-serp
+TITLE: number for money - Google Search
+TIME: 15.03.2024 05:44:24
+
+URL: https://www.google.com/search?q=3+number+for+luck&sca_esv=483c85010fc377d1&sxsrf=ACQVn0_QuQif3pYpBqqyGLjUUpDXQ6WJzw%3A1710470652446&ei=_LXzZevgGs7d2roP_cCV8AU&ved=0ahUKEwjrzozdn_WEAxXOrlYBHX1gBV4Q4dUDCBA&uact=5&oq=3+number+for+luck&gs_lp=Egxnd3Mtd2l6LXNlcnAiETMgbnVtYmVyIGZvciBsdWNrMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5IhE5QN1j-S3ADeAGQAQSYAaECoAGcJaoBBjAuMTQuObgBA8gBAPgBAZgCFqAC0CCoAhTCAgoQABhHGNYEGLADwgIFEAAYgATCAgcQIxjqAhgnwgIUEAAYgAQY4wQY6QQY6gIYtALYAQHCAhYQABgDGI8BGOUCGOoCGLQCGIwD2AECwgIWEC4YAxiPARjlAhjqAhi0AhiMA9gBAsICChAjGIAEGIoFGCfCAhEQABiABBiKBRiRAhixAxiDAcICCxAAGIAEGIoFGJECwgILEAAYgAQYsQMYgwHCAggQABiABBixA8ICDhAuGIMBGNQCGLEDGIAEwgIOEC4YgAQYigUYsQMYgwHCAggQLhiABBixA8ICDhAAGIAEGIoFGLEDGIMBwgIFEC4YgASYAxCIBgGQBgi6BgYIARABGAG6BgYIAhABGAuSBwYzLjcuMTKgB5OrAQ&sclient=gws-wiz-serp
+TITLE: 3 number for luck - Google Search
+TIME: 15.03.2024 05:44:40
+
+URL: https://www.google.com/search?q=3+number+for+money&sca_esv=483c85010fc377d1&sxsrf=ACQVn0-ngoEmzgOV8v0weZnOUqlzmXyLsw%3A1710470667863&ei=C7bzZa-eNP2SseMPhqiysAc&ved=0ahUKEwjvz7nkn_WEAxV9SWwGHQaUDHYQ4dUDCBA&uact=5&oq=3+number+for+money&gs_lp=Egxnd3Mtd2l6LXNlcnAiEjMgbnVtYmVyIGZvciBtb25leTIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDSKcgUNwBWOMdcAF4AZABAJgB0wKgAfwPqgEHMC4yLjYuMbgBA8gBAPgBAZgCCaAC3g3CAgoQABhHGNYEGLADwgIEECMYJ8ICBRAAGIAEwgIIEAAYFhgeGA-YAwCIBgGQBgiSBwUxLjIuNqAHsjo&sclient=gws-wiz-serp
+TITLE: 3 number for money - Google Search
+TIME: 15.03.2024 05:44:50
+
+URL: https://www.google.com/search?sca_esv=483c85010fc377d1&sxsrf=ACQVn08lklfTDRgLrvH-y6XanW7f32CMkg:1710470678362&q=3+number+for+money&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiS4Lnpn_WEAxXTcGwGHbC6B40Q0pQJegQIDBAB&biw=1536&bih=739&dpr=1.25
+TITLE: 3 number for money - Google Search
+TIME: 15.03.2024 05:44:53
+
+URL: https://www.google.com/search?q=compass&oq=compass&gs_lcrp=EgZjaHJvbWUyEggAEEUYORiDARixAxjJAxiABDINCAEQABiDARixAxiABDITCAIQLhiDARjHARixAxjRAxiABDINCAMQABiDARixAxiABDIQCAQQLhivARjHARiABBiOBTINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDIGCAcQBRhA0gEIMjU5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: compass - Google Search
+TIME: 15.03.2024 05:45:24
+
+URL: https://www.compass.education/
+TITLE: Compass Education - School Management System
+TIME: 15.03.2024 05:45:26
+
+URL: https://schools.compass.education/
+TITLE: School Search | Compass
+TIME: 15.03.2024 05:45:29
+
+URL: https://murrumbassc-qld.compass.education/
+TITLE: Home | Compass
+TIME: 27.05.2024 03:57:51
+
+URL: https://murrumbassc-qld.compass.education/login.aspx?sessionstate=disabled
+TITLE: Login | Compass
+TIME: 27.05.2024 03:57:44
+
+URL: https://murrumbassc-qld.compass.education/Organise/Activities/Activity.aspx?targetUserId=10037#session/102692140320242245
+TITLE: Class: MAG111B | Compass
+TIME: 15.03.2024 05:46:11
+
+URL: https://murrumbassc-qld.compass.education/Records/User.aspx
+TITLE: User: Alexander Souter-Robertson | Compass
+TIME: 15.03.2024 05:47:01
+
+URL: https://murrumbassc-qld.compass.education/Records/User.aspx#dsh
+TITLE: User: Alexander Souter-Robertson | Compass
+TIME: 15.03.2024 05:47:03
+
+URL: https://qed07.instructure.com/courses/72357/assignments/103698
+TITLE: FA1 - FINAL - DUE 15/03/2024
+TIME: 15.03.2024 06:28:41
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQAMpXCNYSkwJOkghqhaT4JGc%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 15.03.2024 06:30:08
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQAMpXCNYSkwJOkghqhaT4JGc%3D/sxs/AAMkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNABGAAAAAAB%2BO3rt348pQrQCvI5LaQwEBwDGEAYLPqY%2BQbYYZRYvrdakAAAAAAEMAADGEAYLPqY%2BQbYYZRYvrdakAAjLFDxJAAABEgAQADv%2FAVY%2BpklNiVOWGpUH8tY%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 15.03.2024 06:28:53
+
+URL: https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638460702606565112.MjU0MDU5MGItZTUxMi00ZDRlLWIxNjctMzdjMDQwNzgzMWZkYjcwYzgzOTMtMjE1Yi00OTk3LTkxMTctNjQxNjc0ODk4ZmE0&ui_locales=en-US&mkt=en-US&login_hint=asout55%40eq.edu.au&msafed=0&client-request-id=cdecedc2-8fdc-46eb-ad82-842fd1b57f67&state=4s47WbWc-AU4HhGcw-m-rUwuUtzMhnwdqlvCUGPjDY_ZVtkNg9vbvz1PFImxxx_YfNB6_wm3cec80KUMFjWdfUvAc8yWeTsTNxlw1G7k-aWFgLLiLvyeEmCbjs7UePefeE8thLxljh9g0kek6QE5qrwMdRgG6HxJl46wzWn4bxOBOq4XGgGd2zq3C6PpRzzN2bBDwFNIpt51Mtn21RZWJfquPDY2sDv2OOSrKW92li5mX35VFZJqWRT1qPHhZt91TUJ4tXp3NuhdIgXZ838ZsaIGrVEn1vAflwulz8OSm_vJ3slXq-LGrbLDdY3HNn4PtazlmVnpUAR8xce3hspUPaxcH9k3y4ZMmnx4LK_cPPg&x-client-SKU=ID_NET6_0&x-client-ver=7.3.1.0
+TITLE: Working...
+TIME: 15.03.2024 06:31:12
+
+URL: https://www.office.com/launch/OneNote/
+TITLE: OneNote | Microsoft 365
+TIME: 07.06.2024 01:55:32
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/SiteAssets/Forms/AllItems.aspx?login_hint=asout55%40eq.edu.au
+TITLE: Working...
+TIME: 15.03.2024 06:31:31
+
+URL: https://qedu.sharepoint.com/_forms/default.aspx?ReturnUrl=%2fsites%2fCourse_general_mathematics-Rc9zkwEkFI9co%2fSiteAssets%2fForms%2fAllItems.aspx%3flogin_hint%3dasout55%2540eq.edu.au&login_hint=asout55@eq.edu.au
+TITLE: Working...
+TIME: 15.03.2024 06:31:31
+
+URL: https://login.microsoftonline.com/6600c7c5-16b5-4baf-9e93-323bd8c01dba/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=B9F0F0E3AA982D203B9A4131894671C76408ED215549A3A1%2DCE8A717AD94C8EF96E8DA626F8F83DE228673778C0149CF3491DE5026A27D4E5&redirect%5Furi=https%3A%2F%2Fqedu%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&login%5Fhint=asout55%40eq%2Eedu%2Eau&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=6d2515a1%2Db0c1%2D3000%2D0af6%2D3c9b37dff5d1
+TITLE: Working...
+TIME: 15.03.2024 06:31:31
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/SiteAssets/Forms/AllItems.aspx
+TITLE: MAG11B_2024 - Site Assets - All Documents
+TIME: 15.03.2024 06:31:31
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc=%7BD7ED1BFF-00FE-4FAF-A348-3C4575CCC91E%7D&file=MAG11B_2024%20Notebook&action=edit&mobileredirect=true&wdorigin=Sharepoint&CT=1710473503348&OR=ItemsView
+TITLE: MAG11B_2024 Notebook
+TIME: 15.03.2024 06:31:44
+
+URL: https://qedu.sharepoint.com/:o:/r/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc=%7BD7ED1BFF-00FE-4FAF-A348-3C4575CCC91E%7D&file=MAG11B_2024%20Notebook&action=edit&mobileredirect=true&wdorigin=Sharepoint
+TITLE: MAG11B_2024 Notebook
+TIME: 15.03.2024 06:31:45
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28Welcome.one%7C4ae393b0-97fc-42a4-b245-f96cf3f8ecbb%2FWelcome%20to%20General%20Maths%7C28dfb9dc-d661-4f9d-80d6-5a7a22f65cb8%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 21.05.2024 14:45:34
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28SOUTER-ROBERTSON%2C%20Alexander%20%28asout55%5C%29%2FHomework.one%7C00f1bb5f-0c47-488b-8ee3-f0ebdee903b8%2FWk%201%20Homework%7Cfab2b78e-d897-44e7-a49b-39ebffcec89d%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 15.03.2024 06:37:01
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28SOUTER-ROBERTSON%2C%20Alexander%20%28asout55%5C%29%2FHomework.one%7C00f1bb5f-0c47-488b-8ee3-f0ebdee903b8%2FWk%202%20Homework%202%7C2c108fbe-7ca0-46dc-ac47-50c6527c2215%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 15.03.2024 06:37:25
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28SOUTER-ROBERTSON%2C%20Alexander%20%28asout55%5C%29%2FHomework.one%7C00f1bb5f-0c47-488b-8ee3-f0ebdee903b8%2FWk%203%20Homework%7C68740134-4d65-44e8-a52f-0b3540f4b5d4%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 15.03.2024 06:37:31
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQANFjYoDhd6ZDirfxbx65uUo%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 15.03.2024 06:34:36
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQANFjYoDhd6ZDirfxbx65uUo%3D/sxs/AAMkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNABGAAAAAAB%2BO3rt348pQrQCvI5LaQwEBwDGEAYLPqY%2BQbYYZRYvrdakAAAAAAEMAADGEAYLPqY%2BQbYYZRYvrdakAAjLFDxKAAABEgAQAPsierKJ4sNGujX5qiGzsKs%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 15.03.2024 06:36:20
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28SOUTER-ROBERTSON%2C%20Alexander%20%28asout55%5C%29%2FHomework.one%7C00f1bb5f-0c47-488b-8ee3-f0ebdee903b8%2FWk%204%20Homework%7Cfff93dee-2f16-4f19-bfca-0cff75695e0b%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 15.03.2024 06:37:34
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQANFjYoDhd6ZDirfxbx65uUo%3D/sxs/AAMkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNABGAAAAAAB%2BO3rt348pQrQCvI5LaQwEBwDGEAYLPqY%2BQbYYZRYvrdakAAAAAAEMAADGEAYLPqY%2BQbYYZRYvrdakAAjLFDxKAAABEgAQAFsbY5fRKZZMjVE6Cemkex8%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 15.03.2024 06:35:24
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQANFjYoDhd6ZDirfxbx65uUo%3D/sxs/AAMkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNABGAAAAAAB%2BO3rt348pQrQCvI5LaQwEBwDGEAYLPqY%2BQbYYZRYvrdakAAAAAAEMAADGEAYLPqY%2BQbYYZRYvrdakAAjLFDxKAAABEgAQAEfiIa%2B60YVOo4WO6HgAHjU%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 15.03.2024 06:36:31
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQANFjYoDhd6ZDirfxbx65uUo%3D/sxs/AAMkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNABGAAAAAAB%2BO3rt348pQrQCvI5LaQwEBwDGEAYLPqY%2BQbYYZRYvrdakAAAAAAEMAADGEAYLPqY%2BQbYYZRYvrdakAAjLFDxKAAABEgAQAIxSnrkPmXxKrfQi2ELJJEM%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 15.03.2024 06:36:24
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28SOUTER-ROBERTSON%2C%20Alexander%20%28asout55%5C%29%2FHomework.one%7C00f1bb5f-0c47-488b-8ee3-f0ebdee903b8%2FWk%205%20Homework%20-%20Pythagoras%7C2403fad9-eaf5-4ad4-aad3-171b6f4dbf9b%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 15.03.2024 06:37:36
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28SOUTER-ROBERTSON%2C%20Alexander%20%28asout55%5C%29%2FHomework.one%7C00f1bb5f-0c47-488b-8ee3-f0ebdee903b8%2FWk%202%20Homework%201%7C3cfada83-4ca2-4a9c-9195-a3ff494cd493%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 15.03.2024 06:36:49
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28SOUTER-ROBERTSON%2C%20Alexander%20%28asout55%5C%29%2FHomework.one%7C00f1bb5f-0c47-488b-8ee3-f0ebdee903b8%2FWk%202%20Homework%203%7C61c9c374-e7bf-46da-9bbb-aa3e3f355865%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 15.03.2024 06:37:29
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28SOUTER-ROBERTSON%2C%20Alexander%20%28asout55%5C%29%2FHomework.one%7C00f1bb5f-0c47-488b-8ee3-f0ebdee903b8%2FWk%205%20Homework%20-%202D%20Measurement%7Cc6f52207-6b49-42b0-8cb1-ffbc2e71a22b%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 15.03.2024 06:37:40
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28SOUTER-ROBERTSON%2C%20Alexander%20%28asout55%5C%29%2FHomework.one%7C00f1bb5f-0c47-488b-8ee3-f0ebdee903b8%2FWk%205%20Homework%20-%203D%20Measurement%7C9ce6661c-d9b3-4bf4-a5f7-066afd5769a9%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 15.03.2024 06:37:45
+
+URL: https://www.google.com/search?q=unblocked+games&oq=unblocked&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgcIARAuGIAEMgYIAhBFGDkyBggDEEUYQDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg8qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: unblocked games - Google Search
+TIME: 15.03.2024 06:38:11
+
+URL: https://www.google.com/search?q=unblocked+games&oq=unblocked&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgcIARAuGIAEMgYIAhBFGDkyBggDEEUYQDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg8qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+TITLE: unblocked games - Google Search
+TIME: 15.03.2024 06:38:33
+
+URL: https://www.google.com/search?gs_ssp=eJzj4tVP1zc0zDEyNcgDQgNGL77MvLTMvMySVIXkosS0EgCKEgmN&q=infinite+craft&oq=infin&gs_lcrp=EgZjaHJvbWUqDQgCEC4YgwEYsQMYgAQyBggAEEUYOTIGCAEQRRhAMg0IAhAuGIMBGLEDGIAEMhAIAxAAGIMBGLEDGIAEGIoFMhAIBBAAGIMBGLEDGIAEGIoFMhAIBRAAGIMBGLEDGIAEGIoFMhAIBhAAGIMBGLEDGIAEGIoFMgYIBxBFGDzSAQgyNzUwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: infinite craft - Google Search
+TIME: 15.03.2024 06:41:06
+
+URL: https://neal.fun/infinite-craft/
+TITLE: Infinite Craft
+TIME: 15.03.2024 06:41:10
+
+URL: https://www.google.com/search?q=now+gg+games&oq=now+gg&gs_lcrp=EgZjaHJvbWUqDAgBEAAYFBiHAhiABDIGCAAQRRg5MgwIARAAGBQYhwIYgAQyBwgCEC4YgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg1NTMyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: now gg games - Google Search
+TIME: 15.03.2024 06:57:31
+
+URL: https://now.gg/
+TITLE: Play Online Games for Free | now.gg Mobile Cloud
+TIME: 15.03.2024 06:57:33
+
+URL: https://now.gg/apps/night-steed-games/51570/evowars-io.html?ng_uaId=ua-SEeCKyVmhkT9d1ALDFADP&ng_uaSessionId=uasess-IkV2mBncwSDQDKYhQx9Um&ng_visitId=visitid-N1jVchnB4ECbNRdeer35O&ng_ngReferrer=https%253A%252F%252Fwww.google.com%252F&ng_ngEntryPoint=https%253A%252F%252Fnow.gg%252F&ng_utmSource=&ng_utmMedium=&ng_utmCampaign=&ng_ntmSource=OverlayPortalOtherGames&ng_userSource=organic&ng_userCampaign=&ng_userAcqVar=NA_2024_MAR_14_PDT
+TITLE: 
+TIME: 15.03.2024 06:58:08
+
+URL: https://now.gg/apps/night-steed-games/51570/evowars-io.html
+TITLE: Play EvoWars.io Online for Free on PC & Mobile | now.gg
+TIME: 15.03.2024 06:58:09
+
+URL: https://evowars.io/?v=2.13.49&play=game
+TITLE: 
+TIME: 15.03.2024 06:58:31
+
+URL: https://now.gg/apps/hv-studios/51764/miniblox.html?ng_uaId=ua-SEeCKyVmhkT9d1ALDFADP&ng_uaSessionId=uasess-IkV2mBncwSDQDKYhQx9Um&ng_visitId=visitid-N1jVchnB4ECbNRdeer35O&ng_ngReferrer=https%253A%252F%252Fwww.google.com%252F&ng_ngEntryPoint=https%253A%252F%252Fnow.gg%252F&ng_utmSource=&ng_utmMedium=&ng_utmCampaign=&ng_ntmSource=OverlayPortalOtherGames&ng_userSource=organic&ng_userCampaign=&ng_userAcqVar=NA_2024_MAR_14_PDT
+TITLE: 
+TIME: 15.03.2024 07:00:47
+
+URL: https://now.gg/apps/hv-studios/51764/miniblox.html
+TITLE: Play Miniblox Online for Free on PC & Mobile | now.gg
+TIME: 15.03.2024 07:00:48
+
+URL: https://www.google.com/search?q=games&oq=games&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQIxgnGIAEGIoFMgwIAhAjGCcYgAQYigUyEwgDEC4YgwEYxwEYsQMY0QMYgAQyDQgEEAAYgwEYsQMYgAQyBggFEEUYPDIGCAYQRRg9MgYIBxBFGDzSAQgzMTkzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: games - Google Search
+TIME: 15.03.2024 07:01:18
+
+URL: https://www.google.com/search?q=games&oq=games&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQIxgnGIAEGIoFMgwIAhAjGCcYgAQYigUyEwgDEC4YgwEYxwEYsQMY0QMYgAQyDQgEEAAYgwEYsQMYgAQyBggFEEUYPDIGCAYQRRg9MgYIBxBFGDzSAQgzMTkzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#vhid=e13rGQe0njgIyM&vssid=l
+TITLE: games - Google Search
+TIME: 15.03.2024 07:01:21
+
+URL: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Fpenalty-shooters-2&psig=AOvVaw0UMGz700REI_A-sm2wdngl&ust=1710561680517000&source=images&cd=vfe&opi=89978449&ved=0CAUQjB1qFwoTCJjioPyw9YQDFQAAAAAdAAAAABAE
+TITLE: Penalty Shooters 2 🕹️ Play on CrazyGames
+TIME: 15.03.2024 07:01:25
+
+URL: https://www.crazygames.com/game/penalty-shooters-2
+TITLE: Penalty Shooters 2 🕹️ Play on CrazyGames
+TIME: 15.03.2024 07:01:27
+
+URL: https://www.crazygames.com/game/penalty-shooters-3
+TITLE: Penalty Shooters 3 🕹️ Play on CrazyGames
+TIME: 15.03.2024 07:06:35
+
+URL: https://www.crazygames.com/game/free-kick-classic
+TITLE: Free Kick Classic (3D Free Kick) 🕹️ Play on CrazyGames
+TIME: 15.03.2024 07:05:04
+
+URL: https://www.crazygames.com/game/soccer-random
+TITLE: Soccer Random 🕹️ Play on CrazyGames
+TIME: 15.03.2024 07:06:51
+
+URL: https://www.crazygames.com/game/ragdoll-archers
+TITLE: Ragdoll Archers 🕹️ Play on CrazyGames
+TIME: 15.03.2024 07:08:41
+
+URL: https://www.crazygames.com/hot
+TITLE: Trending games - CrazyGames
+TIME: 15.03.2024 07:12:04
+
+URL: https://www.crazygames.com/game/miniblox
+TITLE: Miniblox 🕹️ Play on CrazyGames
+TIME: 15.03.2024 07:12:00
+
+URL: https://www.crazygames.com/game/penalty-kick-wiz
+TITLE: Penalty Kick Wiz 🕹️ Play on CrazyGames
+TIME: 15.03.2024 07:12:13
+
+URL: https://www.crazygames.com/game/penalty-rivals
+TITLE: Penalty Rivals 🕹️ Play on CrazyGames
+TIME: 15.03.2024 07:13:58
+
+URL: https://www.google.com/search?q=elevenlabs&oq=elevenlabs&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMhAIARAuGMcBGLEDGNEDGIAEMg0IAhAAGIMBGLEDGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjM1OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: elevenlabs - Google Search
+TIME: 15.03.2024 07:20:03
+
+URL: https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjsiOqStfWEAxVXsIMHHZcICUkYABAAGgJlZg&ase=2&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpaQ0DdrMHfOVo8oZdGOBGY0F9yQr_UZhzEM4LEas1p9OajLrQtuhiYaAkJ7EALw_wcB&ei=cczzZb74PKfC4-EPm9iX2AM&ohost=www.google.com&cid=CAESVuD2T9rMCc2T_MevlE7gbEB774Qn6MO1u4PoB_dmIXVSc08gO80HUZ3ZW8r7oEH4LuYPO_KxMS_MocyATMewGqD4D0-kK_crQ9H7dvYz1zsACzlJS_2n&sig=AOD64_06GcDIqAJrAoYmA_1IqSHbD1QWwA&q&sqi=2&nis=5&adurl&ved=2ahUKEwj-9NmStfWEAxUn4TgGHRvsBTsQ0Qx6BAgLEAE
+TITLE: AI Voice Generator & Text to Speech | ElevenLabs
+TIME: 15.03.2024 07:20:08
+
+URL: https://elevenlabs.io/?from=anasbenyamna3973&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpaQ0DdrMHfOVo8oZdGOBGY0F9yQr_UZhzEM4LEas1p9OajLrQtuhiYaAkJ7EALw_wcB
+TITLE: AI Voice Generator & Text to Speech | ElevenLabs
+TIME: 15.03.2024 07:20:10
+
+URL: https://www.crazygames.com/game/mini-golf-club
+TITLE: Mini Golf Club 🕹️ Play on CrazyGames
+TIME: 15.03.2024 07:23:53
+
+URL: https://www.crazygames.com/game/crazy-flips-3d
+TITLE: Crazy Flips 3D 🕹️ Play on CrazyGames
+TIME: 15.03.2024 07:27:02
+
+URL: https://www.google.com/search?q=way+to+long&oq=way+to+long&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEC4YgAQyBwgHEAAYgAQyBwgIEAAYgAQyCQgJEC4YChiABNIBCDIzNjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: way to long - Google Search
+TIME: 15.03.2024 07:33:11
+
+URL: https://www.google.com/search?gs_ssp=eJzj4tVP1zc0zDLPMDYztiw3YPTiKkotKcpXSMovzwEAZ6cIGQ&q=retro+bowl&oq=retr&gs_lcrp=EgZjaHJvbWUqEAgCEC4YgwEY1AIYsQMYgAQyBggAEEUYOTIKCAEQABixAxiABDIQCAIQLhiDARjUAhixAxiABDIQCAMQLhiDARjUAhixAxiABDINCAQQLhiDARixAxiABDINCAUQABiDARixAxiABDIKCAYQLhixAxiABDIGCAcQRRg80gEIMzI2OGowajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: retro bowl - Google Search
+TIME: 16.03.2024 00:30:02
+
+URL: https://retro-bowl-online.github.io/
+TITLE: Retro Bowl|Retro Bowl Online Play At retro-bowl-online.github.io Games: Play in Browser, Fullscreen Mode, Ad-Free Experience
+TIME: 16.03.2024 00:29:57
+
+URL: https://www.google.com/search?q=retro+bowl+unbloecked&sca_esv=ed5c98a789097482&sxsrf=ACQVn08rxqoRznJtmMtTqqqdqrLp1PaNEQ%3A1710538191581&ei=z730ZfGBI5jMseMPrO6f4As&ved=0ahUKEwixpaKqm_eEAxUYZmwGHSz3B7wQ4dUDCBA&uact=5&oq=retro+bowl+unbloecked&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXJldHJvIGJvd2wgdW5ibG9lY2tlZDINEC4YgAQYChixAxiDATIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIKEAAYgAQYChjHAzIIEAAYFhgeGAoyCBAAGBYYHhgKMhwQLhiABBgKGLEDGIMBGJcFGNwEGN4EGOAE2AEBSNQgUJMDWNsfcAJ4AJABAJgBwAGgAcsQqgEEMC4xMrgBA8gBAPgBAZgCDaAC_Q_CAgoQABhHGNYEGLADwgIREAAYgAQYigUYkQIYsQMYgwHCAgsQABiABBiKBRiRAsICCxAuGIAEGLEDGIMBwgIFEAAYgATCAggQABiABBjHA8ICGhAuGIAEGLEDGIMBGJcFGNwEGN4EGOAE2AEBwgILEAAYgAQYigUYhgPCAgYQABgWGB6YAwCIBgGQBgi6BgYIARABGBSSBwQyLjExoAejcQ&sclient=gws-wiz-serp
+TITLE: retro bowl unbloecked - Google Search
+TIME: 16.03.2024 00:30:11
+
+URL: https://retrobowl-unblocked.github.io/new.html
+TITLE: Play Retro Bowl Unblocked Online
+TIME: 16.03.2024 00:31:51
+
+URL: https://retrobowl-unblocked.github.io/new.html#google_vignette
+TITLE: Play Retro Bowl Unblocked Online
+TIME: 16.03.2024 00:31:49
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQANFjYoDhd6ZDirfxbx65uUo%3D/sxs/AAMkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNABGAAAAAAB%2BO3rt348pQrQCvI5LaQwEBwDGEAYLPqY%2BQbYYZRYvrdakAAAAAAEMAADGEAYLPqY%2BQbYYZRYvrdakAAjLFDxKAAABEgAQAEfiIa%2B60YVOo4WO6HgAHjU%3D?authRedirect=true&login_hint=asout55%40eq.edu.au&state=0
+TITLE: Working...
+TIME: 20.03.2024 00:38:15
+
+URL: https://outlook.office.com/owa/?login_hint=asout55%40eq.edu.au&state=1&redirectTo=aHR0cHM6Ly9vdXRsb29rLm9mZmljZS5jb20vbWFpbC9pbmJveC9pZC9BQVFrQURRd1pUTmlaR0l6TFRKaVl6SXRORE00WlMxaU9XWTFMVFV3TTJGaE1UWm1OVFJsTkFBUUFORmpZb0RoZDZaRGlyZnhieDY1dVVvPS9zeHMvQUFNa0FEUXdaVE5pWkdJekxUSmlZekl0TkRNNFpTMWlPV1kxTFRVd00yRmhNVFptTlRSbE5BQkdBQUFBQUFCK08zcnQzNDhwUXJRQ3ZJNUxhUXdFQndER0VBWUxQcVkrUWJZWVpSWXZyZGFrQUFBQUFBRU1BQURHRUFZTFBxWStRYllZWlJZdnJkYWtBQWpMRkR4S0FBQUJFZ0FRQUVmaUlhKzYwWVZPbzRXTzZIZ0FIalU9
+TITLE: Working...
+TIME: 20.03.2024 00:38:15
+
+URL: https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&login_hint=asout55%40eq.edu.au&client-request-id=ca5772b9-596b-f479-4b3b-87892fc22b6a&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=eq.edu.au&nonce=638464810896624674.d984f95b-3616-4e4d-a74c-7a7dca578ca4&state=HY_NlppAEIU18yyZnU6j_C48OQeldZgBpaC7sTc5DU2CQ6NEUZGnzCMFs_jqLurcW7fGo9HoZeDbwBgNY2SZc1s3dVtDtmOaM9209Kl0bP2XY2STuamZE73Q5URYej6xhCVzYVh2LvTx4P378na6i7cf6vT7cPxZHo7tQlxO19Ywvuuo-DMt5HUqrq-XVrTFQns9F_JwLvI2OS3EBlC-CczPh3OTKVyymXP-rJ2a1-qLx8ZXNkO3jOEmWzpNVvu3YlC-dNyI4nNEAKTWkKRWApAyEwwfgiozTmELHkJMBZ0gTsoSHFBM50nir4WnEVZrW4r9S1JhlxC8hbrhGYITX3EBa_Xgx_JQrPaapPS2i52-2AS3iOBQIOyRVArqGQ2rpF9UHYlrxYtKoaSCMMRNEjC1o1rVDV2oROgBdRlS3LSJgjjzDDeqpDtkPVl-ILvPj1Efrso7SX2I5twPSVcON3B0lB4g6jLSRTmtzoT5nNEmZil_8PXz9_8ZLhBtUNgAwTzBbsfiFvZKcaZ8Lo9-tWetG7EmgAr0GD09PuYIQ0RoLYgqP_r9nVG-y3pIk56_D7t3oYjzDw
+TITLE: Working...
+TIME: 20.03.2024 00:38:15
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQANFjYoDhd6ZDirfxbx65uUo%3d/sxs/AAMkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNABGAAAAAAB%2bO3rt348pQrQCvI5LaQwEBwDGEAYLPqY%2bQbYYZRYvrdakAAAAAAEMAADGEAYLPqY%2bQbYYZRYvrdakAAjLFDxKAAABEgAQAEfiIa%2b60YVOo4WO6HgAHjU%3d
+TITLE: Outlook
+TIME: 20.03.2024 00:38:17
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28SOUTER-ROBERTSON%2C%20Alexander%20%28asout55%5C%29%2FHomework.one%7C00f1bb5f-0c47-488b-8ee3-f0ebdee903b8%2FWk%205%20Homework%20-%203D%20Measurement%7C9ce6661c-d9b3-4bf4-a5f7-066afd5769a9%2F%29&wdOrigin=TokenRefreshDialog
+TITLE: MAG11B_2024 Notebook
+TIME: 20.03.2024 01:56:19
+
+URL: https://www.google.com/search?q=eqsun&oq=eqsun&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIVCAEQLhgKGIMBGMcBGLEDGNEDGIAEMhgIAhAuGAoYgwEYrwEYxwEYsQMYgAQYjgUyDwgDEAAYChiDARixAxiABDIMCAQQLhgKGLEDGIAEMg8IBRAAGAoYgwEYsQMYgAQyEggGEAAYChiDARixAxiABBiKBTIVCAcQLhgKGIMBGMcBGLEDGNEDGIAEMg8ICBAAGAoYgwEYsQMYgATSAQkyMTI0MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: eqsun - Google Search
+TIME: 20.03.2024 01:59:10
+
+URL: https://www.papercut.com/products/mf/
+TITLE: PaperCut MF | PaperCut
+TIME: 20.03.2024 02:00:53
+
+URL: https://www.papercut.com/kb/Main/StudentLogin
+TITLE: I'm a Student - How do I log in? | PaperCut
+TIME: 20.03.2024 01:59:04
+
+URL: https://hive.papercut.com/login
+TITLE: PaperCut Hive - Login
+TIME: 20.03.2024 01:58:41
+
+URL: https://www.google.com/search?q=esun7574019+sun+eq+edu+au&oq=esun7574019+sun+eq+edu+au&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCTI2ODcwajBqOagCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: esun7574019 sun eq edu au - Google Search
+TIME: 20.03.2024 01:59:43
+
+URL: https://www.google.com/search?q=esun7574019%2Fsun%2Feq.edu.au&oq=esun7574019%2Fsun%2Feq.edu.au&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiiBBiJBTIKCAMQABiiBBiJBTIGCAQQRRg60gEJMTYwMDhqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: esun7574019/sun/eq.edu.au - Google Search
+TIME: 20.03.2024 02:00:14
+
+URL: https://www.google.com/search?q=papercut+web+print&oq=papercut+web&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: papercut web print - Google Search
+TIME: 20.03.2024 02:00:32
+
+URL: https://www.papercut.com/tour/web-print/
+TITLE: Web Print | PaperCut
+TIME: 20.03.2024 02:00:34
+
+URL: https://www.google.com/search?q=papercut&oq=papercut+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7Mg0IAhAAGIMBGLEDGIAEMg0IAxAAGIMBGLEDGIAEMgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQg5MDc4ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: papercut - Google Search
+TIME: 20.03.2024 02:01:30
+
+URL: https://www.papercut.com/
+TITLE: Print Management that just works | PaperCut
+TIME: 20.03.2024 02:01:32
+
+URL: http://eqsun7574019.sun.eq.edu.au:9191/
+TITLE: PaperCut Login for Murrumba State Secondary College
+TIME: 20.03.2024 02:02:33
+
+URL: https://eqsun7574019.sun.eq.edu.au:9191/
+TITLE: PaperCut Login for Murrumba State Secondary College
+TIME: 20.03.2024 02:02:33
+
+URL: http://eqsun7574019.sun.eq.edu.au:9191/user
+TITLE: PaperCut Login for Murrumba State Secondary College
+TIME: 20.03.2024 02:02:33
+
+URL: http://eqsun7574019.sun.eq.edu.au:9191/app?service=page/UserSummary
+TITLE: PaperCut MF : Summary
+TIME: 20.03.2024 02:02:54
+
+URL: http://eqsun7574019.sun.eq.edu.au:9191/app?service=page/UserWebPrint
+TITLE: PaperCut MF : Web Print
+TIME: 20.03.2024 02:03:08
+
+URL: http://eqsun7574019.sun.eq.edu.au:9191/app?service=action/1/UserWebPrint/0/$ActionLink
+TITLE: PaperCut MF : Web Print - Step 1 - Printer Selection
+TIME: 20.03.2024 02:03:10
+
+URL: http://eqsun7574019.sun.eq.edu.au:9191/app
+TITLE: PaperCut MF : Web Print
+TIME: 20.03.2024 02:03:36
+
+URL: https://www.google.com/search?q=twerking+among+us&oq=twerk&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIKCAEQABixAxiABDIHCAIQABiABDIHCAMQLhiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQLhiABNIBCDMzOTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: twerking among us - Google Search
+TIME: 20.03.2024 02:10:08
+
+URL: https://www.google.com/search?q=run+3+unblocked&oq=run+3+un&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyBggBEEUYOTIHCAIQABiABDINCAMQABiDARixAxiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg8qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: run 3 unblocked - Google Search
+TIME: 20.03.2024 02:10:17
+
+URL: https://player03.com/run/3/beta/
+TITLE: Run 3
+TIME: 20.03.2024 02:10:20
+
+URL: https://www.google.com/search?q=romeo+and+twerkiiet&oq=romeo+and+twerkiiet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCTEzMjUwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: romeo and twerkiiet - Google Search
+TIME: 20.03.2024 02:35:12
+
+URL: https://www.google.com/search?q=gay+playboi+carti&oq=gay+playboi+carti&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMwNjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: gay playboi carti - Google Search
+TIME: 20.03.2024 02:35:34
+
+URL: https://www.google.com/search?sca_esv=9922c09ff6e53a84&sxsrf=ACQVn0_Y04oNj30VWbmuF2NQboqdIQVzCA:1710891328258&q=gay+playboi+carti&tbm=isch&source=lnms&prmd=ivnsmbtz&sa=X&ved=2ahUKEwiH0vruvoGFAxUpTmwGHQNtBsIQ0pQJegQIEhAB&biw=1536&bih=739&dpr=1.25
+TITLE: gay playboi carti - Google Search
+TIME: 20.03.2024 02:35:37
+
+URL: https://www.office.com/login?login_hint=asout55@eq.edu.au&ru=%2Flaunch%2FOneNote%2F%3Ffrom%3DOfficeHomeRefreshFailed
+TITLE: Managed Internet Service
+TIME: 20.03.2024 02:36:06
+
+URL: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638464881599089063.YmIwYzM1MmYtZTE3MS00NGM1LTgzOWEtMjVkYmE4ZTM2OGM4ODg4MmI3MTktM2JjZC00YTA1LWJmMDctNDYzZWYxNzZhYWQ4&ui_locales=en-US&mkt=en-US&login_hint=asout55%40eq.edu.au&client-request-id=b6e1ca9f-ca73-46f2-897a-a83e54bddc30&state=bhYCB1P9qpMU4OJ3KS2ZIVlPETmCCQ5pzT-3Ro0iRptXV9La_1e59rwDzITJ3fFPC_wubYMlfPIhCGKI3ygH3bfvw7HpIkZWHK24-gqDO71kMfvKs3TBcpw9JWpMUoFoVd3P5VB-_GQQ166jrGSgki3vwHVD7P2wKOh98kxgZft0KmcT4K93DlabTXPWOrECcfKlBExh4tuGxlM2mB93pa-lTYzAAYMCr3GlwZibWqt9X2HG87doR9hB2LL7KvQJNUc2Poy4fKYQCEEiDtWPexSVYMfxnu6GroPajLc3eEXl3nyfAIhcKMZy0BDfURRwHm3Xmj3yYfrha88i9kP2GQIWMwDjv9qfgjc8r05bXKIhFM8DwyvaxlCvt-0M525-&x-client-SKU=ID_NET6_0&x-client-ver=7.3.1.0
+TITLE: Managed Internet Service
+TIME: 20.03.2024 02:36:06
+
+URL: https://fed.education.qld.gov.au/idp/eyJ2c2lkIjoidXJpOnNjaG9vbDplcS5lZHUuYXUifQ==/prp.wsf?login_hint=asout55%40eq.edu.au&mkt=en-US&client-request-id=b6e1ca9f-ca73-46f2-897a-a83e54bddc30&username=asout55%40eq.edu.au&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=estsredirect%3d2%26estsrequest%3drQQIARAAhZM_bONkHIbjpk3biD_lQOjYinQDQnJi-_PfAieS2HUc50ucxI1jL5Hj2LETO3Ycx04yMcKAVN14CxIT6oRuOKGTkJgjhi4sFQtCQoIBoRvQbRBgPrH89P70Du_yPMVjpgRKeAl7P0-UsIsHJENTJEmNUEBYNEpyIwxlgU2j-JgD-4pgaMuM7xXPvtj99HS5e3752farh-q3P2I3yLmbJNHyolzOsqwUOo5n2SUrDMq-OR9780lKfIMgtwjy6OANcxmuEor62F6U7PGqZK4eHxzZc_Sqd3OwpAFL0iTL4hTHYSyH0aCkB1KmbyEOAz0xVAHAHoa1RIg31cm2rQkJnPZneiCQhgqJtgjJNj8hYSABqM4SSDSmRg3DdLWCN7VGAHkrafH61tD0dWtruLrWIe8OXm9XVolL_HPC2Nvazw9OnTAOhlG4TB7nP8mPXL1WxRVuEcErst0Aco8wpL6vCGpQq3WoaKuioBtiXjdKBn2uaQ5xm-LijN9KagM4l0ptmK1GOvQdRXJroiyBzaQORk6aMfVImhlaXSZIdLLg2ww-g04qL4FataKMa2j7wfAy7I-BQvWr6FDsdHCansZibzLzQJrV-zyjEJncdjl2tp4YToLJgaWSMgd43xypA0Vrx0LNcmS_KqxdMlmJax8SQZUDkYn6qr6tVHRYi4HoZ4Y30hYJNyDqIsuMwy7nVolmk5HTTqN1ZRFKuCEdWe_UBMHjE02x172-Dp31fEWLcaiY06YFbGHgg_nGqUiuJUNjg1V556rbzeoBGARTsNGd2DVZ1uNmCiF2JA1m_DTlFs5karExRo0GsuReQpbPNqm59mtpgmKQIij0Jv_OS-BKiSf5wj4E4fxZ_oFlA8sa4dweXsdBScxhUZMgKdSkAXCAZXM0IHd5JozsuTc-j-LQ8Xz7ZdymRLn971cPA7tU8f3bQ-S3w7dPjs_y95Hz3HtvYfmLk5PiWe5-7jz34hD58mivxe3PH15zd7_Cp98THzz8893c7qislRv9shR0ranS6KtCgx1HlGu0s7BXplQ8YdjuRBgxWGqvOx9hF_h1AbkuFHaFU4kftgSVHmJ_FJBPj3PPTv9XsLtX3iwWV97QDy3Tt5f3_pPqu1dzL1775clfNz98_uj3-tdnub8B0#
+TITLE: Managed Internet Service
+TIME: 20.03.2024 02:36:06
+
+URL: https://www.google.com/search?gs_ssp=eJzj4tLP1TcwMq-yMCxRYDRgdGDw4ijJTM5OLUnNBgBV_wcI&q=ticketek&oq=tickette&gs_lcrp=EgZjaHJvbWUqEggBEC4YChjHARixAxjRAxiABDIGCAAQRRg5MhIIARAuGAoYxwEYsQMY0QMYgAQyDAgCEAAYChixAxiABDIMCAMQABgKGLEDGIAEMgkIBBAAGAoYgAQyDAgFEAAYChixAxiABDIICAYQABgDGAoyBggHEAUYQNIBCDYwODJqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: ticketek - Google Search
+TIME: 20.03.2024 02:36:13
+
+URL: https://premier.ticketek.com.au/
+TITLE: Tickets for Sport, Concerts, Theatre, Arts, Family Events, Comedy, Festivals | Ticketek Australia
+TIME: 20.03.2024 02:36:15
+
+URL: https://www.ticketek.com.au/detection.aspx?rt=https%3a%2f%2fpremier.ticketek.com.au%2f
+TITLE: Tickets for Sport, Concerts, Theatre, Arts, Family Events, Comedy, Festivals | Ticketek Australia
+TIME: 20.03.2024 02:36:15
+
+URL: https://premier.ticketek.com.au/shows/genre.aspx?c=2048
+TITLE: Tickets for Sport, Concerts, Theatre, Arts, Family Events, Comedy, Festivals | Ticketek Australia
+TIME: 20.03.2024 02:36:37
+
+URL: https://www.google.com/search?q=how+long+can+you+go+on+without+food&oq=how+long+can+you+go+on+without+food&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCjIxNjcwNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: how long can you go on without food - Google Search
+TIME: 20.03.2024 02:41:28
+
+URL: https://www.google.com/search?q=how+long+can+you+go+on+without+water&sca_esv=9922c09ff6e53a84&sxsrf=ACQVn09u8s44Q7cOIgmLW6eztWjZXEZTEQ%3A1710891681687&ei=oSL6ZeHJKe3v4-EPr5KpmAs&ved=0ahUKEwihnr6XwIGFAxXt9zgGHS9JCrMQ4dUDCBA&uact=5&oq=how+long+can+you+go+on+without+water&gs_lp=Egxnd3Mtd2l6LXNlcnAiJGhvdyBsb25nIGNhbiB5b3UgZ28gb24gd2l0aG91dCB3YXRlcjIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYR0iDElBKWNERcAB4ApABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACEJgDAIgGAZAGCJIHATGgBwA&sclient=gws-wiz-serp
+TITLE: how long can you go on without water - Google Search
+TIME: 20.03.2024 02:41:38
+
+URL: https://www.google.com/search?q=how+long+can+you+go+on+without+chicken&sca_esv=9922c09ff6e53a84&sxsrf=ACQVn08I-9TVPJQ7jf45OKJ3CLwKola3Og%3A1710891692134&ei=rCL6ZaztB9Wq4-EP376q0As&ved=0ahUKEwis87ucwIGFAxVV1TgGHV-fCroQ4dUDCBA&uact=5&oq=how+long+can+you+go+on+without+chicken&gs_lp=Egxnd3Mtd2l6LXNlcnAiJmhvdyBsb25nIGNhbiB5b3UgZ28gb24gd2l0aG91dCBjaGlja2VuMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHSNgkUEFYhCNwAHgCkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIBoAIEmAMAiAYBkAYIkgcBMaAHAA&sclient=gws-wiz-serp
+TITLE: how long can you go on without chicken - Google Search
+TIME: 20.03.2024 02:41:45
+
+URL: https://www.google.com/search?q=why+do+milk+go+oof&sca_esv=9922c09ff6e53a84&sxsrf=ACQVn08EAj3MsWz802LGhDHhh3MS0_t2Yw%3A1710891698882&ei=siL6Ze-8NYWw4-EP2NiHkAs&ved=0ahUKEwjv3defwIGFAxUF2DgGHVjsAbIQ4dUDCBA&uact=5&oq=why+do+milk+go+oof&gs_lp=Egxnd3Mtd2l6LXNlcnAiEndoeSBkbyBtaWxrIGdvIG9vZjINEC4YxwEY0QMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIWEC4YAxiPARjlAhjqAhi0AhiMA9gBATIWEAAYAxiPARjlAhjqAhi0AhiMA9gBATIWEAAYAxiPARjlAhjqAhi0AhiMA9gBATIWEAAYAxiPARjlAhjqAhi0AhiMA9gBATIWEC4YAxiPARjlAhjqAhi0AhiMA9gBATIWEAAYAxiPARjlAhjqAhi0AhiMA9gBATIWEAAYAxiPARjlAhjqAhi0AhiMA9gBATIWEAAYAxiPARjlAhjqAhi0AhiMA9gBATIWEAAYAxiPARjlAhjqAhi0AhiMA9gBATIWEAAYAxiPARjlAhjqAhi0AhiMA9gBAUixrwFQAFjhrgFwBHgBkAELmAEAoAEAqgEAuAEDyAEA-AEBmAIEoAI4qAIUmAMTugYGCAEQARgLkgcBNKAHAA&sclient=gws-wiz-serp
+TITLE: why do milk go oof - Google Search
+TIME: 20.03.2024 02:42:17
+
+URL: https://www.google.com/search?q=fuckalatogan&oq=fuckalatogan&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExODkzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: fuckalatogan - Google Search
+TIME: 20.03.2024 02:48:57
+
+URL: https://www.google.com/search?q=fuchalatoogan&sca_esv=9922c09ff6e53a84&sxsrf=ACQVn0_s6nLRFktVe4uClPd3ZdfGVnrVww%3A1710892131695&ei=YyT6ZYCLKqfy4-EPgsiSgAk&ved=0ahUKEwjAyIjuwYGFAxUn-TgGHQKkBJAQ4dUDCBA&uact=5&oq=fuchalatoogan&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWZ1Y2hhbGF0b29nYW5Iq1ZQwBNYv1RwAHgAkAEBmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAcA&sclient=gws-wiz-serp
+TITLE: fuchalatoogan - Google Search
+TIME: 20.03.2024 02:49:13
+
+URL: https://outlook.office.com/mail/?authRedirect=true&login_hint=asout55%40eq.edu.au&state=0
+TITLE: Working...
+TIME: 27.05.2024 03:43:25
+
+URL: https://outlook.office.com/owa/?login_hint=asout55%40eq.edu.au&state=1&redirectTo=aHR0cHM6Ly9vdXRsb29rLm9mZmljZS5jb20vbWFpbC8
+TITLE: Working...
+TIME: 27.05.2024 03:43:25
+
+URL: https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&login_hint=asout55%40eq.edu.au&client-request-id=5fd0bb67-9551-573a-56cb-b736304e0ff7&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=eq.edu.au&nonce=638469639795642948.c25395b9-4f3f-4f36-af51-8182f92951d7&state=Fcu7DoIwGEBh0GeRjVtv9B-Ig4lhwAVNNCympa1CuCgUjG8vDufbjus4znZts-ZGK07CMCcMGIYEKCMICA8qRDFQCT4x2PxhvjA09nnMkQEENFaJu75VOHxEuG-HR93fn3VvUzENs6V0RyL9DrSaAzF7kxVWp7E3alWPurKXIRVZEVXZieVfWNStmCSCMe-gK7u2Kc-0kSha5PX4kgf-Aw
+TITLE: Working...
+TIME: 25.03.2024 14:46:30
+
+URL: https://fed.education.qld.gov.au/idp/SSO.saml2?SAMLRequest=fVJbT8IwFH73Vyx9X7fOTaQBEoQYSVQIQx98MbU9QJOuHb2g%2Fnu7oVEf9PXrdzvndORYo1o6DX6v13AI4Hzy1ijtaP8wRsFqapiTjmrWgKOe03p6d0sLnNPWGm%2B4UeiH5H8Fcw6sl0ajZDEfo%2BcBcMIGwyodEiHSsiQivcyrizQHIvgFDKqSlCh5BOuiZoyiRRQ6F2ChnWfaRygvyjQ%2FT4tqQwitcprnTyiZxzmkZr5X7b1vHc2yLQgMIvAexgcl8M4cMQuZFG1W10vc9S9QMv0qOTPahQZsDfYoOTysb7%2FNDgqY1RgOnWVnosxO6qyzQMnqczFXUgupd%2F%2Fv5OVEcvRms1mlq2W9QZNR50P7Se2ki%2BwSY30Zx7aB%2B2ABc9P0ccUo%2B8kenS56H3MW85VRkr8n18Y2zP9dg2DSI1Kk255Kg3YtcLmVIOJClDKvMwvMwxjFfEDZ5BT6%2B%2BdMzj4A
+TITLE: Sign In - Department of Education Queensland
+TIME: 25.03.2024 14:50:11
+
+URL: https://fed.education.qld.gov.au/idp/pbgib/resumeSAML20/idp/SSO.ping
+TITLE: Submit Form
+TIME: 25.03.2024 14:50:26
+
+URL: https://qed07.instructure.com/?session_token=eyJjcmVhdGVkX2F0IjoxNzExMzY3NDE2LCJwc2V1ZG9ueW1faWQiOjE4OTYzMDAwMDAwMDM5Mjk2MywiY3VycmVudF91c2VyX2lkIjpudWxsLCJ1c2VkX3JlbWVtYmVyX21lX3Rva2VuIjpudWxsLCJzaWduYXR1cmUiOnsiX2JpbmFyeSI6IllqRTFNakZtTW1FeE9UZzNaV1ExT0dWaE1HRmxNelEwWlRWa1pHTTJZVEF6TjJRNVltUXlOUT09XG4ifX0
+TITLE: Course Modules: DIS11A_2024
+TIME: 25.03.2024 14:50:28
+
+URL: https://qed07.instructure.com/courses/72357/modules/items/755319
+TITLE: FA1 - FINAL - DUE 15/03/2024
+TIME: 25.03.2024 14:50:51
+
+URL: https://qed07.instructure.com/courses/72357/assignments/103698?module_item_id=755319
+TITLE: FA1 - FINAL - DUE 15/03/2024
+TIME: 25.03.2024 14:50:51
+
+URL: https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&login_hint=asout55%40eq.edu.au&client-request-id=694fdd69-ff7b-4912-a30d-5a151ad3e103&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=eq.edu.au&nonce=638472892595437525.47e7c2d5-5cb8-414f-804b-c7bb410e4aba&state=DcuxDoIwFEBR0G-RDSzlPdoOxMHEMOCCJhoW01eqYkQUCsa_l-Hc7fqe5y1ni5nP5ngiTSQILhVHhZAI5BiBsMLwGkM0JEOI4RpKBhQaQQQxs6BJ-_Nr1t1XrzfP7ta8Lvfm5TI9dKNDXAGzn8jWY6THYHDa2SwOels3vTXu2GU6L5nJ92nxU1N9Lgfiqi9a1Vbt81Ed8EGcTXTavWkr_w
+TITLE: Working...
+TIME: 29.03.2024 09:07:54
+
+URL: https://www.google.com/search?q=netflix&oq=netflix&gs_lcrp=EgZjaHJvbWUqEAgAEAAYgwEY4wIYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyEwgBEC4YgwEYxwEYsQMY0QMYgAQyDQgCEAAYgwEYsQMYgAQyCggDEAAYsQMYgAQyCggEEAAYsQMYgAQyCggFEAAYsQMYgAQyCggGEAAYsQMYgAQyCggHEAAYsQMYgAQyCggIEAAYsQMYgAQyCggJEAAYsQMYgATSAQgyODk0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: netflix - Google Search
+TIME: 04.04.2024 15:30:17
+
+URL: https://www.netflix.com/au/
+TITLE: Netflix Australia - watch TV shows online, watch movies online
+TIME: 04.04.2024 15:30:40
+
+URL: https://www.netflix.com/au/login
+TITLE: Netflix
+TIME: 04.04.2024 15:30:46
+
+URL: https://www.netflix.com/login
+TITLE: Netflix
+TIME: 04.04.2024 15:30:46
+
+URL: https://www.netflix.com/browse
+TITLE: Home – Netflix
+TIME: 04.04.2024 15:46:25
+
+URL: https://www.netflix.com/watch/80234957?trackId=14183177&tctx=6%2C0%2C253f527e-56e6-43ca-9ca4-0d711cf05483-46813453%2CNES_711C65C6D5CA1BFC6E0124A2C23E2A-2D15F9D5D47F00-084C75401A_p_1712233946437%2CNES_711C65C6D5CA1BFC6E0124A2C23E2A_p_1712233946437%2C%2C%2C%2C%2CVideo%3A80107103%2CminiDpPlayButton
+TITLE: Netflix
+TIME: 04.04.2024 15:32:46
+
+URL: https://www.netflix.com/browse?jbv=80107103
+TITLE: ONE PIECE – Netflix
+TIME: 07.04.2024 11:03:57
+
+URL: https://www.netflix.com/watch/81015595?trackId=14170289&tctx=2%2C0%2C253f527e-56e6-43ca-9ca4-0d711cf05483-47990687%2CNES_711C65C6D5CA1BFC6E0124A2C23E2A-B9F225DDE3A711-587C89E9F0_p_1712234780853%2CNES_711C65C6D5CA1BFC6E0124A2C23E2A_p_1712234780853%2C%2C%2C%2C80107103%2CVideo%3A81015595%2CdetailsPageEpisodePlayButton
+TITLE: Netflix
+TIME: 04.04.2024 15:47:00
+
+URL: https://www.netflix.com/watch/81015596?trackId=14170289&tctx=2%2C0%2C253f527e-56e6-43ca-9ca4-0d711cf05483-47990687%2CNES_711C65C6D5CA1BFC6E0124A2C23E2A-B9F225DDE3A711-587C89E9F0_p_1712234780853%2C%2C%2C%2C%2C80107103%2CVideo%3A81015596%2CdetailsPageEpisodePlayButton
+TITLE: Netflix
+TIME: 04.04.2024 15:48:52
+
+URL: https://www.netflix.com/watch/81015597?trackId=155573558
+TITLE: Netflix
+TIME: 04.04.2024 16:08:52
+
+URL: https://www.netflix.com/watch/81015598?trackId=155573558
+TITLE: Netflix
+TIME: 04.04.2024 16:28:50
+
+URL: https://www.netflix.com/watch/81015599?trackId=155573558
+TITLE: Netflix
+TIME: 04.04.2024 16:48:22
+
+URL: https://www.netflix.com/watch/81015599?trackId=14170287&tctx=2%2C0%2C253f527e-56e6-43ca-9ca4-0d711cf05483-47990687%2CNES_711C65C6D5CA1BFC6E0124A2C23E2A-B9F225DDE3A711-587C89E9F0_p_1712234780853%2C%2C%2C%2C%2C%2CVideo%3A80107103%2CdetailsPagePlayButton
+TITLE: Netflix
+TIME: 07.04.2024 11:03:36
+
+URL: https://www.netflix.com/watch/81015600?trackId=155573558
+TITLE: Netflix
+TIME: 05.04.2024 15:57:56
+
+URL: https://www.netflix.com/watch/81015601?trackId=155573558
+TITLE: Netflix
+TIME: 05.04.2024 16:37:49
+
+URL: https://www.netflix.com/watch/81015602?trackId=155573558
+TITLE: Netflix
+TIME: 05.04.2024 16:57:48
+
+URL: https://www.netflix.com/watch/81015603?trackId=155573558
+TITLE: Netflix
+TIME: 05.04.2024 17:17:52
+
+URL: https://www.netflix.com/watch/81015604?trackId=14170289&tctx=2%2C0%2C253f527e-56e6-43ca-9ca4-0d711cf05483-47990687%2CNES_711C65C6D5CA1BFC6E0124A2C23E2A-B9F225DDE3A711-587C89E9F0_p_1712234780853%2C%2C%2C%2C%2C80107103%2CVideo%3A81015604%2CdetailsPageEpisodePlayButton
+TITLE: Netflix
+TIME: 07.04.2024 11:04:04
+
+URL: https://www.netflix.com/watch/81015605?trackId=155573558
+TITLE: Netflix
+TIME: 07.04.2024 11:16:07
+
+URL: https://www.netflix.com/watch/81015606?trackId=155573558
+TITLE: Netflix
+TIME: 07.04.2024 12:17:12
+
+URL: https://www.netflix.com/watch/81015607?trackId=155573558
+TITLE: Netflix
+TIME: 07.04.2024 12:38:03
+
+URL: https://www.netflix.com/watch/81015608?trackId=155573558
+TITLE: Netflix
+TIME: 07.04.2024 13:21:08
+
+URL: https://www.netflix.com/watch/81015609?trackId=155573558
+TITLE: Netflix
+TIME: 07.04.2024 13:40:17
+
+URL: https://www.netflix.com/watch/81015610?trackId=155573558
+TITLE: Netflix
+TIME: 07.04.2024 14:00:14
+
+URL: https://www.netflix.com/watch/81015611?trackId=155573558
+TITLE: Netflix
+TIME: 07.04.2024 14:18:52
+
+URL: https://www.netflix.com/watch/81015612?trackId=155573558
+TITLE: Netflix
+TIME: 07.04.2024 14:39:01
+
+URL: https://www.netflix.com/watch/81015613?trackId=155573558
+TITLE: Netflix
+TIME: 07.04.2024 14:58:04
+
+URL: https://www.netflix.com/watch/81015614?trackId=155573558
+TITLE: Netflix
+TIME: 07.04.2024 15:17:29
+
+URL: https://www.netflix.com/watch/81015615?trackId=155573558
+TITLE: Netflix
+TIME: 07.04.2024 15:38:17
+
+URL: https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638518886605017511.MzIwMTMwMDQtYWYzMS00ZjExLWIxZDktMDAxNzQ0ZDBjOTljNzVhOWY3YjUtNTVhOC00MmJmLWI3MjctOGEwN2ZiM2JmMTc1&ui_locales=en-US&mkt=en-US&login_hint=asout55%40eq.edu.au&msafed=0&client-request-id=0a78c19a-9934-4935-aa8f-02338cfe7f6f&state=uranRVntNIgujZKoxwiF7ebCk0NEM89yo6WvtOSiUdo3vJW5wSdDYcNBFO08u8KPYeptW--2coujrUU9Ax_-wEKUWozPHqJ-NRLdaQZFbnqDC8-c0WZMi7yQq19WR4v2ZZAhjgrxaWp60FF5NLoRjcdXF_0Ya3ErK59aE0VRSF_VJFnGg7uZZqYWM9IuWBa3bg7EfmqNP3-RMOEaWxGCcmBMMyX62nz1JGWw3BsxevKiixa71UorD_xg2U_-PAYTOVZBZAR95RNICDKUEUnlvjQD5hnDQ9hhe_W2HQIu6QHl50zdch-5gVD16iktk5B-Uxqtuail9CqhC-fSsAnZuwGpb2cQr-6pGL6HRNfALTs&x-client-SKU=ID_NET6_0&x-client-ver=7.3.1.0
+TITLE: Working...
+TIME: 21.05.2024 14:45:13
+
+URL: https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638518886605017511.MzIwMTMwMDQtYWYzMS00ZjExLWIxZDktMDAxNzQ0ZDBjOTljNzVhOWY3YjUtNTVhOC00MmJmLWI3MjctOGEwN2ZiM2JmMTc1&ui_locales=en-US&mkt=en-US&login_hint=asout55%40eq.edu.au&msafed=0&client-request-id=0a78c19a-9934-4935-aa8f-02338cfe7f6f&state=uranRVntNIgujZKoxwiF7ebCk0NEM89yo6WvtOSiUdo3vJW5wSdDYcNBFO08u8KPYeptW--2coujrUU9Ax_-wEKUWozPHqJ-NRLdaQZFbnqDC8-c0WZMi7yQq19WR4v2ZZAhjgrxaWp60FF5NLoRjcdXF_0Ya3ErK59aE0VRSF_VJFnGg7uZZqYWM9IuWBa3bg7EfmqNP3-RMOEaWxGCcmBMMyX62nz1JGWw3BsxevKiixa71UorD_xg2U_-PAYTOVZBZAR95RNICDKUEUnlvjQD5hnDQ9hhe_W2HQIu6QHl50zdch-5gVD16iktk5B-Uxqtuail9CqhC-fSsAnZuwGpb2cQr-6pGL6HRNfALTs&x-client-SKU=ID_NET6_0&x-client-ver=7.3.1.0&sso_reload=true
+TITLE: Working...
+TIME: 21.05.2024 14:45:13
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc=%7BD7ED1BFF-00FE-4FAF-A348-3C4575CCC91E%7D&file=MAG11B_2024%20Notebook&action=edit&mobileredirect=true&wdorigin=Sharepoint&DefaultItemOpen=1&login_hint=asout55%40eq.edu.au
+TITLE: Working...
+TIME: 21.05.2024 14:45:27
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/doc2.aspx?sourcedoc=%7BD7ED1BFF-00FE-4FAF-A348-3C4575CCC91E%7D&file=MAG11B_2024%20Notebook&action=edit&mobileredirect=true&wdorigin=Sharepoint&DefaultItemOpen=1&login_hint=asout55%40eq.edu.au
+TITLE: Working...
+TIME: 21.05.2024 14:45:27
+
+URL: https://qedu.sharepoint.com/_forms/default.aspx?ReturnUrl=%2fsites%2fCourse_general_mathematics-Rc9zkwEkFI9co%2f_layouts%2f15%2fdoc2.aspx%3fsourcedoc%3d%257BD7ED1BFF-00FE-4FAF-A348-3C4575CCC91E%257D%26file%3dMAG11B_2024%2520Notebook%26action%3dedit%26mobileredirect%3dtrue%26wdorigin%3dSharepoint%26DefaultItemOpen%3d1%26login_hint%3dasout55%2540eq.edu.au&login_hint=asout55@eq.edu.au
+TITLE: Working...
+TIME: 21.05.2024 14:45:27
+
+URL: https://login.microsoftonline.com/6600c7c5-16b5-4baf-9e93-323bd8c01dba/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=EDAEC24E47ADCE5818B294682D0ECB92DA677358C42C5203%2D86E158CF7BA403EFE7DD3538D12E0535D9730620B87A78B1A94DF43E0BAB857D&redirect%5Furi=https%3A%2F%2Fqedu%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&login%5Fhint=asout55%40eq%2Eedu%2Eau&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=48d22aa1%2D3063%2D3000%2D4678%2Db4dc7122312a
+TITLE: Working...
+TIME: 21.05.2024 14:45:27
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/doc2.aspx?sourcedoc=%7BD7ED1BFF-00FE-4FAF-A348-3C4575CCC91E%7D&file=MAG11B_2024%20Notebook&action=edit&mobileredirect=true&wdorigin=Sharepoint&DefaultItemOpen=1
+TITLE: MAG11B_2024 Notebook
+TIME: 21.05.2024 14:45:27
+
+URL: https://qedu.sharepoint.com/:o:/r/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/doc2.aspx?sourcedoc=%7BD7ED1BFF-00FE-4FAF-A348-3C4575CCC91E%7D&file=MAG11B_2024%20Notebook&action=edit&mobileredirect=true&wdorigin=Sharepoint&DefaultItemOpen=1
+TITLE: MAG11B_2024 Notebook
+TIME: 21.05.2024 14:45:28
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28_Content%20Library%2F2.%20Assessment%2FUnit%201%20Exam%201.one%7Ceca667ed-608c-4443-bb4f-d8304c75577c%2FFA2%20End%20Unit%201%20Exam%20Content%20Revision%7C644b1dca-c7da-4e6c-bc65-293215459e34%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 21.05.2024 14:45:43
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28_Content%20Library%2F2.%20Assessment%2FUnit%201%20Exam%201.one%7Ceca667ed-608c-4443-bb4f-d8304c75577c%2FFA2%20Formative%20Test%7Ccd2b99a5-166e-48f0-a8a1-7a2af93b99ce%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 21.05.2024 14:45:45
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28_Content%20Library%2F2.%20Assessment%2FUnit%201%20Exam%201.one%7Ceca667ed-608c-4443-bb4f-d8304c75577c%2FAnswers%20%28FA2%20Formative%20Test%5C%29%7Cf515247d-bc02-4e0e-9218-9181dfbd44fb%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 24.05.2024 01:55:04
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28_Content%20Library%2F2.%20Assessment%2FUnit%201%20Exam%201.one%7Ceca667ed-608c-4443-bb4f-d8304c75577c%2FAnswers%20%28FA2%20Formative%20Test%5C%29%7Cf515247d-bc02-4e0e-9218-9181dfbd44fb%2F%29&wdOrigin=TokenRefreshDialog
+TITLE: MAG11B_2024 Notebook
+TIME: 24.05.2024 01:55:00
+
+URL: https://www.office.com/login?login_hint=asout55@eq.edu.au&ru=%2F%3Fauth%3D2%26from%3DOfficeHomeRefreshFailed
+TITLE: www.office.com
+TIME: 22.05.2024 23:49:56
+
+URL: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638520077415073760.NjkzZmU2NjgtY2M2MS00ZWMxLWFjZTEtMTRiZjQ1NDI2ZmFiMWQ3MTk5YmUtZWIzZC00Yjc4LThlZTUtOWQ3NzYxZWNlNTQ5&ui_locales=en-US&mkt=en-US&login_hint=asout55%40eq.edu.au&client-request-id=727030f7-f004-4a30-86d0-70203b8f6af4&state=6lOgY19hku67qDYGDDwKQgKbMfvaHzd4OacDjVoO6mePWwHBRDZMTv0Q5sa-w6aPFelwn-PC9s6KCtCCmgx0pifxtpU42DhEI48h2b7T4KrjuxIMtJP0tEsDQFohqdkgxqjkTtRXGUHGTLf2LZzTZXOJp_YeTfziVbDPePQMQMb4CeRsU7Ux9t3Hk3wk12_xhcejyE1dsGWBITrHGQhlZS314p2K-YSmzrFJfew9IslB3QQYNvR7HoCql76ocL0_E6vTzoG8R6W25PPZzqWfZk6bOtg7aYTVfxLoHHQfkf3U8uHUYW2u6LqCkpPpDF_JQVXcR96xymAzX9jIaO_iwhixbiZ2hzrrnOQCMk55LUQ&x-client-SKU=ID_NET6_0&x-client-ver=7.3.1.0
+TITLE: Managed Internet Service
+TIME: 22.05.2024 23:49:56
+
+URL: https://fed.education.qld.gov.au/idp/eyJ2c2lkIjoidXJpOnNjaG9vbDplcS5lZHUuYXUifQ==/prp.wsf?login_hint=asout55%40eq.edu.au&mkt=en-US&client-request-id=727030f7-f004-4a30-86d0-70203b8f6af4&username=asout55%40eq.edu.au&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=estsredirect%3d2%26estsrequest%3drQQIARAAhZM9bONkGMfjpE3biI9yIHS3ZTgJhGTn9euvuAiJNk7iNLETp3YdmyFyHDvxV-zYTuyzxIZOMCAqJJYbGBg7IW5BNzF36nALNzOBdDohJG5CBJhPLI-eR__hLz36_WoHDEZgOAY-qEAMnNwnGZoiSWqGEtCkUZKdAbRJWDSKz1liF0GGNo34Tu34TxDFey_A-cPbqP7hV-4f10h9maZRctJoZFmGhbbtmBZmhkHDN1ZzZ7XYwh8R5BZBvi6_ZSThJqWoj601Zs03mLF5VN63VqhycV1OaKJJQQAYhsQpwOwqASa6XqEHChTdRapBAQoXAOiqkA_UjqvL7VSQx47uSrjI9aAedBxBlQhB9igtUFJd7RV6CwDNNcmBvPR1WUmHu1wstFxXRV-UJepZ-c3h6SZdwn9GGDuF9Xv5yA7jYBqFSfqo8luZ9ocLDWeX3oZm1pzW5bisLy36M8HeGnwxJ4eGybmX4ZAOrJGa8WdjThfkLZCoxEAz2hh1LD9boaMWm9D9VtpqBYscRI6dp5FCQm7Z7pHNJZwxMtmP3U3eE9LzEUjbCSd1wuV67i3ytevJ6XjSVfiuPLDhQC9kfTI8j6aaJduFcznjRtZIEiRhRrascaIwSs6mBO8RmYfDab40LfdBG58nXfWsJ8d8V9p94oLAyQj2Ue0iKOLOuW1lbC_xzwhJ0sTtmOHD1tpn6NAcgGmb3spF2G2OaRVSo5FerFVb9-jZMF0whiZf2vkg5HnJ9mxCaW54RVPhhh6sW140irjO9Fy6nJhjls4fBKfFhHV7xnDqZEsnnzk6XBZxvBpKLcGjqIEiXVfuvYKjLfyhUt0tQbh6UrlvWoRpznB2x6ltoySwm6gBSQo1aIKwCdNiaYK8qTBhZK2ceT2KQ9vxrVchuoWN4b8XHwYWdur7t3vIr3vvHh4cV-4i9dL774DKyeFh7bh0t1QvvdxDvtvfGfD4s0-ff_PepHP1yc_24y_vlW72G2Khii3cFdeNYpWOtbOtiC-EJrudS5aa9xoeMUjpcNQUlST7CJzgV1Xkqlq9qR71uKnYlukpeFFFPj8oPTn6X5eevfZ2rbZxpn5oGr6V3PnPn59eL7184-lfD3_54um3z_nvj0t_Aw2#
+TITLE: Managed Internet Service
+TIME: 22.05.2024 23:49:56
+
+URL: https://qedu.sharepoint.com/:o:/r/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc=%7Bd7ed1bff-00fe-4faf-a348-3c4575ccc91e%7D&action=view&wd=target(_Content%20Library%2F2.%20Assessment%2FUnit%201%20Exam%201.one%7Ceca667ed-608c-4443-bb4f-d8304c75577c%2FAnswers%20(FA2%20Formative%20Test%5C)%7Cf515247d-bc02-4e0e-9218-9181dfbd44fb%2F)&wdOrigin=TokenRefreshDialog
+TITLE: MAG11B_2024 Notebook
+TIME: 24.05.2024 01:55:00
+
+URL: https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638520078130270586.MzFiMzAyN2UtZTM0NS00OWZkLTlkMjEtMTUzNmU2NjM2MmM1YmFjMTM2YTctN2FjYi00ZTgyLWEwZmUtNDJiZjRiYzJiMjAz&ui_locales=en-US&mkt=en-US&login_hint=asout55%40eq.edu.au&msafed=0&client-request-id=1fa18440-ad0e-4f74-92d4-a78661f9abcd&state=td0cLVJZDGvgZFfBJdwFSsjauRFKzPQY-0nolJfC00r2PAhewOqHpnNiMOERYK2HlHF4YHwyG_kqCcg09UgsneC3h_mX-5B3OH7EtLldtdjlbFM1-LCvLzl33XmFr5Ju_wG4808ZJztsIcunqVIrnY4kPWOuYc8Z9M1FN5rOSUfZ2SvR2gk_jWh6Q9tnF8oTgXp7rjS41_MQGgh6HjbdhN9NGerq01nSiQGVLzzt-voVcqto3Td9Vj7E8j2CUZN3D37wd6VVmKdLdOYFsrp2RmakppOznba0__r9vDc3T7dz6Vg-8W3tV65PmrAxEde8xmUHR5N2YVHa97rWH0BgSbfofE-gUCZ062NaofrXKtg&x-client-SKU=ID_NET6_0&x-client-ver=7.3.1.0
+TITLE: Working...
+TIME: 22.05.2024 23:51:07
+
+URL: https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&login_hint=asout55%40eq.edu.au&client-request-id=11166fb8-0c7b-24f6-dcc5-1dcd8cb45361&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=eq.edu.au&nonce=638520078197545009.30883260-aa77-46fc-9c8d-5f98a663267e&state=PYtLDsIgFEVB98IM-lrKb0B0Ce7AvFCqTWhJP6jLFycOzh3ck0MJIefKqUKhDjFaWtUBGNs6o3oF4IQEa2WngSMaw3s9Bu6CHbganUWtqzKR1vbW5Dc2ly1imn1cRRyKwMLiZ3-VLfmWpcRD8C1IyeY8_D5gKT-m5f6clsPjnsuh1PWffgE
+TITLE: Working...
+TIME: 22.05.2024 23:51:14
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQAPbQMo20PDdNsnvu6QO8%2BiU%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 22.05.2024 23:53:02
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQACBGoKddylNPt25z8RT7Dm4%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 22.05.2024 23:54:41
+
+URL: https://qedu-my.sharepoint.com/personal/asout55_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7BCD4CC800-9840-4ED4-9D19-08583D24BA47%7D&file=Student+Experiment+Scaffold+Psych+xander.docx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=asout55%40eq.edu.au&ct=1716424954974&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=49261b0f-74cc-4f0e-8388-ad7e68545072&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=59486562-d0ec-47c7-9894-2862fd991a87
+TITLE: Working...
+TIME: 23.05.2024 03:42:36
+
+URL: https://qedu-my.sharepoint.com/personal/asout55_eq_edu_au/_layouts/15/doc2.aspx?sourcedoc=%7BCD4CC800-9840-4ED4-9D19-08583D24BA47%7D&file=Student+Experiment+Scaffold+Psych+xander.docx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=asout55%40eq.edu.au&ct=1716424954974&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=49261b0f-74cc-4f0e-8388-ad7e68545072&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=59486562-d0ec-47c7-9894-2862fd991a87
+TITLE: Working...
+TIME: 23.05.2024 03:42:36
+
+URL: https://qedu-my.sharepoint.com/_forms/default.aspx?ReturnUrl=%2fpersonal%2fasout55_eq_edu_au%2f_layouts%2f15%2fdoc2.aspx%3fsourcedoc%3d%257BCD4CC800-9840-4ED4-9D19-08583D24BA47%257D%26file%3dStudent%2bExperiment%2bScaffold%2bPsych%2bxander.docx%26action%3ddefault%26mobileredirect%3dtrue%26DefaultItemOpen%3d1%26login_hint%3dasout55%2540eq.edu.au%26ct%3d1716424954974%26wdOrigin%3dOFFICECOM-WEB.MAIN.REC%26cid%3d49261b0f-74cc-4f0e-8388-ad7e68545072%26wdPreviousSessionSrc%3dHarmonyWeb%26wdPreviousSession%3d59486562-d0ec-47c7-9894-2862fd991a87&login_hint=asout55@eq.edu.au
+TITLE: Working...
+TIME: 23.05.2024 03:42:36
+
+URL: https://login.microsoftonline.com/6600c7c5-16b5-4baf-9e93-323bd8c01dba/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=642854A35468CB5E5647553F84AB2DF7B4D05BBCA99F24C0%2DAC6E38A6CE0A6326432D1241D5AA1CD499BC503E2AE479A5B44469932E974617&redirect%5Furi=https%3A%2F%2Fqedu%2Dmy%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&domain%5Fhint=eq%2Eedu%2Eau&state=OD0w&login%5Fhint=asout55%40eq%2Eedu%2Eau&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=25512ba1%2D90d2%2D3000%2D4678%2Db503ca83318b
+TITLE: Working...
+TIME: 23.05.2024 03:42:36
+
+URL: https://qedu-my.sharepoint.com/personal/asout55_eq_edu_au/_layouts/15/doc2.aspx?sourcedoc=%7BCD4CC800-9840-4ED4-9D19-08583D24BA47%7D&file=Student+Experiment+Scaffold+Psych+xander.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1716424954974&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=49261b0f-74cc-4f0e-8388-ad7e68545072&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=59486562-d0ec-47c7-9894-2862fd991a87
+TITLE: Student Experiment Scaffold Psych xander.docx
+TIME: 23.05.2024 03:42:36
+
+URL: https://qedu-my.sharepoint.com/:w:/r/personal/asout55_eq_edu_au/_layouts/15/doc2.aspx?sourcedoc=%7BCD4CC800-9840-4ED4-9D19-08583D24BA47%7D&file=Student%20Experiment%20Scaffold%20Psych%20xander.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1716424954974&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=49261b0f-74cc-4f0e-8388-ad7e68545072&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=59486562-d0ec-47c7-9894-2862fd991a87
+TITLE: Student Experiment Scaffold Psych xander.docx
+TIME: 23.05.2024 03:42:36
+
+URL: https://qedu-my.sharepoint.com/personal/asout55_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B740D35CA-F3A8-4E51-A489-B517A56EE460%7D&file=xander+draft+english.docx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=asout55%40eq.edu.au&ct=1716424964802&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&cid=1f068465-be91-4d00-b94d-428a082d5ef8&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=59486562-d0ec-47c7-9894-2862fd991a87
+TITLE: xander draft english.docx
+TIME: 23.05.2024 03:42:45
+
+URL: https://qedu-my.sharepoint.com/:w:/r/personal/asout55_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B740D35CA-F3A8-4E51-A489-B517A56EE460%7D&file=xander%20draft%20english.docx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=asout55%40eq.edu.au&ct=1716424964802&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&cid=1f068465-be91-4d00-b94d-428a082d5ef8&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=59486562-d0ec-47c7-9894-2862fd991a87
+TITLE: xander draft english.docx
+TIME: 23.05.2024 03:42:45
+
+URL: https://qedu-my.sharepoint.com/personal/asout55_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc={3e663ab1-bcbb-437c-9a8c-46de1b0292c2}&action=edit&wdPreviousSession=268c61ac%2D32cb%2D2bba%2D6ea8%2De5607c2c08d2
+TITLE: xander final english - Copy.docx
+TIME: 23.05.2024 03:43:51
+
+URL: https://qedu-my.sharepoint.com/:w:/r/personal/asout55_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B3e663ab1-bcbb-437c-9a8c-46de1b0292c2%7D&action=edit&wdPreviousSession=268c61ac-32cb-2bba-6ea8-e5607c2c08d2
+TITLE: xander final english - Copy.docx
+TIME: 23.05.2024 03:43:51
+
+URL: https://fed.education.qld.gov.au/idp/SSO.saml2?SAMLRequest=fVJbT8IwFH73Vyx9Xzc2CNAACUKMJCiETR98MbU9gyZdO3pB%2Ffd2QyM%2ByOvX73bO6cTSWjZk7t1B7eDowbroo5bKku5hirxRRFMrLFG0BkscI8X8YU0ynJLGaKeZluhCcl1BrQXjhFYoWi2n6JWxQdZLoR%2FngzyP%2BzCg8YjnvXgE%2BXCY5XxcjSmKnsHYoJmiYBGE1npYKeuocgFKs36cDuIsL9OU9HOSpS8oWoY5hKKuUx2cayxJkgo4Bu5ZB%2BOj5HivT5j6RPAmKYoNbvtnKJr%2FlFxoZX0NpgBzEgyedutfs6MEahSGY2vZmki9FyppLVC0%2FV7MrVBcqP31nbydSZbcl%2BU23m6KEs0mrQ%2FpJjWzNrJNDPVFGNt45rwBzHTdxWWT5JI9OV%2F0MeSsllstBfuM7rSpqfu%2FRg%2F3OkTwuOqoxCvbABOVAB4WIqV%2BXxigDqYo5ANKZufQvz9ndvMF
+TITLE: Sign In - Department of Education Queensland
+TIME: 23.05.2024 03:44:14
+
+URL: https://fed.education.qld.gov.au/idp/HJZFYFz92d/resumeSAML20/idp/SSO.ping
+TITLE: Submit Form
+TIME: 23.05.2024 03:44:23
+
+URL: https://qed07.instructure.com/courses/18970~72509?session_token=eyJjcmVhdGVkX2F0IjoxNzE2NDI1MDI0LCJwc2V1ZG9ueW1faWQiOjE4OTYzMDAwMDAwMDM5Mjk2MywiY3VycmVudF91c2VyX2lkIjpudWxsLCJ1c2VkX3JlbWVtYmVyX21lX3Rva2VuIjpudWxsLCJzaWduYXR1cmUiOnsiX2JpbmFyeSI6Ill6SmxZMlF5WlRZMU9UUTRNelZtTWpkaVlqazROakJpTm1aa016Tm1Zamt5WmpKaE16TXpOdz09XG4ifX0
+TITLE: ENG11A_2024
+TIME: 23.05.2024 03:44:39
+
+URL: https://qed07.instructure.com/courses/72509/modules/items/1000821
+TITLE: FIA2 Final Due 20th May
+TIME: 23.05.2024 03:44:48
+
+URL: https://qed07.instructure.com/courses/72509/assignments/154091?module_item_id=1000821
+TITLE: FIA2 Final Due 20th May
+TIME: 23.05.2024 03:44:48
+
+URL: https://qed07.instructure.com/courses/72509/modules/items/761784
+TITLE: FIA 3 Task Sheet - Short Story Exam: ENG11A_2024
+TIME: 23.05.2024 03:45:14
+
+URL: https://qed07.instructure.com/courses/72509/pages/fia-3-task-sheet-short-story-exam?module_item_id=761784
+TITLE: FIA 3 Task Sheet - Short Story Exam: ENG11A_2024
+TIME: 23.05.2024 03:45:14
+
+URL: https://qed07.instructure.com/courses/72509/announcements
+TITLE: Announcements: ENG11A_2024
+TIME: 23.05.2024 03:45:19
+
+URL: https://www.google.com/search?q=2048&oq=2048&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyDQgBEC4YgwEYsQMYgAQyDQgCEC4YgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyCggFEAAYsQMYgAQyBwgGEAAYgAQyBggHEAUYQNIBCDM2NzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: 2048 - Google Search
+TIME: 23.05.2024 03:45:44
+
+URL: https://play2048.co/
+TITLE: 2048
+TIME: 24.05.2024 02:01:41
+
+URL: https://www.office.com/login?login_hint=asout55@eq.edu.au&ru=%2F%3Fauth%3D2%26from%3DSpaTokenExpiry
+TITLE: Managed Internet Service
+TIME: 24.05.2024 01:54:09
+
+URL: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638521015897548580.ZGU1MTdhMjYtZDFlNi00NDU2LTg0YjQtZWQxZWFlNTM4OGFmOWMxNWEwMTItZWY3Ny00YTQ2LTg0NDQtZDlhOTExNzg1NDQ5&ui_locales=en-US&mkt=en-US&login_hint=asout55%40eq.edu.au&client-request-id=1c1e248c-d862-413e-8c82-2615735f30c3&state=L-H_e9x6yBRTpfM0JtT_BrjmzARuPrUWFXGkvV_OEJxZa-KGH7aem6HNjxlunQUR-jZQnvBWpA6b5-ezM41onCx2JchBQmgPB76o7mfKir3CNjVmXP9dTWcxTWDAU-grG4pG4gEN7T0OPKfRrpCg2G9zVfGcSECideM2VNtG6PwTgibv2guoN7BgplQgP-RSWN769qFdh0CzSaRGSkN0TTX_sFVjkAoEEPLCdlQhyNfSslG2tRcl1zOM5tk0B15cdZLlEgT49Obhp1SDH4BmHFfpCEnAe0bSmVMNenTEI-bQ4kOBwUYsHizXskJLMmkOe640JJ3PN45b-5DEdbr3dFQbiBUqi4qTMGOKRwbcd_o&x-client-SKU=ID_NET6_0&x-client-ver=7.3.1.0
+TITLE: Managed Internet Service
+TIME: 24.05.2024 01:54:09
+
+URL: https://fed.education.qld.gov.au/idp/eyJ2c2lkIjoidXJpOnNjaG9vbDplcS5lZHUuYXUifQ==/prp.wsf?login_hint=asout55%40eq.edu.au&mkt=en-US&client-request-id=1c1e248c-d862-413e-8c82-2615735f30c3&username=asout55%40eq.edu.au&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=estsredirect%3d2%26estsrequest%3drQQIARAAhZM7iNt2HMct-853Z_q4pA9SKOWGoy0FyX-9rYOWWpYsn8-SLFu2bC9Cb8vWy5L8OI-Flg4ZQrdm6NCp3NLHFDKUQofCTRlLKHRvISmZMsZJ5tDlx-_7GD_fygGN4AiKgE9KGALOTgmaIgmCNGEcsyiYYEwA13CHglGbwXcRRlOWkd6sHN8-_eB988_P6re_-PCdTAe_X0En0zxPsrNqdb1eI7Hr-paDWHFYDYzI9iNvhd2DoAcQ9E3xhpHFy5wkP3cWiGMvEWN5t7jvRPCgf1XMKLxGYihAyRpDk0SNrAFkIgxQUbWn4mycT7hmIPkASNwA66geGM-UfKIpm4m281WRkIVmKGviRtL4taie77IxLl0CMFaVF32J2_W5YCqr_EbaeuhOkw-Lb8r1ZT7Fnp849bfOk-KRG6ehnsRZfrf0b7EDt3SH2VCXbE9NXBG0c1Vn01m4rfeW3XSgNUfCfDXUZb69mRjwhdCiDSekWtJsEywjZdCDZxMlWrFaUqdMEna2IoHGUWODta0pq4Rel6WpmA7dCz_FG9JsGI66jK1q1kbVuPoA9lKBSATC4yVaBXL3wu2lScPDBGY7dAWrzzd82xGxoZQLVHeter65wrxlLNGslwSK14V7fU2iKWbRtKegse0bPaE_l4CqjvSsOZzN6zHPdzsNO1Cml5LbzwIBy3tWgG5lkczngEVJy550At5TCUY2pwna51oEG7aabtLgo7oDzH44FCUnUvlz2FSIucyuB-Os5W9H2bzdEcO57FAEaLfxrvQcLJLjbTPF7aZi-uxg4RMLVRTki97atGw9viq99wqOVtgvpfLuCePofunUcnDLMlFmx6nrwgRwa7CBESRsUDju4pbDUDhxXaLjxIl8-yRJY9cPnFchusKq8gvVikMHqQfBgz3on713Dw-OS7egk8LHb4PS2eFh5bhwq3BSeLoHfb-_W8CXX90jf310o_XD44-O_v4RLVzvV8P0ctXbjNMZLW1X5y5pCY22N4lSTuUWiyY3srX5KsIUd5oRn-Jn6J0ydKdcvi4fnXO6xKuUDv4rQ18fFO4f_e-WHr72VqWy9PUgtozAyW6-3M9vrxeevvHtX388-fnxd49aPx0XngE1#
+TITLE: Managed Internet Service
+TIME: 24.05.2024 01:54:09
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc={d7ed1bff-00fe-4faf-a348-3c4575ccc91e}&action=view&wd=target%28SOUTER-ROBERTSON%2C%20Alexander%20%28asout55%5C%29%2FClass%20Notes.one%7C5f0efc40-993a-4da5-bef1-f8535341ac76%2FUntitled%20Page%7C37c9e422-3aab-476b-84a5-267e60e0fdc0%2F%29&wdorigin=NavigationUrl
+TITLE: MAG11B_2024 Notebook
+TIME: 24.05.2024 01:55:12
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQALprxenP4f9Ho5bafHdq614%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 24.05.2024 01:59:03
+
+URL: https://outlook.office.com/mail/inbox/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQANPrWj9nu%2FRDgl6l47qVANM%3D
+TITLE: Outlook
+TIME: 24.05.2024 02:44:58
+
+URL: https://www.google.com/search?q=2048&oq=2048&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyDQgBEC4YgwEYsQMYgAQyDQgCEC4YgwEYsQMYgAQyCggDEAAYsQMYgAQyDQgEEAAYgwEYsQMYgAQyCggFEAAYsQMYgAQyDQgGEAAYgwEYsQMYgAQyBggHEAUYQNIBCDE2MTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: 2048 - Google Search
+TIME: 24.05.2024 02:01:39
+
+URL: https://fortnite.gg/
+TITLE: Fortnite Interactive Map - Fortnite.GG
+TIME: 24.05.2024 02:42:51
+
+URL: https://fortnite.gg/stats
+TITLE: Fortnite Stats & Leaderboards Tracker - Fortnite.GG
+TIME: 24.05.2024 02:46:21
+
+URL: https://fortnite.gg/stats?player=Swift+4390&platform=xbl
+TITLE: Swift 4390's Fortnite Stats Tracker - Fortnite.GG
+TIME: 24.05.2024 02:14:55
+
+URL: https://fortnite.gg/ranked-stats?player=Swift%204390&platform=xbl
+TITLE: Swift 4390's Fortnite Stats Tracker - Fortnite.GG
+TIME: 24.05.2024 02:15:11
+
+URL: https://fortnite.gg/stats?player=Swift%204390&platform=xbl
+TITLE: Swift 4390's Fortnite Stats Tracker - Fortnite.GG
+TIME: 24.05.2024 02:17:49
+
+URL: https://www.google.com/search?q=fortnite+tracker&oq=fortnite+t&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyBggBEEUYOTINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDIGCAQQRRg8MgYIBRAFGEAyBggGEEUYPDIGCAcQRRg8qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: fortnite tracker - Google Search
+TIME: 24.05.2024 02:16:42
+
+URL: https://fortnite.gg/stats?player=Vision+H4Z3&platform=xbl
+TITLE: Vision H4Z3's Fortnite Stats Tracker - Fortnite.GG
+TIME: 24.05.2024 02:17:04
+
+URL: https://fortnite.gg/stats?player=Vision%20H4Z3&platform=xbl
+TITLE: Vision H4Z3's Fortnite Stats Tracker - Fortnite.GG
+TIME: 24.05.2024 02:17:12
+
+URL: https://fortnite.gg/stats?player=NSG+H4Z3
+TITLE: NSG H4Z3's Fortnite Stats Tracker - Fortnite.GG
+TIME: 24.05.2024 02:17:33
+
+URL: https://fortnite.gg/stats?player=NSG+H4Z3&platform=xbl
+TITLE: NSG H4Z3's Fortnite Stats Tracker - Fortnite.GG
+TIME: 24.05.2024 02:17:42
+
+URL: https://fortnite.gg/locker
+TITLE: Locker - Fortnite.GG
+TIME: 24.05.2024 02:18:00
+
+URL: https://fortnite.gg/leaks
+TITLE: All Fortnite Leaked and Upcoming Cosmetics - Fortnite.GG
+TIME: 24.05.2024 02:18:03
+
+URL: https://fortnite.gg/leaks?type=outfit
+TITLE: All Fortnite Leaked and Upcoming Skins / Outfits - Fortnite.GG
+TIME: 24.05.2024 02:18:21
+
+URL: https://fortnite.gg/shop
+TITLE: Today's Current Fortnite Item Shop - Fortnite.GG
+TIME: 24.05.2024 02:18:51
+
+URL: https://fortnite.gg/best-seasons
+TITLE: Best Fortnite Seasons - Fortnite.GG
+TIME: 24.05.2024 02:28:08
+
+URL: https://fortnite.gg/best-cosmetics
+TITLE: Best Fortnite Skins / Outfits - Fortnite.GG
+TIME: 24.05.2024 02:19:33
+
+URL: https://fortnite.gg/best-cosmetics?type=emote
+TITLE: Best Fortnite Skins / Outfits - Fortnite.GG
+TIME: 24.05.2024 02:26:12
+
+URL: https://fortnite.gg/best-cosmetics?type=pickaxe
+TITLE: Best Fortnite Skins / Outfits - Fortnite.GG
+TIME: 24.05.2024 02:22:41
+
+URL: https://fortnite.gg/best-cosmetics?type=backpack
+TITLE: Best Fortnite Skins / Outfits - Fortnite.GG
+TIME: 24.05.2024 02:23:21
+
+URL: https://fortnite.gg/best-cosmetics?type=glider
+TITLE: Best Fortnite Skins / Outfits - Fortnite.GG
+TIME: 24.05.2024 02:23:58
+
+URL: https://fortnite.gg/best-cosmetics?type=wrap
+TITLE: Best Fortnite Skins / Outfits - Fortnite.GG
+TIME: 24.05.2024 02:26:10
+
+URL: https://fortnite.gg/best-cosmetics?type=loadingscreen
+TITLE: Best Fortnite Skins / Outfits - Fortnite.GG
+TIME: 24.05.2024 02:26:08
+
+URL: https://fortnite.gg/best-cosmetics?type=music
+TITLE: Best Fortnite Skins / Outfits - Fortnite.GG
+TIME: 24.05.2024 02:25:48
+
+URL: https://fortnite.gg/best-cosmetics?type=contrail
+TITLE: Best Fortnite Skins / Outfits - Fortnite.GG
+TIME: 24.05.2024 02:25:33
+
+URL: https://fortnite.gg/best-cosmetics?type=spray
+TITLE: Best Fortnite Skins / Outfits - Fortnite.GG
+TIME: 24.05.2024 02:25:36
+
+URL: https://fortnite.gg/best-cosmetics?type=outfit
+TITLE: Best Fortnite Skins / Outfits - Fortnite.GG
+TIME: 24.05.2024 02:26:13
+
+URL: https://fortnite.gg/best-survey-skins
+TITLE: Best Fortnite Survey Skins - Fortnite.GG
+TIME: 24.05.2024 02:27:08
+
+URL: https://fortnite.gg/best-crew-skins
+TITLE: Best Fortnite Crew Skins - Fortnite.GG
+TIME: 24.05.2024 02:28:44
+
+URL: https://fortnite.gg/best-fanmade-skins
+TITLE: Best Fortnite Fan-Made Skins - Fortnite.GG
+TIME: 24.05.2024 02:28:50
+
+URL: https://fortnite.gg/lore
+TITLE: Fortnite Lore - Fortnite.GG
+TIME: 24.05.2024 02:29:16
+
+URL: https://fortnite.gg/pro-settings
+TITLE: Pro Settings - Fortnite.GG
+TIME: 24.05.2024 02:30:05
+
+URL: https://fortnite.gg/pro-settings?p=scoped
+TITLE: Scoped Fortnite Settings, Keybinds, Sensitivity & Setup - Fortnite.GG
+TIME: 24.05.2024 02:29:57
+
+URL: https://fortnite.gg/pro-settings?p=sway
+TITLE: Sway Fortnite Settings, Keybinds, Sensitivity & Setup - Fortnite.GG
+TIME: 24.05.2024 02:30:12
+
+URL: https://fortnite.gg/xp
+TITLE: XP - Fortnite.GG
+TIME: 24.05.2024 02:30:25
+
+URL: https://fortnite.gg/map-evolution
+TITLE: Map Evolution - Fortnite.GG
+TIME: 24.05.2024 02:30:55
+
+URL: https://fortnite.gg/player-count
+TITLE: Fortnite Player Count · Most Played Fortnite Maps - Fortnite.GG
+TIME: 24.05.2024 02:31:53
+
+URL: https://fortnite.gg/most-used-skins
+TITLE: Most Used Fortnite Skins - Fortnite.GG
+TIME: 24.05.2024 02:32:53
+
+URL: https://fortnite.gg/cosmetic-stats
+TITLE: Cosmetic Stats - Fortnite.GG
+TIME: 24.05.2024 02:43:02
+
+URL: https://fortnite.gg/stats?player=6v.
+TITLE: 6v.'s Fortnite Stats Tracker - Fortnite.GG
+TIME: 24.05.2024 02:46:10
+
+URL: https://fortnite.gg/ranked-stats?player=6v.
+TITLE: 6v.'s Fortnite Stats Tracker - Fortnite.GG
+TIME: 24.05.2024 02:46:10
+
+URL: https://fortnite.gg/stats?player=Dual%D1%96t%D1%83
+TITLE: Dualіtу's Fortnite Stats Tracker - Fortnite.GG
+TIME: 24.05.2024 02:46:15
+
+URL: https://fortnite.gg/stats?leaderboard=level
+TITLE: Fortnite Level Leaderboard Tracker - Fortnite.GG
+TIME: 24.05.2024 02:46:27
+
+URL: https://fortnite.gg/stats?leaderboard=level&page=2
+TITLE: Fortnite Level Leaderboard Tracker - Fortnite.GG
+TIME: 24.05.2024 02:46:30
+
+URL: https://fortnite.gg/stats?leaderboard=wins
+TITLE: Fortnite Wins Leaderboard Tracker - Fortnite.GG
+TIME: 24.05.2024 02:46:33
+
+URL: https://fortnite.gg/stats?leaderboard=time
+TITLE: Fortnite Time Leaderboard Tracker - Fortnite.GG
+TIME: 24.05.2024 02:46:36
+
+URL: https://fortnite.gg/stats?leaderboard=kills
+TITLE: Fortnite Kills Leaderboard Tracker - Fortnite.GG
+TIME: 24.05.2024 02:47:07
+
+URL: https://fortnite.gg/stats?player=%E2%93%9A%E2%93%90%D7%A9%D9%91%D9%8D%D9%8B%D9%8D%D9%8D%D9%8D%D9%8D%D9%8D%D9%8D%D9%8D%D9%8D%E2%93%99%E2%93%9A
+TITLE: ⓚⓐשًٍٍٍٍٍٍٍٍٍّⓙⓚ's Fortnite Stats Tracker - Fortnite.GG
+TIME: 24.05.2024 02:47:06
+
+URL: https://fortnite.gg/ranked-stats?player=%E2%93%9A%E2%93%90%D7%A9%D9%91%D9%8D%D9%8B%D9%8D%D9%8D%D9%8D%D9%8D%D9%8D%D9%8D%D9%8D%D9%8D%E2%93%99%E2%93%9A
+TITLE: ⓚⓐשًٍٍٍٍٍٍٍٍٍّⓙⓚ's Fortnite Stats Tracker - Fortnite.GG
+TIME: 24.05.2024 02:47:01
+
+URL: https://fortnite.gg/racing-stats?leaderboard=rank
+TITLE: Fortnite Rocket Racing Leaderboard Tracker - Fortnite.GG
+TIME: 24.05.2024 02:47:17
+
+URL: https://accounts.google.com/gsi/select?client_id=366017072728-fih7d2fq1jtgpj9ctrbg5mmp95r3gf7n.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=ybkz9vDpGaUk%2FmDX%2BVJrKw&channel_id=3137f23b70a16c1e400f06ff7cc8fc6e46b8236611f7de3edfbe06547f7c62de&origin=https%3A%2F%2Fid.blooket.com
+TITLE: Sign in - Google Accounts
+TIME: 24.05.2024 02:47:57
+
+URL: https://accounts.google.com/AddSession?faa=1&rip=1&continue=https://accounts.google.com/gsi/select?client_id%3D366017072728-fih7d2fq1jtgpj9ctrbg5mmp95r3gf7n.apps.googleusercontent.com%26ux_mode%3Dpopup%26ui_mode%3Dcard%26as%3Dybkz9vDpGaUk/mDX%252BVJrKw%26channel_id%3D3137f23b70a16c1e400f06ff7cc8fc6e46b8236611f7de3edfbe06547f7c62de%26origin%3Dhttps://id.blooket.com
+TITLE: Sign in - Google Accounts
+TIME: 24.05.2024 02:47:57
+
+URL: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2Fgsi%2Fselect%3Fclient_id%3D366017072728-fih7d2fq1jtgpj9ctrbg5mmp95r3gf7n.apps.googleusercontent.com%26ux_mode%3Dpopup%26ui_mode%3Dcard%26as%3Dybkz9vDpGaUk%2FmDX%252BVJrKw%26channel_id%3D3137f23b70a16c1e400f06ff7cc8fc6e46b8236611f7de3edfbe06547f7c62de%26origin%3Dhttps%3A%2F%2Fid.blooket.com&faa=1&rip=1&flowName=GlifWebSignIn&flowEntry=AddSession&dsh=S-1459343703%3A1716508022841244&ddm=0
+TITLE: Sign in - Google Accounts
+TIME: 24.05.2024 02:47:58
+
+URL: https://accounts.google.com/v3/signin/challenge/pwd?TL=ALv_Gf9ETfF5R33rXJkkSm0un-mPVQ7u0_KsOGEg3Kt6ZMRufqZu36Ya_kP6SfP7&checkConnection=youtube%3A466&checkedDomains=youtube&cid=1&continue=https%3A%2F%2Faccounts.google.com%2Fgsi%2Fselect%3Fclient_id%3D366017072728-fih7d2fq1jtgpj9ctrbg5mmp95r3gf7n.apps.googleusercontent.com%26ux_mode%3Dpopup%26ui_mode%3Dcard%26as%3Dybkz9vDpGaUk%2FmDX%252BVJrKw%26channel_id%3D3137f23b70a16c1e400f06ff7cc8fc6e46b8236611f7de3edfbe06547f7c62de%26origin%3Dhttps%3A%2F%2Fid.blooket.com&ddm=0&dsh=S-1459343703%3A1716508022841244&faa=1&flowEntry=AddSession&flowName=GlifWebSignIn&pstMsg=1&rip=1
+TITLE: Sign in - Google Accounts
+TIME: 24.05.2024 02:48:06
+
+URL: https://accounts.google.com/signin/v2/passkeyenrollment?TL=ALv_Gf9ETfF5R33rXJkkSm0un-mPVQ7u0_KsOGEg3Kt6ZMRufqZu36Ya_kP6SfP7&checkConnection=youtube%3A466&checkedDomains=youtube&continue=https%3A%2F%2Faccounts.google.com%2Fgsi%2Fselect%3Fclient_id%3D366017072728-fih7d2fq1jtgpj9ctrbg5mmp95r3gf7n.apps.googleusercontent.com%26ux_mode%3Dpopup%26ui_mode%3Dcard%26as%3Dybkz9vDpGaUk%2FmDX%252BVJrKw%26channel_id%3D3137f23b70a16c1e400f06ff7cc8fc6e46b8236611f7de3edfbe06547f7c62de%26origin%3Dhttps%3A%2F%2Fid.blooket.com&ddm=0&dsh=S-1459343703%3A1716508022841244&faa=1&flowEntry=AddSession&flowName=GlifWebSignIn&pstMsg=1&rip=1
+TITLE: Sign in - Google Accounts
+TIME: 24.05.2024 02:48:45
+
+URL: https://accounts.google.com/signin/v2/passkeyenrollment/success?TL=ALv_Gf9ETfF5R33rXJkkSm0un-mPVQ7u0_KsOGEg3Kt6ZMRufqZu36Ya_kP6SfP7&checkConnection=youtube%3A466&checkedDomains=youtube&continue=https%3A%2F%2Faccounts.google.com%2Fgsi%2Fselect%3Fclient_id%3D366017072728-fih7d2fq1jtgpj9ctrbg5mmp95r3gf7n.apps.googleusercontent.com%26ux_mode%3Dpopup%26ui_mode%3Dcard%26as%3Dybkz9vDpGaUk%2FmDX%252BVJrKw%26channel_id%3D3137f23b70a16c1e400f06ff7cc8fc6e46b8236611f7de3edfbe06547f7c62de%26origin%3Dhttps%3A%2F%2Fid.blooket.com&ddm=0&dsh=S-1459343703%3A1716508022841244&faa=1&flowEntry=AddSession&flowName=GlifWebSignIn&pstMsg=1&rip=1
+TITLE: Sign in - Google Accounts
+TIME: 24.05.2024 02:48:56
+
+URL: https://www.google.com/search?q=unblocked+games&oq=unblocked+g&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgoIARAuGLEDGIAEMgYIAhBFGEAyBggDEEUYOTINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDINCAcQABiDARixAxiABKgCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: unblocked games - Google Search
+TIME: 24.05.2024 02:50:15
+
+URL: https://www.google.com/search?q=family+feud+unblocked&oq=family+fue&gs_lcrp=EgZjaHJvbWUqCQgCEAAYChiABDIGCAAQRRg5Mg8IARAuGAoYgwEYsQMYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgwIBBAAGAoYsQMYgAQyDwgFEAAYChiDARixAxiABDIMCAYQABgKGLEDGIAEMgkIBxAAGAoYgAQyCQgIEC4YChiABNIBCDU5MzdqMGo5qAIIsAIB&sourceid=chrome&ie=UTF-8
+TITLE: family feud unblocked - Google Search
+TIME: 24.05.2024 02:50:26
+
+URL: https://play.dictionary.com/games/family-feud
+TITLE: Free Online Daily Games | From Dictionary.com
+TIME: 24.05.2024 05:37:15
+
+URL: https://qed07.instructure.com/courses/72794
+TITLE: PSY11D_2024
+TIME: 24.05.2024 04:47:58
+
+URL: https://qed07.instructure.com/courses/72794/assignments
+TITLE: Assignments: PSY11D_2024
+TIME: 27.05.2024 06:43:47
+
+URL: https://qed07.instructure.com/courses/72794/assignments/155673
+TITLE: FA3 DRAFT - Research Report DUE Term 3 Week 5
+TIME: 24.05.2024 04:48:05
+
+URL: https://qed07.instructure.com/courses/72794/assignments/113840
+TITLE: FA2 - DRAFT - Student Experiment - DUE Term 2 Week 5
+TIME: 24.05.2024 04:48:17
+
+URL: https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638521121134294684.NjRjYmZkNzctMzc4NS00M2JmLWEwMjItMmRiYmNjNzMxZThhYzRmZGRhNTYtMDMyZC00ZTU3LWI2MGMtNjIwMmE5M2YyNjJm&ui_locales=en-US&mkt=en-US&login_hint=asout55%40eq.edu.au&msafed=0&client-request-id=52ef382a-e0d5-4df6-994f-dae71b06f3d9&state=OTRa3x3copXCsJvXmU5TUHkC6ns1Id6FVL9Gcdip6AoXlMiJ4_StloxAoFS1u5DpNu8FQmV-Uctqlo3pgd1YrIKEoey3c0C0gJ9kwD1BVzI5L3iRPkvnYTYCR_dxy324uv1OywfB-hIR5ZUkeEMzEq3FJ3TZuomHHU90tYS9UtuLVkRXQK7uD90cdsgYwZeecLkocv9445H9TXWxiPbFOD-Ns5H0qkwlAzq5k6JoCj78xaLru9iz9pkHWRzePaLwbfMbVE4AbhXlDwPUNmt3sVUp_DqSBqe-XkJ7KqV80GFpvxaRlOdk55WDi9IZ-hgeoyIx0P7wEAiP8r80_v6ixS5Yy1KOezqbSUpOtuM2J5U&x-client-SKU=ID_NET6_0&x-client-ver=7.3.1.0
+TITLE: Working...
+TIME: 24.05.2024 04:49:28
+
+URL: https://qedu-my.sharepoint.com/personal/asout55_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7BB9A9B9E8-20CE-41B8-A542-C25EB56624E0%7D&file=Student+Experiment+Scaffold+Psych+xander+-+Copy.docx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=asout55%40eq.edu.au&ct=1716515385154&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&cid=2af32203-8bce-4bea-a0b8-f1b32d6141bc&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=a50ae724-b030-42bc-bcd0-42f09335b4c7
+TITLE: Student Experiment Scaffold Psych xander - Copy.docx
+TIME: 24.05.2024 04:49:46
+
+URL: https://qedu-my.sharepoint.com/:w:/r/personal/asout55_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7BB9A9B9E8-20CE-41B8-A542-C25EB56624E0%7D&file=Student%20Experiment%20Scaffold%20Psych%20xander%20-%20Copy.docx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=asout55%40eq.edu.au&ct=1716515385154&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&cid=2af32203-8bce-4bea-a0b8-f1b32d6141bc&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=a50ae724-b030-42bc-bcd0-42f09335b4c7
+TITLE: Student Experiment Scaffold Psych xander - Copy.docx
+TIME: 24.05.2024 04:49:46
+
+URL: https://outlook.office.com/mail/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQAM5zgCwnCZtIpaWCKuzvYbw%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 24.05.2024 04:52:57
+
+URL: https://qedu-my.sharepoint.com/personal/nhatc2_eq_edu_au/_layouts/OneNote.aspx?id=%2Fpersonal%2Fnhatc2_eq_edu_au%2FDocuments%2FClass%20Notebooks%2FPSY11D_2024&wd=target%28_Content%20Library%2FYear%2011%20Assessments.one%7C7F7E8A14-4DA0-4BA6-9B08-381EC75ACA96%2FFA2%20Student%20Experiment%202024%7C87DC8E0A-DA81-4FEB-85B4-125CD54DCCFE%2F%29&CT=1716515561880&OR=OWA-NT-Mail&CID=9a63b968-02b3-e2e9-ca1e-cf974e5b0b6d
+TITLE: PSY11D_2024
+TIME: 24.05.2024 04:52:42
+
+URL: https://qedu-my.sharepoint.com/personal/nhatc2_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%2Fpersonal%2Fnhatc2%5Feq%5Fedu%5Fau%2FDocuments%2FClass%20Notebooks%2FPSY11D%5F2024&action=edit&wd=target%28%5FContent%20Library%2FYear%2011%20Assessments%2Eone%7C7F7E8A14%2D4DA0%2D4BA6%2D9B08%2D381EC75ACA96%2FFA2%20Student%20Experiment%202024%7C87DC8E0A%2DDA81%2D4FEB%2D85B4%2D125CD54DCCFE%2F%29&CT=1716515561880&OR=OWA%2DNT%2DMail&CID=9a63b968%2D02b3%2De2e9%2Dca1e%2Dcf974e5b0b6d
+TITLE: PSY11D_2024
+TIME: 24.05.2024 04:52:42
+
+URL: https://qedu-my.sharepoint.com/personal/nhatc2_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc={f33c490b-45c3-4e90-af17-68cbfe0008a4}&action=edit&wd=target%28%5FContent%20Library%2FYear%2011%20Assessments%2Eone%7C7F7E8A14%2D4DA0%2D4BA6%2D9B08%2D381EC75ACA96%2FFA2%20Student%20Experiment%202024%7C87DC8E0A%2DDA81%2D4FEB%2D85B4%2D125CD54DCCFE%2F%29&CT=1716515561880&OR=OWA%2DNT%2DMail&CID=9a63b968%2D02b3%2De2e9%2Dca1e%2Dcf974e5b0b6d
+TITLE: PSY11D_2024
+TIME: 24.05.2024 04:52:42
+
+URL: https://qedu-my.sharepoint.com/:o:/r/personal/nhatc2_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7Bf33c490b-45c3-4e90-af17-68cbfe0008a4%7D&action=edit&wd=target(_Content%20Library%2FYear%2011%20Assessments.one%7C7F7E8A14-4DA0-4BA6-9B08-381EC75ACA96%2FFA2%20Student%20Experiment%202024%7C87DC8E0A-DA81-4FEB-85B4-125CD54DCCFE%2F)&CID=9a63b968-02b3-e2e9-ca1e-cf974e5b0b6d
+TITLE: PSY11D_2024
+TIME: 24.05.2024 04:52:43
+
+URL: https://outlook.office.com/mail/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQAJHspS1Jom1OtteUmF0kLVk%3D
+TITLE: Mail - SOUTER-ROBERTSON, Alexander (asout55) - Outlook
+TIME: 24.05.2024 04:52:48
+
+URL: https://qedu-my.sharepoint.com/personal/nhatc2_eq_edu_au/_layouts/OneNote.aspx?id=%2Fpersonal%2Fnhatc2_eq_edu_au%2FDocuments%2FClass%20Notebooks%2FPSY11D_2024&wd=target%28_Content%20Library%2FYear%2011%20Assessments.one%7C7F7E8A14-4DA0-4BA6-9B08-381EC75ACA96%2FFA2%20Student%20Experiment%202024%7C87DC8E0A-DA81-4FEB-85B4-125CD54DCCFE%2F%29&CT=1716515579052&OR=OWA-NT-Mail&CID=10a07c0d-816a-2324-f0b9-19a4269dd1a0
+TITLE: PSY11D_2024
+TIME: 24.05.2024 04:52:59
+
+URL: https://qedu-my.sharepoint.com/personal/nhatc2_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%2Fpersonal%2Fnhatc2%5Feq%5Fedu%5Fau%2FDocuments%2FClass%20Notebooks%2FPSY11D%5F2024&action=edit&wd=target%28%5FContent%20Library%2FYear%2011%20Assessments%2Eone%7C7F7E8A14%2D4DA0%2D4BA6%2D9B08%2D381EC75ACA96%2FFA2%20Student%20Experiment%202024%7C87DC8E0A%2DDA81%2D4FEB%2D85B4%2D125CD54DCCFE%2F%29&CT=1716515579052&OR=OWA%2DNT%2DMail&CID=10a07c0d%2D816a%2D2324%2Df0b9%2D19a4269dd1a0
+TITLE: PSY11D_2024
+TIME: 24.05.2024 04:52:59
+
+URL: https://qedu-my.sharepoint.com/personal/nhatc2_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc={f33c490b-45c3-4e90-af17-68cbfe0008a4}&action=edit&wd=target%28%5FContent%20Library%2FYear%2011%20Assessments%2Eone%7C7F7E8A14%2D4DA0%2D4BA6%2D9B08%2D381EC75ACA96%2FFA2%20Student%20Experiment%202024%7C87DC8E0A%2DDA81%2D4FEB%2D85B4%2D125CD54DCCFE%2F%29&CT=1716515579052&OR=OWA%2DNT%2DMail&CID=10a07c0d%2D816a%2D2324%2Df0b9%2D19a4269dd1a0
+TITLE: PSY11D_2024
+TIME: 24.05.2024 04:52:59
+
+URL: https://qedu-my.sharepoint.com/:o:/r/personal/nhatc2_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7Bf33c490b-45c3-4e90-af17-68cbfe0008a4%7D&action=edit&wd=target(_Content%20Library%2FYear%2011%20Assessments.one%7C7F7E8A14-4DA0-4BA6-9B08-381EC75ACA96%2FFA2%20Student%20Experiment%202024%7C87DC8E0A-DA81-4FEB-85B4-125CD54DCCFE%2F)&CID=10a07c0d-816a-2324-f0b9-19a4269dd1a0
+TITLE: PSY11D_2024
+TIME: 24.05.2024 04:53:00
+
+URL: https://qedu-my.sharepoint.com/personal/nhatc2_eq_edu_au/_layouts/15/Doc.aspx?sourcedoc={f33c490b-45c3-4e90-af17-68cbfe0008a4}&action=view&wd=target%28_Content%20Library%2FYear%2011%20Assessments.one%7C7f7e8a14-4da0-4ba6-9b08-381ec75aca96%2FFA2%20Student%20Experiment%202024%7C87dc8e0a-da81-4feb-85b4-125cd54dccfe%2F%29&wdorigin=NavigationUrl
+TITLE: PSY11D_2024
+TIME: 24.05.2024 04:53:02
+
+URL: file:///C:/Users/xande/Downloads/snr_psychology_19_ia2_asr_high.pdf
+TITLE: Psychology 2019 v1.4 IA2 high-level annotated sample response
+TIME: 24.05.2024 04:53:21
+
+URL: https://www.google.com/search?q=short+ter+memory+test+examples&oq=short+ter+memory+test+examples&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjINCAMQABiGAxiABBiKBTIKCAQQABiiBBiJBTIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBCDY2MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: short ter memory test examples - Google Search
+TIME: 24.05.2024 05:01:08
+
+URL: https://www.google.com/search?q=short+ter+memory+test+examples&oq=short+ter+memory+test+examples&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjINCAMQABiGAxiABBiKBTIKCAQQABiiBBiJBTIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBCDY2MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#cobssid=s
+TITLE: short ter memory test examples - Google Search
+TIME: 24.05.2024 05:01:14
+
+URL: https://www.google.com/search?q=short+ter+memory+test+examples&oq=short+ter+memory+test+examples&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjINCAMQABiGAxiABBiKBTIKCAQQABiiBBiJBTIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBCDY2MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#cobssid=s&kpvalbx=_rPRPZpm2I5_NseMP1o-U8As_29
+TITLE: short ter memory test examples - Google Search
+TIME: 24.05.2024 05:02:05
+
+URL: https://qed07.instructure.com/courses/72794/assignments/113843
+TITLE: FA2 - FINAL - Student Experiment - DUE Term 2 Week 7
+TIME: 27.05.2024 06:43:54
+
+URL: https://www.google.com/search?q=if+you+had+to+hide+a+dead+body+in+your+house+where+would+you+put+it+family+feud&oq=if+you+had+to+hide+a+dead+body+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDINCAIQABiGAxiABBiKBTINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBTIKCAUQABiiBBiJBdIBCTEzMTM4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: if you had to hide a dead body in your house where would you put it family feud - Google Search
+TIME: 24.05.2024 05:11:36
+
+URL: https://fbfeudguide.com/if-you-had-to-hide-a-dead-body-in-your-house-where-would-you-put-it/
+TITLE: If You Had To Hide A Dead Body In Your House, Where Would You Put It? - Family Feud Guide : Family Feud Guide
+TIME: 24.05.2024 05:11:45
+
+URL: https://www.google.com/search?q=tell+me+a+pet+that+lives+a+long+time+family+feud&oq=tell+me+a+pet+that+liv&gs_lcrp=EgZjaHJvbWUqCAgCEAAYFhgeMgcIABAAGIAEMgYIARBFGDkyCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoFMgoIBRAAGIAEGKIE0gEINjMwN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: tell me a pet that lives a long time family feud - Google Search
+TIME: 24.05.2024 05:13:25
+
+URL: https://fbfeudguide.com/tell-me-a-pet-that-lives-a-long-time/
+TITLE: Tell Me A Pet That Lives A Long Time. - Family Feud Guide : Family Feud Guide
+TIME: 24.05.2024 05:13:31
+
+URL: https://www.google.com/search?q=besides+chicken+what+is+a+bird+people+eat&oq=besides+chicken+what+&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIICAIQABgWGB4yDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyDQgGEAAYhgMYgAQYigUyCggHEAAYgAQYogQyCggIEAAYgAQYogSoAgCwAgE&sourceid=chrome&ie=UTF-8
+TITLE: besides chicken what is a bird people eat - Google Search
+TIME: 24.05.2024 05:17:58
+
+URL: https://www.google.com/search?q=a+invitation+to+a+cheap+wedding+might+say&oq=a+invitation+to+a+cheap+wedding+might+say&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjIICAMQABgWGB4yDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyCggGEAAYgAQYogQyCggHEAAYgAQYogQyBggIEEUYQNIBCDE5ODJqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: an invitation to a cheap wedding might say - Google Search
+TIME: 24.05.2024 05:23:48
+
+URL: https://www.google.com/search?q=name+something+specific+that+a+parent+gets+tired+of+picking+up&oq=name+something+specfic+that+you+parent+might+&gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjINCAMQABiGAxiABBiKBTIKCAQQABiABBiiBDIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBCTE5NzczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: name something specific that a parent gets tired of picking up - Google Search
+TIME: 24.05.2024 05:25:59
+
+URL: https://www.google.com/search?q=name+something+that+might+be+on+your+roof&sca_esv=9ec7993900a25091&sxsrf=ADLYWIIlrbD0W6_4vfIOWJtxEEMlDWtEpQ%3A1716517503857&ei=f_pPZrz1M-bzg8UP5JuXsAw&oq=name+something+that+might+be+on+yo&gs_lp=Egxnd3Mtd2l6LXNlcnAiIm5hbWUgc29tZXRoaW5nIHRoYXQgbWlnaHQgYmUgb24geW8qAggAMgsQABiABBiRAhiKBTIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHkjzPVDuAliHL3ABeAGQAQCYAYYCoAGbNqoBBzAuMTguMTa4AQHIAQD4AQGYAiOgAoI4qAISwgIHECMYJxjqAsICBxAuGCcY6gLCAhQQABiABBjjBBi0AhjpBBjqAtgBAcICChAjGIAEGCcYigXCAgsQLhiABBixAxiDAcICCxAAGIAEGLEDGIMBwgIREC4YgAQYsQMY0QMYgwEYxwHCAgoQABiABBhDGIoFwgIFEAAYgATCAgsQABiABBiGAxiKBZgDGLoGBggBEAEYAZIHBzEuMTcuMTegB4SQAg&sclient=gws-wiz-serp
+TITLE: name something that might be on your roof - Google Search
+TIME: 24.05.2024 05:26:48
+
+URL: https://www.google.com/search?q=name+a+place+you+go+where+everyone+is+lying+down&sca_esv=9ec7993900a25091&sxsrf=ADLYWIKSo5iHHGLUaqha_sXrVlXobbjXvw%3A1716517552910&ei=sPpPZseTN7q84-EPv6ix0AU&oq=name+a+place+you+go+where+everyone+&gs_lp=Egxnd3Mtd2l6LXNlcnAiI25hbWUgYSBwbGFjZSB5b3UgZ28gd2hlcmUgZXZlcnlvbmUgKgIIADIFEAAYgAQyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCBAAGKIEGIkFMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESORNUKIDWI5DcAF4AJABAJgBygOgAYk-qgELMC4xMy4xOS4yLjG4AQHIAQD4AQGYAiSgAuA_qAIUwgIHECMYJxjqAsICFhAAGAMYtAIY5QIY6gIYjAMYjwHYAQHCAhYQLhgDGLQCGOUCGOoCGIwDGI8B2AEBwgIKECMYgAQYJxiKBcICCxAuGIAEGLEDGIMBwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICChAAGIAEGEMYigXCAgsQABiABBiRAhiKBcICChAAGIAEGBQYhwLCAgcQABiABBgKwgIGEAAYFhgewgIIEAAYFhgKGB6YAxK6BgYIARABGAuSBwsxLjEwLjIyLjIuMaAH55IC&sclient=gws-wiz-serp
+TITLE: name a place you go where everyone is lying down - Google Search
+TIME: 24.05.2024 05:30:25
+
+URL: https://www.familyfeudinfo.com/question.php?id=130411
+TITLE: Name A Place You Go Where Everyone Is Lying Down. - Family Feud Answers
+TIME: 24.05.2024 05:31:36
+
+URL: https://www.familyfeudinfo.com/sitemap.php
+TITLE: Site Map - Family Feud Answers
+TIME: 24.05.2024 05:32:27
+
+URL: https://www.google.com/search?q=name+an+activity+that+is+better+when+its+windy&oq=name+an+activity+that+is+better+when+its+windy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyCggGEAAYogQYiQXSAQkxNTUxNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: name an activity that is better when its windy - Google Search
+TIME: 24.05.2024 05:33:22
+
+URL: https://creativestarlearning.co.uk/early-years-outdoors/10-ideas-for-windy-days/#:~:text=Fly%20a%20kite&text=Ensure%20there%20is%20plenty%20of,when%20the%20wind%20is%20gentle.
+TITLE: 10+ Ideas for Windy Days | Creative STAR Learning | I'm a teacher, get me OUTSIDE here!
+TIME: 24.05.2024 05:33:12
+
+URL: https://www.familyfeudinfo.com/question.php?id=130415
+TITLE: Name An Activity That’s Easier To Do When It’s Windy. - Family Feud Answers
+TIME: 24.05.2024 05:33:27
+
+URL: https://www.google.com/search?q=name+somthing+people+rush+into&oq=name+somthing+people+rush+into&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgAQyCQgJEAAYChiABNIBCDUyOTRqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8
+TITLE: name somthing people rush into - Google Search
+TIME: 24.05.2024 05:34:28
+
+URL: https://www.google.com/search?q=name+an+accessory+kids+put+on+bikes&sca_esv=9ec7993900a25091&sxsrf=ADLYWIJNgHaRH_NxS5nayrDsGqc73W1IKA%3A1716518012558&ei=fPxPZpbKIYONseMP4NS5kA8&oq=name+an+access&gs_lp=Egxnd3Mtd2l6LXNlcnAiDm5hbWUgYW4gYWNjZXNzKgIIADIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMggQABgWGB4YDzIIEAAYFhgeGA8yCBAAGBYYHhgPMgsQABiABBiGAxiKBUiDRlDsBVjfNHABeAGQAQCYAckCoAG7EaoBBzAuMy42LjG4AQHIAQD4AQGYAgugApQSwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAAGIAEGJECGIoFwgIIEAAYgAQYsQPCAggQABiiBBiJBcICCBAAGIAEGKIEwgIIEAAYFhgKGB6YAwDiAwUSATEgQIgGAZAGA5IHBzEuMy42LjGgB-lI&sclient=gws-wiz-serp
+TITLE: name an accessory kids put on bikes - Google Search
+TIME: 24.05.2024 05:39:37
+
+URL: https://www.google.com/search?q=name+a+job+that+requires+a+foreign+language&sca_esv=9ec7993900a25091&sxsrf=ADLYWIKgCMlGTRM_xqYq0JgVXFu3o-GrNw%3A1716518322183&ei=sv1PZunTCvXe4-EPv7OQwAs&oq=name+a+job+that+re&gs_lp=Egxnd3Mtd2l6LXNlcnAiEm5hbWUgYSBqb2IgdGhhdCByZSoCCAAyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCBAAGKIEGIkFMggQABiiBBiJBUiKL1CjAligIHABeACQAQCYAfoCoAHSH6oBCDAuNy4xMC4xuAEByAEA-AEBmAIToALTIKgCEMICBxAjGCcY6gLCAhQQABiABBjjBBi0AhjpBBjqAtgBAcICFhAAGAMYtAIY5QIY6gIYjAMYjwHYAQLCAgoQIxiABBgnGIoFwgIEECMYJ8ICCxAuGIAEGLEDGIMBwgILEAAYgAQYsQMYgwHCAgsQLhiABBjRAxjHAcICERAuGIAEGLEDGNEDGIMBGMcBwgIQEC4YgAQY0QMYQxjHARiKBcICChAAGIAEGEMYigXCAgsQABiABBiRAhiKBcICCBAAGIAEGKIEmAMXugYGCAEQARgBugYGCAIQARgLkgcHMS43LjkuMqAH05MB&sclient=gws-wiz-serp
+TITLE: name a job that requires a foreign language - Google Search
+TIME: 24.05.2024 05:41:34
+
+URL: https://www.familyfeudinfo.com/question.php?id=113281
+TITLE: Name a job that might require speaking more than one language. - Family Feud Answers
+TIME: 24.05.2024 05:42:19
+
+URL: https://play.dictionary.com/category/daily
+TITLE: Free Online Daily Games | From Dictionary.com
+TIME: 24.05.2024 05:44:04
+
+URL: https://play.dictionary.com/all-games
+TITLE: Your Favorite Free Online Games | From Dictionary.com
+TIME: 27.05.2024 03:51:51
+
+URL: https://play.dictionary.com/games/block-champ
+TITLE: Your Favorite Free Online Games | From Dictionary.com
+TIME: 27.05.2024 03:46:01
+
+URL: https://www.google.com/search?q=when+is+the+new+fortnite+season&oq=when+is+the+new+&gs_lcrp=EgZjaHJvbWUqDQgBEAAYgwEYsQMYgAQyBggAEEUYOTINCAEQABiDARixAxiABDIQCAIQABiDARiLAxixAxiABDIKCAMQABiLAxiABDIKCAQQABiLAxiABDIKCAUQABiLAxiABDIKCAYQABiLAxiABDIKCAcQABiLAxiABDIKCAgQABiLAxiABDIHCAkQABiPAtIBCDY3NjVqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: when is the new fortnite season - Google Search
+TIME: 24.05.2024 05:44:25
+
+URL: https://www.videogamer.com/news/fortnite-season-3-release-time-countdown/
+TITLE: Fortnite Season 3: Release time and countdown for every region - VideoGamer
+TIME: 24.05.2024 05:44:28
+
+URL: https://outlook.office.com/mail/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQAM5zgCwnCZtIpaWCKuzvYbw%3D?authRedirect=true&state=0
+TITLE: Working...
+TIME: 27.05.2024 03:43:25
+
+URL: https://outlook.office.com/owa/?state=1&redirectTo=aHR0cHM6Ly9vdXRsb29rLm9mZmljZS5jb20vbWFpbC9pZC9BQVFrQURRd1pUTmlaR0l6TFRKaVl6SXRORE00WlMxaU9XWTFMVFV3TTJGaE1UWm1OVFJsTkFBUUFNNXpnQ3duQ1p0SXBhV0NLdXp2WWJ3PQ
+TITLE: Working...
+TIME: 27.05.2024 03:43:25
+
+URL: https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=15d98b80-24d0-b321-7aa4-83f9445af1d8&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=eq.edu.au&nonce=638523673467117297.ff1b8b85-c1d4-4d59-9e57-e075df9fbced&state=DcvLUoMwAEBR0H9xh014hSw6ztBp7CBQCXkNu4TAaAXLAFb9Ln9QFufurus4zv3mbuOCLQ6KgyTygxgFYYwgRD5Gj30PTWKSyGuhDb3QRtjDXYS8DqDI9rg3bWfd7f1zd9dvvXtaVr12e_gwd_Z97tqVXff6REF7KuL8F9-soovx8ZyPeGzG4dLU0cX44GYkmcwBT80Bp5Ugc8UptXDibBw0BUPMCH3RYohrRc_0CIAcih_NsZKMFIKIgLHsWR8hlyM8C5It7IOknJOyVNNnFdivCk6gVumbAGVu1eRLmQWv1T8
+TITLE: Working...
+TIME: 27.05.2024 03:43:25
+
+URL: https://outlook.office.com/mail/id/AAQkADQwZTNiZGIzLTJiYzItNDM4ZS1iOWY1LTUwM2FhMTZmNTRlNAAQAM5zgCwnCZtIpaWCKuzvYbw%3d
+TITLE: Outlook
+TIME: 27.05.2024 03:43:25
+
+URL: https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&login_hint=asout55%40eq.edu.au&client-request-id=ab6123f7-30c5-edaf-3a62-bfb9eece8f9c&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=eq.edu.au&nonce=638523673471804947.8992913e-98cc-4497-8316-29ab7c35128c&state=Dcu7DoIwGEBh0GfRDei9_QfiYGIYcEETDYtpS6MQLgoF49vL8J3thEEQbFebVYjWBFJQxQkVkjKJFWLAZKwACGDqIlDWRoyBjBTFIiKgjbSUY6JsuL42Gb46ObTDs-4fr7r3qZ6G2XO-Y8h9YlfNsZ73k9fepXg_uqoenfXXIdVZgWx2FvkPlupeTIbAmHfQlV3blBfeGIIWczu9zVH9AQ
+TITLE: Working...
+TIME: 27.05.2024 03:43:25
+
+URL: https://www.dictionary.com/browse/family
+TITLE: FAMILY Definition & Meaning | Dictionary.com
+TIME: 27.05.2024 03:45:54
+
+URL: https://play.dictionary.com/games/sweet-shuffle
+TITLE: Your Favorite Free Online Games | From Dictionary.com
+TIME: 27.05.2024 03:49:49
+
+URL: https://arenacloud.cdn.arkadiumhosted.com/arkadiummodulesstorage-blob/game-rendering-iframe/0.1.78/iframe-rendering-grm.html?gameId=&env=prod
+TITLE: Sweet Shuffle - Free Online Game | Dictionary.com
+TIME: 27.05.2024 03:49:43
+
+URL: https://play.dictionary.com/games/ballistic
+TITLE: Your Favorite Free Online Games | From Dictionary.com
+TIME: 27.05.2024 03:50:00
+
+URL: https://play.dictionary.com/games/9-ball-pool
+TITLE: 9 Ball Pool Game - Free Online Game | Dictionary.com
+TIME: 27.05.2024 03:51:59
+
+URL: https://www.google.com/search?q=unblocked+games&oq=unbloc&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgoIARAuGLEDGIAEMgYIAhBFGEAyBggDEEUYOTIKCAQQABixAxiABDIKCAUQABixAxiABDIKCAYQABixAxiABDIHCAcQABiABKgCALACAQ&sourceid=chrome&ie=UTF-8
+TITLE: unblocked games - Google Search
+TIME: 27.05.2024 03:59:39
+
+URL: https://www.symbaloo.com/addToSymbaloo.do?smarkDefinitionId=43077
+TITLE: Symbaloo: Bookmarks & Favorites - The #1 Homepage for Educators
+TIME: 27.05.2024 04:00:23
+
+URL: https://www.symbaloo.com/newSmark?smarkDefinitionId=U21hcmtEZWZpbml0aW9uR1FMOjQzMDc3
+TITLE: Symbaloo: Bookmarks & Favorites - The #1 Homepage for Educators
+TIME: 27.05.2024 04:00:23
+
+URL: https://www.symbaloo.com/
+TITLE: Symbaloo: Bookmarks & Favorites - The #1 Homepage for Educators
+TIME: 27.05.2024 04:00:23
+
+URL: https://www.symbaloo.com/home/mix/13ePLajdHG
+TITLE: Symbaloo: Bookmarks & Favorites - The #1 Homepage for Educators
+TIME: 27.05.2024 04:00:26
+
+URL: https://www.google.com/search?q=unblocked+games&oq=un&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMg8IARAuGEMYsQMYgAQYigUyBggCEEUYQDIGCAMQRRg5MgwIBBAjGCcYgAQYigUyDAgFEAAYQxiABBiKBTIGCAYQRRg8MgYIBxBFGDzSAQgxODc5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: unblocked games - Google Search
+TIME: 27.05.2024 04:54:38
+
+URL: https://www.google.com/search?q=unblocked+games&oq=un&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMg8IARAuGEMYsQMYgAQYigUyBggCEEUYQDIGCAMQRRg5MgwIBBAjGCcYgAQYigUyDAgFEAAYQxiABBiKBTIGCAYQRRg8MgYIBxBFGDzSAQgxODc5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+TITLE: unblocked games - Google Search
+TIME: 27.05.2024 04:55:31
+
+URL: https://www.symbaloo.com/mix/agariounblockedschool?lang=EN
+TITLE: Unblocked Games Online 2024 - 2025 - - Symbaloo Library
+TIME: 27.05.2024 04:54:54
+
+URL: https://www.symbaloo.com/out.do?smarkId=911802138&desktopId=1000001031530851
+TITLE: G-Class AMAZON
+TIME: 27.05.2024 04:55:03
+
+URL: https://g-class.s3.amazonaws.com/index.html
+TITLE: G-Class AMAZON
+TIME: 30.05.2024 03:11:11
+
+URL: https://www.symbaloo.com/out.do?smarkId=851220907&desktopId=1000001031530851
+TITLE: IO Unblocked Games 2024 - 25 Amazon
+TIME: 27.05.2024 04:55:12
+
+URL: https://iounblocked.s3.amazonaws.com/index.html
+TITLE: IO Unblocked Games 2024 - 25 Amazon
+TIME: 27.05.2024 04:55:21
+
+URL: https://beiswenger.net/unblocked/
+TITLE: Unblocked Games Hub
+TIME: 30.05.2024 03:09:02
+
+URL: https://www.experimonkey.com/games/cut-the-rope
+TITLE: Cut the Rope - Play Fullscreen on Experimonkey
+TIME: 27.05.2024 04:56:00
+
+URL: https://www.google.com/fbx?fbx=snake_arcade
+TITLE: Google
+TIME: 27.05.2024 04:56:37
+
+URL: https://www.google.com/search?q=gatekeeper+shotgun&oq=gatekeeper+sh&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: gatekeeper shotgun - Google Search
+TIME: 27.05.2024 05:45:50
+
+URL: https://fed.education.qld.gov.au/idp/SSO.saml2?SAMLRequest=fVLLTgIxFN37FZPup%2FMAnLEBEoQYSVAJgy7cmNJeoEmnHfpA%2FXs7g0ZcyPb0vO69HVpay4ZMvNurFRw8WBd91FJZ0j2MkDeKaGqFJYrWYIljpJo8LEiOU9IY7TTTEp1JLiuotWCc0ApF89kIvfGsKMuivI7zmzKL%2BwUv401WpnHGt4OiB7yfshRFL2Bs0IxQsAhCaz3MlXVUuQCleT9OB3FerNMe6eckT19RNAtzCEVdp9o711iSJFvgGLhnHYwPkuOdPmLqE8GbpKqecNs%2FR9Hkp%2BRUK%2BtrMBWYo2DwvFr8mh0kUKMwHFrL1kTqnVBJa4Gi5fdiboXiQu0u72RzIllyv14v4%2BVTtUbjYetDuknNuI1sE0N9EcY2njlvADNdd3H5MDlnD08XfQw589lSS8E%2Bozttaur%2Br5HhrEMEj7cdlXhlG2BiK4CHhUip36cGqIMRCvmAkvEp9O%2FPGV99AQ%3D%3D
+TITLE: Sign In - Department of Education Queensland
+TIME: 27.05.2024 06:43:18
+
+URL: https://fed.education.qld.gov.au/idp/3MicvAr728/resumeSAML20/idp/SSO.ping
+TITLE: Submit Form
+TIME: 27.05.2024 06:43:37
+
+URL: https://qed07.instructure.com/?session_token=eyJjcmVhdGVkX2F0IjoxNzE2NzgxMzU5LCJwc2V1ZG9ueW1faWQiOjE4OTYzMDAwMDAwMDM5Mjk2MywiY3VycmVudF91c2VyX2lkIjpudWxsLCJ1c2VkX3JlbWVtYmVyX21lX3Rva2VuIjpudWxsLCJzaWduYXR1cmUiOnsiX2JpbmFyeSI6IlpEVTRPVEUwTXpkaFpESTJNemswTnpKaE16SmhabU5rTWpkbU5HRmlZMkk1WWpJd1l6QmtPQT09XG4ifX0
+TITLE: FA2 - FINAL - Student Experiment - DUE Term 2 Week 7
+TIME: 27.05.2024 06:43:38
+
+URL: https://hints.littlealchemy2.com/
+TITLE: Little Alchemy 2 Official Hints and Cheats
+TIME: 27.05.2024 06:49:32
+
+URL: https://scratch.mit.edu/projects/177334143/fullscreen
+TITLE: Jetpack Joyride on Scratch
+TIME: 27.05.2024 06:50:02
+
+URL: https://turbowarp.org/333881007/fullscreen
+TITLE: Rat-A-Tat Cat (2P Cloud) - TurboWarp
+TIME: 27.05.2024 06:52:37
+
+URL: https://turbowarp.org/108566337/fullscreen
+TITLE: slither.io v1.13 (#1) - TurboWarp
+TIME: 27.05.2024 06:59:52
+
+URL: https://turbowarp.org/766561668/fullscreen
+TITLE: PvP Dodgeball 2.0 - TurboWarp
+TIME: 27.05.2024 07:00:16
+
+URL: https://driverpracticetest.transport.nsw.gov.au/pages/practice-tests?init=true
+TITLE: Transport for NSW
+TIME: 27.05.2024 07:00:24
+
+URL: https://flasharch.com/en/archive/play/46b9f6d3b523eeb1977a5a1015db9b38
+TITLE: Meat Boy - Flash Games Archive | FlashArch
+TIME: 27.05.2024 07:01:07
+
+URL: https://www.experimonkey.com/games/learn-to-fly
+TITLE: Learn to Fly - Play Fullscreen on Experimonkey
+TIME: 27.05.2024 07:01:23
+
+URL: https://www.experimonkey.com/games
+TITLE: Boredom-Busting Educational Games and Puzzles (for Kids)
+TIME: 27.05.2024 07:17:51
+
+URL: https://www.experimonkey.com/games/
+TITLE: Boredom-Busting Educational Games and Puzzles (for Kids)
+TIME: 27.05.2024 07:17:51
+
+URL: https://www.experimonkey.com/games/bloons-tower-defense
+TITLE: Bloons Tower Defense - Play Fullscreen on Experimonkey
+TIME: 27.05.2024 07:02:45
+
+URL: https://www.experimonkey.com/games/hardest-game
+TITLE: Hardest Game - Play Fullscreen on Experimonkey
+TIME: 27.05.2024 07:10:10
+
+URL: https://www.experimonkey.com/games/cubefield
+TITLE: Cubefield - Play Fullscreen on Experimonkey
+TIME: 27.05.2024 07:10:50
+
+URL: https://www.experimonkey.com/games/duck-life
+TITLE: Duck Life - Play Fullscreen on Experimonkey
+TIME: 27.05.2024 07:13:33
+
+URL: https://www.experimonkey.com/games/duck-life-3-evolution
+TITLE: Duck Life 3: Evolution - Play Fullscreen on Experimonkey
+TIME: 27.05.2024 07:14:59
+
+URL: https://www.experimonkey.com/games/space-invaders
+TITLE: Space Invaders - Play Fullscreen on Experimonkey
+TIME: 27.05.2024 07:18:02
+
+URL: https://www.experimonkey.com/games/arrows
+TITLE: Arrows - Play Fullscreen on Experimonkey
+TIME: 27.05.2024 07:24:26
+
+URL: https://www.experimonkey.com/games/123go-motorcycle-racing
+TITLE: 123Go! Motorcycle Racing - Play Fullscreen on Experimonkey
+TIME: 27.05.2024 07:25:50
+
+URL: https://www.experimonkey.com/games/blob-wars
+TITLE: Blob Wars - Play Fullscreen on Experimonkey
+TIME: 27.05.2024 07:28:17
+
+URL: https://www.google.com/search?q=unblocked+games&oq=unblocked+games&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAAGI8CMgcIAhAAGI8CMgYIAxBFGEEyBggEEEUYPDIGCAUQRRg80gEINjQ1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+TITLE: unblocked games - Google Search
+TIME: 30.05.2024 03:08:41
+
+URL: https://www.google.com/search?q=unblocked+games&oq=unblocked+games&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAAGI8CMgcIAhAAGI8CMgYIAxBFGEEyBggEEEUYPDIGCAUQRRg80gEINjQ1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+TITLE: unblocked games - Google Search
+TIME: 30.05.2024 03:08:55
+
+URL: https://turbowarp.org/216343253/fullscreen
+TITLE: Geometry Dash Subzero - TurboWarp
+TIME: 30.05.2024 03:09:27
+
+URL: https://www.google.com/search?q=paper+io+unblocked&oq=paper+io+unblocked&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg5NTY4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: paper io unblocked - Google Search
+TIME: 30.05.2024 03:11:27
+
+URL: https://www.symbaloo.com/mix/agariounblockedpvp?lang=EN
+TITLE: IO Games Unblocked - - Symbaloo Library
+TIME: 30.05.2024 03:10:24
+
+URL: https://www.google.com/search?q=what+time+is+it+in+dallas&oq=what+time+is+it+in+dallas&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTE3NTkyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+TITLE: what time is it in dallas - Google Search
+TIME: 30.05.2024 03:10:58
+
+URL: https://www.symbaloo.com/out.do?smarkId=851282394&desktopId=1000001037516074
+TITLE: G-Class AMAZON
+TIME: 30.05.2024 03:11:11
+
+URL: https://g-class.s3.amazonaws.com/e.html
+TITLE: Railin'
+TIME: 30.05.2024 03:11:15
+
+URL: https://www.google.com/search?q=paper+io+unblocked&oq=paper+io+unblocked&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg5NTY4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+TITLE: paper io unblocked - Google Search
+TIME: 30.05.2024 03:11:56
+
+URL: https://heardleunlimited.com/paperio-2-unblocked
+TITLE: Paper.io 2 Unblocked - Play Paper.io 2 Unblocked On Heardle Unlimited
+TIME: 30.05.2024 03:11:46
+
+URL: https://amongus2.io/paperio-unblocked
+TITLE: Paper.io Unblocked
+TIME: 30.05.2024 03:12:03
+
+URL: https://amongus2.io/new-games
+TITLE: List: New Games
+TIME: 30.05.2024 03:12:07
+
+URL: https://www.google.com/search?q=speed+run+game&oq=speed+run+game&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI1MDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: speed run game - Google Search
+TIME: 30.05.2024 03:12:42
+
+URL: https://www.google.com/search?q=pixel+speedrun+unblocked&oq=pixel+speedrun+unb&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBggDEEUYOTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDINCAcQABiGAxiABBiKBTINCAgQABiGAxiABBiKBTIKCAkQABiABBiiBKgCCLACAQ&sourceid=chrome&ie=UTF-8
+TITLE: pixel speedrun unblocked - Google Search
+TIME: 30.05.2024 03:13:03
+
+URL: https://pixelspeedrun.click/
+TITLE: pixel run unblocked - Unblocked speed run Games
+TIME: 30.05.2024 03:13:06
+
+URL: https://pixelspeedrun.click/NewGames.html
+TITLE: News Games pixel speedrun
+TIME: 30.05.2024 04:01:01
+
+URL: https://pixelspeedrun.click/NewGames
+TITLE: News Games pixel speedrun
+TIME: 30.05.2024 04:01:01
+
+URL: https://pixelspeedrun.click/drift-car.html
+TITLE: drift car unblocked - pixel speedrun games
+TIME: 30.05.2024 03:59:42
+
+URL: https://pixelspeedrun.click/drift-car
+TITLE: drift car unblocked - pixel speedrun games
+TIME: 30.05.2024 03:59:42
+
+URL: https://pixelspeedrun.click/coreball.html
+TITLE: coreball unblocked - pixel speedrun games
+TIME: 30.05.2024 04:01:07
+
+URL: https://pixelspeedrun.click/coreball
+TITLE: coreball unblocked - pixel speedrun games
+TIME: 30.05.2024 04:01:07
+
+URL: https://pixelspeedrun.click/bitlife.html
+TITLE: bitlife unblocked - pixel speedrun games
+TIME: 30.05.2024 05:17:47
+
+URL: https://pixelspeedrun.click/bitlife
+TITLE: bitlife unblocked - pixel speedrun games
+TIME: 30.05.2024 05:17:47
+
+URL: https://www.google.com/search?q=family+feud+unblocked&oq=fami&gs_lcrp=EgZjaHJvbWUqDggBEEUYJxg7GIAEGIoFMgYIABBFGDkyDggBEEUYJxg7GIAEGIoFMgoIAhAAGLEDGIAEMgoIAxAAGLEDGIAEMgoIBBAAGLEDGIAEMgoIBRAAGLEDGIAEMgYIBhBFGDwyBggHEEUYPNIBCDI3ODZqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+TITLE: family feud unblocked - Google Search
+TIME: 03.06.2024 03:15:53
+
+URL: https://www.arkadium.com/au/games/family-feud/
+TITLE: Family Feud Online Game | Play Online for Free in Australia
+TIME: 03.06.2024 03:15:55
+
+URL: https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638533112506897706.YmMyY2RjZjctMjFhOC00YmI0LWIwNzEtY2ZkMDUwZWRkZmUxNjkzOTE4ODItNjUyYy00ZDMzLThmOGUtM2E3MTEwYTBjOGI1&ui_locales=en-US&mkt=en-US&login_hint=asout55%40eq.edu.au&msafed=0&client-request-id=8fe35e87-514c-4e46-b259-e4706c9f6f6b&state=gc-BxP_6ryPecckhxzIIHP3a3CLZ9Gg6tnXgUJQRB5jy7cAkadoB4OVVkjI1Xj6zpnn2mJW5oGZdCV4AGWqLEISE8gBVziZRKenHBUOswn24CnVzVM3ALMJsi3cyj1wC_EmOkNJbeNURm0gN7TQjo0m1Hfd_BKLx0e2ofo8RLKeO2C99Nw8f9XJnOALJXBfydLkdekqNp5kvYZhLkBQP80cX4qhK2NwcqejobFmnLZkon-8kXpuj_tMH_x1ZE0WeTVIPeIOFs19iatbSiudwCiB5YEb-uVnOVy_aM3RQ-BMcfEc_qJB83oypiorM0gxNMT_W2pQ7NjgK8XaTdjkhL1Xu3crDzND7t-N_60v-ZZM&x-client-SKU=ID_NET8_0&x-client-ver=7.3.1.0
+TITLE: Working...
+TIME: 07.06.2024 01:55:19
+
+URL: https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638533112506897706.YmMyY2RjZjctMjFhOC00YmI0LWIwNzEtY2ZkMDUwZWRkZmUxNjkzOTE4ODItNjUyYy00ZDMzLThmOGUtM2E3MTEwYTBjOGI1&ui_locales=en-US&mkt=en-US&login_hint=asout55%40eq.edu.au&msafed=0&client-request-id=8fe35e87-514c-4e46-b259-e4706c9f6f6b&state=gc-BxP_6ryPecckhxzIIHP3a3CLZ9Gg6tnXgUJQRB5jy7cAkadoB4OVVkjI1Xj6zpnn2mJW5oGZdCV4AGWqLEISE8gBVziZRKenHBUOswn24CnVzVM3ALMJsi3cyj1wC_EmOkNJbeNURm0gN7TQjo0m1Hfd_BKLx0e2ofo8RLKeO2C99Nw8f9XJnOALJXBfydLkdekqNp5kvYZhLkBQP80cX4qhK2NwcqejobFmnLZkon-8kXpuj_tMH_x1ZE0WeTVIPeIOFs19iatbSiudwCiB5YEb-uVnOVy_aM3RQ-BMcfEc_qJB83oypiorM0gxNMT_W2pQ7NjgK8XaTdjkhL1Xu3crDzND7t-N_60v-ZZM&x-client-SKU=ID_NET8_0&x-client-ver=7.3.1.0&sso_reload=true
+TITLE: Working...
+TIME: 07.06.2024 01:55:19
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/Doc.aspx?sourcedoc=%7B02B3A75D-01D1-40E9-A334-7B751207AFCC%7D&file=Open%20Notebook.onetoc2&action=edit&mobileredirect=true&wdorigin=Sharepoint&DefaultItemOpen=1&login_hint=asout55%40eq.edu.au
+TITLE: Working...
+TIME: 07.06.2024 01:55:41
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/doc2.aspx?sourcedoc=%7B02B3A75D-01D1-40E9-A334-7B751207AFCC%7D&file=Open%20Notebook.onetoc2&action=edit&mobileredirect=true&wdorigin=Sharepoint&DefaultItemOpen=1&login_hint=asout55%40eq.edu.au
+TITLE: Working...
+TIME: 07.06.2024 01:55:41
+
+URL: https://qedu.sharepoint.com/_forms/default.aspx?ReturnUrl=%2fsites%2fCourse_general_mathematics-Rc9zkwEkFI9co%2f_layouts%2f15%2fdoc2.aspx%3fsourcedoc%3d%257B02B3A75D-01D1-40E9-A334-7B751207AFCC%257D%26file%3dOpen%2520Notebook.onetoc2%26action%3dedit%26mobileredirect%3dtrue%26wdorigin%3dSharepoint%26DefaultItemOpen%3d1%26login_hint%3dasout55%2540eq.edu.au&login_hint=asout55@eq.edu.au
+TITLE: Working...
+TIME: 07.06.2024 01:55:41
+
+URL: https://login.microsoftonline.com/6600c7c5-16b5-4baf-9e93-323bd8c01dba/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=EA8C09F8097BD48E89669AC78EA9E935F6E11735F250B80B%2DDA1CBC2A2655DE083E67181D36CECFFCA2E6C191CF9118C1A36D02E54FF416E6&redirect%5Furi=https%3A%2F%2Fqedu%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&login%5Fhint=asout55%40eq%2Eedu%2Eau&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=fa1e30a1%2Df064%2D3000%2D558e%2D50386a08d240
+TITLE: Working...
+TIME: 07.06.2024 01:55:41
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/doc2.aspx?sourcedoc=%7B02B3A75D-01D1-40E9-A334-7B751207AFCC%7D&file=Open%20Notebook.onetoc2&action=edit&mobileredirect=true&wdorigin=Sharepoint&DefaultItemOpen=1
+TITLE: Open Notebook.onetoc2
+TIME: 07.06.2024 01:55:41
+
+URL: https://qedu.sharepoint.com/:o:/r/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/doc2.aspx?sourcedoc=%7B02B3A75D-01D1-40E9-A334-7B751207AFCC%7D&file=Open%20Notebook.onetoc2&action=edit&mobileredirect=true&wdorigin=Sharepoint&DefaultItemOpen=1
+TITLE: Open Notebook.onetoc2
+TIME: 07.06.2024 01:55:42
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/WopiFrame.aspx?sourcedoc=%2Fsites%2FCourse%5Fgeneral%5Fmathematics%2DRc9zkwEkFI9co%2FSiteAssets%2FMAG11B%5F2024%20Notebook%2FSOUTER%2DROBERTSON%2C%20Alexander%20%28asout55%29&action=edit&wd=target%28Class%20Notes.one%7C5f0efc40-993a-4da5-bef1-f8535341ac76%2FGrade%20I%20think%7C37c9e422-3aab-476b-84a5-267e60e0fdc0%2F%29&wdorigin=NavigationUrl
+TITLE: Open Notebook.onetoc2
+TIME: 07.06.2024 01:55:46
+
+URL: https://qedu.sharepoint.com/sites/Course_general_mathematics-Rc9zkwEkFI9co/_layouts/15/WopiFrame.aspx?sourcedoc=%2Fsites%2FCourse%5Fgeneral%5Fmathematics%2DRc9zkwEkFI9co%2FSiteAssets%2FMAG11B%5F2024%20Notebook%2FSOUTER%2DROBERTSON%2C%20Alexander%20%28asout55%29&action=edit&wd=target%28Class%20Notes.one%7C5f0efc40-993a-4da5-bef1-f8535341ac76%2FEXCEL%20Check-in%20Unit%202%7Ca17c5775-69d5-4d1e-9745-c2865fada0b6%2F%29&wdorigin=NavigationUrl
+TITLE: Open Notebook.onetoc2
+TIME: 07.06.2024 01:56:09
+
+URL: https://www.google.com/search?q=unblocked+casino&oq=unblocked+casino&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDYzMzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+TITLE: unblocked casino - Google Search
+TIME: 07.06.2024 02:13:29
+
+URL: https://www.google.com/search?q=texas+hold+em+unblocked&sca_esv=147839838ea472ed&sxsrf=ADLYWIIdsupO0kY73FAsZt_JO7PUrA6O0Q%3A1717715540497&ei=VEJiZtiKHr3PseMP4bOx0AY&oq=texas+hold+em+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDnRleGFzIGhvbGQgZW0gKgIIADILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTIFEC4YgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIlDRQAFiCKXABeAGQAQCYAa0CoAHGF6oBBzAuNi43LjG4AQHIAQD4AQGYAg-gApwYqAISwgIHECMYJxjqAsICFBAAGIAEGOMEGLQCGOkEGOoC2AEBwgIKECMYgAQYJxiKBcICEBAuGIAEGNEDGMcBGCcYigXCAgoQLhiABBgnGIoFwgILEC4YgAQYkQIYigXCAgoQABiABBhDGIoFwgIKEC4YgAQYQxiKBcICEBAAGIAEGLEDGEMYgwEYigXCAhEQLhiABBiRAhixAxiDARiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYsQMYgwHCAhAQLhiABBjRAxhDGMcBGIoFwgIWEC4YgAQYsQMY0QMYQxiDARjHARiKBcICExAuGIAEGNEDGEMYxwEYyQMYigXCAg0QLhiABBixAxhDGIoFwgIOEAAYgAQYkQIYsQMYigXCAhMQLhiABBixAxhDGIMBGNQCGIoFwgINEAAYgAQYQxjJAxiKBcICDRAAGIAEGLEDGEMYigXCAg4QLhiABBiRAhixAxiKBZgDDLoGBggBEAEYAZIHBzEuNi43LjGgB7eIAQ&sclient=gws-wiz-serp
+TITLE: texas hold em unblocked - Google Search
+TIME: 07.06.2024 02:13:40
+
+URL: https://www.google.com/search?q=texas+hold+em+unblocked&sca_esv=147839838ea472ed&sxsrf=ADLYWIIdsupO0kY73FAsZt_JO7PUrA6O0Q%3A1717715540497&ei=VEJiZtiKHr3PseMP4bOx0AY&oq=texas+hold+em+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDnRleGFzIGhvbGQgZW0gKgIIADILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTIFEC4YgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIlDRQAFiCKXABeAGQAQCYAa0CoAHGF6oBBzAuNi43LjG4AQHIAQD4AQGYAg-gApwYqAISwgIHECMYJxjqAsICFBAAGIAEGOMEGLQCGOkEGOoC2AEBwgIKECMYgAQYJxiKBcICEBAuGIAEGNEDGMcBGCcYigXCAgoQLhiABBgnGIoFwgILEC4YgAQYkQIYigXCAgoQABiABBhDGIoFwgIKEC4YgAQYQxiKBcICEBAAGIAEGLEDGEMYgwEYigXCAhEQLhiABBiRAhixAxiDARiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYsQMYgwHCAhAQLhiABBjRAxhDGMcBGIoFwgIWEC4YgAQYsQMY0QMYQxiDARjHARiKBcICExAuGIAEGNEDGEMYxwEYyQMYigXCAg0QLhiABBixAxhDGIoFwgIOEAAYgAQYkQIYsQMYigXCAhMQLhiABBixAxhDGIMBGNQCGIoFwgINEAAYgAQYQxjJAxiKBcICDRAAGIAEGLEDGEMYigXCAg4QLhiABBiRAhixAxiKBZgDDLoGBggBEAEYAZIHBzEuNi43LjGgB7eIAQ&sclient=gws-wiz-serp#ip=1
+TITLE: texas hold em unblocked - Google Search
+TIME: 07.06.2024 02:13:48
+
+URL: https://www.google.com/search?q=poker+unblocked&sca_esv=147839838ea472ed&sxsrf=ADLYWIKbYnscePTTJcwudm2JsC6sHipDfg%3A1717715551947&ei=X0JiZpbFOfyUseMP6LCuuQ4&ved=0ahUKEwjW8LGKjciGAxV8SmwGHWiYK-cQ4dUDCBA&uact=5&oq=poker+unblocked&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3Bva2VyIHVuYmxvY2tlZDIOEAAYgAQYkQIYsQMYigUyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTIKEAAYgAQYQxiKBTIGEAAYBxgeMgoQABiABBhDGIoFMgUQABiABDIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAESLkTUABYlhFwAXgBkAEAmAGAAqABlAuqAQUwLjUuMrgBA8gBAPgBAZgCBaACsQbCAgoQIxiABBgnGIoFwgINEC4YgAQYsQMYQxiKBcICERAAGIAEGJECGLEDGIMBGIoFwgIQEAAYgAQYsQMYQxiDARiKBcICBBAAGB6YAwCSBwUxLjEuM6AHni0&sclient=gws-wiz-serp
+TITLE: poker unblocked - Google Search
+TIME: 07.06.2024 02:13:57
+
+URL: https://www.google.com/search?q=poker+unblocked&sca_esv=147839838ea472ed&sxsrf=ADLYWIKbYnscePTTJcwudm2JsC6sHipDfg%3A1717715551947&ei=X0JiZpbFOfyUseMP6LCuuQ4&ved=0ahUKEwjW8LGKjciGAxV8SmwGHWiYK-cQ4dUDCBA&uact=5&oq=poker+unblocked&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3Bva2VyIHVuYmxvY2tlZDIOEAAYgAQYkQIYsQMYigUyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTIKEAAYgAQYQxiKBTIGEAAYBxgeMgoQABiABBhDGIoFMgUQABiABDIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAESLkTUABYlhFwAXgBkAEAmAGAAqABlAuqAQUwLjUuMrgBA8gBAPgBAZgCBaACsQbCAgoQIxiABBgnGIoFwgINEC4YgAQYsQMYQxiKBcICERAAGIAEGJECGLEDGIMBGIoFwgIQEAAYgAQYsQMYQxiDARiKBcICBBAAGB6YAwCSBwUxLjEuM6AHni0&sclient=gws-wiz-serp#ip=1
+TITLE: poker unblocked - Google Search
+TIME: 07.06.2024 02:14:02
+
+URL: https://games.kansascity.com/games/texas-holdem-poker-sit-and-go
+TITLE: Free Online Casino Collection | From The Kansas City Star
+TIME: 07.06.2024 02:14:08
+
+URL: https://games.kansascity.com/category/casino
+TITLE: Free Online Casino Collection | From The Kansas City Star
+TIME: 07.06.2024 02:14:17
+
+URL: https://games.kansascity.com/games/texas-holdem-tournament
+TITLE: Arkadium's Texas Hold'em: Tournament - Free Online Game | The Kansas City Star
+TIME: 07.06.2024 02:14:22
+
