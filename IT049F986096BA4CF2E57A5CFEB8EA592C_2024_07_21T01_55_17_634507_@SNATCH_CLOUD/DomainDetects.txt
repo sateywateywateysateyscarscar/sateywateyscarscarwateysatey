@@ -1,0 +1,4 @@
+PDD: 
+[MONEY] freebitco.in (2), [MONEY] kucoin.com (2)
+CDD: 
+[MONEY] freebitco.in (4), [MONEY] coinbase.com (5), [PayPal] paypal.com (12), [Amazon] amazon.com (12)

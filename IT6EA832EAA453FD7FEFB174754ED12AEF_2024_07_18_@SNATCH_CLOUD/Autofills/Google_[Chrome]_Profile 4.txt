@@ -1,0 +1,38 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: AuthEmail
+Value: nicholasdoagabobea50@gmail.com
+===============
+Name: username
+Value: Nicho52520
+===============
+Name: ForgotEmail
+Value: nicholasdoagabobea50@gmail.com
+===============
+Name: loginfmt
+Value: nicholasdoagabobea8@gmail.com
+===============
+Name: email
+Value: virginialyons1901@dfirstmail.com
+===============
+Name: phoneNumber
+Value: 3277781466
+===============
+Name: email
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: ForgotEmail
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: email
+Value: virginialyons1901
+===============
+Name: loginfmt
+Value: monicadoaga77@gmail.com

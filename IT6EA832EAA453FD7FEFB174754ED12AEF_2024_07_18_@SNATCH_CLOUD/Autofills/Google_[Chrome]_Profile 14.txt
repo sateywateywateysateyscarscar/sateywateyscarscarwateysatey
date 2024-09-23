@@ -1,0 +1,32 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: mobile
+Value: 3277781466
+===============
+Name: email
+Value: creepypastavideos6@gmail.com
+===============
+Name: new-username
+Value: creepypastavideos
+===============
+Name: username
+Value: creepypastav1deo
+===============
+Name: security_code
+Value: 002192
+===============
+Name: :rf:
+Value: creepypastavideos6@gmail.com
+===============
+Name: :r8:
+Value: creepypastavideos6@gmail.com
+===============
+Name: :rv:
+Value: 048469

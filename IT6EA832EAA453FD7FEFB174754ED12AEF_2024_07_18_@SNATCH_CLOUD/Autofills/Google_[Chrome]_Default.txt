@@ -1,0 +1,1289 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: code
+Value: RSLSBMCTTTTHITCHTECHYBEGUNRITES
+===============
+Name: uid_96
+Value: badgebotserver
+===============
+Name: Form_Email__c
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: appName
+Value: qhajajjsjjddjnqj
+===============
+Name: c3
+Value: 4
+===============
+Name: nome
+Value: Elena
+===============
+Name: c2
+Value: 3
+===============
+Name: street
+Value: Via Perugino
+===============
+Name: AuthEmail
+Value: nicholasdoagabobea50@gmail.com
+===============
+Name: newPage
+Value: 206
+===============
+Name: appName
+Value: ajajsjjajfjsojsisk
+===============
+Name: user[email]
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: i-text-2
+Value: 13
+===============
+Name: givenName
+Value: nicho
+===============
+Name: query
+Value: sopa
+===============
+Name: _username
+Value: abradacadabbra
+===============
+Name: i-text-1
+Value: kxyzj.w
+===============
+Name: email
+Value: nicholasdoagabobea7@gmail.com
+===============
+Name: query
+Value: bocadillo
+===============
+Name: birthYear
+Value: 2004
+===============
+Name: taxId
+Value: TTQSGT62L65I921G
+===============
+Name: input-email
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: last_name
+Value: Doaga
+===============
+Name: home-header-license-activation_input
+Value: DO0358792683
+===============
+Name: interactions_endpoint_url
+Value: https://activedev.toony.link/be054dad2893ca170ae0a3512b5b3063dbe7a141e854b76f25b9d6eabf87554a
+===============
+Name: UserName
+Value: N1xkDxK1ng
+===============
+Name: lastName__input
+Value: doaga
+===============
+Name: iVerifyText
+Value: 401643
+===============
+Name: email__input
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: keyword
+Value: https://www.youtube.com/watch?v=U4mADkt6o-M
+===============
+Name: newPage
+Value: 20
+===============
+Name: firstName
+Value: Nicho
+===============
+Name: billing_city
+Value: Voghera
+===============
+Name: username
+Value: xeuqooo
+===============
+Name: query
+Value: tostada
+===============
+Name: login-username
+Value: ssuxrja
+===============
+Name: licence_provider[username]
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: algolia-search
+Value: laptop
+===============
+Name: query
+Value: refresco
+===============
+Name: newPage
+Value: 104
+===============
+Name: email
+Value: senjiiatasuke@gmail.com
+===============
+Name: mfaCode
+Value: 117946
+===============
+Name: persona-name
+Value: xewfrr
+===============
+Name: email
+Value: monicadoaga77@gmail.com
+===============
+Name: k
+Value: british stile
+===============
+Name: name
+Value: Nicholas
+===============
+Name: keyword
+Value: https://www.youtube.com/watch?v=rMIkv-dEv2g
+===============
+Name: cognome
+Value: Doaga Bobea
+===============
+Name: arGkKvWgP9JiR2HGRLPDZpsoUIhpyZ2S
+Value: nich0_lass22
+===============
+Name: WlidInput
+Value: nehienonoteetoani@kabbadiplay.com
+===============
+Name: query
+Value: jamon serrano
+===============
+Name: billing_address
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: username
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: link
+Value: https://youtu.be/VTb3zuruaQg
+===============
+Name: mfaCode
+Value: 922698
+===============
+Name: k
+Value: tea makes you feel better
+===============
+Name: applyNow:taxNumber:input
+Value: GRSDVL90T41D808S
+===============
+Name: AccountEmail
+Value: ximkiller010@gmail.com
+===============
+Name: familyName
+Value: the bot
+===============
+Name: phoneNumber
+Value: 327 7781466
+===============
+Name: appName
+Value: ppoopp
+===============
+Name: confirm-email
+Value: senjiiatasuke@gmail.com
+===============
+Name: sign-in-phone-number
+Value: +39 327 778 1466
+===============
+Name: signUpID
+Value: doagabobeaadrian@gmail.com
+===============
+Name: AuthEmail
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: LastName
+Value: killer
+===============
+Name: uid_2783
+Value: badgebotserver
+===============
+Name: query
+Value: jamГіn Serrano
+===============
+Name: login-username
+Value: nich0_lass22
+===============
+Name: text
+Value: 3277781466
+===============
+Name: FirstName
+Value: b104
+===============
+Name: interactions_endpoint_url
+Value: https://activedev.toony.link/c833d64edf2a2935e617467c31ba6671f60b4d0d3b3ef9dbd9dca693f5383661
+===============
+Name: interactions_endpoint_url
+Value: https://activedev.toony.link/ae11bc1033983c1f7ad83ad2aeb3c560ecc85f809915728dd0b9250f3558d9f1
+===============
+Name: houseNumber
+Value: 26
+===============
+Name: pledge-signature
+Value: N1xkDxK1ng
+===============
+Name: name
+Value: nicho
+===============
+Name: q
+Value: half life 2
+===============
+Name: identifier
+Value: nicholas.doaga@scuolapertinivoghera.it
+===============
+Name: add-users-textbox
+Value: Pilumva
+===============
+Name: Username
+Value: voziih w
+===============
+Name: phoneNumber
+Value: 3277781466
+===============
+Name: email-input
+Value: senjiiatasuke@gmail.com
+===============
+Name: username
+Value: Nicholas.doaga
+===============
+Name: pledge-signature
+Value: ChosenBIade
+===============
+Name: mobileNumber__input
+Value: +39 327 778 1466
+===============
+Name: query
+Value: la comida o  el almuerzo
+===============
+Name: nick
+Value: xewfrrr
+===============
+Name: username
+Value: xewfrr
+===============
+Name: birthday__input
+Value: 22/08/2000
+===============
+Name: identifier
+Value: nicholasdoagabobea8@gmail.com
+===============
+Name: j_username
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: newPage
+Value: 78
+===============
+Name: firstName__input
+Value: nicho
+===============
+Name: newPage
+Value: 10
+===============
+Name: city
+Value: Voghera
+===============
+Name: name
+Value: Alex Marks
+===============
+Name: newPage
+Value: 16
+===============
+Name: nick
+Value: N1xkDxK1ng
+===============
+Name: customURL
+Value: KД«ngN1xЖ™
+===============
+Name: undefined_input
+Value: B7EDE02DE8
+===============
+Name: query
+Value: jamГІn serrano
+===============
+Name: name
+Value: aiaiaia
+===============
+Name: mfaCode
+Value: 566651
+===============
+Name: username
+Value: xewfr
+===============
+Name: s
+Value: assasin creed
+===============
+Name: exp-date
+Value: 12 / 28
+===============
+Name: query
+Value: perrito caliente
+===============
+Name: billing_postal_code
+Value: 27058
+===============
+Name: name
+Value: aaamin
+===============
+Name: query
+Value: almuerzo
+===============
+Name: PasswordText
+Value: b104killer
+===============
+Name: register[email]
+Value: senjiiatasuke@gmail.com
+===============
+Name: username
+Value: DumkDumkStick
+===============
+Name: query
+Value: arroz
+===============
+Name: c6
+Value: 8
+===============
+Name: j_username
+Value: alexandradoagabobea@gmail.com
+===============
+Name: Email
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: loginfmt
+Value: oorkan@outlook.it
+===============
+Name: by_publisher
+Value: ELECTA
+===============
+Name: s
+Value: arma reforger
+===============
+Name: c4
+Value: 0
+===============
+Name: login-username
+Value: nich0lass22
+===============
+Name: profile.edit-name.fname-text-input
+Value: xewfr рџЊєв Ђ
+===============
+Name: customURL
+Value: xГЁбє…fЕ™ ГёГ± ЕҐД«Д·ЕҐГ¶Д·
+===============
+Name: query
+Value: comida
+===============
+Name: c5
+Value: 4
+===============
+Name: query
+Value: tortilla
+===============
+Name: appName
+Value: aiaiaiaiakakkak
+===============
+Name: dateOfBirth
+Value: 22/08/2000
+===============
+Name: houseNumber
+Value: 14
+===============
+Name: txtUser
+Value: 19526
+===============
+Name: first_name
+Value: Nicho
+===============
+Name: pledge-signature
+Value: NaDkZz
+===============
+Name: email
+Value: 3277781466
+===============
+Name: zipCode
+Value: 27058
+===============
+Name: query
+Value: legumbres
+===============
+Name: profile.edit-name.fname-text-input
+Value: xewfr рџЊє
+===============
+Name: undefined_input
+Value: 31BD4E9135
+===============
+Name: s
+Value: call of duty
+===============
+Name: ConfirmAccountEmail
+Value: ximkiller010@gmail.com
+===============
+Name: EmailAddress
+Value: senjiiatasuke@gmail.com
+===============
+Name: code
+Value: RSLSBM-CTTTT-HITCH-TECHY-BEGUN-RITES
+===============
+Name: k
+Value: british style
+===============
+Name: c1
+Value: 1
+===============
+Name: TiscaliAddressNum_53004
+Value: 18
+===============
+Name: profile-account-info-setting__email-input
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: street
+Value: Via Luigi Galvani
+===============
+Name: name
+Value: bot
+===============
+Name: lastName
+Value: Doaga
+===============
+Name: billing_address_two
+Value: senjiiatasuke@gmail.com
+===============
+Name: by_publisher
+Value: zanichelli
+===============
+Name: query
+Value: embutidos
+===============
+Name: telefono
+Value: 3277321534
+===============
+Name: code
+Value: DEA-B5C8ED003
+===============
+Name: register[nome]
+Value: abradacadabbra
+===============
+Name: username
+Value: nicholasdoagabobea7@gmail.com
+===============
+Name: new-username
+Value: nabbo095
+===============
+Name: loginfmt
+Value: nicholasdoagabobea8@gmail.com
+===============
+Name: profile.edit-name.fname-text-input
+Value: xewfrr on ttрџҐЂоќ
+===============
+Name: id
+Value: nicholasdoagabobea
+===============
+Name: ChooseScreenGamertagInput
+Value: Yxewfrr
+===============
+Name: verification-code
+Value: UnM48
+===============
+Name: first-name
+Value: N1xk
+===============
+Name: last-name
+Value: г…¤
+===============
+Name: tl_list-search-box
+Value: gia
+===============
+Name: tl_list-search-box
+Value: c
+===============
+Name: subject-field
+Value: Xbox series s si spegne da sola su un solo gioco
+===============
+Name: query
+Value: unlock all
+===============
+Name: ForgotEmail
+Value: senjiiatasuke@gmail.com
+===============
+Name: AuthEmail
+Value: senjiiatasuke@gmail.com
+===============
+Name: ForgotEmail
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: accountIdentifier
+Value: 327 778 1466
+===============
+Name: ForgotEmail
+Value: nicholasdoagabobea50@gmail.com
+===============
+Name: username
+Value: niiixhoooo
+===============
+Name: search-box-description-id
+Value: Domande sulla fatturazione e sul profilo dell'account
+===============
+Name: AssociatedIdEasi
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: search-box-description-id
+Value: ambassador
+===============
+Name: AuthEmail
+Value: virginialyons1906@dfirstmail.com
+===============
+Name: AuthEmail
+Value: virginialyons1901@dfirstmail.com
+===============
+Name: email
+Value: virginialyons1901@dfirstmail.com
+===============
+Name: email
+Value: virginialyons1901
+===============
+Name: username
+Value: xewfrr.
+===============
+Name: loginfmt
+Value: nicholas_doaga@icpertinivoghera.onmicrosoft.com
+===============
+Name: profile.edit-name.fname-text-input
+Value: рќ–ќрќ–Љрќ–њрќ–‹рќ–—рќ–— on ttрџҐЂоќ
+===============
+Name: TextField186
+Value: yd3x
+===============
+Name: profile.edit-name.fname-text-input
+Value: рќ–ќрќ–Љрќ–њрќ–‹рќ–—рќ–— рќ–”рќ–“ рќ–™рќ–™рџҐЂоќ
+===============
+Name: TextField190
+Value: 3xvy3h
+===============
+Name: firstname
+Value: orco
+===============
+Name: lastname
+Value: dio
+===============
+Name: reg_email__
+Value: piselloduro@gmail.com
+===============
+Name: reg_email_confirmation__
+Value: piselloduro@gmail.com
+===============
+Name: AuthEmail
+Value: silviofw@gmail.com
+===============
+Name: ForgotEmail
+Value: silvioislaauw4@gmail.com
+===============
+Name: mobile
+Value: 3277781466
+===============
+Name: phoneNumber
+Value: 32
+===============
+Name: signin-entrance-input-signinId
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: username
+Value: vSxolar-
+===============
+Name: username
+Value: vRevxnge-
+===============
+Name: username
+Value: vRevxnge.
+===============
+Name: username
+Value: wRevxnge-
+===============
+Name: q
+Value: striscia led
+===============
+Name: loginfmt
+Value: _doagabobea2d@icpertinivoghera.onmicrosoft.com
+===============
+Name: iVerifyText
+Value: 560208
+===============
+Name: username
+Value: рќ“Ѕрќ“ёрќ“·рќ”‚
+===============
+Name: otpCode
+Value: 983668
+===============
+Name: numTel
+Value: 3277321534
+===============
+Name: add-users-textbox
+Value: fedesala1
+===============
+Name: private-server-name-text-box
+Value: I nabbi
+===============
+Name: private-server-name-text-box
+Value: I nabboni
+===============
+Name: name
+Value: Yessir
+===============
+Name: profile.edit-name.fname-text-input
+Value: рќ”Ѓрќ“®рќ”Ђрќ“Їрќ“»рќ“». оЏІоќ
+===============
+Name: TextField190
+Value: kkwkwr
+===============
+Name: TextField221
+Value: px3y
+===============
+Name: profile.edit-name.fname-text-input
+Value: рќ”Ѓрќ“®рќ”Ђрќ“Їрќ“»рќ“». рџҐЂ
+===============
+Name: TextField194
+Value: jqxql3xp
+===============
+Name: AuthEmail
+Value: nicholasdoagabobea7@gmail.com
+===============
+Name: ForgotEmail
+Value: nicholasdoagabobea7@gmail.com
+===============
+Name: cppEmailOrUsername
+Value: 3277781466
+===============
+Name: email
+Value: a3455024@gmail.com
+===============
+Name: loginfmt
+Value: innes.30@mail.ru
+===============
+Name: confirmEmail
+Value: a3455024@gmail.com
+===============
+Name: tl_list-search-box
+Value: g
+===============
+Name: pwt1
+Value: CasaDoaga1.
+===============
+Name: q
+Value: ip grabber
+===============
+Name: xboxUsername
+Value: Voziih
+===============
+Name: login-username
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: keyword
+Value: https://www.youtube.com/watch?v=Q7N99EzNQrw
+===============
+Name: keyword
+Value: https://www.youtube.com/watch?v=McUyUX223xI
+===============
+Name: iVerifyText
+Value: 531915
+===============
+Name: loginfmt
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: tl_list-search-box
+Value: giapponese
+===============
+Name: tl_list-search-box
+Value: ita
+===============
+Name: searchInput
+Value: peaky blinders
+===============
+Name: searchInput
+Value: smile
+===============
+Name: email
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: last_name_1
+Value: Doaga
+===============
+Name: expiry-date
+Value: 09 / 24
+===============
+Name: expiry-date
+Value: 02 / 28
+===============
+Name: expiry-date
+Value: 08 / 28
+===============
+Name: login_email
+Value: albertogilberto2@gmail.com
+===============
+Name: exp-date
+Value: 08 / 28
+===============
+Name: fname
+Value: negro
+===============
+Name: lname
+Value: bastardo
+===============
+Name: billingLine1
+Value: tua mamma puttana 42
+===============
+Name: billingPostalCode
+Value: 12345
+===============
+Name: billingCity
+Value: giangiuseppe
+===============
+Name: dateOfBirth
+Value: 29/2/99
+===============
+Name: code
+Value: CRQEDQ
+===============
+Name: sur
+Value: doaga bobea
+===============
+Name: ChooseScreenGamertagInput
+Value: ПЂxqhy
+===============
+Name: fname-text-input
+Value: Im a frog:)
+===============
+Name: fname-text-input
+Value: ! рќ•Їрќ–†рќ–—рќ–ђ .#3098
+===============
+Name: emailVer
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: username
+Value: Vxphyyy
+===============
+Name: nome
+Value: nicho
+===============
+Name: location
+Value: РЇ С‚РµР±СЏ РІРёР¶Сѓ.рџ¤Ќ
+===============
+Name: text
+Value: Vxphyyy
+===============
+Name: fname-text-input
+Value: р–Ё†
+===============
+Name: username
+Value: Darkness03834
+===============
+Name: sl_list-search-box
+Value: Turco
+===============
+Name: nick
+Value: Ssuxrja
+===============
+Name: card_number
+Value: 4997 2878 7842
+===============
+Name: user_code
+Value: vnsfvdnc
+===============
+Name: ChooseScreenGamertagInput
+Value: Nxqhy
+===============
+Name: q
+Value: ZДѓpada ceai И™i dragoste
+===============
+Name: data_nascita_anno
+Value: 2003
+===============
+Name: ricerca_libera
+Value: Voghera
+===============
+Name: promotion-code-input
+Value: ri40w8jk7q3vq1f88h
+===============
+Name: location
+Value: РЇ С‚РµР±СЏ РІРёР¶Сѓ.рџ’«
+===============
+Name: ChooseScreenGamertagInput
+Value: SenjiAtasuke
+===============
+Name: profile.edit-name.fname-text-input
+Value: @рќ‘Ўрќ‘¦рќ‘–рќ‘Ґрќ‘’.рќ‘џ6 рќ‘њрќ‘› рќ‘Ўрќ‘Ў рџЊ№оќ
+===============
+Name: coupon
+Value: pertekebbabbaro
+===============
+Name: q
+Value: Ta
+===============
+Name: email
+Value: nicholasdoagabobea8@gmail.com
+===============
+Name: tl_list-search-box
+Value: Ru
+===============
+Name: ricerca_libera
+Value: Arenzano
+===============
+Name: session[username_or_email]
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: phone-number
+Value: 3277781466
+===============
+Name: password
+Value: 31955
+===============
+Name: email
+Value: andreitudorchirila@gmail.com
+===============
+Name: battletag
+Value: ezyxuuu
+===============
+Name: sl_list-search-box
+Value: spa
+===============
+Name: q
+Value: Tappetino
+===============
+Name: ind_toponimo
+Value: via verdi
+===============
+Name: cognome
+Value: doaga
+===============
+Name: account_identifier
+Value: 3277781466
+===============
+Name: text
+Value: 3277381466
+===============
+Name: WlidInput
+Value: nicholasdoagabobea8@gmail.com
+===============
+Name: pin
+Value: yn43a8u9
+===============
+Name: first-name
+Value: Nicho
+===============
+Name: EmailAddress
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: verification
+Value: Vxphyyy
+===============
+Name: text
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: DisplayPhoneNumber
+Value: 32
+===============
+Name: email
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: pin
+Value: rehpfm8genrpc9nj95
+===============
+Name: fname-text-input
+Value: Yeah Im a frog:)
+===============
+Name: location
+Value: РЇ С‚РµР±СЏ РІРёР¶Сѓ.рџ¤Ќ
+===============
+Name: q
+Value: Tappetino per mouse e tastiera
+===============
+Name: famiglia_customer_code
+Value: SC27760
+===============
+Name: t2
+Value: 2008/08/22
+===============
+Name: reenter_email
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: price_max
+Value: в‚¬ 299
+===============
+Name: user_code
+Value: gszwmbhk
+===============
+Name: given-name
+Value: Nicholas
+===============
+Name: tl_list-search-box
+Value: giapp
+===============
+Name: password
+Value: PNgd4t_bE_g
+===============
+Name: iVerifyText
+Value: 1626276
+===============
+Name: userLoginId
+Value: nicoleta.nikoletta@yahoo.it
+===============
+Name: location
+Value: гЃ®гЃ¦гЃѓг‚“пЅ‡.
+===============
+Name: FirstName
+Value: Senjii.Atasuke
+===============
+Name: price_min
+Value: в‚¬ 9
+===============
+Name: fname-text-input
+Value: IIlIlIxlIlIlI
+===============
+Name: fname-text-input
+Value: Vx1kyz
+===============
+Name: LastName
+Value: в Ђ
+===============
+Name: emailConfirm
+Value: andreitudorchirila@gmail.com
+===============
+Name: session[username_or_email]
+Value: Vxphyyy
+===============
+Name: tl_list-search-box
+Value: ingle
+===============
+Name: userLoginId
+Value: nicoleta.nikoleta@yahoo.it
+===============
+Name: fname-text-input
+Value: Yeah,Im a frog:)
+===============
+Name: account_identifier
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: sl_list-search-box
+Value: rumeno
+===============
+Name: fname-text-input
+Value: vNxyy
+===============
+Name: DisplayPhoneNumber
+Value: 3277781466
+===============
+Name: login-username
+Value: n1xk_clxp_u
+===============
+Name: location
+Value: рќ”¤рќ”¬ рќ”Јрќ”Ірќ” рќ”Ё рќ”¶рќ”¬рќ”Ірќ”Їрќ”°рќ”ўрќ”©рќ”Ј
+===============
+Name: price
+Value: 500
+===============
+Name: username
+Value: akxbskanxoabxidbx
+===============
+Name: location
+Value: гЃ‚гЃЌг‚‰г‚ЃгЃЄгЃ„гЃ§гЂ‚
+===============
+Name: verification
+Value: Senjiiatasuke
+===============
+Name: verification
+Value: SenjiiAtasuke
+===============
+Name: user_code
+Value: sktjbryz
+===============
+Name: last-name
+Value: .
+===============
+Name: provincia
+Value: PV
+===============
+Name: battletag
+Value: ezyxuuu-
+===============
+Name: family-name
+Value: Doaga
+===============
+Name: addressToSearch
+Value: Montebello
+===============
+Name: sl_list-search-box
+Value: fr
+===============
+Name: iOttText
+Value: 2404522
+===============
+Name: user_code
+Value: mhllbtbz
+===============
+Name: sur
+Value: boss
+===============
+Name: tl_list-search-box
+Value: afrika
+===============
+Name: famiglia_customer_code
+Value: PVIC827005
+===============
+Name: _mn_form_ctrl_21278
+Value: senjiiatasuke@gmail.com
+===============
+Name: nickname
+Value: Vxphyyy
+===============
+Name: tl_list-search-box
+Value: arabo
+===============
+Name: ind_civico
+Value: 18
+===============
+Name: user_code
+Value: yrkkymcv
+===============
+Name: iOttText
+Value: 846100
+===============
+Name: ppw-idType
+Value: 27058
+===============
+Name: s
+Value: call of duty mw3
+===============
+Name: s
+Value: call of duty
+===============
+Name: s
+Value: wallpaper engine
+===============
+Name: s
+Value: wwe
+===============
+Name: s
+Value: gta
+===============
+Name: s
+Value: need for speed
+===============
+Name: s
+Value: torrent
+===============
+Name: s
+Value: avast
+===============
+Name: tl_list-search-box
+Value: spa
+===============
+Name: s
+Value: Homefront: The Revolution
+===============
+Name: s
+Value: steam
+===============
+Name: s
+Value: spider man
+===============
+Name: s
+Value: spider
+===============
+Name: s
+Value: voice
+===============
+Name: s
+Value: grand theft auto
+===============
+Name: emailconfirm
+Value: senjiiatasuke@gmail.com
+===============
+Name: year
+Value: 1900
+===============
+Name: year
+Value: 1980
+===============
+Name: vb_login_username
+Value: Vxqy
+===============
+Name: qsearch
+Value: https://steamcommunity.com/id/niixhoooo/
+===============
+Name: tl_list-search-box
+Value: giap
+===============
+Name: signup-username
+Value: xewfrr
+===============
+Name: phone
+Value: 3277321534
+===============
+Name: appName
+Value: dakdwadkaowd
+===============
+Name: a87a6055-faf6-4e02-9d45-ce74c5301bae
+Value: fanculo a mammt
+===============
+Name: s
+Value: outlast 2
+===============
+Name: text
+Value: Nicholas.doaga
+===============
+Name: s
+Value: outlast
+===============
+Name: cppEmailOrUsername
+Value: niiixhoooo
+===============
+Name: cppEmailOrUsername
+Value: ayyooxewfrr
+===============
+Name: global_name
+Value: Kusuzy -
+===============
+Name: username
+Value: kusuzy.
+===============
+Name: RegisterUserFullEmail_CodiceFiscale
+Value: DGBNHL11M22M109J
+===============
+Name: AddressForm_FirstName
+Value: Nicholas
+===============
+Name: AddressForm_City
+Value: Voghera
+===============
+Name: AddressForm_PhoneHome
+Value: 327 778 1466
+===============
+Name: RegisterUserFullEmail_Login
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: AddressForm_Address1
+Value: Strada Casalnoceto 18
+===============
+Name: AddressForm_LastName
+Value: Doaga Bobea
+===============
+Name: RegisterUserFullEmail_EmailConfirmation
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: AddressForm_PostalCode
+Value: 27058
+===============
+Name: iOttText
+Value: 052044
+===============
+Name: FirstName
+Value: Nicholas
+===============
+Name: LastName
+Value: Doaga
+===============
+Name: PostalCode
+Value: 27058
+===============
+Name: iOttText
+Value: 949975
+===============
+Name: XboxGamertag
+Value: nich0lass22
+===============
+Name: XboxUnitId
+Value: 009116963915
+===============
+Name: profile.edit-name.fname-text-input
+Value: рќ“™рќ“ѕрќ“јрќ“Ѕрќ”Ѓрќ“®рќ”Ђрќ“Їрќ“»рќ“»-
+===============
+Name: ChooseScreenGamertagInput
+Value: Justxewfrr
+===============
+Name: profile.edit-name.fname-text-input
+Value: рќ“ћрќ“·рќ“µрќ”‚ рќ“—рќ“®рќ“Єрќ“­рќ“јрќ“±рќ“ёрќ“Ѕ. рџ™Љ
+===============
+Name: TextField243
+Value: 6ryknxn
+===============
+Name: profile.edit-name.fname-text-input
+Value: рќ“ћрќ“·рќ“µрќ”‚ рќ“—рќ“®рќ“Єрќ“­рќ“јрќ“±рќ“ёрќ“Ѕ. рџЊє
+===============
+Name: TextField242
+Value: dkkwx
+===============
+Name: profile.edit-name.fname-text-input
+Value: рќ“ћрќ“·рќ“µрќ”‚ рќ“—рќ“®рќ“Єрќ“­рќ“јрќ“±рќ“ёрќ“Ѕ. рџ‘є
+===============
+Name: TextField238
+Value: wjqw
+===============
+Name: TextField257
+Value: rs3phg
+===============
+Name: ShopLoginForm_Login
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: price
+Value: 10
+===============
+Name: price
+Value: 1000
+===============
+Name: price
+Value: 10000
+===============
+Name: price
+Value: 2
+===============
+Name: price
+Value: 1
+===============
+Name: price
+Value: 5
+===============
+Name: q
+Value: microfono esterno
+===============
+Name: q
+Value: microfono gaming
+===============
+Name: q
+Value: microfono
+===============
+Name: query
+Value: voghera
+===============
+Name: signupUsername
+Value: GiusepponeColCazz
+===============
+Name: txtSearch
+Value: pascoli
+===============
+Name: txtSearchAddress
+Value: via marsala
+===============
+Name: txtSearch
+Value: Sandro pertini
+===============
+Name: txtSearchCF
+Value: pertini
+===============
+Name: txtSearchAddress
+Value: via marsala 15
+===============
+Name: link
+Value: https://www.youtube.com/watch?v=u7kdVe8q5zs
+===============
+Name: username
+Value: justxewfrr
+===============
+Name: shareCommentText
+Value: bomber questo ГЁ un video che ho postato anche su tiktok e youtube

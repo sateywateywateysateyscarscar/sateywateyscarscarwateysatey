@@ -1,0 +1,172 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*  Telegram: https://t.me/redline_market_bot  *
+***********************************************
+
+ID: 1020, Name: csrss.exe, CommandLine: 
+===============
+ID: 1500, Name: winlogon.exe, CommandLine: winlogon.exe
+===============
+ID: 1552, Name: fontdrvhost.exe, CommandLine: "fontdrvhost.exe"
+===============
+ID: 2040, Name: dwm.exe, CommandLine: "dwm.exe"
+===============
+ID: 3240, Name: NVDisplay.Container.exe, CommandLine: "C:\WINDOWS\System32\DriverStore\FileRepository\nvle.inf_amd64_0aa78d60ad5c235f\Display.NvContainer\NVDisplay.Container.exe" -f %ProgramData%\NVIDIA\DisplaySessionContainer%d.log -d C:\WINDOWS\System32\DriverStore\FileRepository\nvle.inf_amd64_0aa78d60ad5c235f\Display.NvContainer\plugins\Session -r -l 3 -p 30000 -cfg NVDisplay.ContainerLocalSystem\Session /ert -c
+===============
+ID: 5388, Name: rundll32.exe, CommandLine: rundll32.exe "c:\program files\nvidia corporation\nvstreamsrv\rxdiag.dll" RxDiagSetRuntimeMessagePump
+===============
+ID: 7292, Name: ipf_helper.exe, CommandLine: "C:\WINDOWS\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_552f6da0f811dc67\ipf_helper.exe"
+===============
+ID: 7360, Name: nvcontainer.exe, CommandLine: "C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe" -f "C:\ProgramData\NVIDIA\NvContainerUser%dSPUser.log" -d "C:\Program Files\NVIDIA Corporation\NvContainer\plugins\SPUser" -r -l 3 -p 30000 -st "C:\Program Files\NVIDIA Corporation\NvContainer\NvContainerTelemetryApi.dll" -c
+===============
+ID: 7428, Name: nvcontainer.exe, CommandLine: "C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe" -f "C:\ProgramData\NVIDIA\NvContainerUser%d.log" -d "C:\Program Files\NVIDIA Corporation\NvContainer\plugins\User" -r -l 3 -p 30000 -st "C:\Program Files\NVIDIA Corporation\NvContainer\NvContainerTelemetryApi.dll" -c
+===============
+ID: 7508, Name: sihost.exe, CommandLine: sihost.exe
+===============
+ID: 7592, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 7880, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s webthreatdefusersvc
+===============
+ID: 7044, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 3500, Name: taskhostw.exe, CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 7072, Name: explorer.exe, CommandLine: C:\WINDOWS\Explorer.EXE
+===============
+ID: 8636, Name: NahimicSvc64.exe, CommandLine: "C:\WINDOWS\system32\.\NahimicSvc64.exe" /start all /product A-Volute.Nahimic /location C:\ProgramData\A-Volute\A-Volute.Nahimic\Modules\Scheduled\x64  
+===============
+ID: 8648, Name: NahimicSvc32.exe, CommandLine: "C:\WINDOWS\system32\..\SysWOW64\NahimicSvc32.exe" /start all /product A-Volute.Nahimic /location C:\ProgramData\A-Volute\A-Volute.Nahimic\Modules\Scheduled  
+===============
+ID: 8716, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 6380, Name: SearchHost.exe, CommandLine: "C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe" -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca
+===============
+ID: 8272, Name: StartMenuExperienceHost.exe, CommandLine: "C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 4192, Name: Widgets.exe, CommandLine: "C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_524.16300.20.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe" -ServerName:Microsoft.Windows.DashboardServer
+===============
+ID: 6004, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8884, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup -s UdkUserSvc
+===============
+ID: 2508, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 9280, Name: WidgetService.exe, CommandLine: "C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_524.16300.20.0_x64__cw5n1h2txyewy\Dashboard\widgetservice.exe" -RegisterProcessAsComServer -Embedding
+===============
+ID: 9740, Name: dllhost.exe, CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+===============
+ID: 10044, Name: FileCoAuth.exe, CommandLine: "C:\Users\panto\AppData\Local\Microsoft\OneDrive\24.126.0623.0001\FileCoAuth.exe" -Embedding
+===============
+ID: 9736, Name: dllhost.exe, CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 11196, Name: ctfmon.exe, CommandLine: "ctfmon.exe"
+===============
+ID: 9848, Name: NVIDIA Web Helper.exe, CommandLine: "C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe" index.js
+===============
+ID: 11172, Name: conhost.exe, CommandLine: \??\C:\WINDOWS\system32\conhost.exe 0x4
+===============
+ID: 12112, Name: Calliope_Keyboard.exe, CommandLine: "C:\Program Files (x86)\Lenovo\Calliope_Keyboard\Calliope_Keyboard.exe"
+===============
+ID: 11348, Name: RtkAudUService64.exe, CommandLine: "C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_c607c18cb15933d8\RtkAudUService64.exe" -background
+===============
+ID: 11464, Name: OneDrive.exe, CommandLine: "C:\Users\panto\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+===============
+ID: 11888, Name: nvsphelper64.exe, CommandLine: "C:\Program Files\NVIDIA Corporation\ShadowPlay\nvsphelper64.exe"
+===============
+ID: 11952, Name: NVIDIA Share.exe, CommandLine: "C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe"
+===============
+ID: 6416, Name: NVIDIA Share.exe, CommandLine: "C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe" --type=gpu-process --field-trial-handle=2116,1771426593399332342,1273534779603026515,131072 --disable-features=VizDisplayCompositor --no-sandbox --log-file="C:\Users\panto\AppData\Local\NVIDIA Corporation\NVIDIA Share\debug.log" --lang=en-US --gpu-preferences=KAAAAAAAAACACwAAAQAAAAAAAAAAAGAAAAAAAAEAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA --log-file="C:\Users\panto\AppData\Local\NVIDIA Corporation\NVIDIA Share\debug.log" --service-request-channel-token=15246186441436735581 --mojo-platform-channel-handle=2140 /prefetch:2
+===============
+ID: 11448, Name: NVIDIA Share.exe, CommandLine: "C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe" --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --log-file="C:\Users\panto\AppData\Local\NVIDIA Corporation\NVIDIA Share\debug.log" --field-trial-handle=2116,1771426593399332342,1273534779603026515,131072 --disable-features=VizDisplayCompositor --service-pipe-token=8900184387952023594 --lang=en-US --log-file="C:\Users\panto\AppData\Local\NVIDIA Corporation\NVIDIA Share\debug.log" --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=8900184387952023594 --renderer-client-id=3 --mojo-platform-channel-handle=2924 /prefetch:1
+===============
+ID: 12568, Name: steam.exe, CommandLine: "C:\Program Files (x86)\Steam\steam.exe" -silent
+===============
+ID: 12744, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" "-lang=it_IT" "-cachedir=C:\Users\panto\AppData\Local\Steam\htmlcache" "-steampid=12568" "-buildid=1721420033" "-steamid=0" "-logdir=C:\Program Files (x86)\Steam\logs" "-uimode=7" "-startcount=0" "-userdatadir=C:\Users\panto\AppData\Local\Steam\cefdata" "-steamuniverse=Public" "-realm=Global" "-clientui=C:\Program Files (x86)\Steam\clientui" "-steampath=C:\Program Files (x86)\Steam\steam.exe" "-launcher=0" --valve-enable-site-isolation --enable-smooth-scrolling --enable-direct-write "--log-file=C:\Program Files (x86)\Steam\logs\cef_log.txt" --disable-quick-menu "--disable-features=SpareRendererForSitePerProcess,DcheckIsFatal"
+===============
+ID: 12892, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=crashpad-handler /prefetch:7 --max-uploads=5 --max-db-size=20 --max-db-age=5 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Program Files (x86)\Steam\dumps" "--metrics-dir=C:\Users\panto\AppData\Local\CEF\User Data" --url=https://crash.steampowered.com/submit --annotation=platform=win64 --annotation=product=cefwebhelper --annotation=version=1721420033 --initial-client-data=0x3b0,0x3b4,0x3b8,0x38c,0x3bc,0x7ffa7ae0ee38,0x7ffa7ae0ee48,0x7ffa7ae0ee58
+===============
+ID: 13016, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=gpu-process --user-agent-product="Valve Steam Client" --lang=it-IT --user-data-dir="C:\Users\panto\AppData\Local\Steam\cefdata" --buildid=1721420033 --steamid=0 --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --mojo-platform-channel-handle=1764 --field-trial-handle=1772,i,7493310892582199718,9715736341150360168,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:2
+===============
+ID: 13268, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=it --service-sandbox-type=none --user-agent-product="Valve Steam Client" --lang=it-IT --user-data-dir="C:\Users\panto\AppData\Local\Steam\cefdata" --buildid=1721420033 --steamid=0 --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --mojo-platform-channel-handle=2356 --field-trial-handle=1772,i,7493310892582199718,9715736341150360168,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:8
+===============
+ID: 12476, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=it --service-sandbox-type=service --user-agent-product="Valve Steam Client" --lang=it-IT --user-data-dir="C:\Users\panto\AppData\Local\Steam\cefdata" --buildid=1721420033 --steamid=0 --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --mojo-platform-channel-handle=2624 --field-trial-handle=1772,i,7493310892582199718,9715736341150360168,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:8
+===============
+ID: 13028, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=renderer --user-agent-product="Valve Steam Client" --user-data-dir="C:\Users\panto\AppData\Local\Steam\cefdata" --buildid=1721420033 --steamid=0 --first-renderer-process --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --lang=it --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1721549582233181 --launch-time-ticks=46939211 --mojo-platform-channel-handle=3128 --field-trial-handle=1772,i,7493310892582199718,9715736341150360168,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:1
+===============
+ID: 8820, Name: ArchiveObserver.exe, CommandLine: "C:\Program Files\WindowsApps\3138AweZip.AweZip_1.4.36.0_x64__ffd303wmbhcjt\ArchiveObserver\ArchiveObserver.exe" 
+===============
+ID: 7032, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 14476, Name: jusched.exe, CommandLine: "C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe" 
+===============
+ID: 7080, Name: nahimicNotifSys.exe, CommandLine: "C:\Users\panto\AppData\Local\NhNotifSys\nahimic\nahimicNotifSys.exe" /app nahimic /systray
+===============
+ID: 16748, Name: ApplicationFrameHost.exe, CommandLine: C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 16400, Name: Nahimic3.exe, CommandLine: "C:\Program Files\WindowsApps\A-Volute.Nahimic_1.10.1.0_x64__w2gh52qy24etm\Nahimic3.exe" -ServerName:App.AppX9dn24zf64ax1mwzee7t1s1qcsx8vqbm4.mca
+===============
+ID: 16500, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 17156, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 7536, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k LocalService -p -s NPSMSvc
+===============
+ID: 14344, Name: backgroundTaskHost.exe, CommandLine: "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:App.AppXfkd8mejksk4ancwf4vtyhmkvtzn1jcbs.mca
+===============
+ID: 14320, Name: WhatsApp.exe, CommandLine: "C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2428.8.0_x64__cv1g1gvanyjgm\WhatsApp.exe" -ServerName:App.AppXkf4yh0averk473g9chjmra34tgccdh3d.mca
+===============
+ID: 16172, Name: PhoneExperienceHost.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.YourPhone_1.24062.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe" -ComServer:Background -Embedding
+===============
+ID: 7492, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 13208, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 4696, Name: Lenovo.Modern.ImController.PluginHost.Device.exe, CommandLine: -name b2a6797c-0fef-444c-bcc1-48a838479a36 -runas -pluginName LenovoDeviceMetricsPlugin -pluginVersion 3.0.2.0
+===============
+ID: 15908, Name: steamwebhelper.exe, CommandLine: "C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe" --type=renderer --user-agent-product="Valve Steam Client" --user-data-dir="C:\Users\panto\AppData\Local\Steam\cefdata" --buildid=1721420033 --steamid=0 --log-file="C:\Program Files (x86)\Steam\logs\cef_log.txt" --lang=it --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=10 --time-ticks-at-unix-epoch=-1721549582233181 --launch-time-ticks=230740918 --mojo-platform-channel-handle=4764 --field-trial-handle=1772,i,7493310892582199718,9715736341150360168,131072 --disable-features=BackForwardCache,DcheckIsFatal,SpareRendererForSitePerProcess,WinUseBrowserSpellChecker /prefetch:1
+===============
+ID: 18456, Name: ShellExperienceHost.exe, CommandLine: "C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+===============
+ID: 18596, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 18772, Name: RegAsm.exe, CommandLine: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\RegAsm.exe
+===============
+ID: 16972, Name: XboxPcAppFT.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.GamingApp_2407.1001.1.0_x64__8wekyb3d8bbwe\XboxPcAppFT.exe" -Embedding
+===============
+ID: 1804, Name: LenovoVantage-(GenericMessagingAddin).exe, CommandLine: "C:\Program Files (x86)\Lenovo\VantageService\4.1.12.0\LenovoVantage-(GenericMessagingAddin).exe" GenericMessagingAddin C:\ProgramData\Lenovo\Vantage\Addins\\GenericMessagingAddin\1.0.0.147\GenericMessagingAddin.dll GenericMessagingAddin.8905418767a94d609ef0b85a5a270c8a 38ad9267-caf6-4749-91ba-4021e13264eb 8
+===============
+ID: 17576, Name: BreeZip.exe, CommandLine: "C:\Program Files\WindowsApps\3138AweZip.AweZip_1.4.36.0_x64__ffd303wmbhcjt\AweZip\BreeZip.exe" "C:\Users\panto\Downloads\avenger (1).zip"
+===============
+ID: 8824, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k DevicesFlow -s DevicesFlowUserSvc
+===============
+ID: 12968, Name: SDXHelper.exe, CommandLine: "C:\Program Files\Microsoft Office\Root\Office16\SDXHelper.exe" -Embedding
+===============
+ID: 20020, Name: SystemSettings.exe, CommandLine: "C:\Windows\ImmersiveControlPanel\SystemSettings.exe" -ServerName:microsoft.windows.immersivecontrolpanel
+===============
+ID: 8600, Name: UserOOBEBroker.exe, CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 19136, Name: BreeZip.exe, CommandLine: "C:\Program Files\WindowsApps\3138AweZip.AweZip_1.4.36.0_x64__ffd303wmbhcjt\AweZip\BreeZip.exe" "C:\Users\panto\Downloads\avenger (2).zip"
+===============
+ID: 7276, Name: BreeZip.exe, CommandLine: "C:\Program Files\WindowsApps\3138AweZip.AweZip_1.4.36.0_x64__ffd303wmbhcjt\AweZip\BreeZip.exe" "C:\Users\panto\Downloads\avenger (1).zip"
+===============
+ID: 21400, Name: AddInProcess.exe, CommandLine: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\AddInProcess.exe --algo EQUI144_5 --pers BgoldPoW --tls off --pool btg.2miners.com:4040 --user AGTvezj3ZMwmnjUu5aDaF3U9yfgMevhuA6.RIG_6GB --worker RIG_6GB --pass x --log off --watchdog exit
+===============
+ID: 15820, Name: smartscreen.exe, CommandLine: C:\Windows\System32\smartscreen.exe -Embedding
+===============
+ID: 12624, Name: BreeZip.exe, CommandLine: "C:\Program Files\WindowsApps\3138AweZip.AweZip_1.4.36.0_x64__ffd303wmbhcjt\AweZip\BreeZip.exe" "C:\Users\panto\Downloads\Lаuncher.zip"
+===============
+ID: 9524, Name: conhost.exe, CommandLine: \??\C:\WINDOWS\system32\conhost.exe 0x4
+===============
+ID: 8756, Name: OpenConsole.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\OpenConsole.exe" -Embedding
+===============
+ID: 5280, Name: WindowsTerminal.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.20.11781.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe" -Embedding
+===============
+ID: 6668, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 20608, Name: MSBuild.exe, CommandLine: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe"

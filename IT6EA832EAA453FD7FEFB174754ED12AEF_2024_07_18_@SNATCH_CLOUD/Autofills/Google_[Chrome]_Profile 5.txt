@@ -1,0 +1,32 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: AuthEmail
+Value: nicholasdoagabobea7@gmail.com
+===============
+Name: ForgotEmail
+Value: nicholasdoagabobea7@gmail.com
+===============
+Name: AuthEmail
+Value: senjiiatasuke@gmail.com
+===============
+Name: AccountEmail
+Value: senjiiatasuke@gmail.com
+===============
+Name: ConfirmAccountEmail
+Value: senjiiatasuke@gmail.com
+===============
+Name: Username
+Value: xewfrr.
+===============
+Name: AccountEmail
+Value: nicholasdoagabobea7@gmail.com
+===============
+Name: ConfirmAccountEmail
+Value: nicholasdoagabobea7@gmail.com

@@ -1,0 +1,39 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+@SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+IP: 188.216.109.123
+FileLocation: C:\Users\nicho\AppData\Local\Temp\567196\RegAsm.exe
+UserName: nicho
+MachineName: LAPTOP-NICHO
+Country: IT
+Zip Code: 10138
+Location: Torino, Piemonte
+HWID: 6EA832EAA453FD7FEFB174754ED12AEF
+Current Language: Italian (Italy)
+ScreenSize: {Width=1536, Height=864}
+TimeZone: (UTC+01:00) Amsterdam, Berlino, Berna, Roma, Stoccolma, Vienna
+Operation System: Windows 11 Home x64
+Log date: 7/18/2024 5:39:19 AM
+
+Available KeyboardLayouts: 
+Italian (Italy)
+English (United Kingdom)
+Spanish (Spain, International Sort)
+
+
+Hardwares: 
+Name: Total of RAM, 15706.56 Mb or 16469520384 bytes
+Name: AMD Ryzen 7 5700U with Radeon Graphics         , 8 Cores
+Name: AMD Radeon(TM) Graphics, 536870912 bytes
+
+
+Anti-Viruses: 
+Windows Defender
+McAfee

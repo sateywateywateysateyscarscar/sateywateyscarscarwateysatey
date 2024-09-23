@@ -1,0 +1,23 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: email_or_username
+Value: nicholasdoagabobea849gmail.com
+===============
+Name: identifier
+Value: annalisa.zanardi@scuolapertinivoghera.it
+===============
+Name: large
+Value: apparato respiratorio
+===============
+Name: identifier
+Value: a.nori1@campus.unimib.it
+===============
+Name: j_username
+Value: a.nori1@campus.unimib.it

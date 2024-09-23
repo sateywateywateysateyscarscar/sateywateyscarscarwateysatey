@@ -1,0 +1,300 @@
+-- VIDAR STEALER - ЛУЧШИЙ STEALER НА РЫНКЕ!!!!
+-- Контакты для связи Telegram: @SNATCH_CLOUD 1 ROOM | @HUBHEAD_LOGS 2 ROOM | @SNATCH_ADMIN | @HUBHEAD
+-- ПОМНИТЕ ОПЛАТА ТОЛЬКО НА САЙТЕ ПРОЕКТА В АВТОМАТИЧЕСКОМ РЕЖИМЕ! 
+
+Chat Public: https://t.me/vidarchatopen
+Channel: https://t.me/vidarnews
+
+
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+Взлом паролей от сложных кошельков MetaMask после всех брутеров.
+
+Мы рады представить вам пожалуй наилучший сервис для взлома кошельков на этом рынке,
+мы разработали самые эффективные методы атак заточенные непосредственно под взлом кошельков,
+и подбора от легких до наиболее сложных паролей, которые не были никем подобраны за многие месяцы и годы.
+
+Наш депозит - 5 BTC https://forum.exploit.in/topic/243227/
+
+Мин баланс кошелька: от 50k$ / Процент клиента: от 50% до 60%
+
+Telegram: @vault_m / jabber: vault_m@exploit.im
+-------------------ОПЛАЧЕННАЯ РЕКЛАМА-------------------
+
+Ip: 151.33.55.82
+Country: IT
+Version: 10.2
+
+Date: 30/6/2024 12:12:51
+MachineID: a9cfe38c-5eae-49c1-ad5c-0ef4f4125848
+GUID: {42113780-3493-11ef-a129-806e6f6e6963}
+HWID: 69019367751C389561124-42113780-3493-11ef-a129-806e6f6e6963
+
+Path: C:\Users\clood\AppData\Local\Temp\VIDA_29061700.au3
+Work Dir: In memory
+
+Windows: Windows 11
+Install Date: 27/6/2024 15:44:12
+AV: Windows Defender
+Computer Name: DESKTOP-V8BPSKC
+User Name: clood
+Display Resolution: 1366x768
+Keyboard Languages: Italiano (Italia)
+Local Time: 30/6/2024 12:12:52
+TimeZone: 1
+
+[Hardware]
+Processor: AMD Athlon Silver 3050U with Radeon Graphics   
+Cores: 2
+Threads: 2
+RAM: 6086 MB
+VideoCard: AMD Radeon(TM) Graphics
+
+[Processes]
+System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+csrss.exe
+winlogon.exe
+services.exe
+lsass.exe
+svchost.exe
+fontdrvhost.exe
+fontdrvhost.exe
+svchost.exe
+svchost.exe
+dwm.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+ASCService.exe
+dasHost.exe
+svchost.exe
+svchost.exe
+SynTPEnhService.exe
+svchost.exe
+atiesrxx.exe
+atieclxx.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+Memory Compression
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+audiodg.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+spoolsv.exe
+svchost.exe
+svchost.exe
+mDNSResponder.exe
+AppleMobileDeviceService.exe
+svchost.exe
+OfficeClickToRun.exe
+svchost.exe
+svchost.exe
+MpDefenderCoreService.exe
+svchost.exe
+IoctlSvc.exe
+svchost.exe
+RtkAudUService64.exe
+svchost.exe
+SECOMN64.exe
+svchost.exe
+MsMpEng.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+sihost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+taskhostw.exe
+svchost.exe
+SECOCL64.exe
+conhost.exe
+explorer.exe
+svchost.exe
+smartscreen.exe
+SynTPEnh.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+StartMenuExperienceHost.exe
+SearchHost.exe
+Widgets.exe
+RuntimeBroker.exe
+svchost.exe
+RuntimeBroker.exe
+svchost.exe
+WidgetService.exe
+dllhost.exe
+ctfmon.exe
+svchost.exe
+svchost.exe
+svchost.exe
+NisSrv.exe
+LocationNotificationWindows.exe
+SecurityHealthSystray.exe
+SecurityHealthService.exe
+RtkAudUService64.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+svchost.exe
+sidebar.exe
+chrome.exe
+chrome.exe
+ASCTray.exe
+msteams.exe
+RuntimeBroker.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+UninstallMonitor.exe
+DataExchangeHost.exe
+svchost.exe
+MoUsoCoreWorker.exe
+svchost.exe
+ShellExperienceHost.exe
+RuntimeBroker.exe
+svchost.exe
+ArchiveObserver.exe
+RuntimeBroker.exe
+NMIndexStoreSvr.exe
+NMIndexingService.exe
+NMBgMonitor.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+msedgewebview2.exe
+svchost.exe
+SystemSettingsBroker.exe
+svchost.exe
+emule.exe
+dllhost.exe
+svchost.exe
+svchost.exe
+UserOOBEBroker.exe
+DriverBooster.exe
+RuntimeBroker.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+armsvc.exe
+chrome.exe
+SearchIndexer.exe
+chrome.exe
+svchost.exe
+ApplicationFrameHost.exe
+msedge.exe
+msedge.exe
+WWAHost.exe
+RuntimeBroker.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+WsNativePushService.exe
+WsToastNotification.exe
+conhost.exe
+WsAppService3.exe
+ElevationService.exe
+chrome.exe
+MobileTrans.exe
+chrome.exe
+chrome.exe
+svchost.exe
+adb.exe
+dllhost.exe
+WUDFHost.exe
+svchost.exe
+PhoneExperienceHost.exe
+RtkBtManServ.exe
+svchost.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+msedge.exe
+svchost.exe
+msedge.exe
+msedge.exe
+more.com
+conhost.exe
+more.com
+conhost.exe
+VIDA_29061700.au3
+svchost.exe
+svchost.exe
+svchost.exe
+WmiPrvSE.exe
+
+[Software]
+Advanced SystemCare - 17.4.0
+Ask Toolbar
+Driver Booster 11 - 11.5.0
+eMule
+Google Chrome - 126.0.6478.127
+IObit Uninstaller 13 - 13.0.0.13
+Microsoft Edge - 126.0.2592.81
+Microsoft Edge Update - 1.3.187.41
+Microsoft Edge WebView2 Runtime - 126.0.2592.81
+Microsoft OneDrive - 23.038.0219.0001
+neroxml - 1.0.0
+Wondershare MobileTrans ( Version 4.5.16 ) - 4.5.16
+Office 16 Click-to-Run Extensibility Component - 16.0.17628.20110
+Office 16 Click-to-Run Localization Component - 16.0.17628.20110
+8GadgetPack - 36.0.0
+Nero 7 Ultra Edition - 7.03.1151
+Adobe Refresh Manager - 1.8.0
+Apple Software Update - 2.7.0.3
+iMyFone iMyTrans - 6.6.0.5
+Wondershare NativePush(Build 1.0.1.2)
+

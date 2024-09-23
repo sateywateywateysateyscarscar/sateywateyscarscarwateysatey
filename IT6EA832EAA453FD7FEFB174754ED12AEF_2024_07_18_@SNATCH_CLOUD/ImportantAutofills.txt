@@ -1,0 +1,38 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+user[email]: nicholasdoagabobea849@gmail.com
+email: nicholasdoagabobea7@gmail.com
+input-email: nicholasdoagabobea849@gmail.com
+last_name: Doaga
+lastName__input: doaga
+email__input: nicholasdoagabobea849@gmail.com
+firstName: Nicho
+billing_address: nicholasdoagabobea849@gmail.com
+confirm-email: senjiiatasuke@gmail.com
+email-input: senjiiatasuke@gmail.com
+firstName__input: nicho
+register[email]: senjiiatasuke@gmail.com
+first_name: Nicho
+profile-account-info-setting__email-input: nicholasdoagabobea849@gmail.com
+lastName: Doaga
+billing_address_two: senjiiatasuke@gmail.com
+reg_email__: piselloduro@gmail.com
+reg_email_confirmation__: piselloduro@gmail.com
+last_name_1: Doaga
+login_email: albertogilberto2@gmail.com
+emailVer: nicholasdoagabobea849@gmail.com
+session[username_or_email]: nicholasdoagabobea849@gmail.com
+pin: yn43a8u9
+reenter_email: nicholasdoagabobea849@gmail.com
+emailConfirm: andreitudorchirila@gmail.com
+addressToSearch: Montebello
+emailconfirm: senjiiatasuke@gmail.com
+email_or_username: nicholasdoagabobea849gmail.com
+security_code: 002192

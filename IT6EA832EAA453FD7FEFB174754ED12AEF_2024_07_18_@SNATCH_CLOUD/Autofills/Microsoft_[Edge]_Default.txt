@@ -1,0 +1,38 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: mobile
+Value: 3277781466
+===============
+Name: username
+Value: xeuqoooo
+===============
+Name: edge_empty_label
+Value: nicksaking
+===============
+Name: displayName
+Value: KingN1xk
+===============
+Name: login-username
+Value: Vxphyyy
+===============
+Name: edge_empty_label
+Value: +
+===============
+Name: email
+Value: nicholasdoagabobea849@gmail.com
+===============
+Name: username
+Value: xewfr
+===============
+Name: search
+Value: nichola
+===============
+Name: identifier
+Value: nicholasdoagabobea849@gmail.com

@@ -1,0 +1,59 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+Name: AccountDobDay
+Value: 12
+===============
+Name: AccountDobMonth
+Value: 12
+===============
+Name: AccountDobYear
+Value: 2000
+===============
+Name: AccountEmail
+Value: a3455024@gmail.com
+===============
+Name: ConfirmAccountEmail
+Value: a3455024@gmail.com
+===============
+Name: Username
+Value: albertoo.
+===============
+Name: phoneNumber
+Value: 3277781466
+===============
+Name: AuthEmail
+Value: a3455024@gmail.com
+===============
+Name: ForgotEmail
+Value: a3455024@gmail.com
+===============
+Name: loginfmt
+Value: Innes.30@gmail.ru
+===============
+Name: loginfmt
+Value: 3203030751
+===============
+Name: loginfmt
+Value: innes.30@mail.ru
+===============
+Name: s
+Value: supernormal
+===============
+Name: s
+Value: don't scream
+===============
+Name: profile.edit-name.fname-text-input
+Value: в‚ів‚µв‚µГЙ„в‚¦в‚® в±§в‚ів‚µв‚­Й†в±¤Й†Дђ
+===============
+Name: profile.edit-name.lname-text-input
+Value: в‚ів‚µв‚µГЙ„в‚¦в‚® в±§в‚ів‚µв‚­Й†в±¤Й†Дђ
+===============
+Name: TextField186
+Value: R4SJY
