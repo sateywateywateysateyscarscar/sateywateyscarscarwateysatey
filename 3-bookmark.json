@@ -1,0 +1,17 @@
+[
+  {
+    "sUrl": "https://cpstest.org/",
+    "sTitle": "CPS Test - Check Clicks per Second",
+    "type": "Chrome"
+  },
+  {
+    "sUrl": "https://www.newgrounds.com/audio/listen/1160354",
+    "sTitle": "Warpzone",
+    "type": "Chrome"
+  },
+  {
+    "sUrl": "https://orteil.dashnet.org/cookieclicker/",
+    "sTitle": "10.644 trillion cookies - Cookie Clicker",
+    "type": "Chrome"
+  }
+]
