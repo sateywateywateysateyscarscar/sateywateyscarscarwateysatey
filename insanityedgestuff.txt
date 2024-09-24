@@ -1,0 +1,78 @@
+search	warzoneisgone@gmail.com
+name	Nova Paid
+Filter symbols	t
+Filter symbols	antire
+Filter symbols	anti
+Filter symbols	orbit
+Filter symbols	bug
+invite	https://discord.gg/K5C8Xgv3
+search-query	FunVr
+Filter symbols	tagau
+email	warzoneisgone@gmail.com
+cds-textinput-label-:r9:	warzoneisgone@gmail.com
+firstName	Nova
+lastName	Paid
+email	youngmoneyontop@gmail.com
+nexus_pfield_1	imnothaxing106
+global_name	nigerman33
+username	nigerman33
+uid_5684	Cheeses server
+uid_6231	menu
+uid_6238	chesse-menu
+channel-name	cheese-menu
+q	gorilla tag
+prefix	12345
+uid_20029	cheese-menu
+uid_20075	CHEESE MENU
+uid_20080	cheese-menu
+uid_20134	cheese-template
+uid_906	COMPUTER INTERFACE CUZ IM SIGMA
+uid_939	compounder-interface
+username	BrandonStephens74
+search-query	yungvr
+domain	68.136.180.27
+ip_input	68.136.180.27
+uid_8397	cheese-menu
+uid_28356	Menu
+uid_28374	sigma-temp
+channel-name	menu
+channel-name	sigma-menu
+uid_45884	sneek-peeks
+title	guys a sigma joined
+search	ban
+prefix	67784
+title	wasnt sigma
+title	{user} wasnt sigma
+uid_65064	code
+email	rakep83974@etopys.com
+global_name	grrrrr
+username	grrrrrrrrrr20times
+channel-name	amethyst-menu
+uid_17035	retard-script
+uid_12886	mystic-temp
+uid_16684	random-temp
+global_name	grrrrrrrrrr20times
+username	purple11
+email_address	rakep83974@etopys.com
+email_address_confirm	rakep83974@etopys.com
+username	purplename
+username	warzoneisgone@gmail.com
+email_address	warzoneisgone@gmail.com
+email_address_confirm	warzoneisgone@gmail.com
+signupUsername	buyitnow24
+name	Amethyst 
+price	1700
+email	barehop886@togito.com
+username	grrrrrrrrrr20times22
+Filter symbols	ButtonHelper 
+Filter symbols	CreateButton
+global_name	grrrrrrrrrr20timesss
+username	grrridont like people
+ip_input	64.183.243.57
+Filter symbols	GhostRig
+search-query	purple
+search-query	Tremaine
+search-query	skidder
+search-query	Amethyst menu
+search-query	Amethyst 
+search-query	Amethyst
