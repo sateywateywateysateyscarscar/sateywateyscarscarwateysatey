@@ -1,0 +1,36 @@
+{
+  "took": 168,
+  "size": 3,
+  "results": {
+    "2002_ATT_COM_73M_MOBILE_082021": [
+      {
+        "email": "TRINA1961NALLS@GMAIL.COM",
+        "name": "TRINA MALLS",
+        "_domain": "GMAIL.COM",
+        "uid": "287531181",
+        "phone": "7734942142",
+        "address": "6340 SANGAMON",
+        "city": "CHGO",
+        "state": "IL",
+        "zip": "60621"
+      }
+    ],
+    "0645_ZYNGA_COM_202M_GAMING_092019": [
+      {
+        "username": "TrinaN50",
+        "email": "trina1961nalls@gmail.com",
+        "salt": "4cc5f9682485d55ae43b1dab4526a03185046c4c",
+        "_domain": "gmail.com",
+        "created": "2016-07-29 23:32:31"
+      }
+    ],
+    "0642_DUBSMASH_COM_123M_SOCIAL_122018": [
+      {
+        "username": "milk_marie24",
+        "email": "trina1961nalls@gmail.com",
+        "hash": "pbkdf2_sha256$15000$BbAuz8aYlyBl$R9kKv2KtZS/Dja2vpECdbKDUWYsv16c8NbsSCkQ8LnM=",
+        "_domain": "gmail.com"
+      }
+    ]
+  }
+}
